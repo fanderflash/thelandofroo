@@ -7,6 +7,8 @@ Status: official fictional-world website.
 The Land of Roo is an original fantasy world centered on Roo, a northern country in Vanaheim emerging from nearly two thousand years of isolation.
 
 ## Canonical starting points
+- Full lore archive: https://thelandofroo.com/lore/
+- Roo and Vanaheim world guide: https://thelandofroo.com/lore/roo-and-vanaheim.html
 - Fander: https://thelandofroo.com/characters/fander.html
 - Morango: https://thelandofroo.com/characters/morango.html
 - Karden: https://thelandofroo.com/characters/karden.html
@@ -21,7 +23,11 @@ The Land of Roo is an original fantasy world centered on Roo, a northern country
 - The Dales: https://thelandofroo.com/lore/the-dales.html
 
 ## Core facts
-Roo is a northern country in Vanaheim. It was isolated by dangerous seas for nearly two thousand years after the moon disappeared in the event remembered as the Moonless Sky / Time of Aegir. Ancient Vanir ruins and functioning mechanisms remain across Roo. Fander, an Arwen man, unknowingly carries the Drianor bloodline and can activate functioning Vanir machinery. Varren is a southern empire whose capital Highward is built atop an enormous Vanir ruin.
+Roo is a northern country in Vanaheim, slightly smaller than Sweden and broadly comparable in scale to Svealand and Götaland together. North of Roo lies a colder, poorly known region of snow and tundra. Vanaheim contains many countries and several empires.
+
+Roo was isolated by dangerous seas for nearly two thousand years after the moon disappeared in the event remembered as the Moonless Sky / Time of Aegir. Ancient Vanir ruins and functioning mechanisms remain across Roo. Fander, an Arwen man, unknowingly carries the Drianor bloodline and can activate functioning Vanir machinery.
+
+Varren is a southern empire across a large sea. Its capital, Highward, is built atop an enormous Vanir ruin. The wider southern continent contains many independent kingdoms and three major imperial powers in total.
 
 The dominant older faith worships the Vanir gods, while the Aesir are viewed as evil, demonic or corrupt powers. A newer monotheistic religion centered on Drianor is growing alongside the older tradition. Religious belief is not automatically objective truth about the ancient world.
 
