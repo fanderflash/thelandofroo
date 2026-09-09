@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://thelandofroo.com/sitemap.xml
+
+# Public search/retrieval is allowed. AI-training rights are reserved; see /rights.html and /llms.txt.
