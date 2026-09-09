@@ -51,7 +51,7 @@ const discoveries=[
  {type:'Highward',title:'A human capital built on something inhuman.',copy:'The capital of Varren sits directly atop an enormous Vanir ruin. Deep beneath it is a machine Varren has never fully activated.',link:'/lore/varren-highward.html'},
  {type:'Magic',title:'A lie can become reality.',copy:'Lie magic allows something untrue or normally impossible to function as reality — but powerful lies are unstable, difficult to sustain and corrupting.',link:'/lore/magic.html'},
  {type:'Drianor',title:'Some machines answer to blood.',copy:'Drianor could activate and control Vanir machines. Fander carries his bloodline without knowing what that means.',link:'/lore/drianor.html'},
- {type:'The hidden world',title:'Most people are wrong about monsters.',copy:'Trolls, woodlings, rå and other hidden beings exist, yet encounters are so rare that ordinary people often dismiss them as superstition.',link:'/lore/vanir-ruins.html'}
+ {type:'The hidden world',title:'Most people are wrong about monsters.',copy:'Trolls, woodlings, rå and other hidden beings exist, yet encounters are so rare that ordinary people often dismiss them as superstition.',link:'/lore/hidden-beings.html'}
 ];
 document.querySelector('#random-discovery')?.addEventListener('click',()=>{
  const d=discoveries[Math.floor(Math.random()*discoveries.length)];
@@ -74,14 +74,22 @@ document.querySelectorAll('.quiz-step button').forEach(btn=>btn.addEventListener
 
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>navlinks?.classList.remove('open')));
 
-// Performance pass: preload tiny image assets immediately and remove delayed visual reveals.
-['/assets/hero-roo.webp','/assets/arwen-brothers.webp','/assets/highward.webp','/assets/vanir-machine.webp','/assets/tidal-gate.webp'].forEach(href=>{
+// Asset reliability + performance: only preload above-the-fold art; lazy-load the rest.
+['/assets/hero-roo.svg','/assets/arwen-brothers.svg'].forEach(href=>{
   if(!document.querySelector(`link[rel="preload"][href="${href}"]`)){
     const l=document.createElement('link');l.rel='preload';l.as='image';l.href=href;document.head.appendChild(l);
   }
 });
-document.querySelectorAll('img').forEach(img=>{img.loading='eager';img.decoding='async'});
+document.querySelectorAll('img').forEach(img=>{
+  img.decoding='async';
+  if(!img.closest('.portal')) img.loading='lazy';
+  img.addEventListener('error',()=>{
+    if(!img.dataset.fallbackApplied){img.dataset.fallbackApplied='true';img.src='/assets/hero-roo.svg';}
+  });
+});
+
+// Keep content visible even if IntersectionObserver or animation support is limited.
 document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'));
 const perfStyle=document.createElement('style');
-perfStyle.textContent='.reveal{opacity:1!important;transform:none!important}.portal,.book-section{background-attachment:scroll!important}.portrait-stage{background-image:linear-gradient(90deg,rgba(3,8,9,.76),rgba(3,8,9,.08) 65%),linear-gradient(0deg,rgba(3,8,9,.72),transparent 60%),url("/assets/arwen-brothers.webp")!important;background-size:cover!important;background-position:center!important}';
+perfStyle.textContent='.reveal{opacity:1!important;transform:none!important}.portal,.book-section{background-attachment:scroll!important}.portrait-stage{background-image:linear-gradient(90deg,rgba(3,8,9,.76),rgba(3,8,9,.08) 65%),linear-gradient(0deg,rgba(3,8,9,.72),transparent 60%),url("/assets/arwen-brothers.svg")!important;background-size:cover!important;background-position:center!important}';
 document.head.appendChild(perfStyle);
