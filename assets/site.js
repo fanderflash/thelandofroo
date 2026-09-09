@@ -73,3 +73,15 @@ document.querySelectorAll('.quiz-step button').forEach(btn=>btn.addEventListener
 }));
 
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>navlinks?.classList.remove('open')));
+
+// Performance pass: preload tiny image assets immediately and remove delayed visual reveals.
+['/assets/hero-roo.webp','/assets/arwen-brothers.webp','/assets/highward.webp','/assets/vanir-machine.webp','/assets/tidal-gate.webp'].forEach(href=>{
+  if(!document.querySelector(`link[rel="preload"][href="${href}"]`)){
+    const l=document.createElement('link');l.rel='preload';l.as='image';l.href=href;document.head.appendChild(l);
+  }
+});
+document.querySelectorAll('img').forEach(img=>{img.loading='eager';img.decoding='async'});
+document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'));
+const perfStyle=document.createElement('style');
+perfStyle.textContent='.reveal{opacity:1!important;transform:none!important}.portal,.book-section{background-attachment:scroll!important}.portrait-stage{background-image:linear-gradient(90deg,rgba(3,8,9,.76),rgba(3,8,9,.08) 65%),linear-gradient(0deg,rgba(3,8,9,.72),transparent 60%),url("/assets/arwen-brothers.webp")!important;background-size:cover!important;background-position:center!important}';
+document.head.appendChild(perfStyle);
