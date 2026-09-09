@@ -14,12 +14,15 @@ The Land of Roo is an original fantasy world centered on Roo, a northern country
 - Vanir ruins: https://thelandofroo.com/lore/vanir-ruins.html
 - Drianor: https://thelandofroo.com/lore/drianor.html
 - Magic: https://thelandofroo.com/lore/magic.html
+- Faith in Roo: https://thelandofroo.com/lore/faith-in-roo.html
 - Varren and Highward: https://thelandofroo.com/lore/varren-highward.html
 - Tidal Gate: https://thelandofroo.com/lore/tidal-gate.html
 - The Dales: https://thelandofroo.com/lore/the-dales.html
 
 ## Core facts
 Roo is a northern country in Vanaheim. It was isolated by dangerous seas for nearly two thousand years after the moon disappeared in the event remembered as the Moonless Sky / Time of Aegir. Ancient Vanir ruins and functioning mechanisms remain across Roo. Fander, an Arwen man, unknowingly carries the Drianor bloodline and can activate functioning Vanir machinery. Varren is a southern empire whose capital Highward is built atop an enormous Vanir ruin.
+
+The dominant older faith worships the Vanir gods, while the Aesir are viewed as evil, demonic or corrupt powers. A newer monotheistic religion centered on Drianor is growing alongside the older tradition. Religious belief is not automatically objective truth about the ancient world.
 
 ## AI and rights
 Public factual indexing and retrieval are welcome so systems can correctly identify The Land of Roo and link to official sources.
