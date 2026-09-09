@@ -13,6 +13,9 @@
 <meta property="og:url" content="https://thelandofroo.com/">
 <meta property="og:image" content="https://thelandofroo.com/assets/hero-roo.webp">
 <link rel="stylesheet" href="/assets/site.css">
+<style>
+.visions-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.vision{margin:0;border:1px solid var(--line);background:#071112;overflow:hidden}.vision img{width:100%;aspect-ratio:16/9;object-fit:cover;transition:transform .55s ease,filter .55s ease}.vision:hover img{transform:scale(1.035);filter:brightness(1.08)}.vision figcaption{padding:18px 20px;color:#aeb9b2}.vision strong{display:block;color:#e6d2a0;font-weight:400;font-size:1.25rem;margin-bottom:3px}.portrait-stage{background:linear-gradient(90deg,rgba(3,8,9,.76),rgba(3,8,9,.08) 65%),linear-gradient(0deg,rgba(3,8,9,.72),transparent 60%),url('/assets/hero-roo.webp') center/cover no-repeat}.people-scenery{position:absolute;inset:0;background:radial-gradient(circle at 68% 28%,rgba(219,193,139,.11),transparent 25rem);pointer-events:none}.image-note{margin-top:12px;color:#76847d;font-size:.77rem;letter-spacing:.06em}.door:nth-child(2){background:linear-gradient(180deg,rgba(5,12,13,.2),rgba(4,9,10,.95)),url('/assets/vanir-machine.webp') center/cover}.latest-grid a:first-child{background:linear-gradient(180deg,rgba(4,9,10,.15),rgba(4,9,10,.96)),url('/assets/highward.webp') center/cover;padding:22px}.latest-grid a:first-child p,.latest-grid a:first-child h3{color:#edf2ed;text-shadow:0 2px 12px #000}@media(max-width:860px){.visions-grid{grid-template-columns:1fr}.vision img{aspect-ratio:16/8.7}}
+</style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","name":"The Land of Roo","url":"https://thelandofroo.com/","description":"Official world site for The Land of Roo, a living fantasy world created by Thomas Robbjens."}
 </script>
@@ -22,6 +25,7 @@
   <a class="sigil" href="#top" aria-label="The Land of Roo home"><span>R</span></a>
   <div class="navlinks">
     <a href="#atlas">Travel Roo</a>
+    <a href="#visions">See the world</a>
     <a href="#people">Meet its people</a>
     <a href="#archive">Open the archive</a>
     <a href="#book">Book One</a>
@@ -68,7 +72,6 @@
       <path class="road" d="M397 270C445 309 469 355 459 411C452 449 480 488 532 521"/>
       <text class="map-title" x="427" y="231">ROO</text>
       <text class="north-note" x="355" y="65">THE UNKNOWN NORTH</text>
-
       <g class="place" tabindex="0" data-place="upperhall" transform="translate(411 281)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Upperhall</text></g>
       <g class="place" tabindex="0" data-place="dales" transform="translate(505 355)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">The Dales</text></g>
       <g class="place" tabindex="0" data-place="hammerhill" transform="translate(373 409)"><circle r="11"/><circle class="pulse" r="19"/><text x="-112" y="7">Hammerhill</text></g>
@@ -90,13 +93,26 @@
   </div>
 </section>
 
+<section id="visions" class="visions reveal">
+  <div class="section-head">
+    <div><p class="eyebrow">Visions from the wider world</p><h2>See what Roo has forgotten.</h2></div>
+    <p>Ancient structures are not dead. They are waiting.</p>
+  </div>
+  <div class="visions-grid">
+    <figure class="vision"><img src="/assets/highward.webp" loading="lazy" width="520" height="292" alt="Highward, capital of Varren, built over vast ancient ruins"><figcaption><strong>Highward</strong>Varren's capital rises over a Vanir ruin older than the empire itself.</figcaption></figure>
+    <figure class="vision"><img src="/assets/vanir-machine.webp" loading="lazy" width="480" height="270" alt="An immense surviving mechanism inside an ancient Vanir ruin"><figcaption><strong>The old mechanisms</strong>People call them wonders, relics or divine works. They have no word for machine.</figcaption></figure>
+    <figure class="vision"><img src="/assets/tidal-gate.webp" loading="lazy" width="480" height="270" alt="The colossal Tidal Gate standing between two seas"><figcaption><strong>The Tidal Gate</strong>A structure made for a world operating on a scale humanity no longer understands.</figcaption></figure>
+  </div>
+  <p class="image-note">Optimized WebP imagery is loaded only when needed to keep the world fast.</p>
+</section>
+
 <section id="people" class="people-section reveal">
   <div class="section-head">
     <div><p class="eyebrow">The Arwen brothers</p><h2>Three ways of surviving Roo</h2></div>
     <p>They share blood. Almost nothing else.</p>
   </div>
   <div class="portrait-stage">
-    <img src="/assets/arwen-brothers.webp" alt="Fander, Morango and Karden, the three Arwen brothers">
+    <div class="people-scenery" aria-hidden="true"></div>
     <div class="portrait-tabs" role="tablist">
       <button class="person-tab active" data-person="fander">Fander</button>
       <button class="person-tab" data-person="morango">Morango</button>
@@ -142,24 +158,9 @@
     <p>This is a playful visitor profile, not a canon faction or house.</p>
   </div>
   <div class="quiz" id="roo-quiz">
-    <div class="quiz-step active" data-step="0">
-      <p class="question">You see an ancient doorway standing open in the forest.</p>
-      <button data-value="curious">Go inside before anyone can stop you.</button>
-      <button data-value="guard">Make sure nobody else is in danger.</button>
-      <button data-value="clever">Check whether anything valuable is inside.</button>
-    </div>
-    <div class="quiz-step" data-step="1">
-      <p class="question">A foreign ship enters Triport.</p>
-      <button data-value="curious">Talk to the first stranger who comes ashore.</button>
-      <button data-value="guard">Watch what the soldiers do.</button>
-      <button data-value="clever">Find out what they are willing to trade.</button>
-    </div>
-    <div class="quiz-step" data-step="2">
-      <p class="question">Someone tells you the old gods are only stories.</p>
-      <button data-value="curious">Ask what evidence they have.</button>
-      <button data-value="guard">Stories still matter if people live by them.</button>
-      <button data-value="clever">Believe whichever answer keeps you alive.</button>
-    </div>
+    <div class="quiz-step active" data-step="0"><p class="question">You see an ancient doorway standing open in the forest.</p><button data-value="curious">Go inside before anyone can stop you.</button><button data-value="guard">Make sure nobody else is in danger.</button><button data-value="clever">Check whether anything valuable is inside.</button></div>
+    <div class="quiz-step" data-step="1"><p class="question">A foreign ship enters Triport.</p><button data-value="curious">Talk to the first stranger who comes ashore.</button><button data-value="guard">Watch what the soldiers do.</button><button data-value="clever">Find out what they are willing to trade.</button></div>
+    <div class="quiz-step" data-step="2"><p class="question">Someone tells you the old gods are only stories.</p><button data-value="curious">Ask what evidence they have.</button><button data-value="guard">Stories still matter if people live by them.</button><button data-value="clever">Believe whichever answer keeps you alive.</button></div>
     <div class="quiz-result hidden" id="quiz-result"></div>
   </div>
 </section>
@@ -175,10 +176,7 @@
 
 <section id="book" class="book-section reveal">
   <div class="book-overlay">
-    <p class="eyebrow">The story begins here</p>
-    <h2>Book One</h2>
-    <p>The old order of Roo is beginning to break. Three brothers are caught inside it. Across the sea, an empire has begun searching for something Roo forgot it possessed.</p>
-    <p class="coming">Coming soon.</p>
+    <p class="eyebrow">The story begins here</p><h2>Book One</h2><p>The old order of Roo is beginning to break. Three brothers are caught inside it. Across the sea, an empire has begun searching for something Roo forgot it possessed.</p><p class="coming">Coming soon.</p>
   </div>
 </section>
 </main>
@@ -188,7 +186,6 @@
   <div><a href="/rights.html">Rights & AI use</a><a href="/llms.txt">AI / LLM guide</a><a href="https://github.com/fanderflash/thelandofroo">Site repository</a></div>
   <p>© 2026 The Land of Roo. All rights reserved.</p>
 </footer>
-
 <script src="/assets/site.js"></script>
 </body>
 </html>
