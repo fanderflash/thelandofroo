@@ -11,7 +11,7 @@ document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 
 const places={
   upperhall:{k:'A seat of power',t:'Upperhall',c:'One of Roo’s established places, reached by roads that cross a kingdom beginning to fracture.'},
-  dales:{k:'Rebellion',t:'The Dales',c:'Jarl Resgar Vasa’s rebellion has destabilized royal authority and forced questions of freedom, slavery and loyalty into the open.',l:'/lore/the-dales.html'},
+  dales:{k:'Rebellion',t:'The Dales',c:'Jarl Resgar Vasa’s rebellion has destabilized royal authority and turned the Dales into one of the central pressure points in present-day Roo.',l:'/lore/the-dales.html'},
   hammerhill:{k:'Old stone, new danger',t:'Hammerhill',c:'A place where human settlement and the remains of the ancient world stand uncomfortably close together.'},
   husby:{k:'On the road south',t:'Husby',c:'An established settlement in Roo, linked to the roads and conflicts moving through the kingdom.'},
   blueridge:{k:'The mountains remember',t:'Blue Ridge Mountain',c:'A mountain region associated with hidden paths, dangerous encounters and things ordinary people dismiss as superstition.'},
