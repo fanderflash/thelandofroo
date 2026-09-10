@@ -16,7 +16,7 @@ const places={
   husby:{k:'On the road south',t:'Husby',c:'An established settlement in Roo, linked to the roads and conflicts moving through the kingdom.'},
   blueridge:{k:'The mountains remember',t:'Blue Ridge Mountain',c:'A mountain region associated with hidden paths, dangerous encounters and things ordinary people dismiss as superstition.'},
   devil:{k:'The northern heights',t:"Devil's Mountain",c:'A mountain landmark in Roo, part of a colder and more difficult landscape where knowledge thins with every mile north.'},
-  triport:{k:'The sea opens again',t:'Triport',c:'A coastal city where Varren’s enormous ships arrive after centuries in which Roo had almost no meaningful contact with the wider world.',l:'/lore/varren-highward.html'},
+  triport:{k:'The sea opens again',t:'Triport',c:'A coastal city where Varren’s enormous ships arrive after centuries in which Roo had almost no meaningful contact with the wider world.',l:'/lore/triport.html'},
   goths:{k:'Off the coast',t:'Goths Island',c:'An established island in the waters around Roo, part of a coastline shaped by fjords, dangerous seas and long isolation.'},
   tidal:{k:'Ancient technology',t:'The Tidal Gate',c:'A colossal sea gate built into a wall-like structure between two seas. Humanity can still see what it does. Nobody understands how it was made.',l:'/lore/tidal-gate.html'}
 };
