@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900"><defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#07191c"/><stop offset="1" stop-color="#131410"/></linearGradient><linearGradient id="river" x2="0" y2="1"><stop stop-color="#215966"/><stop offset="1" stop-color="#0b2f39"/></linearGradient></defs><rect width="1600" height="900" fill="url(#sky)"/><g fill="#152823"><path d="M0 560 210 280 350 510 520 210 690 520 880 290 1060 520 1260 250 1600 570V900H0Z"/><path fill="#223127" d="M0 680 260 470 430 620 700 390 920 650 1180 430 1430 630 1600 560V900H0Z"/></g><path d="M620 900H805L900 650 828 555 756 610Z" fill="url(#river)" opacity=".9"/><g fill="#d9cfaa" opacity=".65"><circle cx="130" cy="120" r="2"/><circle cx="280" cy="165" r="1.8"/><circle cx="420" cy="92" r="1.5"/><circle cx="575" cy="148" r="2"/><circle cx="760" cy="105" r="1.5"/><circle cx="910" cy="150" r="2"/><circle cx="1080" cy="85" r="1.7"/><circle cx="1240" cy="135" r="2"/><circle cx="1435" cy="96" r="1.5"/></g><g fill="#91a79e" opacity=".08"><ellipse cx="360" cy="470" rx="300" ry="60"/><ellipse cx="1040" cy="520" rx="390" ry="75"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">A cinematic vision of Roo</title><desc id="d">A northern fantasy landscape of mountains, forests, a river, a distant hill settlement and colossal ancient ruins emerging through mist.</desc>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#142a35"/><stop offset=".48" stop-color="#314b51"/><stop offset="1" stop-color="#101716"/></linearGradient>
+<radialGradient id="sun"><stop stop-color="#f4dca4" stop-opacity=".9"/><stop offset="1" stop-color="#d7b77b" stop-opacity="0"/></radialGradient>
+<linearGradient id="far" x2="0" y2="1"><stop stop-color="#728287"/><stop offset="1" stop-color="#2c3b3d"/></linearGradient>
+<linearGradient id="near" x2="0" y2="1"><stop stop-color="#263b35"/><stop offset="1" stop-color="#091211"/></linearGradient>
+<linearGradient id="water" x2="0" y2="1"><stop stop-color="#739098"/><stop offset=".35" stop-color="#254956"/><stop offset="1" stop-color="#0a2933"/></linearGradient>
+<linearGradient id="ruin" x2="0" y2="1"><stop stop-color="#78817a"/><stop offset="1" stop-color="#26312e"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter><filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/><circle cx="1240" cy="180" r="270" fill="url(#sun)"/>
+<!-- distant mountains -->
+<path d="M0 438 130 294 205 350 330 172 430 344 570 224 690 365 820 178 930 335 1060 205 1170 346 1320 188 1470 334 1600 245V610H0Z" fill="url(#far)" opacity=".86"/>
+<path d="M258 279 330 172l54 112-37-23-18 31-23-25-26 28Zm486-17 76-84 61 118-43-28-27 34-24-38Zm509 12 67-86 63 126-41-33-29 32-25-33Z" fill="#d4ddd8" opacity=".7"/>
+<!-- valley ridges -->
+<path d="M0 535 210 380 352 475 520 342 690 495 850 355 1010 485 1190 335 1390 468 1600 370V900H0Z" fill="#263d38"/>
+<path d="M0 628 205 475 355 565 548 428 748 590 922 448 1110 584 1320 430 1600 560V900H0Z" fill="url(#near)"/>
+<!-- colossal ancient ruin silhouettes -->
+<g fill="url(#ruin)" stroke="#9ba79d" stroke-opacity=".18" stroke-width="3">
+<path d="M1118 172h75v278h-75zM1087 156h137v34h-137zM1140 111h31v45h-31z"/>
+<path d="M1310 236h66v263h-66zM1284 218h119v31h-119z"/>
+<path d="M1016 360h49v175h-49z"/>
+</g>
+<g fill="#0d1716" opacity=".72"><rect x="1138" y="220" width="18" height="46"/><rect x="1138" y="301" width="18" height="46"/><rect x="1333" y="281" width="19" height="54"/><rect x="1333" y="373" width="19" height="54"/></g>
+<!-- river -->
+<path d="M555 900C660 794 721 731 736 664c15-68-6-113 56-170 52-48 103-66 143-92-48 62-93 105-95 162-3 74 75 126 30 218-20 41-44 78-63 118Z" fill="url(#water)"/>
+<path d="M685 794c76-61 120-97 140-154M710 843c80-54 143-86 174-145" fill="none" stroke="#d4e3df" stroke-opacity=".22" stroke-width="6"/>
+<!-- distant hill settlement -->
+<g fill="#151a17"><path d="M442 455h150v86H442z"/><path d="m430 455 87-72 88 72z"/><rect x="486" y="330" width="43" height="124"/><path d="m479 330 29-52 28 52z"/><rect x="557" y="401" width="25" height="55"/><path d="m550 401 20-31 19 31z"/></g>
+<g fill="#d7b77b" opacity=".65"><rect x="470" y="477" width="8" height="13"/><rect x="500" y="477" width="8" height="13"/><rect x="540" y="477" width="8" height="13"/><rect x="498" y="359" width="8" height="14"/></g>
+<!-- forests -->
+<g fill="#07100e">
+<path d="M0 900V675l34-77 20 54 37-105 36 103 40-127 44 132 40-97 37 104 42-127 46 132 39-91 37 87 43-111 44 122 37-78 40 83V900Z"/>
+<path d="M884 900V658l35-98 34 83 34-119 40 130 33-90 37 95 31-89 37 102 39-102 43 116 38-105 42 117 39-88 38 93 45-124 39 123 39-79 43 108V900Z"/>
+</g>
+<!-- mist -->
+<ellipse cx="760" cy="560" rx="650" ry="74" fill="#d9e4df" opacity=".11" filter="url(#blur)"/><ellipse cx="1090" cy="470" rx="420" ry="48" fill="#d9e4df" opacity=".09" filter="url(#soft)"/>
+<!-- foreground traveller and grasses -->
+<g fill="#030706"><path d="M273 661c14-31 49-32 63-1l14 110 36 113h-45l-30-86-15 86h-43l15-114z"/><circle cx="305" cy="627" r="24"/><path d="m281 648-47 125 20 8 50-98 51 78 17-14-50-99z"/></g>
+<g stroke="#18281f" stroke-width="7" opacity=".9"><path d="M0 850q45-58 81 0t86 0 91 0 88 0 86 0 85 0M1230 850q43-67 86 0t89 0 96 0 99 0" fill="none"/></g>
+</svg>
