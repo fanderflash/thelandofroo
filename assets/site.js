@@ -51,7 +51,8 @@ const discoveries=[
  {type:'Highward',title:'A human capital built on something inhuman.',copy:'The capital of Varren sits directly atop an enormous Vanir ruin. Deep beneath it is a machine Varren has never fully activated.',link:'/lore/varren-highward.html'},
  {type:'Magic',title:'A lie can become reality.',copy:'Lie magic allows something untrue or normally impossible to function as reality — but powerful lies are unstable, difficult to sustain and corrupting.',link:'/lore/magic.html'},
  {type:'Drianor',title:'Some machines answer to blood.',copy:'Drianor could activate and control Vanir machines. Fander carries his bloodline without knowing what that means.',link:'/lore/drianor.html'},
- {type:'The hidden world',title:'Most people are wrong about monsters.',copy:'Trolls, woodlings, rå and other hidden beings exist, yet encounters are so rare that ordinary people often dismiss them as superstition.',link:'/lore/hidden-beings.html'}
+ {type:'The hidden world',title:'Most people are wrong about monsters.',copy:'Trolls, woodlings, rå and other hidden beings exist, yet encounters are so rare that ordinary people often dismiss them as superstition.',link:'/lore/hidden-beings.html'},
+ {type:'The rebellion',title:'A jarl has challenged the crown.',copy:'Jarl Resgar Vasa of the Dales leads a rebellion that has destabilized King Erik’s authority. His complete motives and eventual fate remain unresolved.',link:'/characters/resgar-vasa.html'}
 ];
 document.querySelector('#random-discovery')?.addEventListener('click',()=>{
  const d=discoveries[Math.floor(Math.random()*discoveries.length)];
@@ -73,6 +74,17 @@ document.querySelectorAll('.quiz-step button').forEach(btn=>btn.addEventListener
 }));
 
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>navlinks?.classList.remove('open')));
+
+// Make the full Archive a first-class destination from the homepage.
+const archiveNav=[...document.querySelectorAll('.navlinks a')].find(a=>a.textContent.trim().toLowerCase()==='open the archive');
+if(archiveNav) archiveNav.href='/lore/';
+const archiveInner=document.querySelector('#archive .archive-inner');
+if(archiveInner&&!archiveInner.querySelector('.full-archive-link')){
+  const fullArchive=document.createElement('p');
+  fullArchive.className='full-archive-link';
+  fullArchive.innerHTML='<a class="text-link" href="/lore/">Browse the complete Archive →</a>';
+  archiveInner.appendChild(fullArchive);
+}
 
 // Asset reliability + performance: only preload above-the-fold art; lazy-load the rest.
 ['/assets/hero-roo.svg','/assets/arwen-brothers.svg'].forEach(href=>{
