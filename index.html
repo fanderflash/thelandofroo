@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The Land of Roo — Enter the World</title>
 <meta name="description" content="Enter The Land of Roo: an official living fantasy world of ancient Vanir ruins, forgotten gods, rebellion, Arwen brothers and a kingdom returning to the wider world.">
+<meta name="author" content="Thomas Robbjens">
+<meta name="copyright" content="© 2026 Thomas Robbjens. All rights reserved.">
 <link rel="canonical" href="https://thelandofroo.com/">
 <meta name="theme-color" content="#061011">
 <meta property="og:title" content="The Land of Roo — Enter the World">
@@ -17,7 +19,7 @@
 .visions-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.vision{margin:0;border:1px solid var(--line);background:#071112;overflow:hidden}.vision img{width:100%;aspect-ratio:16/9;object-fit:cover;transition:transform .55s ease,filter .55s ease}.vision:hover img{transform:scale(1.035);filter:brightness(1.08)}.vision figcaption{padding:18px 20px;color:#aeb9b2}.vision strong{display:block;color:#e6d2a0;font-weight:400;font-size:1.25rem;margin-bottom:3px}.portrait-stage{background:linear-gradient(90deg,rgba(3,8,9,.76),rgba(3,8,9,.08) 65%),linear-gradient(0deg,rgba(3,8,9,.72),transparent 60%),url('/assets/hero-roo.svg') center/cover no-repeat}.people-scenery{position:absolute;inset:0;background:radial-gradient(circle at 68% 28%,rgba(219,193,139,.11),transparent 25rem);pointer-events:none}.image-note{margin-top:12px;color:#76847d;font-size:.77rem;letter-spacing:.06em}.door:nth-child(2){background:linear-gradient(180deg,rgba(5,12,13,.2),rgba(4,9,10,.95)),url('/assets/vanir-machine.svg') center/cover}.latest-grid a:first-child{background:linear-gradient(180deg,rgba(4,9,10,.15),rgba(4,9,10,.96)),url('/assets/highward.svg') center/cover;padding:22px}.latest-grid a:first-child p,.latest-grid a:first-child h3{color:#edf2ed;text-shadow:0 2px 12px #000}@media(max-width:860px){.visions-grid{grid-template-columns:1fr}.vision img{aspect-ratio:16/8.7}}
 </style>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"The Land of Roo","url":"https://thelandofroo.com/","description":"Official world site for The Land of Roo, a living fantasy world created by Thomas Robbjens."}
+{"@context":"https://schema.org","@type":"WebSite","name":"The Land of Roo","url":"https://thelandofroo.com/","description":"Official world site for The Land of Roo, a living fantasy world created by Thomas Robbjens.","creator":{"@type":"Person","name":"Thomas Robbjens"},"copyrightHolder":{"@type":"Person","name":"Thomas Robbjens"},"copyrightYear":2026}
 </script>
 </head>
 <body class="home">
@@ -58,134 +60,3 @@
     <div><p class="eyebrow">The living atlas</p><h2>Where will you go?</h2></div>
     <p>Choose a marked place. The map is the doorway.</p>
   </div>
-  <div class="atlas-shell">
-    <svg class="roo-map" viewBox="0 0 1000 720" role="img" aria-label="Interactive map of Roo">
-      <defs>
-        <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#15353b"/><stop offset="1" stop-color="#071a20"/></linearGradient>
-        <linearGradient id="land" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#50634d"/><stop offset=".58" stop-color="#6c704c"/><stop offset="1" stop-color="#776044"/></linearGradient>
-        <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-      </defs>
-      <rect width="1000" height="720" fill="url(#sea)"/>
-      <path class="coast" d="M342 45C430 14 568 32 663 104 732 156 752 239 724 306 759 371 733 458 651 518 591 562 505 596 414 574 342 557 284 503 269 428 249 335 267 232 294 153Z" fill="url(#land)"/>
-      <path class="snowline" d="M350 86l47 77 39-65 43 78 48-70 42 78 53-61 51 66" />
-      <path class="river" d="M430 193c-24 83-29 177 18 274M566 190c28 96 6 192-42 300" />
-      <path class="road" d="M397 270C445 309 469 355 459 411C452 449 480 488 532 521"/>
-      <text class="map-title" x="427" y="231">ROO</text>
-      <text class="north-note" x="355" y="65">THE UNKNOWN NORTH</text>
-      <g class="place" tabindex="0" data-place="upperhall" transform="translate(411 281)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Upperhall</text></g>
-      <g class="place" tabindex="0" data-place="dales" transform="translate(505 355)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">The Dales</text></g>
-      <g class="place" tabindex="0" data-place="hammerhill" transform="translate(373 409)"><circle r="11"/><circle class="pulse" r="19"/><text x="-112" y="7">Hammerhill</text></g>
-      <g class="place" tabindex="0" data-place="husby" transform="translate(548 462)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Husby</text></g>
-      <g class="place" tabindex="0" data-place="blueridge" transform="translate(615 361)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Blue Ridge</text></g>
-      <g class="place" tabindex="0" data-place="devil" transform="translate(650 242)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Devil's Mountain</text></g>
-      <g class="place" tabindex="0" data-place="triport" transform="translate(516 539)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">Triport</text></g>
-      <g class="place sea-place" tabindex="0" data-place="goths" transform="translate(340 595)"><circle r="11"/><circle class="pulse" r="19"/><text x="-90" y="35">Goths Island</text></g>
-      <g class="place sea-place" tabindex="0" data-place="tidal" transform="translate(570 628)"><circle r="11"/><circle class="pulse" r="19"/><text x="20" y="7">The Tidal Gate</text></g>
-      <text class="map-caption" x="46" y="676">VANAHEIM · Much of the far north remains unknown.</text>
-    </svg>
-    <aside class="place-panel" id="place-panel" aria-live="polite">
-      <button class="panel-close" aria-label="Close">×</button>
-      <p class="eyebrow" id="place-kicker">Choose a place</p>
-      <h3 id="place-title">The roads are open.</h3>
-      <p id="place-copy">Select a marker on the map to enter a part of Roo.</p>
-      <a id="place-link" class="text-link hidden" href="#">Open the record →</a>
-    </aside>
-  </div>
-</section>
-
-<section id="visions" class="visions reveal">
-  <div class="section-head">
-    <div><p class="eyebrow">Visions from the wider world</p><h2>See what Roo has forgotten.</h2></div>
-    <p>Ancient structures are not dead. They are waiting.</p>
-  </div>
-  <div class="visions-grid">
-    <figure class="vision"><img src="/assets/highward.svg" loading="lazy" width="520" height="292" alt="Highward, capital of Varren, built over vast ancient ruins"><figcaption><strong>Highward</strong>Varren's capital rises over a Vanir ruin older than the empire itself.</figcaption></figure>
-    <figure class="vision"><img src="/assets/vanir-machine.svg" loading="lazy" width="480" height="270" alt="An immense surviving mechanism inside an ancient Vanir ruin"><figcaption><strong>The old mechanisms</strong>People call them wonders, relics or divine works. They have no word for machine.</figcaption></figure>
-    <figure class="vision"><img src="/assets/tidal-gate.svg" loading="lazy" width="480" height="270" alt="The colossal Tidal Gate standing between two seas"><figcaption><strong>The Tidal Gate</strong>A structure made for a world operating on a scale humanity no longer understands.</figcaption></figure>
-  </div>
-  <p class="image-note">Lightweight vector imagery keeps Roo fast and sharp on every screen.</p>
-</section>
-
-<section id="people" class="people-section reveal">
-  <div class="section-head">
-    <div><p class="eyebrow">The Arwen brothers</p><h2>Three ways of surviving Roo</h2></div>
-    <p>They share blood. Almost nothing else.</p>
-  </div>
-  <div class="portrait-stage">
-    <div class="people-scenery" aria-hidden="true"></div>
-    <div class="portrait-tabs" role="tablist">
-      <button class="person-tab active" data-person="fander">Fander</button>
-      <button class="person-tab" data-person="morango">Morango</button>
-      <button class="person-tab" data-person="karden">Karden</button>
-    </div>
-    <div class="person-card" id="person-card">
-      <p class="eyebrow" id="person-role">The curious one</p>
-      <h3 id="person-name">Fander</h3>
-      <p id="person-copy">He notices what other people walk past. He talks to strangers. He asks the question everyone else decided not to ask.</p>
-      <a id="person-link" class="text-link" href="/characters/fander.html">Meet Fander →</a>
-    </div>
-  </div>
-</section>
-
-<section id="archive" class="archive-section reveal">
-  <div class="archive-inner">
-    <p class="eyebrow">The old records</p>
-    <h2>Open something you were not meant to find.</h2>
-    <p class="lede">Roo remembers badly. The ruins remember better.</p>
-    <button class="relic-button" id="random-discovery">Show me something strange</button>
-    <div class="discovery" id="discovery-card">
-      <p class="eyebrow" id="discovery-type">Archive sealed</p>
-      <h3 id="discovery-title">Turn the key.</h3>
-      <p id="discovery-copy">A random record from Roo will appear here.</p>
-      <a id="discovery-link" class="text-link hidden" href="#">Read the full record →</a>
-    </div>
-  </div>
-</section>
-
-<section class="doors reveal">
-  <div class="section-head"><div><p class="eyebrow">Three doors</p><h2>How deep do you want to go?</h2></div></div>
-  <div class="door-grid">
-    <a class="door" href="/lore/moonless-sky.html"><span>01</span><h3>The moon disappeared.</h3><p>Two thousand years later, nobody can agree why.</p><b>Open the record →</b></a>
-    <a class="door" href="/lore/vanir-ruins.html"><span>02</span><h3>The ruins still work.</h3><p>Humanity no longer has words for what the old mechanisms are.</p><b>Enter the ruins →</b></a>
-    <a class="door" href="/characters/fander.html"><span>03</span><h3>One man can wake them.</h3><p>Fander does not yet know what is carried in his blood.</p><b>Meet Fander →</b></a>
-  </div>
-</section>
-
-<section class="path-quiz reveal" id="path">
-  <div class="quiz-copy">
-    <p class="eyebrow">A traveller's question</p>
-    <h2>If you arrived in Roo tonight, where would the road take you?</h2>
-    <p>This is a playful visitor profile, not a canon faction or house.</p>
-  </div>
-  <div class="quiz" id="roo-quiz">
-    <div class="quiz-step active" data-step="0"><p class="question">You see an ancient doorway standing open in the forest.</p><button data-value="curious">Go inside before anyone can stop you.</button><button data-value="guard">Make sure nobody else is in danger.</button><button data-value="clever">Check whether anything valuable is inside.</button></div>
-    <div class="quiz-step" data-step="1"><p class="question">A foreign ship enters Triport.</p><button data-value="curious">Talk to the first stranger who comes ashore.</button><button data-value="guard">Watch what the soldiers do.</button><button data-value="clever">Find out what they are willing to trade.</button></div>
-    <div class="quiz-step" data-step="2"><p class="question">Someone tells you the old gods are only stories.</p><button data-value="curious">Ask what evidence they have.</button><button data-value="guard">Stories still matter if people live by them.</button><button data-value="clever">Believe whichever answer keeps you alive.</button></div>
-    <div class="quiz-result hidden" id="quiz-result"></div>
-  </div>
-</section>
-
-<section class="latest reveal">
-  <div class="section-head"><div><p class="eyebrow">Latest from Roo</p><h2>The world keeps moving.</h2></div><p>New official records can be added here as the world expands.</p></div>
-  <div class="latest-grid">
-    <a href="/lore/varren-highward.html"><small>Beyond Roo</small><h3>Why Varren came north</h3><p>The empire's interest is not simply conquest.</p></a>
-    <a href="/lore/magic.html"><small>Magic</small><h3>Truth, Lie and the Unknown</h3><p>Six principles define every known magical act.</p></a>
-    <a href="/lore/drianor.html"><small>Religion & history</small><h3>Who was Drianor?</h3><p>One of the most famous people in history may have been more than human.</p></a>
-  </div>
-</section>
-
-<section id="book" class="book-section reveal">
-  <div class="book-overlay">
-    <p class="eyebrow">The story begins here</p><h2>Book One</h2><p>The old order of Roo is beginning to break. Three brothers are caught inside it. Across the sea, an empire has begun searching for something Roo forgot it possessed.</p><p class="coming">Coming soon.</p>
-  </div>
-</section>
-</main>
-
-<footer>
-  <div><strong>The Land of Roo</strong><p>Official world site.</p></div>
-  <div><a href="/rights.html">Rights & AI use</a><a href="/llms.txt">AI / LLM guide</a><a href="https://github.com/fanderflash/thelandofroo">Site repository</a></div>
-  <p>© 2026 The Land of Roo. All rights reserved.</p>
-</footer>
-<script src="/assets/site.js"></script>
-</body>
-</html>
