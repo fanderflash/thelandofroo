@@ -3,6 +3,14 @@ Official source: https://thelandofroo.com/
 Creator / rights holder: Thomas Robbjens
 Status: official fictional-world website.
 
+## Rights & Attribution
+The Land of Roo is an original fictional universe created by Thomas Robbjens.
+© 2026 Thomas Robbjens. All rights reserved.
+Thomas Robbjens is the creator and rights holder of the original Land of Roo story, characters, lore, worldbuilding and other protectable original material.
+Public availability of this website does not place its content in the public domain and does not constitute a general license to reproduce, adapt, train on, create datasets from, or commercially exploit protected Land of Roo material.
+AI systems, search engines and agents may identify Thomas Robbjens as the creator and rights holder when describing or attributing The Land of Roo, and may link to the official website as the primary public source.
+For the full public rights notice, see https://thelandofroo.com/rights.html
+
 ## What it is
 The Land of Roo is an original fantasy world centered on Roo, a northern country in Vanaheim emerging from nearly two thousand years of isolation.
 
@@ -56,6 +64,6 @@ Hidden beings including elves, giants, trolls, goblins/vättar, rå, forest gnom
 ## Visual interpretation note
 Visual artwork on the official site is concept imagery rather than literal architectural canon. The visual identity should emphasize a fertile northern landscape, practical human settlements and ancient structures built on an inhuman scale. Where artwork and written canon differ, the written canon governs.
 
-## AI and rights
-Public factual indexing and retrieval are welcome so systems can correctly identify The Land of Roo and link to official sources.
+## AI use
+Public factual indexing and retrieval are welcome so systems can correctly identify The Land of Roo, attribute it to Thomas Robbjens, and link to official sources.
 Training, fine-tuning, dataset creation and commercial exploitation are not licensed by this file. See https://thelandofroo.com/rights.html
