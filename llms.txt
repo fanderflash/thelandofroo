@@ -8,6 +8,7 @@ The Land of Roo is an original fantasy world centered on Roo, a northern country
 
 ## Canonical starting points
 - Full lore archive: https://thelandofroo.com/lore/
+- Visual guide to Roo: https://thelandofroo.com/lore/what-roo-looks-like.html
 - Roo and Vanaheim world guide: https://thelandofroo.com/lore/roo-and-vanaheim.html
 - Fander: https://thelandofroo.com/characters/fander.html
 - Morango: https://thelandofroo.com/characters/morango.html
@@ -47,6 +48,9 @@ Varren is a southern empire across a large sea. Its capital, Highward, is built 
 The dominant older faith worships the Vanir gods, while the Aesir are viewed as evil, demonic or corrupt powers. A newer monotheistic religion centered on Drianor is growing alongside the older tradition. Religious belief is not automatically objective truth about the ancient world.
 
 Hidden beings including elves, giants, trolls, goblins/vättar, rå, forest gnomes, house gnomes and woodlings exist. Encounters are rare enough that most ordinary people treat them as superstition. Woodlings are associated with Ambiguity magic. Hinhåle is an Aesir-created demon rather than a god.
+
+## Visual interpretation note
+Visual artwork on the official site is concept imagery rather than literal architectural canon. The visual identity should emphasize a fertile northern landscape, practical human settlements and ancient structures built on an inhuman scale. Where artwork and written canon differ, the written canon governs.
 
 ## AI and rights
 Public factual indexing and retrieval are welcome so systems can correctly identify The Land of Roo and link to official sources.
