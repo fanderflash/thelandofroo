@@ -1,37 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
-<title id="t">Hammerhill in The Land of Roo</title><desc id="d">A dark northern fantasy landscape with a timber smithing settlement built around monumental ancient Vanir stonework.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">Hammerhill in The Land of Roo</title>
+<desc id="desc">A broad green hill covered by a timber smithing settlement, surrounded by lush deciduous forest, with monumental ancient Vanir stonework rising from the hilltop.</desc>
 <defs>
-  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#18252b"/><stop offset=".55" stop-color="#35474a"/><stop offset="1" stop-color="#768074"/></linearGradient>
-  <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#334638"/><stop offset="1" stop-color="#101812"/></linearGradient>
-  <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#66716d"/><stop offset="1" stop-color="#222b2b"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#f4c56c" stop-opacity=".95"/><stop offset="1" stop-color="#b36d24" stop-opacity="0"/></radialGradient>
-  <filter id="fog"><feGaussianBlur stdDeviation="16"/></filter>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#152229"/><stop offset=".52" stop-color="#53615d"/><stop offset="1" stop-color="#9a947c"/></linearGradient>
+  <linearGradient id="far" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#536554"/><stop offset="1" stop-color="#213126"/></linearGradient>
+  <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#526947"/><stop offset=".42" stop-color="#344a35"/><stop offset="1" stop-color="#142219"/></linearGradient>
+  <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#737b74"/><stop offset=".55" stop-color="#4b5550"/><stop offset="1" stop-color="#252e2d"/></linearGradient>
+  <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2c241a"/><stop offset="1" stop-color="#100f0c"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#f4d79a" stop-opacity=".75"/><stop offset="1" stop-color="#d99b4b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="fire"><stop stop-color="#ffcf69" stop-opacity=".9"/><stop offset="1" stop-color="#d47727" stop-opacity="0"/></radialGradient>
+  <filter id="mist"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
 <rect width="1600" height="900" fill="url(#sky)"/>
-<circle cx="1245" cy="180" r="210" fill="#d3c4a1" opacity=".14"/>
-<path d="M0 390 180 220 320 350 470 165 610 360 770 240 930 385 1110 205 1260 365 1430 250 1600 405V0H0Z" fill="#111b20" opacity=".93"/>
-<path d="M0 470 210 330 380 450 590 300 760 460 980 335 1190 455 1390 320 1600 430V520H0Z" fill="#263238" opacity=".9"/>
-<path d="M0 620C190 525 410 500 615 555c170 45 325 27 495-18 188-50 328-21 490 42V900H0Z" fill="url(#hill)"/>
-<g opacity=".27" filter="url(#fog)" fill="#dfe5dd"><ellipse cx="390" cy="525" rx="315" ry="38"/><ellipse cx="1050" cy="495" rx="420" ry="42"/></g>
-<!-- ancient Vanir gate -->
-<g transform="translate(875 255)">
-  <path d="M0 310V35h90v275H0Zm280 0V0h95v310h-95Z" fill="url(#stone)"/>
-  <path d="M70 30h240l35 54H35Z" fill="#56625f"/>
-  <path d="M92 310V132c0-74 55-116 104-116s101 42 101 116v178h-64V142c0-37-17-61-38-61s-39 24-39 61v168Z" fill="#172020"/>
-  <path d="M14 72h345" stroke="#9aa59e" stroke-opacity=".25" stroke-width="8"/>
+<circle cx="1250" cy="185" r="240" fill="url(#sun)"/>
+<!-- distant low country, deliberately no high mountains -->
+<path d="M0 430C180 380 315 400 470 425c170 28 300-20 450-8 190 15 300 62 470 31 90-16 150-28 210-18v235H0Z" fill="url(#far)"/>
+<path d="M0 505C170 460 310 470 470 496c145 24 270 14 405-8 170-27 320-8 470 24 95 20 175 22 255 4v160H0Z" fill="#26392d" opacity=".88"/>
+<g fill="#13231a" opacity=".95">
+  <circle cx="80" cy="465" r="54"/><circle cx="145" cy="452" r="70"/><circle cx="220" cy="468" r="58"/><circle cx="300" cy="445" r="72"/><circle cx="385" cy="462" r="65"/><circle cx="1240" cy="456" r="68"/><circle cx="1320" cy="438" r="78"/><circle cx="1415" cy="462" r="66"/><circle cx="1500" cy="447" r="82"/>
 </g>
-<!-- settlement -->
-<g fill="#171512" stroke="#57462f" stroke-width="3">
-  <path d="M255 620h160v125H255z"/><path d="m235 620 100-80 103 80Z"/>
-  <path d="M460 595h130v112H460z"/><path d="m440 595 85-67 86 67Z"/>
-  <path d="M625 640h120v102H625z"/><path d="m607 640 79-60 78 60Z"/>
-  <path d="M790 605h145v126H790z"/><path d="m770 605 95-74 93 74Z"/>
+<!-- Hammerhill: wide rather than tall -->
+<path d="M0 820C175 760 305 704 430 640c145-75 260-130 390-135 135-5 250 42 380 110 130 68 252 131 400 169V900H0Z" fill="url(#hill)"/>
+<g opacity=".24" filter="url(#mist)" fill="#e4e1d4"><ellipse cx="315" cy="562" rx="290" ry="30"/><ellipse cx="1280" cy="565" rx="270" ry="34"/></g>
+<!-- ancient Vanir structure rooted in the hilltop -->
+<g transform="translate(650 235)">
+  <path d="M0 335V72h82v263H0Zm318 0V28h88v307h-88Z" fill="url(#stone)"/>
+  <path d="M42 84h314l44 58H3Z" fill="#65706a"/>
+  <path d="M91 335V190c0-77 51-124 111-124 61 0 112 47 112 124v145h-72V197c0-42-17-68-40-68s-39 26-39 68v138Z" fill="#202a27"/>
+  <path d="M20 128h360" stroke="#aeb6ac" stroke-opacity=".23" stroke-width="9"/>
+  <path d="M396 335h126V114h-54v-67h-72Z" fill="url(#stone)" opacity=".9"/>
 </g>
-<g fill="#e6a74b"><rect x="292" y="665" width="19" height="27"/><rect x="337" y="654" width="18" height="26"/><rect x="496" y="630" width="17" height="25"/><rect x="665" y="673" width="16" height="24"/><rect x="832" y="648" width="18" height="28"/></g>
-<g opacity=".72"><circle cx="305" cy="636" r="95" fill="url(#glow)"/><circle cx="855" cy="619" r="115" fill="url(#glow)"/></g>
-<!-- forge smoke -->
-<g fill="#b7c1bc" opacity=".28"><ellipse cx="540" cy="520" rx="29" ry="70"/><ellipse cx="552" cy="455" rx="42" ry="83"/><ellipse cx="575" cy="380" rx="52" ry="72"/></g>
-<!-- foreground pines -->
-<g fill="#07100c"><path d="m50 900 90-310 88 310Z"/><path d="m120 900 105-370 110 370Z"/><path d="m1360 900 92-325 95 325Z"/><path d="m1460 900 104-390 110 390Z"/></g>
+<!-- large one-storey hall grown out from the ruin -->
+<g stroke="#6c5232" stroke-width="4">
+  <path d="M725 560h290v137H725Z" fill="url(#wood)"/>
+  <path d="m690 560 180-112 183 112Z" fill="#181713"/>
+  <path d="M848 598h44v99h-44Z" fill="#0c0d0b"/>
+  <rect x="758" y="600" width="28" height="37" fill="#d49a47"/><rect x="952" y="600" width="28" height="37" fill="#d49a47"/>
+</g>
+<!-- village houses and workshops spread across the broad hill -->
+<g fill="url(#wood)" stroke="#59442d" stroke-width="3">
+  <path d="M270 680h116v92H270z"/><path d="m252 680 76-58 77 58Z"/>
+  <path d="M410 620h130v104H410z"/><path d="m389 620 87-66 86 66Z"/>
+  <path d="M520 702h105v82H520z"/><path d="m505 702 67-51 69 51Z"/>
+  <path d="M1030 662h126v98h-126z"/><path d="m1010 662 83-64 84 64Z"/>
+  <path d="M1178 714h104v82h-104z"/><path d="m1162 714 68-53 69 53Z"/>
+  <path d="M1300 664h118v92h-118z"/><path d="m1281 664 78-59 79 59Z"/>
+  <path d="M345 758h96v72h-96z"/><path d="m330 758 63-48 64 48Z"/>
+  <path d="M1090 770h93v70h-93z"/><path d="m1075 770 61-47 63 47Z"/>
+</g>
+<g fill="#f0b75a"><rect x="301" y="710" width="15" height="22"/><rect x="453" y="655" width="16" height="24"/><rect x="554" y="730" width="14" height="21"/><rect x="1070" y="695" width="16" height="23"/><rect x="1211" y="741" width="14" height="21"/><rect x="1340" y="697" width="15" height="23"/></g>
+<!-- forge glow and smoke -->
+<g><circle cx="456" cy="690" r="92" fill="url(#fire)"/><circle cx="1100" cy="724" r="86" fill="url(#fire)"/></g>
+<g fill="#c4cbc4" opacity=".22"><ellipse cx="470" cy="566" rx="24" ry="57"/><ellipse cx="478" cy="510" rx="34" ry="68"/><ellipse cx="1108" cy="616" rx="25" ry="59"/><ellipse cx="1117" cy="558" rx="37" ry="70"/></g>
+<!-- foreground deciduous forest: oak/beech silhouettes -->
+<g fill="#09140d"><rect x="70" y="650" width="18" height="250"/><circle cx="78" cy="650" r="78"/><circle cx="38" cy="675" r="56"/><circle cx="124" cy="685" r="62"/><rect x="1495" y="642" width="19" height="258"/><circle cx="1503" cy="642" r="82"/><circle cx="1458" cy="678" r="60"/><circle cx="1550" cy="674" r="63"/></g>
+<g fill="#1a2b1c" opacity=".98"><circle cx="185" cy="720" r="55"/><circle cx="225" cy="742" r="49"/><circle cx="1430" cy="730" r="56"/><circle cx="1390" cy="748" r="47"/></g>
 <rect width="1600" height="900" fill="none" stroke="#d8b475" stroke-opacity=".08" stroke-width="4"/>
 </svg>
