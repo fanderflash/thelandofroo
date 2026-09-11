@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Hammerhill in The Land of Roo</title><desc id="d">A dark northern fantasy landscape with a timber smithing settlement built around monumental ancient Vanir stonework.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#18252b"/><stop offset=".55" stop-color="#35474a"/><stop offset="1" stop-color="#768074"/></linearGradient>
+  <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#334638"/><stop offset="1" stop-color="#101812"/></linearGradient>
+  <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#66716d"/><stop offset="1" stop-color="#222b2b"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#f4c56c" stop-opacity=".95"/><stop offset="1" stop-color="#b36d24" stop-opacity="0"/></radialGradient>
+  <filter id="fog"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1245" cy="180" r="210" fill="#d3c4a1" opacity=".14"/>
+<path d="M0 390 180 220 320 350 470 165 610 360 770 240 930 385 1110 205 1260 365 1430 250 1600 405V0H0Z" fill="#111b20" opacity=".93"/>
+<path d="M0 470 210 330 380 450 590 300 760 460 980 335 1190 455 1390 320 1600 430V520H0Z" fill="#263238" opacity=".9"/>
+<path d="M0 620C190 525 410 500 615 555c170 45 325 27 495-18 188-50 328-21 490 42V900H0Z" fill="url(#hill)"/>
+<g opacity=".27" filter="url(#fog)" fill="#dfe5dd"><ellipse cx="390" cy="525" rx="315" ry="38"/><ellipse cx="1050" cy="495" rx="420" ry="42"/></g>
+<!-- ancient Vanir gate -->
+<g transform="translate(875 255)">
+  <path d="M0 310V35h90v275H0Zm280 0V0h95v310h-95Z" fill="url(#stone)"/>
+  <path d="M70 30h240l35 54H35Z" fill="#56625f"/>
+  <path d="M92 310V132c0-74 55-116 104-116s101 42 101 116v178h-64V142c0-37-17-61-38-61s-39 24-39 61v168Z" fill="#172020"/>
+  <path d="M14 72h345" stroke="#9aa59e" stroke-opacity=".25" stroke-width="8"/>
+</g>
+<!-- settlement -->
+<g fill="#171512" stroke="#57462f" stroke-width="3">
+  <path d="M255 620h160v125H255z"/><path d="m235 620 100-80 103 80Z"/>
+  <path d="M460 595h130v112H460z"/><path d="m440 595 85-67 86 67Z"/>
+  <path d="M625 640h120v102H625z"/><path d="m607 640 79-60 78 60Z"/>
+  <path d="M790 605h145v126H790z"/><path d="m770 605 95-74 93 74Z"/>
+</g>
+<g fill="#e6a74b"><rect x="292" y="665" width="19" height="27"/><rect x="337" y="654" width="18" height="26"/><rect x="496" y="630" width="17" height="25"/><rect x="665" y="673" width="16" height="24"/><rect x="832" y="648" width="18" height="28"/></g>
+<g opacity=".72"><circle cx="305" cy="636" r="95" fill="url(#glow)"/><circle cx="855" cy="619" r="115" fill="url(#glow)"/></g>
+<!-- forge smoke -->
+<g fill="#b7c1bc" opacity=".28"><ellipse cx="540" cy="520" rx="29" ry="70"/><ellipse cx="552" cy="455" rx="42" ry="83"/><ellipse cx="575" cy="380" rx="52" ry="72"/></g>
+<!-- foreground pines -->
+<g fill="#07100c"><path d="m50 900 90-310 88 310Z"/><path d="m120 900 105-370 110 370Z"/><path d="m1360 900 92-325 95 325Z"/><path d="m1460 900 104-390 110 390Z"/></g>
+<rect width="1600" height="900" fill="none" stroke="#d8b475" stroke-opacity=".08" stroke-width="4"/>
+</svg>
