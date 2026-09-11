@@ -1,0 +1,21 @@
+/assets/hammerhill/hero-cinematic.webp
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/*.svg
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/assets/*.webp
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/assets/*.jpg
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/assets/*.css
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/assets/*.js
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
