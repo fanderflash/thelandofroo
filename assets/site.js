@@ -86,15 +86,18 @@ if(archiveInner&&!archiveInner.querySelector('.full-archive-link')){
   archiveInner.appendChild(fullArchive);
 }
 
-// Asset reliability + performance: only preload above-the-fold art; lazy-load the rest.
-['/assets/hero-roo.svg','/assets/arwen-brothers.svg'].forEach(href=>{
-  if(!document.querySelector(`link[rel="preload"][href="${href}"]`)){
-    const l=document.createElement('link');l.rel='preload';l.as='image';l.href=href;document.head.appendChild(l);
-  }
-});
+// Image reliability + performance: preserve author-specified loading hints, prioritize
+// genuine above-the-fold hero art, and lazy-load only the rest. Avoid injecting
+// global preloads for images a page may never use.
 document.querySelectorAll('img').forEach(img=>{
   img.decoding='async';
-  if(!img.closest('.portal')) img.loading='lazy';
+  const isHero=Boolean(img.closest('.portal,.hero,.inner-hero,.page-hero,[data-hero]')) || img.dataset.priority==='high';
+  if(isHero){
+    if(!img.hasAttribute('loading')) img.loading='eager';
+    if(!img.hasAttribute('fetchpriority')) img.fetchPriority='high';
+  }else if(!img.hasAttribute('loading')){
+    img.loading='lazy';
+  }
   img.addEventListener('error',()=>{
     if(!img.dataset.fallbackApplied){img.dataset.fallbackApplied='true';img.src='/assets/hero-roo.svg';}
   });
