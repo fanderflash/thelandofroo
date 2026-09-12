@@ -1,17 +1,23 @@
 /assets/*.svg
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
 /assets/*.webp
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
 /assets/*.jpg
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
 /assets/*.css
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
 /assets/*.js
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=300, must-revalidate
+
+/*.html
+  Cache-Control: no-cache
+
+/
+  Cache-Control: no-cache
 
 /*
   X-Content-Type-Options: nosniff
