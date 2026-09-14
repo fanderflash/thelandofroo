@@ -1,6 +1,6 @@
 {
   "paused": false,
-  "publish_enabled": false,
+  "publish_enabled": true,
   "base_url": "https://thelandofroo.com",
   "quick_check_interval_hours": 6,
   "visual_review_interval_days": 7,
