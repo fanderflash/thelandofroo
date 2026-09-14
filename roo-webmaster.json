@@ -1,0 +1,16 @@
+{
+  "paused": false,
+  "publish_enabled": false,
+  "base_url": "https://thelandofroo.com",
+  "quick_check_interval_hours": 6,
+  "visual_review_interval_days": 7,
+  "content_cycle_interval_days": 7,
+  "desktop_viewport": { "width": 1440, "height": 1000 },
+  "mobile_viewport": { "width": 390, "height": 844 },
+  "max_extra_pages_visual": 2,
+  "max_content_items_per_run": 1,
+  "max_changes_per_run": 1,
+  "max_ai_tool_calls_per_run": 20,
+  "max_run_minutes": 20,
+  "report_language": "sv"
+}
