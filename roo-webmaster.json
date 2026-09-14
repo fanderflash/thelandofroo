@@ -5,6 +5,7 @@
   "quick_check_interval_hours": 6,
   "visual_review_interval_days": 7,
   "content_cycle_interval_days": 7,
+  "publishing_policy_version": 1,
   "desktop_viewport": { "width": 1440, "height": 1000 },
   "mobile_viewport": { "width": 390, "height": 844 },
   "max_extra_pages_visual": 2,
