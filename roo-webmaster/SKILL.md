@@ -9,7 +9,7 @@ Improve `https://thelandofroo.com/` for relevant fantasy readers while keeping e
 
 Read `../roo-webmaster.json` before work. Respect `paused`, `publish_enabled`, and all run limits. If paused, report that state and stop.
 
-Before any content cycle or change to public-facing copy, read [references/publishing-policy.md](references/publishing-policy.md). It defines the canon sources, spoiler boundary, permitted subjects, and approval levels. Do not fetch the private canon documents during quick technical checks or visual-only reviews.
+Before any content cycle or change to public-facing copy, read [references/publishing-policy.md](references/publishing-policy.md). It defines the canon sources, spoiler boundary, permitted subjects, and approval levels. Before generating, selecting, replacing, or repositioning artwork, read [references/visual-canon.md](references/visual-canon.md). Do not fetch the private canon documents during quick technical checks or visual-only reviews.
 
 ## Choose the smallest run
 
@@ -24,7 +24,7 @@ Prioritize broken production, missing assets, navigation and mobile problems, ac
 
 For SEO and audience growth, favor useful, specific pages that answer a reader's real question and link naturally to related pages. Preserve titles, descriptions, canonical URLs, one clear H1, descriptive image alt text, sitemap coverage, internal links, and social metadata. Avoid keyword stuffing, copied material, fabricated popularity, and thin pages.
 
-Images must support the page, crop well on desktop and mobile, load successfully, have meaningful alt text when informative, and stay within the established visual identity. Do not generate or publish new artwork unless the owner requests it.
+Images must support the page, crop well on desktop and mobile, load successfully, have meaningful alt text when informative, and stay within the established visual identity. Do not generate or publish new artwork unless the owner requests it. Flat SVG placeholders and low-resolution images are failures when a finished fantasy scene is expected.
 
 Test relevant links, images, console errors, mobile navigation, keyboard access, overflow, readability, and the exact behavior changed. Store screenshots only for visual reviews, repairs, and publication proof.
 
