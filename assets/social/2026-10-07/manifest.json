@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-07",
+  "timezone": "Europe/Stockholm",
+  "hypothesis": "Use change, human consequences, mystery and concrete stakes; stop repeating ordinary scenic/craft stills after repeated zero-follow results.",
+  "performanceBaseline": {
+    "last30CompleteDays": {
+      "posts": 90,
+      "reactions": 56,
+      "comments": 0,
+      "engagementRatePct": 8.13,
+      "shares": 1,
+      "metricsUpdatedAt": "2026-10-06T18:02:15.004Z"
+    },
+    "last7CompleteDays": {
+      "posts": 41,
+      "reactions": 19,
+      "comments": 0,
+      "engagementRatePct": 9.39,
+      "shares": 0,
+      "metricsUpdatedAt": "2026-10-06T18:02:15.004Z"
+    },
+    "strongestKnownPost": {
+      "bufferPostId": "6aabbbdb3311c734e4e845e0",
+      "hook": "For nearly two thousand years, dangerous seas kept Roo cut off from the wider world.",
+      "instagram": {
+        "follows": 12,
+        "reach": 90,
+        "views": 253,
+        "reactions": 8,
+        "shares": 1
+      }
+    }
+  },
+  "posts": [
+    {
+      "slot": "11:00",
+      "type": "reel",
+      "subject": "Roo wasn't alone anymore",
+      "media": "01-roo-wasnt-alone-reel.mp4",
+      "instagram": {
+        "id": "6ac6034941e5366c749667c0",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ac6035bfe1a05e1b351eda8",
+        "status": "scheduled"
+      }
+    },
+    {
+      "slot": "17:00",
+      "type": "carousel",
+      "subject": "The ruin looked empty",
+      "media": [
+        "carousel/01-ruin.jpg",
+        "carousel/02-steps.jpg",
+        "carousel/03-control.jpg",
+        "carousel/04-door.jpg"
+      ],
+      "instagram": {
+        "id": "6ac6034ffb1617e7a72f2f1e",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ac6035280c60f5e63356ba1",
+        "status": "scheduled"
+      }
+    },
+    {
+      "slot": "20:00",
+      "type": "image",
+      "subject": "The dead wheel moved",
+      "series": "Secrets of the Vanir",
+      "media": "03-secrets-of-the-vanir.jpg",
+      "instagram": {
+        "id": "6ac60360fb1617e7a72f3525",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ac6036580c60f5e63356e49",
+        "status": "scheduled"
+      }
+    }
+  ],
+  "exclusionsRespected": [
+    "Hammerhill: The Stronghold of Roo(1).png",
+    "Hammerhill Fortress at Golden Hour.png",
+    "Sunlit Cliffside Medieval Village.png",
+    "rejected sleeping-stone-troll images and video"
+  ]
+}
