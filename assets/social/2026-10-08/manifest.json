@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-08",
+  "timezone": "Europe/Stockholm",
+  "creativeHypothesis": "Use immediate human stakes, mystery and visible consequences instead of generic scenic description; vary away from the previous day's Vanir machinery and sea-arrival subjects.",
+  "performanceBaseline": {
+    "last30CompleteDays": {
+      "posts": 96,
+      "reactions": 61,
+      "comments": 0,
+      "engagementRatePct": 6.28,
+      "shares": 1
+    },
+    "last7CompleteDays": {
+      "posts": 41,
+      "reactions": 19,
+      "comments": 0,
+      "engagementRatePct": 4.48,
+      "shares": 0
+    },
+    "metricsUpdatedAt": "2026-10-07T18:02:06Z",
+    "strongestKnownPost": {
+      "bufferPostId": "6aabbbdb3311c734e4e845e0",
+      "hook": "For nearly two thousand years, dangerous seas kept Roo cut off from the wider world.",
+      "instagram": {
+        "follows": 12,
+        "reach": 90,
+        "views": 253,
+        "reactions": 8,
+        "shares": 1
+      }
+    }
+  },
+  "mediaCommit": "2b43f4afe3b290081a0124c6f98aa1d283f6b35b",
+  "posts": [
+    {
+      "slot": "11:00",
+      "type": "reel",
+      "subject": "The forest returned her alive",
+      "media": "01-forest-returned-her-alive-reel.mp4",
+      "instagram": {"id": "6ac754f56bf3dfa8dcf1e94b", "status": "scheduled"},
+      "facebook": {"id": "6ac754e9c12914bfe5f54327", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "type": "carousel",
+      "subject": "She spent everything on one free dawn",
+      "media": [
+        "carousel/01-earned-it.jpg",
+        "carousel/02-paid-it.jpg",
+        "carousel/03-open-ring.jpg",
+        "carousel/04-first-free-road.jpg"
+      ],
+      "instagram": {"id": "6ac754e0fc3db6b912c7a1b3", "status": "scheduled"},
+      "facebook": {"id": "6ac754e46bf3dfa8dcf1e533", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "type": "image",
+      "series": "Would You Survive Roo?",
+      "subject": "The tax collector wants next spring",
+      "media": "03-would-you-survive-roo-tax.jpg",
+      "instagram": {"id": "6ac754eefc3db6b912c7a3b0", "status": "scheduled"},
+      "facebook": {"id": "6ac754f2d45e2f82629abff1", "status": "scheduled"}
+    }
+  ],
+  "exclusionsRespected": [
+    "Hammerhill: The Stronghold of Roo(1).png",
+    "Hammerhill Fortress at Golden Hour.png",
+    "Sunlit Cliffside Medieval Village.png",
+    "rejected sleeping-stone-troll images and video"
+  ]
+}
