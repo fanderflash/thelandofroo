@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-09",
+  "timezone": "Europe/Stockholm",
+  "creativeHypothesis": "Replace low-reach descriptive scenery with immediate change, visible danger and a concrete choice; retain Vanir-scale mystery while avoiding yesterday's subjects and all Arwen depictions.",
+  "posts": [
+    {
+      "slot": "11:00",
+      "type": "reel",
+      "subject": "The sea gave the road back",
+      "media": "01-the-sea-gave-it-back-reel.mp4",
+      "durationSeconds": 16,
+      "instagramCaption": "The sea gave the road back.\n\nAfter one violent night, two fishers found a Vanir causeway where the tide should have been. They reached the arch just as the sea returned—and something beneath it woke.\n\nWatch to the end: would you enter?\n\nThis is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story of The Land of Roo.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+      "facebookCaption": "The sea gave an ancient road back.\n\nAfter a violent night storm, two Rooan fishers found an immense Vanir causeway exposed beneath the tide. They crossed it before the water returned. At the final arch, a line of light appeared beneath the sea.\n\nWatch to the end. Would you enter—or turn back while you still could?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding"
+    },
+    {
+      "slot": "17:00",
+      "type": "carousel",
+      "subject": "The river allows one crossing",
+      "media": ["carousel/01-bridge-gone.jpg", "carousel/02-surge-coming.jpg", "carousel/03-medicine-or-seed.jpg"],
+      "instagramCaption": "The river will allow one crossing.\n\nSwipe: the spring flood has taken the bridge. The healer carries medicine for a fevered village. The farmer carries the only seed grain for spring. The ferry can take one before the next surge.\n\nMedicine—or seed? Comment one word.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+      "facebookCaption": "The river will allow one last crossing.\n\nThe spring flood has destroyed the bridge on Freyr's Road. A healer needs to carry medicine to a fevered village. A farmer carries the only seed grain left for spring planting. The ferryman has time and room for one.\n\nSwipe through the choice, then decide: medicine or seed?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding"
+    },
+    {
+      "slot": "20:00",
+      "type": "image",
+      "series": "Secrets of the Vanir",
+      "subject": "The door had no hinges",
+      "media": "03-secrets-vanir-door.jpg",
+      "instagramCaption": "The door had no hinges.\n\nSecrets of the Vanir\n\nA storm uprooted an ancient spruce and exposed this beneath its roots. No handle. No lock. Only a warm line of light around stone that should have been dead.\n\nMark the path—or run?\n\nFollow for the next Roo mystery.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "facebookCaption": "The storm uncovered a door with no hinges.\n\nSecrets of the Vanir\n\nA Rooan woodcutter found it beneath the roots of an ancient spruce. The stone has no handle and no lock, yet a warm line of light runs around its edge. He has told no one where it is.\n\nWould you mark the path and return with others—or leave before it opens?\n\nFollow for the next Roo mystery.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt"
+    }
+  ],
+  "exclusionsRespected": [
+    "Hammerhill: The Stronghold of Roo(1).png",
+    "Hammerhill Fortress at Golden Hour.png",
+    "Sunlit Cliffside Medieval Village.png",
+    "rejected sleeping-stone-troll images and video",
+    "all unnamed Arwen, Arwen communities and the removed slavery carousel"
+  ],
+  "buffer": {"instagram": {}, "facebook": {}}
+}
