@@ -37,5 +37,16 @@
     "rejected sleeping-stone-troll images and video",
     "all unnamed Arwen, Arwen communities and the removed slavery carousel"
   ],
-  "buffer": {"instagram": {}, "facebook": {}}
+  "buffer": {
+    "instagram": {
+      "11:00": {"id": "6ac8a7a493f9e5101ff2caad", "status": "scheduled"},
+      "17:00": {"id": "6ac8a7ab93f9e5101ff2cbc5", "status": "scheduled"},
+      "20:00": {"id": "6ac8a7b19db755aaaace7bac", "status": "scheduled"}
+    },
+    "facebook": {
+      "11:00": {"id": "6ac8a7a7987e694c3c4a559c", "status": "scheduled"},
+      "17:00": {"id": "6ac8a7ae04f06b2e8f848a3c", "status": "scheduled"},
+      "20:00": {"id": "6ac8a7b593f9e5101ff2cce8", "status": "scheduled"}
+    }
+  }
 }
