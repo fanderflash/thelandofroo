@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-10",
+  "timezone": "Europe/Stockholm",
+  "mediaCommit": "09279babfd2b8dd78ae79303b718d6fa7061a02a",
+  "creativeHypothesis": "Replace passive ruin description with immediate human stakes, a concrete choice, and ambiguous Nordic folk horror.",
+  "slots": [
+    {
+      "localTime": "11:00",
+      "format": "reel",
+      "subject": "Three Boats. One Flame.",
+      "media": "assets/social/2026-10-10/01-three-boats-one-flame-reel.mp4",
+      "instagram": {"postId": "6ac9f7e8d9cab260a7b97c3e", "status": "scheduled"},
+      "facebook": {"postId": "6ac9f7eff91f772d4587cb78", "status": "scheduled"}
+    },
+    {
+      "localTime": "17:00",
+      "format": "carousel",
+      "subject": "One Iron Bar. Two Claims.",
+      "media": [
+        "assets/social/2026-10-10/carousel/01-one-bar-of-iron.jpg",
+        "assets/social/2026-10-10/carousel/02-two-claims.jpg",
+        "assets/social/2026-10-10/carousel/03-plough-or-spears.jpg"
+      ],
+      "instagram": {"postId": "6ac9f7e1f91f772d4587c989", "status": "scheduled"},
+      "facebook": {"postId": "6ac9f7fdb07d37ac9766fa7a", "status": "scheduled"}
+    },
+    {
+      "localTime": "20:00",
+      "format": "image",
+      "series": "Would You Survive Roo?",
+      "subject": "The Reflection Stood Up First.",
+      "media": "assets/social/2026-10-10/03-would-you-survive-reflection.jpg",
+      "instagram": {"postId": "6ac9f804c4de2d2b121e3609", "status": "scheduled"},
+      "facebook": {"postId": "6ac9f7f6f91f772d4587cc78", "status": "scheduled"}
+    }
+  ],
+  "checks": {
+    "prohibitedAssetsUsed": false,
+    "arwenDepicted": false,
+    "runwayCreditsUsed": false
+  }
+}
