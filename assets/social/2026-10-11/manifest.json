@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Europe/Stockholm",
+  "strategy": {
+    "hypothesis": "Lead with urgent human action, then reveal ancient scale and a concrete unresolved choice.",
+    "evidence": "The last seven complete days produced zero Instagram follows. Reels with immediate human mystery reached 115-149 accounts, while most single images reached 6-10. The forest-return Reel also earned the only save in the comparison window.",
+    "avoid": [
+      "passive scenic description",
+      "generic daily-life stills",
+      "Arwen depictions",
+      "prohibited Hammerhill website images",
+      "rejected troll test media"
+    ]
+  },
+  "posts": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "The Road Ended Here",
+      "media": ["01-the-road-ended-here-reel.mp4"],
+      "duration_seconds": 13.866667,
+      "hook": "THE ROAD ENDED HERE",
+      "status": "ready"
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "Footprints Ended at Stone",
+      "media": [
+        "carousel/01-footprints-ended.jpg",
+        "carousel/02-hidden-seam.jpg",
+        "carousel/03-the-door.jpg"
+      ],
+      "status": "ready"
+    },
+    {
+      "slot": "20:00",
+      "format": "image",
+      "title": "Would You Survive Roo? The Hand Moved",
+      "media": ["03-would-you-survive-stone-hand.jpg"],
+      "status": "ready"
+    }
+  ],
+  "buffer_posts": []
+}
