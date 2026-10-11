@@ -18,7 +18,7 @@
       "format": "reel",
       "title": "The Road Ended Here",
       "media": ["01-the-road-ended-here-reel.mp4"],
-      "duration_seconds": 13.866667,
+      "duration_seconds": 14.016,
       "hook": "THE ROAD ENDED HERE",
       "status": "ready"
     },
@@ -41,5 +41,21 @@
       "status": "ready"
     }
   ],
-  "buffer_posts": []
+  "buffer_posts": [
+    {
+      "slot": "11:00",
+      "instagram": {"id": "6acb48b0ed92ed8fa5f80509", "status": "scheduled"},
+      "facebook": {"id": "6acb48b6c4de2d2b1254d193", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "instagram": {"id": "6acb48bcc4de2d2b1254d218", "status": "scheduled"},
+      "facebook": {"id": "6acb48c3f91f772d45bf653c", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "instagram": {"id": "6acb48c9bba9419ccb2c978a", "status": "scheduled"},
+      "facebook": {"id": "6acb48cfd9cab260a7ef8770", "status": "scheduled"}
+    }
+  ]
 }
