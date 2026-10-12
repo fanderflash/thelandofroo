@@ -1,6 +1,7 @@
 {
   "date": "2026-10-12",
   "timezone": "Europe/Stockholm",
+  "mediaCommit": "31bdc56d5b4306fba5ee27a2ee218b34293128a1",
   "strategy": {
     "hypothesis": "Use a uniquely Roo-specific fact plus recognizable human reactions, then follow with a grounded community dilemma and an emotionally complete folktale. This intentionally pivots away from repeated ruin and folk-horror mysteries, which produced reach but no follows in the last seven complete days.",
     "metricsFreshness": {
@@ -61,7 +62,13 @@
       "spec": "14.0s, 1080x1920, H.264, yuv420p, 30fps, AAC mono, faststart",
       "instagramCaption": "Roo has no moon.\n\nIt disappeared nearly two thousand years ago. No living Rooan has seen it—only old symbols and stories that no longer agree.\n\nThen a child found a sailor’s chart showing a white circle above the sea.\n\nLook at the chart, then the sky. What would you call something your whole world forgot?\n\nThis is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
       "facebookCaption": "Roo has no moon.\n\nNearly two thousand years ago, it disappeared from the sky. Every living Rooan was born beneath stars and darkness—never moonlight.\n\nThen a child found an ancient sailor’s chart showing a white circle above the sea. The village could see the symbol. Nobody could remember seeing the thing itself.\n\nWould you trust the old chart—or the sky above you?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
-      "status": {"instagram": "prepared", "facebook": "prepared"}
+      "status": {
+        "instagram": "scheduled",
+        "facebook": "scheduled",
+        "instagramPostId": "6acc9c6e712ba82086b29f27",
+        "facebookPostId": "6acc9c725feb3462de98317c",
+        "dueAt": "2026-10-12T09:00:00Z"
+      }
     },
     {
       "slot": "17:00",
@@ -74,7 +81,13 @@
       ],
       "instagramCaption": "He wanted their warning bell.\n\nA southern merchant offered enough silver to repair the village hall before winter. But the bronze bell warns everyone when fire, raiders or storms are coming.\n\nSwipe to see the price of both choices. Then answer in two words: bell or roof?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
       "facebookCaption": "A merchant offered enough silver to buy their bell.\n\nThe meeting hall’s roof will not survive winter. The bell has warned the village about fire, raiders and storms for generations. Selling it could keep every family dry; keeping it could one day save their lives.\n\nSwipe through the choice. What should the village keep: the bell or the roof?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks",
-      "status": {"instagram": "prepared", "facebook": "prepared"}
+      "status": {
+        "instagram": "scheduled",
+        "facebook": "scheduled",
+        "instagramPostId": "6acc9c79712ba82086b2a089",
+        "facebookPostId": "6acc9c76a2941ce81768c7fa",
+        "dueAt": "2026-10-12T15:00:00Z"
+      }
     },
     {
       "slot": "20:00",
@@ -84,7 +97,13 @@
       "media": ["03-fireside-last-loaf.jpg"],
       "instagramCaption": "They shared their last loaf.\n\nA freezing stranger reached the cottage during the storm. The family fed him, though nothing remained for morning.\n\nAt dawn he was gone. A winter’s worth of firewood stood beside the house. One trail of footprints reached the door. None led away.\n\nFireside Tales of Roo. Miracle, debt—or warning? Follow for tomorrow’s story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
       "facebookCaption": "They gave a stranger their last loaf.\n\nHe arrived half-frozen during the worst night of winter. The family shared everything they had and let him sleep beside the hearth.\n\nBy dawn, the stranger had vanished. Enough dry firewood for the winter stood outside. One set of footprints came from the forest to the cottage—but none went back.\n\nFireside Tales of Roo. Was it a miracle, a repaid debt, or a warning?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
-      "status": {"instagram": "prepared", "facebook": "prepared"}
+      "status": {
+        "instagram": "scheduled",
+        "facebook": "scheduled",
+        "instagramPostId": "6acc9c81a2941ce81768c8f9",
+        "facebookPostId": "6acc9c7ec5fdc4c02d0e8b85",
+        "dueAt": "2026-10-12T18:00:00Z"
+      }
     }
   ]
 }
