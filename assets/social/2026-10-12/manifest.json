@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-12",
+  "timezone": "Europe/Stockholm",
+  "strategy": {
+    "hypothesis": "Use a uniquely Roo-specific fact plus recognizable human reactions, then follow with a grounded community dilemma and an emotionally complete folktale. This intentionally pivots away from repeated ruin and folk-horror mysteries, which produced reach but no follows in the last seven complete days.",
+    "metricsFreshness": {
+      "instagram": "2026-10-11T16:01:27.878Z",
+      "facebook": "2026-10-11T18:01:39.278Z"
+    },
+    "instagram30Days": {
+      "posts": 59,
+      "reactions": 60,
+      "comments": 0,
+      "engagementRate": 4.83,
+      "views": 2326,
+      "shares": 1,
+      "saves": 1,
+      "follows": 13,
+      "reach": 1305,
+      "watchMinutes": 32.73,
+      "averageWatchSeconds": 3.05
+    },
+    "instagram7CompleteDays": {
+      "posts": 20,
+      "reactions": 8,
+      "comments": 0,
+      "engagementRate": 1.2,
+      "views": 985,
+      "shares": 0,
+      "saves": 1,
+      "follows": 0,
+      "reach": 751,
+      "watchMinutes": 32.73,
+      "averageWatchSeconds": 3.05
+    },
+    "facebook30Days": {
+      "posts": 61,
+      "reactions": 6,
+      "comments": 0,
+      "engagementRate": 2.1,
+      "impressions": 859,
+      "shares": 0,
+      "clicks": 12
+    },
+    "facebook7CompleteDays": {
+      "posts": 21,
+      "reactions": 3,
+      "comments": 0,
+      "engagementRate": 1.71,
+      "impressions": 585,
+      "shares": 0,
+      "clicks": 7
+    }
+  },
+  "posts": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "subject": "Roo Has No Moon",
+      "media": ["01-roo-has-no-moon-reel.mp4"],
+      "spec": "14.0s, 1080x1920, H.264, yuv420p, 30fps, AAC mono, faststart",
+      "instagramCaption": "Roo has no moon.\n\nIt disappeared nearly two thousand years ago. No living Rooan has seen it—only old symbols and stories that no longer agree.\n\nThen a child found a sailor’s chart showing a white circle above the sea.\n\nLook at the chart, then the sky. What would you call something your whole world forgot?\n\nThis is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+      "facebookCaption": "Roo has no moon.\n\nNearly two thousand years ago, it disappeared from the sky. Every living Rooan was born beneath stars and darkness—never moonlight.\n\nThen a child found an ancient sailor’s chart showing a white circle above the sea. The village could see the symbol. Nobody could remember seeing the thing itself.\n\nWould you trust the old chart—or the sky above you?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+      "status": {"instagram": "prepared", "facebook": "prepared"}
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "subject": "Bell or Roof?",
+      "media": [
+        "carousel/01-he-wanted-their-bell.jpg",
+        "carousel/02-the-roof-wont-last.jpg",
+        "carousel/03-bell-or-roof.jpg"
+      ],
+      "instagramCaption": "He wanted their warning bell.\n\nA southern merchant offered enough silver to repair the village hall before winter. But the bronze bell warns everyone when fire, raiders or storms are coming.\n\nSwipe to see the price of both choices. Then answer in two words: bell or roof?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "facebookCaption": "A merchant offered enough silver to buy their bell.\n\nThe meeting hall’s roof will not survive winter. The bell has warned the village about fire, raiders and storms for generations. Selling it could keep every family dry; keeping it could one day save their lives.\n\nSwipe through the choice. What should the village keep: the bell or the roof?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks",
+      "status": {"instagram": "prepared", "facebook": "prepared"}
+    },
+    {
+      "slot": "20:00",
+      "format": "single_image",
+      "series": "Fireside Tales of Roo",
+      "subject": "The Stranger Left No Tracks",
+      "media": ["03-fireside-last-loaf.jpg"],
+      "instagramCaption": "They shared their last loaf.\n\nA freezing stranger reached the cottage during the storm. The family fed him, though nothing remained for morning.\n\nAt dawn he was gone. A winter’s worth of firewood stood beside the house. One trail of footprints reached the door. None led away.\n\nFireside Tales of Roo. Miracle, debt—or warning? Follow for tomorrow’s story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+      "facebookCaption": "They gave a stranger their last loaf.\n\nHe arrived half-frozen during the worst night of winter. The family shared everything they had and let him sleep beside the hearth.\n\nBy dawn, the stranger had vanished. Enough dry firewood for the winter stood outside. One set of footprints came from the forest to the cottage—but none went back.\n\nFireside Tales of Roo. Was it a miracle, a repaid debt, or a warning?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+      "status": {"instagram": "prepared", "facebook": "prepared"}
+    }
+  ]
+}
