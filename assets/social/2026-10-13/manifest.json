@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Europe/Stockholm",
+  "mediaCommit": "8df9183dc5eb6b46618e55893eb3a2b5f83e41d7",
+  "strategy": {
+    "hypothesis": "Lead with a recognizable belief reversal unique to Roo, then show reconnection through one family's concrete choice and finish with an emotional faith story. This pivots away from repeated anonymous ruins and horror images, which delivered reach but no follows.",
+    "metricsFreshness": {
+      "instagram": "2026-10-12T16:01:36.446Z",
+      "facebook": "2026-10-12T18:02:29.608Z"
+    },
+    "instagram30Days": {
+      "posts": 62,
+      "reactions": 60,
+      "comments": 0,
+      "engagementRate": 4.66,
+      "views": 2400,
+      "shares": 1,
+      "saves": 1,
+      "follows": 13,
+      "reach": 1353,
+      "watchMinutes": 34.55,
+      "averageWatchSeconds": 3.09
+    },
+    "instagram7CompleteDays": {
+      "posts": 20,
+      "reactions": 7,
+      "comments": 0,
+      "engagementRate": 1.04,
+      "views": 999,
+      "shares": 0,
+      "saves": 1,
+      "follows": 0,
+      "reach": 772,
+      "watchMinutes": 34.55,
+      "averageWatchSeconds": 3.09
+    },
+    "facebook30Days": {
+      "posts": 64,
+      "reactions": 7,
+      "comments": 0,
+      "engagementRate": 2.4,
+      "impressions": 917,
+      "shares": 0,
+      "clicks": 15
+    },
+    "facebook7CompleteDays": {
+      "posts": 21,
+      "reactions": 4,
+      "comments": 0,
+      "engagementRate": 1.43,
+      "impressions": 628,
+      "shares": 0,
+      "clicks": 5
+    },
+    "winner": {
+      "postId": "6aabbbdb3311c734e4e845e0",
+      "subject": "For nearly two thousand years, dangerous seas kept Roo cut off from the wider world.",
+      "follows": 12,
+      "pattern": "clear historical change, outside conflict, mystery and stakes"
+    },
+    "recentFinding": "Reels still win non-follower reach, but three or more recent mystery/horror variations produced no follows. Today's work keeps the structural pattern while changing the creative territory to belief, contact and human emotion."
+  },
+  "posts": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "subject": "Thor Is No Hero Here",
+      "media": ["01-thor-is-no-hero-here-reel.mp4"],
+      "spec": "14.0s, 1080x1920, H.264, yuv420p, 30fps, AAC mono, faststart",
+      "instagramPostId": "6acdeeef5167b5c45eb1c883",
+      "facebookPostId": "6acdeef25540c90f0a83969b",
+      "dueAt": "2026-10-13T09:00:00Z",
+      "status": {"instagram": "scheduled", "facebook": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "subject": "Lower the Rope or Close the Gate?",
+      "media": [
+        "carousel/01-the-unknown-sail.jpg",
+        "carousel/02-grain-at-the-rope.jpg",
+        "carousel/03-open-or-close.jpg"
+      ],
+      "instagramPostId": "6acdeef7ca68ebbd369b569b",
+      "facebookPostId": "6acdeefaca68ebbd369b56d9",
+      "dueAt": "2026-10-13T15:00:00Z",
+      "status": {"instagram": "scheduled", "facebook": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "format": "single_image",
+      "series": "Fireside Tales of Roo",
+      "subject": "The Last Candle",
+      "media": ["03-fireside-last-candle.jpg"],
+      "instagramPostId": "6acdeefed31101ca4b54f38b",
+      "facebookPostId": "6acdef08ca68ebbd369b57af",
+      "dueAt": "2026-10-13T18:00:00Z",
+      "status": {"instagram": "scheduled", "facebook": "scheduled"}
+    }
+  ]
+}
