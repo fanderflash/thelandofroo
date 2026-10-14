@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Europe/Stockholm",
+  "mediaCommit": "fe72c492fdc2d54d00d83279fd9da247abfd0c68",
+  "performanceReview": {
+    "completeThrough": "2026-10-13",
+    "instagram30Days": {
+      "posts": 66,
+      "reactions": 61,
+      "comments": 0,
+      "engagementRatePercent": 4.05,
+      "views": 2674,
+      "shares": 1,
+      "saves": 1,
+      "follows": 13,
+      "reach": 1580,
+      "watchTimeMinutes": 44.88,
+      "averageWatchSeconds": 3.1
+    },
+    "instagramLast7CompleteDays": {
+      "posts": 21,
+      "reactions": 7,
+      "comments": 0,
+      "engagementRatePercent": 0.82,
+      "views": 1219,
+      "shares": 0,
+      "saves": 1,
+      "follows": 0,
+      "reach": 975,
+      "watchTimeMinutes": 44.88,
+      "averageWatchSeconds": 3.1
+    },
+    "facebook30Days": {
+      "posts": 67,
+      "reactions": 7,
+      "comments": 0,
+      "engagementRatePercent": 2.0,
+      "impressions": 1102,
+      "shares": 0,
+      "clicks": 15
+    },
+    "facebookLast7CompleteDays": {
+      "posts": 21,
+      "reactions": 4,
+      "comments": 0,
+      "engagementRatePercent": 1.12,
+      "impressions": 800,
+      "shares": 0,
+      "clicks": 5
+    },
+    "decision": "Reels still carry nearly all discovery reach, but seven complete days produced no Instagram follows and carousels or single images received little distribution. Pivot from vague traces and scenery to a clear visual discovery, a human-scale choice, and a concrete scale mystery."
+  },
+  "posts": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "The Temple Was a Machine",
+      "media": ["assets/social/2026-10-14/01-the-temple-was-a-machine-reel.mp4"],
+      "instagram": {"id": "6acf3fbb1f3f10bcb7bb9e71", "status": "scheduled"},
+      "facebook": {"id": "6acf3fe8848c31c80967db4a", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "The Fever Cannot Wait",
+      "media": [
+        "assets/social/2026-10-14/carousel/01-the-fever-cannot-wait.jpg",
+        "assets/social/2026-10-14/carousel/02-trust-the-stranger.jpg",
+        "assets/social/2026-10-14/carousel/03-trust-the-healer.jpg"
+      ],
+      "instagram": {"id": "6acf3fc6f847f2ad9ecca3ef", "status": "scheduled"},
+      "facebook": {"id": "6acf3fd10d20fd1527882f31", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "format": "image",
+      "series": "Secrets of the Vanir",
+      "title": "One Step. Waist-High.",
+      "media": ["assets/social/2026-10-14/03-one-step-waist-high.jpg"],
+      "instagram": {"id": "6acf3fdc1f3f10bcb7bba3be", "status": "scheduled"},
+      "facebook": {"id": "6acf3ff2848c31c80967dd7d", "status": "scheduled"}
+    }
+  ],
+  "validation": {
+    "reel": {
+      "durationSeconds": 14,
+      "width": 1080,
+      "height": 1920,
+      "frameRate": 30,
+      "videoCodec": "h264",
+      "pixelFormat": "yuv420p",
+      "audioCodec": "aac",
+      "faststart": true,
+      "sha256": "70cd7c51cafbdf18ccd2b70dfaf2704fbcf2a94e70dc34d7b76a51b00b9fdb98"
+    },
+    "arvenDepicted": false,
+    "excludedMediaUsed": false,
+    "thirdPartyMediaUsed": false
+  }
+}
