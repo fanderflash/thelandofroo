@@ -51,7 +51,9 @@
       "slot": "11:00",
       "format": "reel",
       "title": "Their Gods Are Prisoners",
-      "media": ["assets/social/2026-10-15/01-their-gods-are-prisoners-reel.mp4"],
+      "media": [
+        "assets/social/2026-10-15/01-their-gods-are-prisoners-reel.mp4"
+      ],
       "validation": {
         "duration_seconds": 14,
         "dimensions": "1080x1920",
@@ -60,8 +62,16 @@
         "faststart": true,
         "bytes": 2319565
       },
-      "instagram": {"post_id": "6ad08e2a6295ecc932f5c94d", "status": "sent", "sent_at": "2026-10-15T09:00:54.439Z"},
-      "facebook": {"post_id": "6ad08e25675f058f0b3fd921", "status": "sent", "sent_at": "2026-10-15T09:00:13.703Z"}
+      "instagram": {
+        "post_id": "6ad08e2a6295ecc932f5c94d",
+        "status": "sent",
+        "sent_at": "2026-10-15T09:00:54.439Z"
+      },
+      "facebook": {
+        "post_id": "6ad08e25675f058f0b3fd921",
+        "status": "sent",
+        "sent_at": "2026-10-15T09:00:13.703Z"
+      }
     },
     {
       "slot": "17:00",
@@ -73,18 +83,34 @@
         "assets/social/2026-10-15/carousel/03-the-chosen-leader.jpg"
       ],
       "dimensions": "1080x1350",
-      "instagram": {"post_id": "6ad08e35de79014f82c6da11", "status": "scheduled"},
-      "facebook": {"post_id": "6ad08e30de79014f82c6d8bd", "status": "scheduled"}
+      "instagram": {
+        "post_id": "6ad08e35de79014f82c6da11",
+        "status": "sent",
+        "sent_at": "2026-10-15T15:01:58.944Z"
+      },
+      "facebook": {
+        "post_id": "6ad08e30de79014f82c6d8bd",
+        "status": "sent",
+        "sent_at": "2026-10-15T15:01:28.132Z"
+      }
     },
     {
       "slot": "20:00",
       "format": "single_image",
       "series": "Fireside Tales of Roo",
       "title": "He Drew Her Dream",
-      "media": ["assets/social/2026-10-15/03-he-drew-her-dream.jpg"],
+      "media": [
+        "assets/social/2026-10-15/03-he-drew-her-dream.jpg"
+      ],
       "dimensions": "1080x1350",
-      "instagram": {"post_id": "6ad08e3c4e8a140929bed6d9", "status": "scheduled"},
-      "facebook": {"post_id": "6ad08e42de79014f82c6db1d", "status": "scheduled"}
+      "instagram": {
+        "post_id": "6ad08e3c4e8a140929bed6d9",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "post_id": "6ad08e42de79014f82c6db1d",
+        "status": "scheduled"
+      }
     }
   ],
   "canon_and_safety": {
