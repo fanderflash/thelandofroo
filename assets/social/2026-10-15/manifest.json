@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "14c3362dd5de8da99c85f9c194bcd544d7b8ab29",
+  "performance_review": {
+    "maturity_cutoff": "2026-10-13T21:59:59Z",
+    "instagram_30_days": {
+      "posts": 66,
+      "reactions": 61,
+      "comments": 0,
+      "views": 2688,
+      "shares": 1,
+      "saves": 1,
+      "follows": 13,
+      "reach": 1585,
+      "watch_time_minutes": 44.88,
+      "average_watch_seconds": 3.1
+    },
+    "instagram_last_7_complete_days": {
+      "posts": 21,
+      "reactions": 7,
+      "comments": 0,
+      "views": 1230,
+      "shares": 0,
+      "saves": 1,
+      "follows": 0,
+      "reach": 979,
+      "watch_time_minutes": 44.88,
+      "average_watch_seconds": 3.1
+    },
+    "facebook_30_days": {
+      "posts": 67,
+      "reactions": 7,
+      "comments": 0,
+      "impressions": 1106,
+      "shares": 0,
+      "clicks": 15
+    },
+    "facebook_last_7_complete_days": {
+      "posts": 21,
+      "reactions": 4,
+      "comments": 0,
+      "impressions": 804,
+      "shares": 0,
+      "clicks": 5
+    },
+    "decision": "Reels remain the only format producing meaningful discovery reach, but recent discovery produced no follows. Today's creative hypothesis shifts from repeated ruin-and-horror imagery to distinctive Roo beliefs, political choice, and a face-led fireside mystery with concrete stakes."
+  },
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "Their Gods Are Prisoners",
+      "media": ["assets/social/2026-10-15/01-their-gods-are-prisoners-reel.mp4"],
+      "validation": {
+        "duration_seconds": 14,
+        "dimensions": "1080x1920",
+        "video": "H.264 yuv420p 30fps",
+        "audio": "AAC 48kHz mono",
+        "faststart": true,
+        "bytes": 2319565
+      },
+      "instagram": {"post_id": "6ad08e2a6295ecc932f5c94d", "status": "scheduled"},
+      "facebook": {"post_id": "6ad08e25675f058f0b3fd921", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "Blood Does Not Always Make a King",
+      "media": [
+        "assets/social/2026-10-15/carousel/01-who-rules-roo.jpg",
+        "assets/social/2026-10-15/carousel/02-the-blood-heir.jpg",
+        "assets/social/2026-10-15/carousel/03-the-chosen-leader.jpg"
+      ],
+      "dimensions": "1080x1350",
+      "instagram": {"post_id": "6ad08e35de79014f82c6da11", "status": "scheduled"},
+      "facebook": {"post_id": "6ad08e30de79014f82c6d8bd", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "format": "single_image",
+      "series": "Fireside Tales of Roo",
+      "title": "He Drew Her Dream",
+      "media": ["assets/social/2026-10-15/03-he-drew-her-dream.jpg"],
+      "dimensions": "1080x1350",
+      "instagram": {"post_id": "6ad08e3c4e8a140929bed6d9", "status": "scheduled"},
+      "facebook": {"post_id": "6ad08e42de79014f82c6db1d", "status": "scheduled"}
+    }
+  ],
+  "canon_and_safety": {
+    "arven_depicted": false,
+    "prohibited_reference_media_used": false,
+    "third_party_media_used": false,
+    "future_plot_revealed": false
+  }
+}
