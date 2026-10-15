@@ -60,8 +60,8 @@
         "faststart": true,
         "bytes": 2319565
       },
-      "instagram": {"post_id": "6ad08e2a6295ecc932f5c94d", "status": "scheduled"},
-      "facebook": {"post_id": "6ad08e25675f058f0b3fd921", "status": "scheduled"}
+      "instagram": {"post_id": "6ad08e2a6295ecc932f5c94d", "status": "sent", "sent_at": "2026-10-15T09:00:54.439Z"},
+      "facebook": {"post_id": "6ad08e25675f058f0b3fd921", "status": "sent", "sent_at": "2026-10-15T09:00:13.703Z"}
     },
     {
       "slot": "17:00",
