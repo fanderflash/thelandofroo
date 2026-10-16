@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "timezone": "Europe/Stockholm",
   "organizationId": "6aaa903bbd40e692d59df47f",
-  "status": "11_sent_both_17_and_20_scheduled_both",
-  "verifiedAt": "2026-10-16T09:15:29Z",
+  "status": "11_and_17_sent_both_20_scheduled_both",
+  "verifiedAt": "2026-10-16T15:27:06Z",
   "missingSlots": [],
   "mediaCommit": "a6c7a64eff4669ffb14c709ace035f9de0909492",
   "canonReview": {
@@ -704,10 +704,10 @@
         }
       },
       "postId": "6ad1df7ca82f34dbe151f2d7",
-      "status": "scheduled",
+      "status": "sent",
       "retryCount": 0,
       "lastError": null,
-      "sentAt": null
+      "sentAt": "2026-10-16T15:01:22.372Z"
     },
     {
       "slot": "17:00",
@@ -744,10 +744,10 @@
         }
       },
       "postId": "6ad1df92e991a49db3d507ba",
-      "status": "scheduled",
+      "status": "sent",
       "retryCount": 0,
       "lastError": null,
-      "sentAt": null
+      "sentAt": "2026-10-16T15:01:01.829Z"
     },
     {
       "slot": "20:00",
@@ -902,9 +902,9 @@
     {
       "id": "6ad1df92e991a49db3d507ba",
       "channelId": "6aaa9283ea19ca0bde5839d5",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-16T15:00:00.000Z",
-      "sentAt": null,
+      "sentAt": "2026-10-16T15:01:01.829Z",
       "assets": [
         {
           "id": null,
@@ -942,9 +942,9 @@
     {
       "id": "6ad1df7ca82f34dbe151f2d7",
       "channelId": "6aaa90f5ea19ca0bde582f0e",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-16T15:00:00.000Z",
-      "sentAt": null,
+      "sentAt": "2026-10-16T15:01:22.372Z",
       "assets": [
         {
           "id": null,
@@ -1036,6 +1036,14 @@
       "action": "No repost needed",
       "sent": 2,
       "scheduled": 4,
+      "errors": 0,
+      "duplicateCount": 0
+    },
+    {
+      "checkedAt": "2026-10-16T15:27:06Z",
+      "action": "No repost needed",
+      "sent": 4,
+      "scheduled": 2,
       "errors": 0,
       "duplicateCount": 0
     }
