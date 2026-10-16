@@ -1,0 +1,1021 @@
+{
+  "date": "2026-10-16",
+  "timezone": "Europe/Stockholm",
+  "organizationId": "6aaa903bbd40e692d59df47f",
+  "status": "all_six_scheduled",
+  "verifiedAt": "2026-10-16T08:27:00Z",
+  "missingSlots": [],
+  "mediaCommit": "a6c7a64eff4669ffb14c709ace035f9de0909492",
+  "canonReview": {
+    "sourceFile": "The_Land_of_Roo_Canon_Bible(1).docx",
+    "version": 1,
+    "libraryFileId": "libfile_24d0a436828c8191ad647099c047ddca",
+    "scope": "Full current document and established social history reviewed. Public-safe Highward foundation reveal; oversized fertile Roo vegetation; minor fictional Fireside Tales continuation. No future plot disclosures. No Arven depicted. No prohibited or reused media."
+  },
+  "performance": {
+    "windows": {
+      "last30CompleteDays": "2026-09-16 through 2026-10-15",
+      "last7CompleteDays": "2026-10-09 through 2026-10-15",
+      "matureSevenDayComparison": "2026-10-08 through 2026-10-14",
+      "maturity": "2026-10-15 posts excluded from creative judgments because younger than 24 hours."
+    },
+    "instagram30": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 72,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 61,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 3.61,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "name": "Views",
+          "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+          "value": 2939,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "name": "Saves",
+          "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "name": "Follows",
+          "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+          "value": 13,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "name": "Reach",
+          "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+          "value": 1772,
+          "unit": "count"
+        },
+        {
+          "type": "totalTimeWatched",
+          "name": "Watch Time (min)",
+          "description": "Total time watched in minutes",
+          "value": 54.3,
+          "unit": "count"
+        },
+        {
+          "type": "averageTimeWatched",
+          "name": "Avg. Watch Time (sec)",
+          "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+          "value": 3.21,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T05:57:12.736Z"
+    },
+    "instagram7": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 21,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 2,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 0.23,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "name": "Views",
+          "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+          "value": 1119,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "name": "Saves",
+          "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "name": "Follows",
+          "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "name": "Reach",
+          "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+          "value": 876,
+          "unit": "count"
+        },
+        {
+          "type": "totalTimeWatched",
+          "name": "Watch Time (min)",
+          "description": "Total time watched in minutes",
+          "value": 37.97,
+          "unit": "count"
+        },
+        {
+          "type": "averageTimeWatched",
+          "name": "Avg. Watch Time (sec)",
+          "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+          "value": 3.07,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T05:57:12.734Z"
+    },
+    "facebook30": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 73,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 7,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 1.79,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "name": "Impressions",
+          "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+          "value": 1227,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "name": "Clicks",
+          "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+          "value": 15,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+    },
+    "facebook7": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 21,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 1.19,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "name": "Impressions",
+          "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+          "value": 419,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "name": "Clicks",
+          "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+          "value": 4,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+    },
+    "matureInstagram": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 21,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 3,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 0.42,
+          "unit": "percentage"
+        },
+        {
+          "type": "views",
+          "name": "Views",
+          "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+          "value": 1192,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "saves",
+          "name": "Saves",
+          "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "follows",
+          "name": "Follows",
+          "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "reach",
+          "name": "Reach",
+          "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+          "value": 952,
+          "unit": "count"
+        },
+        {
+          "type": "totalTimeWatched",
+          "name": "Watch Time (min)",
+          "description": "Total time watched in minutes",
+          "value": 42.94,
+          "unit": "count"
+        },
+        {
+          "type": "averageTimeWatched",
+          "name": "Avg. Watch Time (sec)",
+          "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+          "value": 3.1,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T05:57:12.734Z"
+    },
+    "matureFacebook": {
+      "metrics": [
+        {
+          "type": "postCount",
+          "name": "Posts",
+          "description": "Number of posts published",
+          "value": 21,
+          "unit": "count"
+        },
+        {
+          "type": "reactions",
+          "name": "Reactions",
+          "description": "The number of likes/reactions your post received.",
+          "value": 1,
+          "unit": "count"
+        },
+        {
+          "type": "comments",
+          "name": "Comments",
+          "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "engagementRate",
+          "name": "Eng. Rate",
+          "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+          "value": 0.79,
+          "unit": "percentage"
+        },
+        {
+          "type": "impressions",
+          "name": "Impressions",
+          "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+          "value": 635,
+          "unit": "count"
+        },
+        {
+          "type": "shares",
+          "name": "Shares",
+          "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+          "value": 0,
+          "unit": "count"
+        },
+        {
+          "type": "clicks",
+          "name": "Clicks",
+          "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+          "value": 4,
+          "unit": "count"
+        }
+      ],
+      "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+    },
+    "matureFormatComparison": {
+      "facebook_single": {
+        "posts": 7,
+        "reach": null,
+        "impressions": 22,
+        "views": null,
+        "follows": null,
+        "shares": 0,
+        "saves": null,
+        "comments": 0
+      },
+      "instagram_single": {
+        "posts": 7,
+        "reach": 48,
+        "impressions": null,
+        "views": 86,
+        "follows": 0,
+        "shares": 0,
+        "saves": 0,
+        "comments": 0
+      },
+      "facebook_carousel": {
+        "posts": 7,
+        "reach": null,
+        "impressions": 17,
+        "views": null,
+        "follows": null,
+        "shares": 0,
+        "saves": null,
+        "comments": 0
+      },
+      "instagram_carousel": {
+        "posts": 7,
+        "reach": 50,
+        "impressions": null,
+        "views": 150,
+        "follows": 0,
+        "shares": 0,
+        "saves": 0,
+        "comments": 0
+      },
+      "facebook_reel": {
+        "posts": 7,
+        "reach": null,
+        "impressions": 596,
+        "views": null,
+        "follows": null,
+        "shares": 0,
+        "saves": null,
+        "comments": 0
+      },
+      "instagram_reel": {
+        "posts": 7,
+        "reach": 854,
+        "impressions": null,
+        "views": 956,
+        "follows": 0,
+        "shares": 0,
+        "saves": 1,
+        "comments": 0
+      }
+    },
+    "unavailableMetrics": [
+      "Non-follower reach not exposed by connected Buffer metrics.",
+      "Facebook post-attributed follows, saves, views and watch time not exposed. Null means unavailable, not zero.",
+      "Instagram clicks not exposed."
+    ],
+    "interpretation": "Reels provide far more observed reach than carousels or stills but the mature seven-day cohort generated zero Instagram follows. This is not evidence of improved audience growth. Format groups are small and observational, not randomized. Historical change/conflict/mystery/stakes caption generated 12 follows; repeat its reader need, not its media or wording.",
+    "decision": "Stop repeating generic binary resource-crisis carousels and static ominous-door hooks after multiple comparable low-reach, zero-follow posts. Retain 11/17/20 format mix while changing creative hypothesis: progressive architectural scale reveal, warm visual-search family reveal, and serial character agency with a concrete payoff. Do not extend the same low-performing pattern blindly.",
+    "nextEvaluation": "Evaluate these posts only once 24 hours old. Prioritize follows and non-follower reach if available, then shares/saves/comments; compare against mature baseline. Do not interpret scheduled status as publication or growth."
+  },
+  "videoValidation": {
+    "durationSeconds": 12,
+    "width": 1080,
+    "height": 1920,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "fps": 30,
+    "audio": "AAC mono 48000Hz",
+    "bytes": 2095691,
+    "faststart": true,
+    "sceneCount": 3,
+    "cuts": 2,
+    "hookFirstSecond": "THIS CITY HIDES A SECRET",
+    "validation": "ffprobe streams/duration verified; moov precedes mdat; final frames visually inspected."
+  },
+  "assets": [
+    {
+      "path": "assets/social/2026-10-16/01-highwards-hidden-foundation-reel.mp4",
+      "bytes": 2095691,
+      "blobSha": "5c09b4caab94523d0321427db75eb84b287afa20",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/reel/frame-01.jpg",
+      "bytes": 802666,
+      "blobSha": "48a4389d8b594253bf9cb4583127b91d86ee403a",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/reel/frame-02.jpg",
+      "bytes": 734244,
+      "blobSha": "2503c58a86f642d7f551062e438a611506a5bb15",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/reel/frame-03.jpg",
+      "bytes": 778347,
+      "blobSha": "ecfd89df8d5a8bb0983736979b5e674427f8a921",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+      "bytes": 749248,
+      "blobSha": "c7fc9af95af4aeda646658977e7b0ca52d282158",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+      "bytes": 772958,
+      "blobSha": "d99d5c93b078174128afde21d5c931cb999b2164",
+      "hashVerified": true
+    },
+    {
+      "path": "assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+      "bytes": 470659,
+      "blobSha": "24ae73f7e8c33e4963571dc1b1c67c5765837e6d",
+      "hashVerified": true
+    }
+  ],
+  "pieces": [
+    {
+      "slot": "11:00",
+      "subject": "Highward's Hidden Foundation",
+      "format": "reel",
+      "files": [
+        "01-highwards-hidden-foundation-reel.mp4"
+      ],
+      "alt": [
+        "Highward, capital of Varren, revealed in three views from human-scale houses to the colossal Vanir ruin beneath the city."
+      ],
+      "ig": "A home to you. A ruin to history.\n\nAt street level, Highward looks like a city built by people. Follow the stone past the houses and the scale stops making sense.\n\nVarren's capital stands on an enormous Vanir ruin. Watch the final view: would you want to know what your home was built on?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "fb": "What if your whole city was someone else's ruin?\n\nHighward is the capital of Varren, far south of Roo. From its streets, the houses can hide the truth. From a distance, the enormous Vanir structure beneath the city becomes unmistakable.\n\nA familiar home, built into a past its inhabitants cannot fully explain. Watch the last view—would knowing what lies beneath make you feel safer, or less safe?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt"
+    },
+    {
+      "slot": "17:00",
+      "subject": "That Is Moss, Not a Tree",
+      "format": "carousel",
+      "files": [
+        "carousel/01-that-is-moss.jpg",
+        "carousel/02-she-was-right-there.jpg"
+      ],
+      "alt": [
+        "A smiling blond child in a wool coat and red mitten peeks through unusually large feather moss in a lush Roo forest.",
+        "The wider view reveals the same child laughing beside her mother, who holds her hand on a fallen birch beside the enormous moss."
+      ],
+      "ig": "That is moss. Not a tree.\n\nIn Roo, even the smallest things grow on a different scale. For a child, a patch of moss can become a whole hiding place.\n\nSwipe for the wider view. She was right beside her mother all along.\n\nWhat did you spot first: mitten or face?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "fb": "A whole hiding place in a patch of moss.\n\nRoo's forests are unusually fertile: even their moss and mushrooms grow larger. This little scene imagines what that means on an ordinary walk with a child.\n\nA red mitten appears above the green. The next image reveals her mother was right there, ready to take her hand.\n\nLook at both images—what caught your eye first, the mitten or her face?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt"
+    },
+    {
+      "slot": "20:00",
+      "subject": "Fireside Tales of Roo — She Burned the Drawing",
+      "format": "single",
+      "files": [
+        "03-she-burned-the-drawing.jpg"
+      ],
+      "alt": [
+        "A resolute blond woman in a blue embroidered dress and fur mantle uses iron tongs to burn a stranger's drawing of a dark doorway in a snowbound inn's fireplace."
+      ],
+      "ig": "She refused to follow the stranger's drawing.\n\nAt a snowbound inn, a stranger drew the door she kept seeing in her dreams. Tonight she fed his drawing to the fire.\n\nFor the first time, the choice felt like hers.\n\nFireside Tales of Roo: the paper is gone. Will the door still be there when she sleeps?\n\nFollow for the next part.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+      "fb": "Burning the drawing was the easy part.\n\nIn the previous Fireside Tales of Roo scene, a stranger at a snowbound inn drew a door the woman recognized from her dreams.\n\nTonight, she chooses not to follow his lead. She lowers the drawing into the fire and watches the doorway blacken. Whatever the stranger wanted, she has made one decision for herself.\n\nBut paper burns more easily than a dream. Will the door still be there when she falls asleep?\n\nFollow the continuing Fireside Tales of Roo.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt"
+    }
+  ],
+  "posts": [
+    {
+      "slot": "11:00",
+      "subject": "Highward's Hidden Foundation",
+      "platform": "ig",
+      "args": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "text": "A home to you. A ruin to history.\n\nAt street level, Highward looks like a city built by people. Follow the stone past the houses and the scale stops making sense.\n\nVarren's capital stands on an enormous Vanir ruin. Watch the final view: would you want to know what your home was built on?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T09:00:00Z",
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/01-highwards-hidden-foundation-reel.mp4",
+              "metadata": {
+                "title": "Highward's Hidden Foundation"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "reel",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "postId": "6ad1df63ee2c696029c75df6",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    },
+    {
+      "slot": "11:00",
+      "subject": "Highward's Hidden Foundation",
+      "platform": "fb",
+      "args": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "text": "What if your whole city was someone else's ruin?\n\nHighward is the capital of Varren, far south of Roo. From its streets, the houses can hide the truth. From a distance, the enormous Vanir structure beneath the city becomes unmistakable.\n\nA familiar home, built into a past its inhabitants cannot fully explain. Watch the last view—would knowing what lies beneath make you feel safer, or less safe?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T09:00:00Z",
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/01-highwards-hidden-foundation-reel.mp4",
+              "metadata": {
+                "title": "Highward's Hidden Foundation"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "reel"
+          }
+        }
+      },
+      "postId": "6ad1df714ed7d375a450644c",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    },
+    {
+      "slot": "17:00",
+      "subject": "That Is Moss, Not a Tree",
+      "platform": "ig",
+      "args": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "text": "That is moss. Not a tree.\n\nIn Roo, even the smallest things grow on a different scale. For a child, a patch of moss can become a whole hiding place.\n\nSwipe for the wider view. She was right beside her mother all along.\n\nWhat did you spot first: mitten or face?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T15:00:00Z",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+              "metadata": {
+                "altText": "A smiling blond child in a wool coat and red mitten peeks through unusually large feather moss in a lush Roo forest."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+              "metadata": {
+                "altText": "The wider view reveals the same child laughing beside her mother, who holds her hand on a fallen birch beside the enormous moss."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "post",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "postId": "6ad1df7ca82f34dbe151f2d7",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    },
+    {
+      "slot": "17:00",
+      "subject": "That Is Moss, Not a Tree",
+      "platform": "fb",
+      "args": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "text": "A whole hiding place in a patch of moss.\n\nRoo's forests are unusually fertile: even their moss and mushrooms grow larger. This little scene imagines what that means on an ordinary walk with a child.\n\nA red mitten appears above the green. The next image reveals her mother was right there, ready to take her hand.\n\nLook at both images—what caught your eye first, the mitten or her face?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T15:00:00Z",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+              "metadata": {
+                "altText": "A smiling blond child in a wool coat and red mitten peeks through unusually large feather moss in a lush Roo forest."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+              "metadata": {
+                "altText": "The wider view reveals the same child laughing beside her mother, who holds her hand on a fallen birch beside the enormous moss."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "post"
+          }
+        }
+      },
+      "postId": "6ad1df92e991a49db3d507ba",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    },
+    {
+      "slot": "20:00",
+      "subject": "Fireside Tales of Roo — She Burned the Drawing",
+      "platform": "ig",
+      "args": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "text": "She refused to follow the stranger's drawing.\n\nAt a snowbound inn, a stranger drew the door she kept seeing in her dreams. Tonight she fed his drawing to the fire.\n\nFor the first time, the choice felt like hers.\n\nFireside Tales of Roo: the paper is gone. Will the door still be there when she sleeps?\n\nFollow for the next part.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T18:00:00Z",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+              "metadata": {
+                "altText": "A resolute blond woman in a blue embroidered dress and fur mantle uses iron tongs to burn a stranger's drawing of a dark doorway in a snowbound inn's fireplace."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "post",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "postId": "6ad1df874ed7d375a4506707",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    },
+    {
+      "slot": "20:00",
+      "subject": "Fireside Tales of Roo — She Burned the Drawing",
+      "platform": "fb",
+      "args": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "text": "Burning the drawing was the easy part.\n\nIn the previous Fireside Tales of Roo scene, a stranger at a snowbound inn drew a door the woman recognized from her dreams.\n\nTonight, she chooses not to follow his lead. She lowers the drawing into the fire and watches the doorway blacken. Whatever the stranger wanted, she has made one decision for herself.\n\nBut paper burns more easily than a dream. Will the door still be there when she falls asleep?\n\nFollow the continuing Fireside Tales of Roo.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-16T18:00:00Z",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+              "metadata": {
+                "altText": "A resolute blond woman in a blue embroidered dress and fur mantle uses iron tongs to burn a stranger's drawing of a dark doorway in a snowbound inn's fireplace."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "post"
+          }
+        }
+      },
+      "postId": "6ad1df9de991a49db3d50a79",
+      "status": "scheduled",
+      "retryCount": 0,
+      "lastError": null
+    }
+  ],
+  "recovery": "Before any recovery action, list both fixed channels and reconcile by slot, caption subject and media URLs. Never duplicate sent, sending or correctly scheduled posts. If missing/error after dueAt, use exact stored args with mode shareNow and omit dueAt. Retry a Buffer error once with identical assets; preserve successful IDs. Never disable after failure.",
+  "reelFallbackImages": [
+    "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/reel/frame-01.jpg",
+    "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/reel/frame-02.jpg",
+    "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/reel/frame-03.jpg"
+  ],
+  "generationPrompts": [
+    [
+      "reel1",
+      "Use case: illustration-story. Original cinematic Nordic fantasy concept art for The Land of Roo. Vertical 9:16, 1080x1920 composition. First scene of a visual journey in Highward, capital of Varren, a medieval city built atop enormous ancient Vanir ruins. At street level: narrow human-scale medieval limestone and half-timbered houses, slate roofs, an empty wooden handcart with a small broken wheel, rain-wet cobbles, warm early dawn light. Beneath the ordinary houses, ONE strange immense smooth pale stone rib emerges from the cobbled ground and curves upward, mostly hidden by human construction. Intriguing close eye-level composition with the huge rib as focal point, inviting the viewer to follow it. Refined realistic painterly illustration, tactile material detail, luminous cream limestone, slate blue shadows, rust-red awnings. No people, no creatures, no skulls, no runic writing, no logos or text. Not generic castle scenery, no magical glow. Keep top 15% comparatively quiet for added editorial title. This is new artwork, not a reuse of any reference."
+    ],
+    [
+      "reel2",
+      "Use case: illustration-story. Original cinematic Nordic fantasy concept art for The Land of Roo. Vertical 9:16. Second view of Highward, Varren: camera has followed an enormous smooth pale stone architectural rib out through a gap in ordinary medieval limestone and half-timbered houses with slate roofs and rust-red awnings. The foreground has a small wooden handcart and ordinary human-sized doorway for scale; behind it the pale stone rib joins a colossal ancient arch, dozens of meters high, whose upper section disappears UNDER and BEHIND the human city buildings. Reveal the discrepancy of scale without magical glow. Early dawn golden cream highlights, slate blue shadows, rain-wet stone. Photorealistic painterly, monumental precise coherent load-bearing architecture, phone-legible. No people or creatures, no inscriptions/text/logos. Top 15% quiet."
+    ],
+    [
+      "reel3",
+      "Use case: illustration-story. Original cinematic Nordic fantasy concept art for The Land of Roo. Vertical 9:16. Final reveal of Highward, Varren from a distant hillside: an entire busy-looking but no individually visible people medieval city of limestone walls, half-timbered houses, slate roofs and rust-red roofs sits ON TOP OF ONE enormous ancient Vanir structure. Its pale smooth stone base forms an unmistakable coherent immense circular ring and repeated gigantic arch supports, partly buried into a hillside. Human city is small and irregular, ancient foundation huge and precise. Show the whole base plainly at phone size, not a modern spaceship, not glowing, no futuristic metal. This is ancient stone architecture reused by human builders. Early dawn gold on cream stone and blue shadows, a small empty abandoned cart in foreground gives ordinary scale. Wide reveal composed within vertical frame. No people, creatures, text, logos, skulls. Top 15% sky clear for title."
+    ],
+    [
+      "car1",
+      "Use case: illustration-story. Create NEW original Nordic fantasy concept art for The Land of Roo, vertical 4:5. A visual search puzzle in a lush northern forest: very large feather moss 70cm high, broad ferns and rich orange mushrooms around a fallen birch trunk. At center-right a small clearly visible RED WOOL MITTEN on a child's raised hand peeks above the moss. Part of a pale freckled child face and a blond braid visible in a gap just below, smiling playfully, NOT distressed or trapped. No other figures. Beautiful tactile living forest, enormous but botanical moss fronds, warm amber light and deep cool green shadows. Fair-skinned Rooan child with blond braided hair and oatmeal wool coat. Frame from slightly above so child is mostly concealed at moss level. Mitten must be legible at phone size, not minuscule. Top 15% quiet dark forest for title and bottom 12% clear. Realistic painterly cinematic illustration, no magical glows, no monsters, no Arwen/Arven, no enslaved/collared people, no logos or writing. This is a new local scene compatible with fertile oversized Roo vegetation."
+    ],
+    [
+      "car2",
+      "Use case: illustration-story. Create NEW original Nordic fantasy concept art for The Land of Roo, vertical 4:5. Reveal frame in a lush northern forest: fair-skinned blond braided Rooan girl age eight, red wool mittens and oatmeal wool coat, stands laughing on an exposed fallen birch trunk behind a bank of enormous feather moss, beside her tall fair-skinned Rooan mother with long chestnut hair and slate-blue wool cloak who holds the child's red-mittened hand. Child clearly safe and reunited. Moss fronds rise nearly to the child's shoulders from the ground beside the log, broad ferns and rich orange mushrooms. Strong readable composition and warm human faces, mother and child occupy center. Top 15% quiet forest, bottom 12% space. Beautiful morning amber light, cool rich green shadows, vivid fertile nature. Realistic cinematic painterly concept art. No magic, no monsters, no logos or text. No Arwen/Arven characters, no captivity. Same scene concept as a red mitten visible in moss, but new ground-level view showing how tall the plants actually are."
+    ],
+    [
+      "serial",
+      "Use case: illustration-story. NEW original cinematic fantasy narrative artwork for The Land of Roo, vertical 4:5. Fireside Tales of Roo continuation, not an edit or reuse: a fair-skinned young Rooan woman with long loose honey-blond hair with thin side braids, gray-green eyes, a dark forest-blue embroidered wool dress and gray-brown fur mantle, sits ALONE beside a huge stone inn fireplace on a snowy evening. Her expression is resolute and relieved rather than afraid. With iron hearth tongs she releases a small parchment charcoal drawing of a black arched doorway into the fire. The lower half of the paper is curling and burning orange; the dark doorway drawing remains clearly visible in the upper half. Focus on her face, tongs and burning sketch. Three-quarter side view, intimate medium shot, materially different composition from yesterday's table conversation. Warm firelight vs blue snowy window. No other people, no creatures, no actual magical portal or glowing symbols, no text or logos. Top 13% and bottom 12% composition quiet for editorial text. She has chosen to destroy the stranger's drawing, not obey it. No Arwen/Arven, no slavery/collars. Refined realistic painterly quality, phone-legible."
+    ]
+  ],
+  "finalVerification": [
+    {
+      "id": "6ad1df714ed7d375a450644c",
+      "channelId": "6aaa9283ea19ca0bde5839d5",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T09:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "video",
+          "mimeType": "video/mp4",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/01-highwards-hidden-foundation-reel.mp4",
+          "thumbnail": "https://images.buffer.com/thumbnail/cP61dLrzQpJpw5GlLVGayHdbqXFbI5xXdeHBjg062Lo?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffanderflash%2Fthelandofroo%2Fa6c7a64eff4669ffb14c709ace035f9de0909492%2Fassets%2Fsocial%2F2026-10-16%2F01-highwards-hidden-foundation-reel.mp4",
+          "video": {
+            "durationMs": 12000,
+            "containerFormat": null,
+            "videoCodec": null,
+            "frameRate": null,
+            "title": "Highward's Hidden Foundation",
+            "thumbnailOffset": null
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "6ad1df63ee2c696029c75df6",
+      "channelId": "6aaa90f5ea19ca0bde582f0e",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T09:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "video",
+          "mimeType": "video/mp4",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/01-highwards-hidden-foundation-reel.mp4",
+          "thumbnail": "https://images.buffer.com/thumbnail/cP61dLrzQpJpw5GlLVGayHdbqXFbI5xXdeHBjg062Lo?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffanderflash%2Fthelandofroo%2Fa6c7a64eff4669ffb14c709ace035f9de0909492%2Fassets%2Fsocial%2F2026-10-16%2F01-highwards-hidden-foundation-reel.mp4",
+          "video": {
+            "durationMs": 12000,
+            "containerFormat": null,
+            "videoCodec": null,
+            "frameRate": null,
+            "title": "Highward's Hidden Foundation",
+            "thumbnailOffset": null
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "6ad1df92e991a49db3d507ba",
+      "channelId": "6aaa9283ea19ca0bde5839d5",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T15:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "A smiling blond child in a wool coat and red mitten peeks through unusually large feather moss in a lush Roo forest.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        },
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "The wider view reveals the same child laughing beside her mother, who holds her hand on a fallen birch beside the enormous moss.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "6ad1df7ca82f34dbe151f2d7",
+      "channelId": "6aaa90f5ea19ca0bde582f0e",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T15:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/01-that-is-moss.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "A smiling blond child in a wool coat and red mitten peeks through unusually large feather moss in a lush Roo forest.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        },
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/carousel/02-she-was-right-there.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "The wider view reveals the same child laughing beside her mother, who holds her hand on a fallen birch beside the enormous moss.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "6ad1df9de991a49db3d50a79",
+      "channelId": "6aaa9283ea19ca0bde5839d5",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T18:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "A resolute blond woman in a blue embroidered dress and fur mantle uses iron tongs to burn a stranger's drawing of a dark doorway in a snowbound inn's fireplace.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "6ad1df874ed7d375a4506707",
+      "channelId": "6aaa90f5ea19ca0bde582f0e",
+      "status": "scheduled",
+      "dueAt": "2026-10-16T18:00:00.000Z",
+      "assets": [
+        {
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a6c7a64eff4669ffb14c709ace035f9de0909492/assets/social/2026-10-16/03-she-burned-the-drawing.jpg",
+          "image": {
+            "width": 1080,
+            "height": 1350,
+            "altText": "A resolute blond woman in a blue embroidered dress and fur mantle uses iron tongs to burn a stranger's drawing of a dark doorway in a snowbound inn's fireplace.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "error": null
+    }
+  ]
+}
