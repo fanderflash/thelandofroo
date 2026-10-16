@@ -2,8 +2,8 @@
   "date": "2026-10-16",
   "timezone": "Europe/Stockholm",
   "organizationId": "6aaa903bbd40e692d59df47f",
-  "status": "all_six_scheduled",
-  "verifiedAt": "2026-10-16T08:27:00Z",
+  "status": "11_sent_both_17_and_20_scheduled_both",
+  "verifiedAt": "2026-10-16T09:15:29Z",
   "missingSlots": [],
   "mediaCommit": "a6c7a64eff4669ffb14c709ace035f9de0909492",
   "canonReview": {
@@ -630,9 +630,10 @@
         }
       },
       "postId": "6ad1df63ee2c696029c75df6",
-      "status": "scheduled",
+      "status": "sent",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": "2026-10-16T09:00:33.721Z"
     },
     {
       "slot": "11:00",
@@ -661,9 +662,10 @@
         }
       },
       "postId": "6ad1df714ed7d375a450644c",
-      "status": "scheduled",
+      "status": "sent",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": "2026-10-16T09:00:15.743Z"
     },
     {
       "slot": "17:00",
@@ -704,7 +706,8 @@
       "postId": "6ad1df7ca82f34dbe151f2d7",
       "status": "scheduled",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": null
     },
     {
       "slot": "17:00",
@@ -743,7 +746,8 @@
       "postId": "6ad1df92e991a49db3d507ba",
       "status": "scheduled",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": null
     },
     {
       "slot": "20:00",
@@ -776,7 +780,8 @@
       "postId": "6ad1df874ed7d375a4506707",
       "status": "scheduled",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": null
     },
     {
       "slot": "20:00",
@@ -807,7 +812,8 @@
       "postId": "6ad1df9de991a49db3d50a79",
       "status": "scheduled",
       "retryCount": 0,
-      "lastError": null
+      "lastError": null,
+      "sentAt": null
     }
   ],
   "recovery": "Before any recovery action, list both fixed channels and reconcile by slot, caption subject and media URLs. Never duplicate sent, sending or correctly scheduled posts. If missing/error after dueAt, use exact stored args with mode shareNow and omit dueAt. Retry a Buffer error once with identical assets; preserve successful IDs. Never disable after failure.",
@@ -846,8 +852,9 @@
     {
       "id": "6ad1df714ed7d375a450644c",
       "channelId": "6aaa9283ea19ca0bde5839d5",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-16T09:00:00.000Z",
+      "sentAt": "2026-10-16T09:00:15.743Z",
       "assets": [
         {
           "id": null,
@@ -870,8 +877,9 @@
     {
       "id": "6ad1df63ee2c696029c75df6",
       "channelId": "6aaa90f5ea19ca0bde582f0e",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-16T09:00:00.000Z",
+      "sentAt": "2026-10-16T09:00:33.721Z",
       "assets": [
         {
           "id": null,
@@ -896,6 +904,7 @@
       "channelId": "6aaa9283ea19ca0bde5839d5",
       "status": "scheduled",
       "dueAt": "2026-10-16T15:00:00.000Z",
+      "sentAt": null,
       "assets": [
         {
           "id": null,
@@ -935,6 +944,7 @@
       "channelId": "6aaa90f5ea19ca0bde582f0e",
       "status": "scheduled",
       "dueAt": "2026-10-16T15:00:00.000Z",
+      "sentAt": null,
       "assets": [
         {
           "id": null,
@@ -974,6 +984,7 @@
       "channelId": "6aaa9283ea19ca0bde5839d5",
       "status": "scheduled",
       "dueAt": "2026-10-16T18:00:00.000Z",
+      "sentAt": null,
       "assets": [
         {
           "id": null,
@@ -998,6 +1009,7 @@
       "channelId": "6aaa90f5ea19ca0bde582f0e",
       "status": "scheduled",
       "dueAt": "2026-10-16T18:00:00.000Z",
+      "sentAt": null,
       "assets": [
         {
           "id": null,
@@ -1016,6 +1028,16 @@
         }
       ],
       "error": null
+    }
+  ],
+  "recoveryChecks": [
+    {
+      "checkedAt": "2026-10-16T09:15:29Z",
+      "action": "No repost needed",
+      "sent": 2,
+      "scheduled": 4,
+      "errors": 0,
+      "duplicateCount": 0
     }
   ]
 }
