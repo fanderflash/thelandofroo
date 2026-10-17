@@ -2,7 +2,7 @@
   "date": "2026-10-17",
   "timezone": "Europe/Stockholm",
   "organizationId": "6aaa903bbd40e692d59df47f",
-  "status": "11_and_17_sent_both_20_scheduled",
+  "status": "all_six_sent",
   "mediaCommit": "6a20380d71b71d6a27825292ff65affe01493fc0",
   "missingSlots": [],
   "canonReview": {
@@ -725,7 +725,7 @@
       "service": "instagram",
       "subject": "She Finally Told Someone",
       "postId": "6ad331a6dd83363c4dc2f95d",
-      "status": "scheduled",
+      "status": "sent",
       "attempts": 1,
       "error": null,
       "request": {
@@ -803,14 +803,14 @@
         "isAiGenerated": true,
         "stickerFields": null
       },
-      "sentAt": null
+      "sentAt": "2026-10-17T18:01:04.720Z"
     },
     {
       "slot": "20:00",
       "service": "facebook",
       "subject": "She Finally Told Someone",
       "postId": "6ad331aaae173d6e00aa61b6",
-      "status": "scheduled",
+      "status": "sent",
       "attempts": 1,
       "error": null,
       "request": {
@@ -883,7 +883,7 @@
         "firstComment": null,
         "linkAttachment": null
       },
-      "sentAt": null
+      "sentAt": "2026-10-17T18:00:50.847Z"
     }
   ],
   "fallback": {
@@ -940,7 +940,7 @@
       "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/03-she-finally-told-someone.jpg"
     }
   ],
-  "verifiedAt": "2026-10-17 15:18:33 UTC",
+  "verifiedAt": "2026-10-17 18:19:06 UTC",
   "verification": {
     "totalPosts": 6,
     "checks": [
@@ -996,28 +996,28 @@
         "id": "6ad331a6dd83363c4dc2f95d",
         "slot": "20:00",
         "service": "instagram",
-        "status": "scheduled",
+        "status": "sent",
         "channel": true,
         "time": true,
         "caption": true,
         "media": true,
-        "sentAt": null,
+        "sentAt": "2026-10-17T18:01:04.720Z",
         "error": null
       },
       {
         "id": "6ad331aaae173d6e00aa61b6",
         "slot": "20:00",
         "service": "facebook",
-        "status": "scheduled",
+        "status": "sent",
         "channel": true,
         "time": true,
         "caption": true,
         "media": true,
-        "sentAt": null,
+        "sentAt": "2026-10-17T18:00:50.847Z",
         "error": null
       }
     ],
-    "states": "11:00 Reel and 17:00 carousel sent on both channels; 20:00 serial correctly scheduled on both channels. No duplicates, errors, missing slots or recovery writes to Buffer."
+    "states": "All three intended content pieces sent on both channels. No duplicates, errors, missing slots or recovery writes to Buffer."
   },
   "recoveryHistory": [
     {
@@ -1176,6 +1176,86 @@
           "caption": true,
           "media": true,
           "sentAt": null,
+          "error": null
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-10-17 18:19:06 UTC",
+      "passedSlot": "20:00",
+      "result": "all_six_sent",
+      "republished": 0,
+      "checks": [
+        {
+          "id": "6ad33197dd83363c4dc2f765",
+          "slot": "11:00",
+          "service": "instagram",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T09:00:43.808Z",
+          "error": null
+        },
+        {
+          "id": "6ad3319c0b0d72757acac418",
+          "slot": "11:00",
+          "service": "facebook",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T09:00:22.930Z",
+          "error": null
+        },
+        {
+          "id": "6ad331a1769b4579346b4e40",
+          "slot": "17:00",
+          "service": "instagram",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T15:00:45.570Z",
+          "error": null
+        },
+        {
+          "id": "6ad331b7ae173d6e00aa62bb",
+          "slot": "17:00",
+          "service": "facebook",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T15:00:38.615Z",
+          "error": null
+        },
+        {
+          "id": "6ad331a6dd83363c4dc2f95d",
+          "slot": "20:00",
+          "service": "instagram",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T18:01:04.720Z",
+          "error": null
+        },
+        {
+          "id": "6ad331aaae173d6e00aa61b6",
+          "slot": "20:00",
+          "service": "facebook",
+          "status": "sent",
+          "channel": true,
+          "time": true,
+          "caption": true,
+          "media": true,
+          "sentAt": "2026-10-17T18:00:50.847Z",
           "error": null
         }
       ]
