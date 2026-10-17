@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-17",
+  "timezone": "Europe/Stockholm",
+  "organizationId": "6aaa903bbd40e692d59df47f",
+  "status": "media_ready_not_scheduled",
+  "mediaCommit": null,
+  "missingSlots": [
+    "11:00 instagram",
+    "11:00 facebook",
+    "17:00 instagram",
+    "17:00 facebook",
+    "20:00 instagram",
+    "20:00 facebook"
+  ],
+  "canonReview": {
+    "source": "Current Canon Bible v1 and established public social/visual history",
+    "scope": "Full document reviewed. Truth magic requires an existing real foundation; two new minor human roadside/homecoming scenes; public-safe Fireside Tales continuation. No future book events, no major new lore, no Arven depicted, no forbidden or old media reused.",
+    "continuityRepair": "Corrected newly generated serial exterior to snowbound winter to match previous public scene."
+  },
+  "performance": {
+    "windows": {
+      "last30CompleteDays": "2026-09-17 through 2026-10-16",
+      "last7CompleteDays": "2026-10-10 through 2026-10-16",
+      "matureSevenDayComparison": "2026-10-09 through 2026-10-15",
+      "maturity": "October 16 posts excluded from creative judgments because younger than 24 hours."
+    },
+    "instagram30": {
+      "metrics": {
+        "postCount": 75,
+        "reactions": 61,
+        "comments": 0,
+        "engagementRate": 3.41,
+        "views": 3153,
+        "shares": 1,
+        "saves": 3,
+        "follows": 13,
+        "reach": 1933,
+        "totalTimeWatched": 63.72,
+        "averageTimeWatched": 3.26
+      },
+      "metricsUpdatedAt": "2026-10-17T04:57:21.972Z"
+    },
+    "instagram7": {
+      "metrics": {
+        "postCount": 21,
+        "reactions": 2,
+        "comments": 0,
+        "engagementRate": 0.45,
+        "views": 1161,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 894,
+        "totalTimeWatched": 42.64,
+        "averageTimeWatched": 3.28
+      },
+      "metricsUpdatedAt": "2026-10-17T04:57:21.970Z"
+    },
+    "facebook30": {
+      "metrics": {
+        "postCount": 76,
+        "reactions": 7,
+        "comments": 0,
+        "engagementRate": 1.76,
+        "impressions": 1249,
+        "shares": 0,
+        "clicks": 15
+      },
+      "metricsUpdatedAt": "2026-10-17T05:04:11.600Z"
+    },
+    "facebook7": {
+      "metrics": {
+        "postCount": 21,
+        "reactions": 1,
+        "comments": 0,
+        "engagementRate": 0.93,
+        "impressions": 432,
+        "shares": 0,
+        "clicks": 3
+      },
+      "metricsUpdatedAt": "2026-10-17T05:04:11.600Z"
+    },
+    "formatComparison": {
+      "facebook_single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 23,
+        "shares": 0,
+        "clicks": 3
+      },
+      "instagram_single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 93,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 47
+      },
+      "instagram_carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 169,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 56
+      },
+      "facebook_carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 19,
+        "shares": 0,
+        "clicks": 1
+      },
+      "instagram_reel": {
+        "posts": 7,
+        "reactions": 2,
+        "comments": 0,
+        "views": 875,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 784
+      },
+      "facebook_reel": {
+        "posts": 7,
+        "reactions": 1,
+        "comments": 0,
+        "impressions": 378,
+        "shares": 0,
+        "clicks": 0
+      }
+    },
+    "availability": "Non-follower reach unavailable. Facebook follows, saves and watch time unavailable, not treated as zero. Instagram clicks unavailable.",
+    "historicalWinner": {
+      "postId": "6aabbbdb3311c734e4e845e0",
+      "date": "2026-09-17",
+      "follows": 12,
+      "reach": 90,
+      "views": 253,
+      "shares": 1,
+      "pattern": "A changed world creates conflict, mystery and human stakes. Structural clue only; no caption or artwork copied."
+    },
+    "evaluation": "Reels lead distribution: mature Instagram seven Reels reach784 vs carousel56 vs single47. Yet all21 mature Instagram posts yielded zero follows and no shares or comments. The format mix has not demonstrated follower growth, and non-follower reach cannot be assessed. Do not claim improvement from overall reach alone.",
+    "stoppedPattern": "Low-distribution static ominous-ruin/abstract-stakes hooks are not being repeated. Three or more comparable low-reach static posts generated zero follows; retain serial continuity but resolve the prior question and provide a concrete human conversation instead of another unexplained object.",
+    "creativeHypothesis": "Test an explicit Roo-specific magic constraint with visible before/after human benefit in a shorter10s Reel; test a two-frame tangible-object reveal with family emotion rather than another abstract A/B dilemma; give the continuing serial an immediate emotional payoff and a specific decision. These are hypotheses, not established winners.",
+    "measurement": "After24h compare reach, follows, share/save/comment outcomes per format; review after three comparable trials. Yesterday remains unevaluated."
+  },
+  "generation": {
+    "mode": "built-in imagegen",
+    "prompts": [
+      {
+        "key": "r1",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 9:16 image, 1080x1920 composition. Scene 1 of a short visual story: a pale young adult Rooan woman with long wavy chestnut hair and a simple ochre wool cloak over dark brown wool clothes crouches in a cold blue forest clearing with thin snow. Very close foreground her gloved hands support an OPEN black iron tinderbox containing ONE visibly glowing orange charcoal ember, with gray ash. The ember must be legible and unmistakably alive, not a jewel. Her anxious intent face behind it at middle-height, a pale young male traveling companion with shoulder-length black hair and a slate wool cloak sits shivering farther back. No flame yet. Bare gray branches and dark conifers, enormous old tree trunks, no buildings. Natural cold blue ambient light contrasted with tiny orange ember glow. Keep top 18% and bottom 20% low-detail for later typography. No text."
+      },
+      {
+        "key": "r2",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 9:16 image, 1080x1920 composition. Scene 2: pale young adult Rooan woman long wavy chestnut hair, ochre wool cloak, dark brown wool clothes kneels beside a small stone fire ring on bare earth in cold blue forest clearing edged with thin snow. Her OPEN black iron tinderbox lies beside the ring. Inside ring a single glowing charcoal ember has just ignited dry kindling, one small real orange flame clearly growing among tiny split twigs. She concentrates deeply, open gloved hands held OUTSIDE the fire ring a safe distance from flame, no beams or supernatural glow on hands. Her face intent, effort visible. Pale young male companion shoulder-length black hair slate wool cloak sits in background. Giant old tree trunks and dark conifers. Intimate medium shot showing her face and growing flame, orange warm light stronger against blue. Keep top18% bottom20% quiet for added typography. No text."
+      },
+      {
+        "key": "r3",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 9:16 image, 1080x1920 composition. Scene 3 payoff: same pale young adult Rooan woman long wavy chestnut hair ochre wool cloak brown wool clothes and pale young male companion shoulder-length black hair slate wool cloak now seated at safe distance beside a healthy modest orange campfire in a stone ring on bare earth. Cold blue twilight conifer forest, thin snow beyond fire area, giant old tree trunks. Woman exhausted but quietly relieved, companion's hands extended toward heat and grateful smile at her. Open black iron tinderbox rests beside her boot as a tiny continuity detail. The warm fire dominates lower middle, hopeful faces central, no magic particles. New wider intimate composition shows heat and human connection, not a landscape. Keep top18% bottom20% low detail for later typography. No text."
+      },
+      {
+        "key": "c1",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 4:5 image 1080x1350 composition, first image of a two-image hidden-gift reveal. Human homecoming in Roo: a tired pale father, long shoulder-length copper red hair, short red beard, slate-gray wool travelcoat with muddy hem, kneels on one knee inside a simple Nordic timber home doorway. An almost empty linen pack rests at his boot. His hands cradle a small rectangular bundle tightly wrapped in plain pale linen cloth, closed so the gift is NOT visible. He offers it to his young human daughter with pale skin, copper-red twin braids and a muted teal wool dress. Girl leans toward bundle curious, father has an almost suppressed tender smile. Medium-close composition, hands with wrapped bundle center foreground, faces readable in middle half. Rain-gray exterior through open door, warm honey light inside. No toy visible yet. Keep top15% bottom13% quiet space for typography. No text."
+      },
+      {
+        "key": "c2",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 4:5 image 1080x1350 composition, second image of a two-image hidden-gift reveal. Same human Rooan timber home doorway, pale father with shoulder-length copper red hair, short red beard, slate-gray wool travelcoat muddy hem kneeling, same pale daughter copper-red twin braids muted teal wool dress. The plain pale linen cloth is now OPEN across his hands. It reveals one small lovingly hand-carved chestnut wooden HORSE, about palm length, simple solid carved legs, not ornate, no paint. Daughter gently takes horse with both hands, radiant delighted expression; father's weary face relaxes with a tender smile. Horse very clear in foreground central focus, their faces close above it. Linen pack at boot soft focus. Warm honey interior light and rain-gray doorway beyond, authentic woodgrain carving and wool textures. Close intimate composition different from previous setup, no text. Keep top10% and bottom15% quiet for typography."
+      },
+      {
+        "key": "s",
+        "prompt": "Use case: illustration-story. Brand-new original concept art for The Land of Roo, an original Nordic fantasy world. Painterly cinematic realism, tactile wool, wood and weathered iron, restrained sophisticated Nordic palette, expressive human faces, strong phone-size focal point. Human Rooans only: pale/light skin, naturally long hair, normal rounded human ears. No Arven or other nonhuman people, no recognizable real people, no logos, no watermarks, no letters or symbols, no horned helmets, no magical neon, no generic castle wallpaper. Vertical 4:5 image 1080x1350 composition. New scene in recurring Fireside Tales of Roo. Early morning in a modest Nordic timber inn: pale young adult woman with long honey-blond hair, thin side braids, gray-green eyes, forest-blue wool dress with understated Nordic embroidery and gray-brown fur mantle sits at an oak breakfast table, listening intently with relief and cautious hope. Across from her, elderly pale human female innkeeper with long silver hair braided over one shoulder and rust-brown wool dress points through an open window toward an ordinary narrow winding rural road at dawn, suggesting she knows the way. Innkeeper other hand rests reassuringly on young woman's hand. Two simple clay bowls and bread on table. Close cinematic composition makes faces and joined hands prominent, the pointed direction through window readable, golden dawn crosses their hands. No drawing, no portal, no runes, no mysterious glowing artifact, no doors or dream imagery. Background restrained, huge old green trees outside. Keep top9% bottom13% quiet for typography. No text."
+      }
+    ],
+    "repairPrompt": "Edit target: this freshly generated Fireside Tales of Roo breakfast image. Change ONLY the outdoor scene visible through the open window to a snowy Nordic winter morning: substantial snow blankets the stone fence, ground and road edges, the winding road is narrow and lightly tracked through snow, trees are conifers or leafless with snow. This inn was snowbound the preceding evening, so no green summer grass or leafy deciduous canopy. Preserve the exact two women's identities, poses, joined hands and pointing gesture, clothing, faces, all indoor table details and warm dawn light, composition and portrait 4:5 aspect. No text, no other changes.",
+    "sourcePixels": "All images newly generated today. No old assets used as references or sources."
+  },
+  "validation": {
+    "video": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt470bg",
+          "chroma_location": "center",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1",
+          "time_base": "1/15360",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 153600,
+          "duration": "10.000000",
+          "bit_rate": "1045735",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "300",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 480000,
+          "duration": "10.000000",
+          "bit_rate": "96144",
+          "nb_frames": "470",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "assets/social/2026-10-17/01-one-living-ember-reel.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.000000",
+        "size": "1440026",
+        "bit_rate": "1152020",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf60.16.100"
+        }
+      }
+    },
+    "faststart": "moov offset40 before mdat12420",
+    "durationSeconds": 10,
+    "distinctScenes": 3,
+    "cutsAtSeconds": [
+      2.5,
+      6
+    ],
+    "frameSize": [
+      1080,
+      1920
+    ],
+    "stillSize": [
+      1080,
+      1350
+    ],
+    "visualQA": "All six final frames inspected for phone-legible focal subject, text placement, anatomy, scene order and continuity. Winter exterior repaired before publication.",
+    "audio": "Locally synthesized quiet brown-noise ambience; no third-party audio."
+  },
+  "pieces": [
+    {
+      "slot": "11:00",
+      "subject": "One Living Ember",
+      "format": "reel",
+      "files": [
+        "01-one-living-ember-reel.mp4"
+      ],
+      "alt": [
+        "A Rooan practitioner of Truth magic nurtures a surviving ember into a warming fire for two travelers."
+      ],
+      "instagram": "Her magic needed something the cold hadn't killed.\n\nOne living ember. Two people who needed its warmth.\n\nIn Roo, Truth magic strengthens or weakens something that already exists. It needs a real foundation—not just a wish. Skill, spirit and conviction still matter.\n\nLook again at the first frame: that tiny glow is the whole difference.\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks",
+      "facebook": "Her magic needed something the cold hadn't killed.\n\nIn this imagined roadside scene from Roo, a traveler who practices Truth magic has one living ember left—and a companion who needs warmth.\n\nTruth magic can strengthen what already exists. It needs a real foundation; skill, spirit and conviction determine what the practitioner can do with it. The little glow in the first scene matters more than any grand gesture.\n\nWhich interests you more in fantasy: what magic can do, or what it cannot?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks"
+    },
+    {
+      "slot": "17:00",
+      "subject": "The Smallest Homecoming",
+      "format": "carousel",
+      "files": [
+        "carousel/01-the-small-parcel.jpg",
+        "carousel/02-the-carved-horse.jpg"
+      ],
+      "alt": [
+        "A weary red-haired Rooan father kneels in a timber doorway, offering his curious daughter a small parcel wrapped in linen.",
+        "The opened linen reveals a small hand-carved wooden horse. The daughter takes it with delight as her weary father smiles."
+      ],
+      "instagram": "He brought almost nothing home.\n\nMud on his coat. A weather-beaten pack. One small parcel.\n\nShe had waited by the door all afternoon.\n\nSwipe to see what he saved for her.\n\nA small Rooan homecoming, imagined between the larger stories. What would you carve as a gift: horse, boat or bird?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+      "facebook": "He brought almost nothing home.\n\nHis pack was battered. His coat was wet. But the small parcel had stayed dry.\n\nHis daughter had spent the afternoon watching the doorway. Open the second image to see what he had carried home for her.\n\nThis imagined Rooan homecoming is about the small things a long journey can make precious. Not every story in Roo belongs to kings or ancient ruins.\n\nIf you carved a gift for someone waiting at home, would it be a horse, a boat or a bird?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding"
+    },
+    {
+      "slot": "20:00",
+      "subject": "She Finally Told Someone",
+      "format": "single",
+      "files": [
+        "03-she-finally-told-someone.jpg"
+      ],
+      "alt": [
+        "At breakfast in a timber inn, a honey-blond young woman in a forest-blue dress listens to a silver-haired innkeeper who holds her hand and points toward the morning road."
+      ],
+      "instagram": "She slept. The doorway never came.\n\nFireside Tales of Roo\n\nA stranger had drawn the doorway from her dreams. She burned his drawing rather than let him decide where she should go.\n\nThat night, she slept without seeing it.\n\nAt breakfast she finally told the innkeeper. The older woman took her hand.\n\n“I know that doorway. I can show you the road.”\n\nWould she trust a guide after refusing the stranger?\n\nFollow for the next fireside tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+      "facebook": "She slept. The doorway never came.\n\nFireside Tales of Roo\n\nThe stranger's drawing had shown a doorway she knew only from dreams. Instead of following his lead, she put the drawing in the fire.\n\nFor one night, at least, the dream left her alone.\n\nOver breakfast she told the innkeeper everything. She expected a laugh. The older woman took her hand instead.\n\n“I know that doorway. I can show you the road.”\n\nRefusing one person's directions was easy. Deciding whose help to accept was harder.\n\nWould you go with the innkeeper, or ask her how she knew it first? Follow for the next fireside tale.\n\nAn imagined side-story from The Land of Roo. Concept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt"
+    }
+  ],
+  "posts": [],
+  "fallback": {
+    "slot": "11:00",
+    "files": [
+      "reel/frame-01.jpg",
+      "reel/frame-02.jpg",
+      "reel/frame-03.jpg"
+    ],
+    "reason": "Only use same-scene carousel if video fails after one repair; do not duplicate a successful Reel."
+  },
+  "retryPolicy": "One immediate identical-media retry on Buffer error, retain successful IDs; preserve missing slots for recovery and never disable automation.",
+  "mediaFiles": [
+    "assets/social/2026-10-17/01-one-living-ember-reel.mp4",
+    "assets/social/2026-10-17/reel/frame-01.jpg",
+    "assets/social/2026-10-17/reel/frame-02.jpg",
+    "assets/social/2026-10-17/reel/frame-03.jpg",
+    "assets/social/2026-10-17/carousel/01-the-small-parcel.jpg",
+    "assets/social/2026-10-17/carousel/02-the-carved-horse.jpg",
+    "assets/social/2026-10-17/03-she-finally-told-someone.jpg"
+  ]
+}
