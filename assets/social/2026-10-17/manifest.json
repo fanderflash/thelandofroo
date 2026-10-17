@@ -2,16 +2,9 @@
   "date": "2026-10-17",
   "timezone": "Europe/Stockholm",
   "organizationId": "6aaa903bbd40e692d59df47f",
-  "status": "media_ready_not_scheduled",
-  "mediaCommit": null,
-  "missingSlots": [
-    "11:00 instagram",
-    "11:00 facebook",
-    "17:00 instagram",
-    "17:00 facebook",
-    "20:00 instagram",
-    "20:00 facebook"
-  ],
+  "status": "all_six_scheduled",
+  "mediaCommit": "6a20380d71b71d6a27825292ff65affe01493fc0",
+  "missingSlots": [],
   "canonReview": {
     "source": "Current Canon Bible v1 and established public social/visual history",
     "scope": "Full document reviewed. Truth magic requires an existing real foundation; two new minor human roadside/homecoming scenes; public-safe Fireside Tales continuation. No future book events, no major new lore, no Arven depicted, no forbidden or old media reused.",
@@ -380,7 +373,513 @@
       "facebook": "She slept. The doorway never came.\n\nFireside Tales of Roo\n\nThe stranger's drawing had shown a doorway she knew only from dreams. Instead of following his lead, she put the drawing in the fire.\n\nFor one night, at least, the dream left her alone.\n\nOver breakfast she told the innkeeper everything. She expected a laugh. The older woman took her hand instead.\n\n“I know that doorway. I can show you the road.”\n\nRefusing one person's directions was easy. Deciding whose help to accept was harder.\n\nWould you go with the innkeeper, or ask her how she knew it first? Follow for the next fireside tale.\n\nAn imagined side-story from The Land of Roo. Concept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "slot": "11:00",
+      "service": "instagram",
+      "subject": "One Living Ember",
+      "postId": "6ad33197dd83363c4dc2f765",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T09:00:00Z",
+        "text": "Her magic needed something the cold hadn't killed.\n\nOne living ember. Two people who needed its warmth.\n\nIn Roo, Truth magic strengthens or weakens something that already exists. It needs a real foundation—not just a wish. Skill, spirit and conviction still matter.\n\nLook again at the first frame: that tiny glow is the whole difference.\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks",
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/01-one-living-ember-reel.mp4",
+              "metadata": {
+                "title": "One Living Ember"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "reel",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "reel",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              489,
+              502
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              503,
+              517
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#Worldbuilding",
+            "indices": [
+              518,
+              532
+            ],
+            "text": "#Worldbuilding",
+            "url": "https://www.instagram.com/explore/tags/Worldbuilding"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyBooks",
+            "indices": [
+              533,
+              546
+            ],
+            "text": "#FantasyBooks",
+            "url": "https://www.instagram.com/explore/tags/FantasyBooks"
+          }
+        ],
+        "link": null,
+        "firstComment": null,
+        "geolocation": null,
+        "shouldShareToFeed": true,
+        "isAiGenerated": true,
+        "stickerFields": null
+      }
+    },
+    {
+      "slot": "11:00",
+      "service": "facebook",
+      "subject": "One Living Ember",
+      "postId": "6ad3319c0b0d72757acac418",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T09:00:00Z",
+        "text": "Her magic needed something the cold hadn't killed.\n\nIn this imagined roadside scene from Roo, a traveler who practices Truth magic has one living ember left—and a companion who needs warmth.\n\nTruth magic can strengthen what already exists. It needs a real foundation; skill, spirit and conviction determine what the practitioner can do with it. The little glow in the first scene matters more than any grand gesture.\n\nWhich interests you more in fantasy: what magic can do, or what it cannot?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyBooks",
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/01-one-living-ember-reel.mp4",
+              "metadata": {
+                "title": "One Living Ember"
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "reel"
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "reel",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              644,
+              657
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              658,
+              672
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.facebook.com/hashtag/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#Worldbuilding",
+            "indices": [
+              673,
+              687
+            ],
+            "text": "#Worldbuilding",
+            "url": "https://www.facebook.com/hashtag/Worldbuilding"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyBooks",
+            "indices": [
+              688,
+              701
+            ],
+            "text": "#FantasyBooks",
+            "url": "https://www.facebook.com/hashtag/FantasyBooks"
+          }
+        ],
+        "title": null,
+        "firstComment": null,
+        "linkAttachment": null
+      }
+    },
+    {
+      "slot": "17:00",
+      "service": "instagram",
+      "subject": "The Smallest Homecoming",
+      "postId": "6ad331a1769b4579346b4e40",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T15:00:00Z",
+        "text": "He brought almost nothing home.\n\nMud on his coat. A weather-beaten pack. One small parcel.\n\nShe had waited by the door all afternoon.\n\nSwipe to see what he saved for her.\n\nA small Rooan homecoming, imagined between the larger stories. What would you carve as a gift: horse, boat or bird?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/01-the-small-parcel.jpg",
+              "metadata": {
+                "altText": "A weary red-haired Rooan father kneels in a timber doorway, offering his curious daughter a small parcel wrapped in linen."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/02-the-carved-horse.jpg",
+              "metadata": {
+                "altText": "The opened linen reveals a small hand-carved wooden horse. The daughter takes it with delight as her weary father smiles."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "post",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "post",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              323,
+              336
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              337,
+              351
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyArt",
+            "indices": [
+              352,
+              363
+            ],
+            "text": "#FantasyArt",
+            "url": "https://www.instagram.com/explore/tags/FantasyArt"
+          },
+          {
+            "type": "hashtag",
+            "content": "#Worldbuilding",
+            "indices": [
+              364,
+              378
+            ],
+            "text": "#Worldbuilding",
+            "url": "https://www.instagram.com/explore/tags/Worldbuilding"
+          }
+        ],
+        "link": null,
+        "firstComment": null,
+        "geolocation": null,
+        "shouldShareToFeed": true,
+        "isAiGenerated": true,
+        "stickerFields": null
+      }
+    },
+    {
+      "slot": "17:00",
+      "service": "facebook",
+      "subject": "The Smallest Homecoming",
+      "postId": "6ad331b7ae173d6e00aa62bb",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T15:00:00Z",
+        "text": "He brought almost nothing home.\n\nHis pack was battered. His coat was wet. But the small parcel had stayed dry.\n\nHis daughter had spent the afternoon watching the doorway. Open the second image to see what he had carried home for her.\n\nThis imagined Rooan homecoming is about the small things a long journey can make precious. Not every story in Roo belongs to kings or ancient ruins.\n\nIf you carved a gift for someone waiting at home, would it be a horse, a boat or a bird?\n\nConcept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/01-the-small-parcel.jpg",
+              "metadata": {
+                "altText": "A weary red-haired Rooan father kneels in a timber doorway, offering his curious daughter a small parcel wrapped in linen."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/02-the-carved-horse.jpg",
+              "metadata": {
+                "altText": "The opened linen reveals a small hand-carved wooden horse. The daughter takes it with delight as her weary father smiles."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "post"
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "post",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              509,
+              522
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              523,
+              537
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.facebook.com/hashtag/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyArt",
+            "indices": [
+              538,
+              549
+            ],
+            "text": "#FantasyArt",
+            "url": "https://www.facebook.com/hashtag/FantasyArt"
+          },
+          {
+            "type": "hashtag",
+            "content": "#Worldbuilding",
+            "indices": [
+              550,
+              564
+            ],
+            "text": "#Worldbuilding",
+            "url": "https://www.facebook.com/hashtag/Worldbuilding"
+          }
+        ],
+        "title": null,
+        "firstComment": null,
+        "linkAttachment": null
+      }
+    },
+    {
+      "slot": "20:00",
+      "service": "instagram",
+      "subject": "She Finally Told Someone",
+      "postId": "6ad331a6dd83363c4dc2f95d",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa90f5ea19ca0bde582f0e",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T18:00:00Z",
+        "text": "She slept. The doorway never came.\n\nFireside Tales of Roo\n\nA stranger had drawn the doorway from her dreams. She burned his drawing rather than let him decide where she should go.\n\nThat night, she slept without seeing it.\n\nAt breakfast she finally told the innkeeper. The older woman took her hand.\n\n“I know that doorway. I can show you the road.”\n\nWould she trust a guide after refusing the stranger?\n\nFollow for the next fireside tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/03-she-finally-told-someone.jpg",
+              "metadata": {
+                "altText": "At breakfast in a timber inn, a honey-blond young woman in a forest-blue dress listens to a silver-haired innkeeper who holds her hand and points toward the morning road."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "instagram": {
+            "type": "post",
+            "shouldShareToFeed": true,
+            "isAiGenerated": true
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "post",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              497,
+              510
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              511,
+              525
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyBooks",
+            "indices": [
+              526,
+              539
+            ],
+            "text": "#FantasyBooks",
+            "url": "https://www.instagram.com/explore/tags/FantasyBooks"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyArt",
+            "indices": [
+              540,
+              551
+            ],
+            "text": "#FantasyArt",
+            "url": "https://www.instagram.com/explore/tags/FantasyArt"
+          }
+        ],
+        "link": null,
+        "firstComment": null,
+        "geolocation": null,
+        "shouldShareToFeed": true,
+        "isAiGenerated": true,
+        "stickerFields": null
+      }
+    },
+    {
+      "slot": "20:00",
+      "service": "facebook",
+      "subject": "She Finally Told Someone",
+      "postId": "6ad331aaae173d6e00aa61b6",
+      "status": "scheduled",
+      "attempts": 1,
+      "error": null,
+      "request": {
+        "channelId": "6aaa9283ea19ca0bde5839d5",
+        "schedulingType": "automatic",
+        "mode": "customScheduled",
+        "dueAt": "2026-10-17T18:00:00Z",
+        "text": "She slept. The doorway never came.\n\nFireside Tales of Roo\n\nThe stranger's drawing had shown a doorway she knew only from dreams. Instead of following his lead, she put the drawing in the fire.\n\nFor one night, at least, the dream left her alone.\n\nOver breakfast she told the innkeeper everything. She expected a laugh. The older woman took her hand instead.\n\n“I know that doorway. I can show you the road.”\n\nRefusing one person's directions was easy. Deciding whose help to accept was harder.\n\nWould you go with the innkeeper, or ask her how she knew it first? Follow for the next fireside tale.\n\nAn imagined side-story from The Land of Roo. Concept art from The Land of Roo.\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/03-she-finally-told-someone.jpg",
+              "metadata": {
+                "altText": "At breakfast in a timber inn, a honey-blond young woman in a forest-blue dress listens to a silver-haired innkeeper who holds her hand and points toward the morning road."
+              }
+            }
+          }
+        ],
+        "metadata": {
+          "facebook": {
+            "type": "post"
+          }
+        }
+      },
+      "savedMetadata": {
+        "type": "post",
+        "annotations": [
+          {
+            "type": "hashtag",
+            "content": "#TheLandOfRoo",
+            "indices": [
+              675,
+              688
+            ],
+            "text": "#TheLandOfRoo",
+            "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+          },
+          {
+            "type": "hashtag",
+            "content": "#NordicFantasy",
+            "indices": [
+              689,
+              703
+            ],
+            "text": "#NordicFantasy",
+            "url": "https://www.facebook.com/hashtag/NordicFantasy"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyBooks",
+            "indices": [
+              704,
+              717
+            ],
+            "text": "#FantasyBooks",
+            "url": "https://www.facebook.com/hashtag/FantasyBooks"
+          },
+          {
+            "type": "hashtag",
+            "content": "#FantasyArt",
+            "indices": [
+              718,
+              729
+            ],
+            "text": "#FantasyArt",
+            "url": "https://www.facebook.com/hashtag/FantasyArt"
+          }
+        ],
+        "title": null,
+        "firstComment": null,
+        "linkAttachment": null
+      }
+    }
+  ],
   "fallback": {
     "slot": "11:00",
     "files": [
@@ -392,12 +891,114 @@
   },
   "retryPolicy": "One immediate identical-media retry on Buffer error, retain successful IDs; preserve missing slots for recovery and never disable automation.",
   "mediaFiles": [
-    "assets/social/2026-10-17/01-one-living-ember-reel.mp4",
-    "assets/social/2026-10-17/reel/frame-01.jpg",
-    "assets/social/2026-10-17/reel/frame-02.jpg",
-    "assets/social/2026-10-17/reel/frame-03.jpg",
-    "assets/social/2026-10-17/carousel/01-the-small-parcel.jpg",
-    "assets/social/2026-10-17/carousel/02-the-carved-horse.jpg",
-    "assets/social/2026-10-17/03-she-finally-told-someone.jpg"
-  ]
+    {
+      "path": "assets/social/2026-10-17/01-one-living-ember-reel.mp4",
+      "sha": "572c8bdb21dae8a63e79e73cac26d6e76780d2d9",
+      "size": 1440026,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/01-one-living-ember-reel.mp4"
+    },
+    {
+      "path": "assets/social/2026-10-17/reel/frame-01.jpg",
+      "sha": "a304154303336213f18437d0d07f715f4a28a118",
+      "size": 442019,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/reel/frame-01.jpg"
+    },
+    {
+      "path": "assets/social/2026-10-17/reel/frame-02.jpg",
+      "sha": "766a147a89b95be4c2e1a7cca589b300771aec1c",
+      "size": 514894,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/reel/frame-02.jpg"
+    },
+    {
+      "path": "assets/social/2026-10-17/reel/frame-03.jpg",
+      "sha": "2bb9a5e7ca9fe986e38dac526ffa137f35145b76",
+      "size": 506164,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/reel/frame-03.jpg"
+    },
+    {
+      "path": "assets/social/2026-10-17/carousel/01-the-small-parcel.jpg",
+      "sha": "724c952b48119947d4fe413c7c13aaf8814f3f96",
+      "size": 420383,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/01-the-small-parcel.jpg"
+    },
+    {
+      "path": "assets/social/2026-10-17/carousel/02-the-carved-horse.jpg",
+      "sha": "5a6a6f7bef61314a69c2e678f466b78a511d571f",
+      "size": 450054,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/carousel/02-the-carved-horse.jpg"
+    },
+    {
+      "path": "assets/social/2026-10-17/03-she-finally-told-someone.jpg",
+      "sha": "72848182c719e0e22a8543a6b5e339b7db2db988",
+      "size": 435881,
+      "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/6a20380d71b71d6a27825292ff65affe01493fc0/assets/social/2026-10-17/03-she-finally-told-someone.jpg"
+    }
+  ],
+  "verifiedAt": "2026-10-17 08:29:22 UTC",
+  "verification": {
+    "totalPosts": 6,
+    "checks": [
+      {
+        "slot": "11:00",
+        "service": "instagram",
+        "id": "6ad33197dd83363c4dc2f765",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      },
+      {
+        "slot": "11:00",
+        "service": "facebook",
+        "id": "6ad3319c0b0d72757acac418",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      },
+      {
+        "slot": "17:00",
+        "service": "instagram",
+        "id": "6ad331a1769b4579346b4e40",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      },
+      {
+        "slot": "17:00",
+        "service": "facebook",
+        "id": "6ad331b7ae173d6e00aa62bb",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      },
+      {
+        "slot": "20:00",
+        "service": "instagram",
+        "id": "6ad331a6dd83363c4dc2f95d",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      },
+      {
+        "slot": "20:00",
+        "service": "facebook",
+        "id": "6ad331aaae173d6e00aa61b6",
+        "status": "scheduled",
+        "channelMatch": true,
+        "captionMatch": true,
+        "timeMatch": true,
+        "assetMatch": true
+      }
+    ],
+    "states": "All scheduled. Publication still pending at the requested times; this is not a claim of sent status."
+  }
 }
