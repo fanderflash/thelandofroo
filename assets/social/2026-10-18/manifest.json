@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "Europe/Stockholm",
-  "status": "11_and_17_sent_both_20_scheduled_both",
+  "status": "all_six_sent_verified",
   "generationMode": "built-in image_gen",
   "canon": {
     "source": "Current Canon Bible, read completely; established social and visual continuity",
@@ -927,9 +927,9 @@
       "posts": {
         "instagram": {
           "id": "6ad482f7769b457934b397a3",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-18T18:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-10-18T18:01:00.171Z",
           "error": null,
           "metadata": {
             "type": "post",
@@ -1011,9 +1011,9 @@
         },
         "facebook": {
           "id": "6ad482faae173d6e00f1d535",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-18T18:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-10-18T18:00:41.532Z",
           "error": null,
           "metadata": {
             "type": "post",
@@ -1096,7 +1096,7 @@
   ],
   "mediaCommit": "f2b7819141d3252d815658fb1359b07a0d5fb7ba",
   "mediaBaseUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/",
-  "verifiedAt": "2026-10-18 15:13:37 UTC",
+  "verifiedAt": "2026-10-18 18:11:48 UTC",
   "uploads": [
     {
       "path": "assets/social/2026-10-18/reel/frame-01.jpg",
@@ -1212,6 +1212,54 @@
           "id": "6ad482f7769b457934b397a3",
           "status": "scheduled",
           "sentAt": null,
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "channel": "instagram"
+        },
+        {
+          "id": "6ad482f3769b457934b39749",
+          "status": "sent",
+          "sentAt": "2026-10-18T15:00:37.418Z",
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482f0938409f1d0c0d75a",
+          "status": "sent",
+          "sentAt": "2026-10-18T15:00:47.677Z",
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "channel": "instagram"
+        },
+        {
+          "id": "6ad482ec6d56c60a7300b288",
+          "status": "sent",
+          "sentAt": "2026-10-18T09:00:16.129Z",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482dd769b457934b395db",
+          "status": "sent",
+          "sentAt": "2026-10-18T09:01:44.743Z",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "channel": "instagram"
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-10-18 18:11:48 UTC",
+      "result": "All three slots sent on Instagram and Facebook. Exactly six matching posts; no errors or duplicates; no republishing.",
+      "posts": [
+        {
+          "id": "6ad482faae173d6e00f1d535",
+          "status": "sent",
+          "sentAt": "2026-10-18T18:00:41.532Z",
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482f7769b457934b397a3",
+          "status": "sent",
+          "sentAt": "2026-10-18T18:01:00.171Z",
           "dueAt": "2026-10-18T18:00:00.000Z",
           "channel": "instagram"
         },
