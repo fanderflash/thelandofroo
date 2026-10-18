@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "Europe/Stockholm",
-  "status": "media_ready_posts_missing",
+  "status": "all_six_scheduled_verified",
   "generationMode": "built-in image_gen",
   "canon": {
     "source": "Current Canon Bible, read completely; established social and visual continuity",
@@ -536,12 +536,177 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad482dd769b457934b395db",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "reel",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  413,
+                  426
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  427,
+                  441
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  442,
+                  453
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.instagram.com/explore/tags/FantasyArt"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  454,
+                  468
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.instagram.com/explore/tags/Worldbuilding"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          },
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "She cut up her best cloak.\n\nThe sail had torn. Home was still across the fjord.\n\nStitch by stitch, her crimson wool became their way back. By sundown, that red patch was the first thing their neighbors saw.\n\nWould you have cut yours?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nAn imagined coastal scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/01-the-cloak-that-carried-them-home.mp4",
+                  "metadata": {
+                    "title": "The Cloak That Carried Them Home"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "reel",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T09:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad482ec6d56c60a7300b288",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "reel",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  598,
+                  611
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  612,
+                  626
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  627,
+                  638
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.facebook.com/hashtag/FantasyArt"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  639,
+                  653
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.facebook.com/hashtag/Worldbuilding"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          },
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "Her best cloak became the way home.\n\nA torn sail drove two Rooan travelers into a sheltered cove. They had thread, a needle—and the crimson wool she had worn for years.\n\nShe cut the cloth. Together they stitched it over the tear. By sundown, a red patch was carrying them toward the timber houses across the fjord.\n\nWould you have sacrificed your best cloak, or waited in the cove?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story of its people, choices and mysteries.\n\nAn imagined coastal scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/01-the-cloak-that-carried-them-home.mp4",
+                  "metadata": {
+                    "title": "The Cloak That Carried Them Home"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "reel"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T09:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/01-the-cloak-that-carried-them-home.mp4"
+      ],
+      "fallbackUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/reel/frame-01.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/reel/frame-02.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/reel/frame-03.jpg"
+      ]
     },
     {
       "slot": "17:00",
@@ -561,12 +726,189 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad482f0938409f1d0c0d75a",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  310,
+                  323
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  324,
+                  338
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  339,
+                  350
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.instagram.com/explore/tags/FantasyArt"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  351,
+                  365
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.instagram.com/explore/tags/Worldbuilding"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          },
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "She brought the wrong basket.\n\nRoo's forests grow on a generous scale—even the mushrooms. In this imagined harvest, one find was more than she could carry.\n\nSwipe: she came back with a cart and a friend. Supper was no longer just for one.\n\nWhat would you make: soup or pie?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/01-the-wrong-basket.jpg",
+                  "metadata": {
+                    "altText": "A red-haired human forager holds an ordinary wicker basket beside an enormous brown mushroom in Roo's lush forest. Text: She brought the wrong basket. Swipe to see how it got home."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/02-one-mushroom-two-friends.jpg",
+                  "metadata": {
+                    "altText": "The same forager and a friend haul the harvested mushroom in a wooden handcart, with the small basket hanging from its side. Text: One mushroom. Two friends."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T15:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad482f3769b457934b39749",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  421,
+                  434
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  435,
+                  449
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  450,
+                  461
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.facebook.com/hashtag/FantasyArt"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  462,
+                  476
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.facebook.com/hashtag/Worldbuilding"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          },
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "One basket was never going to be enough.\n\nTrees, moss and mushrooms grow unusually large in Roo's fertile forests. This imagined harvest turns that detail into a very practical problem: how do you get such a find home?\n\nThe second image has her answer—a handcart, a friend and enough to share.\n\nIf you were cooking supper in this fantasy hall, would you choose mushroom soup or a pie?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/01-the-wrong-basket.jpg",
+                  "metadata": {
+                    "altText": "A red-haired human forager holds an ordinary wicker basket beside an enormous brown mushroom in Roo's lush forest. Text: She brought the wrong basket. Swipe to see how it got home."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/02-one-mushroom-two-friends.jpg",
+                  "metadata": {
+                    "altText": "The same forager and a friend haul the harvested mushroom in a wooden handcart, with the small basket hanging from its side. Text: One mushroom. Two friends."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T15:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/01-the-wrong-basket.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/carousel/02-one-mushroom-two-friends.jpg"
+      ]
     },
     {
       "slot": "20:00",
@@ -584,12 +926,226 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad482f7769b457934b397a3",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  580,
+                  593
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  594,
+                  608
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyStories",
+                "indices": [
+                  609,
+                  624
+                ],
+                "text": "#FantasyStories",
+                "url": "https://www.instagram.com/explore/tags/FantasyStories"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  625,
+                  636
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.instagram.com/explore/tags/FantasyArt"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          },
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "She chose company, not another command.\n\nFireside Tales of Roo\n\nA stranger had drawn a doorway from her dreams. She burned his drawing rather than follow him. Now the innkeeper offered to show her the road.\n\n“How do you know it?”\n“I grew up in the house beside it.”\n\nThe traveler accepted a warm scarf. “Then walk with me.”\n\nFor the first time, the journey felt like her own.\n\nAt the first bend, another set of bootprints marked the snow. Who else had taken that road this morning?\n\nFollow for tomorrow's fireside tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/03-she-chose-her-own-guide.jpg",
+                  "metadata": {
+                    "altText": "A young honey-blond human traveler in a blue embroidered dress, fur mantle and new red scarf walks beside the silver-haired innkeeper in rust and brown clothing on a snowy forest road. Fresh bootprints mark the path."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T18:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad482faae173d6e00f1d535",
+          "status": "scheduled",
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "sentAt": null,
+          "error": null,
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  753,
+                  766
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  767,
+                  781
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyStories",
+                "indices": [
+                  782,
+                  797
+                ],
+                "text": "#FantasyStories",
+                "url": "https://www.facebook.com/hashtag/FantasyStories"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  798,
+                  809
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.facebook.com/hashtag/FantasyArt"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          },
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "This time, she chose who walked beside her.\n\nFireside Tales of Roo\n\nAt a snowbound inn, a stranger drew the doorway a young traveler kept seeing in her dreams. She burned his drawing rather than let him choose her path. When she finally told the innkeeper, the older woman recognized the place.\n\n“How do you know it?” the traveler asked before leaving.\n“I grew up in the house beside it.”\n\nThe innkeeper offered her a warm scarf. The traveler accepted it.\n“Then walk with me.”\n\nThey left side by side. Her fear had not vanished, but the decision was hers.\n\nAt the first bend, they found another set of bootprints. Who else had taken that road this morning?\n\nFollow for the next part tomorrow.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/03-she-chose-her-own-guide.jpg",
+                  "metadata": {
+                    "altText": "A young honey-blond human traveler in a blue embroidered dress, fur mantle and new red scarf walks beside the silver-haired innkeeper in rust and brown clothing on a snowy forest road. Fresh bootprints mark the path."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-18T18:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/03-she-chose-her-own-guide.jpg"
+      ]
+    }
+  ],
+  "mediaCommit": "f2b7819141d3252d815658fb1359b07a0d5fb7ba",
+  "mediaBaseUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/",
+  "verifiedAt": "2026-10-18 08:28:03 UTC",
+  "uploads": [
+    {
+      "path": "assets/social/2026-10-18/reel/frame-01.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84be906110314419c262c8167f658b479b578a4c",
+      "bytes": 578123
+    },
+    {
+      "path": "assets/social/2026-10-18/carousel/02-one-mushroom-two-friends.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08dfd61f4f92c8c2cb7b65fa26031cd9d5b53144",
+      "bytes": 697910
+    },
+    {
+      "path": "assets/social/2026-10-18/reel/frame-02.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a57c5e121c0ba4086ae20e2785f5d0137fff9c",
+      "bytes": 615654
+    },
+    {
+      "path": "assets/social/2026-10-18/03-she-chose-her-own-guide.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87a16d8579f479a5f493083733aa2d1b7653c452",
+      "bytes": 647283
+    },
+    {
+      "path": "assets/social/2026-10-18/reel/frame-03.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57ae45e25c2f8bdc39da851c96544ac0903a8667",
+      "bytes": 723618
+    },
+    {
+      "path": "assets/social/2026-10-18/carousel/01-the-wrong-basket.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e644f4ae51faa0b2ee2e9205a37ab1708536d566",
+      "bytes": 672947
+    },
+    {
+      "path": "assets/social/2026-10-18/01-the-cloak-that-carried-them-home.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be7efebf41eac3e14c3a154a9c7637ba1a3f96b7",
+      "bytes": 1809340
     }
   ]
 }
