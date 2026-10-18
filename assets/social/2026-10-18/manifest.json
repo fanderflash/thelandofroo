@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "Europe/Stockholm",
-  "status": "all_six_scheduled_verified",
+  "status": "11_sent_both_17_and_20_scheduled_both",
   "generationMode": "built-in image_gen",
   "canon": {
     "source": "Current Canon Bible, read completely; established social and visual continuity",
@@ -537,9 +537,9 @@
       "posts": {
         "instagram": {
           "id": "6ad482dd769b457934b395db",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-18T09:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-10-18T09:01:44.743Z",
           "error": null,
           "metadata": {
             "type": "reel",
@@ -621,9 +621,9 @@
         },
         "facebook": {
           "id": "6ad482ec6d56c60a7300b288",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-18T09:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-10-18T09:00:16.129Z",
           "error": null,
           "metadata": {
             "type": "reel",
@@ -1096,7 +1096,7 @@
   ],
   "mediaCommit": "f2b7819141d3252d815658fb1359b07a0d5fb7ba",
   "mediaBaseUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/f2b7819141d3252d815658fb1359b07a0d5fb7ba/assets/social/2026-10-18/",
-  "verifiedAt": "2026-10-18 08:28:03 UTC",
+  "verifiedAt": "2026-10-18 09:18:00 UTC",
   "uploads": [
     {
       "path": "assets/social/2026-10-18/reel/frame-01.jpg",
@@ -1146,6 +1146,56 @@
       "type": "blob",
       "sha": "be7efebf41eac3e14c3a154a9c7637ba1a3f96b7",
       "bytes": 1809340
+    }
+  ],
+  "recoveryChecks": [
+    {
+      "checkedAt": "2026-10-18 09:18:00 UTC",
+      "result": "11:00 sent on Instagram and Facebook; 17:00 and 20:00 correctly scheduled on both; no errors or duplicates; no republishing.",
+      "posts": [
+        {
+          "id": "6ad482faae173d6e00f1d535",
+          "status": "scheduled",
+          "sentAt": null,
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482f7769b457934b397a3",
+          "status": "scheduled",
+          "sentAt": null,
+          "dueAt": "2026-10-18T18:00:00.000Z",
+          "channel": "instagram"
+        },
+        {
+          "id": "6ad482f3769b457934b39749",
+          "status": "scheduled",
+          "sentAt": null,
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482f0938409f1d0c0d75a",
+          "status": "scheduled",
+          "sentAt": null,
+          "dueAt": "2026-10-18T15:00:00.000Z",
+          "channel": "instagram"
+        },
+        {
+          "id": "6ad482ec6d56c60a7300b288",
+          "status": "sent",
+          "sentAt": "2026-10-18T09:00:16.129Z",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "channel": "facebook"
+        },
+        {
+          "id": "6ad482dd769b457934b395db",
+          "status": "sent",
+          "sentAt": "2026-10-18T09:01:44.743Z",
+          "dueAt": "2026-10-18T09:00:00.000Z",
+          "channel": "instagram"
+        }
+      ]
     }
   ]
 }
