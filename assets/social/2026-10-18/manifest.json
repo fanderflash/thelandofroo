@@ -1,0 +1,595 @@
+{
+  "date": "2026-10-18",
+  "timezone": "Europe/Stockholm",
+  "status": "media_ready_posts_missing",
+  "generationMode": "built-in image_gen",
+  "canon": {
+    "source": "Current Canon Bible, read completely; established social and visual continuity",
+    "arven": "None depicted or discussed",
+    "excludedMedia": "No excluded assets used",
+    "sceneScope": "Minor imagined public-safe scenes, no major lore or future book plot"
+  },
+  "performance": {
+    "completeWindows": {
+      "last30": "2026-09-18 through 2026-10-17",
+      "last7": "2026-10-11 through 2026-10-17"
+    },
+    "metrics": {
+      "ig_7": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.35,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 1112,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 2,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 868,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 42.17,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.29,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-18T03:57:33.993Z"
+      },
+      "ig_30": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 75,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 42,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 2.38,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 2872,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 3,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 1891,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 68.73,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.2,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-18T03:57:33.995Z"
+      },
+      "fb_7": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.86,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 464,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 3,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-18T04:04:20.464Z"
+      },
+      "fb_30": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 76,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 7,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.7,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 1293,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 15,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-18T04:04:20.464Z"
+      }
+    },
+    "matureComparisonWindow": "2026-10-10 through 2026-10-16; all Oct17 posts excluded from creative judgments",
+    "mature7": {
+      "facebook_single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 23,
+        "shares": 0,
+        "clicks": 3
+      },
+      "instagram_single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 93,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 46
+      },
+      "facebook_carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 20,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram_carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 165,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 54
+      },
+      "facebook_reel": {
+        "posts": 7,
+        "reactions": 1,
+        "comments": 0,
+        "impressions": 402,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram_reel": {
+        "posts": 7,
+        "reactions": 2,
+        "comments": 0,
+        "views": 909,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 799
+      }
+    },
+    "unavailable": [
+      "non-follower reach",
+      "Facebook attributed follows, saves, views and watch time",
+      "Instagram clicks"
+    ],
+    "conclusion": "Reels distribute materially better than carousel or single images, but seven mature days generated zero Instagram follows. No evidence yet of follower growth. Stop repeating static ominous ruins and opaque unanswered-object mysteries after three or more weak comparable posts. Test tangible human agency, visually resolved action, warmth and practical fantasy-scale consequences; maintain ongoing serial continuity without judging Oct17 before 24h. The Oct16 Highward Reel earned 2 saves but no follows, so saves alone do not validate growth.",
+    "historicalClue": "Change + conflict + mystery + concrete stakes; do not copy historical sea-isolation caption.",
+    "freshPostWarning": "Oct17 metrics included only in requested aggregate windows, not judged."
+  },
+  "prompts": {
+    "reel1": "Use case: illustration-story. Asset: ORIGINAL The Land of Roo discovery Reel scene 1, vertical 9:16. Cinematic Nordic fantasy realism, tactile handwoven wool and tarred timber, emotionally legible at phone size. In a small clinker-built sailing boat pulled into a rocky fjord cove, a tall pale HUMAN woman aged 35 with long wavy black hair tied low, gray eyes, muted teal wool tunic and a large deep crimson wool cloak, holds up her beautiful cloak beside a badly ripped cream square sail lowered across the boat. The tear in the sail and the cloak are the two connected story elements, she has a decisive expression, cold wind, slate-blue water and wooded cliffs. A tall pale HUMAN male companion with long blond hair, short beard and brown wool jacket braces the spar in the middle background. Medium close composition woman waist-up and cloth centered, faces and tear between 25 and 75 percent of canvas height, sky upper 18% and deck lower 15% clear for later text. Low sun brightens crimson fabric against cold fjord, no gloomy mud. No text, no logos, no modern objects, no armor, no horned helmets, no Arven or nonhuman people, no magic or glowing symbols, no slavery or collars. Newly imagined small local scene, no named canonical characters, no borrowed footage.",
+    "carousel1": "Use case: illustration-story. Asset: ORIGINAL The Land of Roo carousel frame 1, portrait 4:5, no text. Cinematic highly detailed Nordic fantasy concept art, tactile natural materials, forest greens and warm russet. In Roo's exceptionally lush autumn forest, a tall pale HUMAN forager woman aged 45 with long copper-red braid, oatmeal linen shirt, moss-green wool sleeveless overdress and russet shawl, stands alongside ONE enormous brown porcini-shaped mushroom with a cap as wide as her outstretched arms and its base already harvested and resting in soft moss. She holds one ordinary small wicker basket in front of it, visibly comically inadequate, looks from basket to huge mushroom with a wry delighted smile. All single focal idea: basket far too small for bounty. Mushroom not anthropomorphic, no eyes or creatures. Rich towering spruces, fern banks, ordinary mushrooms secondary. A faithful local visual exploration of Roo's oversized fertile plant life, not a new named species or official scientific scale. Main face, basket, cap safely in central 75%, leave top 12% and bottom 10% clean for later typography. No text, watermark, logo, modern clothes or tools, no Arven, no supernatural creatures, no magic, no sexualization.",
+    "serial": "Use case: illustration-story. Asset: entirely NEW original portrait 4:5 serial story artwork for The Land of Roo, not a crop or adaptation of an old composition. The supplied reference is ONLY a character identity and costume guide for two HUMAN women. Preserve young woman's pale skin, honey-blond long hair with thin side braids, gray-green eyes, embroidered forest-blue wool dress and gray-brown fur shoulder mantle; preserve older innkeeper's pale weathered skin, silver braided hair and rust wool dress, now add a practical brown wool outdoor cloak. NEW scene outdoors on a narrow snow-covered woodland road: the young woman now wears a plain deep red knitted scarf just given to her by the innkeeper. They walk side by side, not one leading the other, and pause together at fresh bootprints in the snow on the path. Three-quarter full-length composition, two clear faces in upper-middle frame, young woman thoughtfully alert and the older woman reassuring, one gloved hand lightly on her own walking stick. Fresh footprints are clearly visible in lower-middle foreground, dark timber inn a tiny distant background detail, snowy firs, crisp blue-white winter daylight with warm low golden rim light. Emotional payoff companionship and choosing her own path, unresolved question who walked this road. No doorway, no drawing, no magic lights, no stranger, no Arven, no collars, no restraints, no logos, no text. High-end cinematic Nordic fantasy realism with natural textures. Leave top 10% and bottom 10% for later typography; keep faces and footprints unobscured.",
+    "reel2": "Use case: illustration-story. Asset: NEW original The Land of Roo Reel scene 2, vertical 9:16. Reference image only establishes the two HUMAN travelers, their garments, small clinker-built boat and cold fjord; create a different close-up camera angle and later action. The pale woman with long black wavy hair and teal tunic has REMOVED her crimson cloak; she and the long blond-haired pale man in brown wool kneel at the boat bench in the rocky cove. Main focal action in central frame: her two anatomically correct hands pull a thick needle and flax thread through a LARGE RECTANGULAR CRIMSON WOOL PATCH cut from her cloak and placed OVER the tear of the cream canvas sail now lying flat across their knees and the bench. Clearly legible big running stitches along the patch edge, worn iron shears lying safely closed on bench, leftover crimson cloth beside it. Her focused face visible above hands, no cloak on shoulders. Tactile coarse fabric, calm purposeful repair, fjord and ropes soft background, cinematic Nordic fantasy realism, teal gray sea and vivid crimson. No text, logos, modern objects, magic, Arven, collars or imprisonment. Leave top18% and bottom15% clear for later overlays. The patch must cover the torn hole, not sew two unrelated fabrics.",
+    "reel3": "Use case: illustration-story. Asset: NEW original The Land of Roo Reel scene 3, vertical 9:16. Reference only establishes human character identity, boat and materials; NEW wide exterior three-quarter view from just above the sea. Same small clinker-built Nordic sailing boat now moving steadily toward a tiny timber harbor in a forested fjord. Its cream square sail is billowing with ONE LARGE obvious deep crimson rectangular WOOL PATCH sewn at its center, visibly rough dark stitches and decorative border from the woman's cloak. The red patch is the clear graphic focal idea, no holes in sail. Pale HUMAN woman with long black hair and teal wool tunic, no crimson cloak on shoulders, smiles with relief toward home while holding gunwale; pale HUMAN blond long-haired short-bearded companion in brown wool steers aft. Both alive and safe. Clear subtle bow wake, low golden sun on patched sail against steel-blue water, sheltered fjord, Nordic fantasy cinematic realism, original scene not reused art. Boat fills middle70% portrait, upper18% sky and bottom15% water for typography. No text, no logos, no moon, no horned helmets, no modern objects, no Arven, no creatures, no magic.",
+    "carousel2": "Use case: illustration-story. Asset: NEW original The Land of Roo carousel frame 2, portrait 4:5. Reference only sets forager character, costume, enormous brown mushroom and lush autumn Nordic woodland style; new composition and later action. Same tall pale HUMAN woman aged45 with copper-red long braid, oatmeal shirt, moss-green overdress and russet shawl, laughing with a pale HUMAN female friend with long dark hair and ochre wool dress as they together haul a sturdy two-wheeled WOODEN HANDCART on a broad forest path toward a modest timber hall in background. The enormous harvested porcini-shaped mushroom from reference is now cut into a huge brown CAP and several ivory stem sections stacked securely in the cart; its cap is clearly as broad as the cart. Small ordinary wicker basket hangs from cart side, ties the reveal to first frame. Two humans of normal matching proportions, plants oversize not people; feeling of shared work and plentiful supper, no giant species of people. Vivid moss and golden leaves, daylight, tactile credible wooden wheels and cart construction, cinematic Nordic fantasy realism. Put faces and loaded cart in central80%, leave bottom12% plain path for type. No text, logo, watermark, modern objects, Arven, collars, supernatural creatures or magic. Original new scene, no copy of previous composition."
+  },
+  "sourcePaths": {
+    "reel1": "/workspace/scratch/3531d8ee1038/generated_images/exec-58f0a973-2b5a-4174-9562-75bcdd1e8c0d.png",
+    "carousel1": "/workspace/scratch/3531d8ee1038/generated_images/exec-12a5b2fb-053e-40c6-86cb-d4fdca5f891e.png",
+    "serial": "/workspace/scratch/3531d8ee1038/generated_images/exec-f038abd5-a2e0-4dae-abdc-7728a8b47b1b.png",
+    "reel2": "/workspace/scratch/3531d8ee1038/generated_images/exec-58fbe7f8-38f1-4d2e-b606-e243ae5fee56.png",
+    "reel3": "/workspace/scratch/3531d8ee1038/generated_images/exec-eeff7696-2818-404b-b2d0-f46a8072f18e.png",
+    "carousel2": "/workspace/scratch/3531d8ee1038/generated_images/exec-31a8dcbe-c866-4b5d-9d4b-6326013b390b.png"
+  },
+  "videoValidation": {
+    "ffprobe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt470bg",
+          "chroma_location": "center",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1",
+          "time_base": "1/15360",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 161280,
+          "duration": "10.500000",
+          "bit_rate": "1272327",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "315",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 504000,
+          "duration": "10.500000",
+          "bit_rate": "96129",
+          "nb_frames": "494",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "assets/social/2026-10-18/01-the-cloak-that-carried-them-home.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.500000",
+        "size": "1809340",
+        "bit_rate": "1378544",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf60.16.100"
+        }
+      }
+    },
+    "faststart": true,
+    "moovBeforeMdat": true,
+    "distinctScenes": 3,
+    "cutTimesSeconds": [
+      2.5,
+      6
+    ],
+    "durationSeconds": 10.5,
+    "audio": "Original locally synthesized quiet brown-noise sea-like ambience, no third-party audio"
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "The Cloak That Carried Them Home",
+      "files": [
+        "01-the-cloak-that-carried-them-home.mp4"
+      ],
+      "fallback": [
+        "reel/frame-01.jpg",
+        "reel/frame-02.jpg",
+        "reel/frame-03.jpg"
+      ],
+      "captions": {
+        "instagram": "She cut up her best cloak.\n\nThe sail had torn. Home was still across the fjord.\n\nStitch by stitch, her crimson wool became their way back. By sundown, that red patch was the first thing their neighbors saw.\n\nWould you have cut yours?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nAn imagined coastal scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+        "facebook": "Her best cloak became the way home.\n\nA torn sail drove two Rooan travelers into a sheltered cove. They had thread, a needle—and the crimson wool she had worn for years.\n\nShe cut the cloth. Together they stitched it over the tear. By sundown, a red patch was carrying them toward the timber houses across the fjord.\n\nWould you have sacrificed your best cloak, or waited in the cove?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story of its people, choices and mysteries.\n\nAn imagined coastal scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "The Wrong Basket",
+      "files": [
+        "carousel/01-the-wrong-basket.jpg",
+        "carousel/02-one-mushroom-two-friends.jpg"
+      ],
+      "alts": [
+        "A red-haired human forager holds an ordinary wicker basket beside an enormous brown mushroom in Roo's lush forest. Text: She brought the wrong basket. Swipe to see how it got home.",
+        "The same forager and a friend haul the harvested mushroom in a wooden handcart, with the small basket hanging from its side. Text: One mushroom. Two friends."
+      ],
+      "captions": {
+        "instagram": "She brought the wrong basket.\n\nRoo's forests grow on a generous scale—even the mushrooms. In this imagined harvest, one find was more than she could carry.\n\nSwipe: she came back with a cart and a friend. Supper was no longer just for one.\n\nWhat would you make: soup or pie?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+        "facebook": "One basket was never going to be enough.\n\nTrees, moss and mushrooms grow unusually large in Roo's fertile forests. This imagined harvest turns that detail into a very practical problem: how do you get such a find home?\n\nThe second image has her answer—a handcart, a friend and enough to share.\n\nIf you were cooking supper in this fantasy hall, would you choose mushroom soup or a pie?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "image",
+      "title": "Fireside Tales of Roo — She Chose Her Own Guide",
+      "files": [
+        "03-she-chose-her-own-guide.jpg"
+      ],
+      "alts": [
+        "A young honey-blond human traveler in a blue embroidered dress, fur mantle and new red scarf walks beside the silver-haired innkeeper in rust and brown clothing on a snowy forest road. Fresh bootprints mark the path."
+      ],
+      "captions": {
+        "instagram": "She chose company, not another command.\n\nFireside Tales of Roo\n\nA stranger had drawn a doorway from her dreams. She burned his drawing rather than follow him. Now the innkeeper offered to show her the road.\n\n“How do you know it?”\n“I grew up in the house beside it.”\n\nThe traveler accepted a warm scarf. “Then walk with me.”\n\nFor the first time, the journey felt like her own.\n\nAt the first bend, another set of bootprints marked the snow. Who else had taken that road this morning?\n\nFollow for tomorrow's fireside tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+        "facebook": "This time, she chose who walked beside her.\n\nFireside Tales of Roo\n\nAt a snowbound inn, a stranger drew the doorway a young traveler kept seeing in her dreams. She burned his drawing rather than let him choose her path. When she finally told the innkeeper, the older woman recognized the place.\n\n“How do you know it?” the traveler asked before leaving.\n“I grew up in the house beside it.”\n\nThe innkeeper offered her a warm scarf. The traveler accepted it.\n“Then walk with me.”\n\nThey left side by side. Her fear had not vanished, but the decision was hers.\n\nAt the first bend, they found another set of bootprints. Who else had taken that road this morning?\n\nFollow for the next part tomorrow.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    }
+  ]
+}
