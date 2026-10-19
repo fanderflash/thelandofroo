@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "Europe/Stockholm",
-  "status": "media_ready_posts_missing",
+  "status": "all_six_scheduled_verified",
   "generationMode": "built-in image_gen",
   "canon": {
     "source": "The_Land_of_Roo_Canon_Bible(1).docx",
@@ -2995,12 +2995,168 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad5d64aea56886c4716110b",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T09:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "The gold was real—until his certainty broke.\n\nHe wanted her last coins for a golden cup. She questioned him instead. His conviction faltered; the gold became wood again. Her savings stayed hers.\n\nIn Roo, Lie magic can make the impossible real. It is unstable, and a successfully challenged lie can collapse.\n\nLook again: would you have paid before asking questions?\n\nAn imagined scene from The Land of Roo, an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #FantasyBooks",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/01-the-gold-was-a-lie.mp4",
+                  "metadata": {
+                    "title": "The Gold Was a Lie"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "reel",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T09:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "reel",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  504,
+                  517
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  518,
+                  532
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#MagicSystem",
+                "indices": [
+                  533,
+                  545
+                ],
+                "text": "#MagicSystem",
+                "url": "https://www.instagram.com/explore/tags/MagicSystem"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyBooks",
+                "indices": [
+                  546,
+                  559
+                ],
+                "text": "#FantasyBooks",
+                "url": "https://www.instagram.com/explore/tags/FantasyBooks"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          }
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad5d65c4f39bcabbcd18c9c",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T09:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "A golden cup almost cost her every coin.\n\nIn this imagined Roo market scene, a sorcerer offers a beautiful cup for a traveler's remaining savings. She challenges his claim. His conviction falters—and the cup becomes wood again.\n\nThis is not merely an illusion. Roo's Lie magic can make something impossible function as reality, but sustaining it takes extraordinary conviction. A successfully challenged lie can collapse. Not every lie breaks this easily.\n\nWhat would you ask before handing over your savings?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/01-the-gold-was-a-lie.mp4",
+                  "metadata": {
+                    "title": "The Gold Was a Lie"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "reel"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T09:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "reel",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  627,
+                  640
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  641,
+                  655
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#MagicSystem",
+                "indices": [
+                  656,
+                  668
+                ],
+                "text": "#MagicSystem",
+                "url": "https://www.facebook.com/hashtag/MagicSystem"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  669,
+                  683
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.facebook.com/hashtag/Worldbuilding"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          }
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/01-the-gold-was-a-lie.mp4"
+      ]
     },
     {
       "slot": "17:00",
@@ -3021,12 +3177,185 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad5d661e1ba3b5f47d52382",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T15:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "She found a ruin. She saw a livelihood.\n\nNo treasure chest. No throne. Just old stone, a sound roof and room for an oven.\n\nSwipe to see her answer.\n\nRooans sometimes put ancient Vanir ruins to practical use. This imagined bakery asks what happens when an overwhelming past becomes someone's ordinary working day.\n\nYour choice: bakery or workshop?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArchitecture",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/01-what-would-you-build.jpg",
+                  "metadata": {
+                    "altText": "A silver-blond Rooan craftswoman measures an empty stone bay beneath an enormous ancient window. Text asks what the viewer would build here and invites a swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/02-bread-not-buried-treasure.jpg",
+                  "metadata": {
+                    "altText": "The same stone bay has become a human-scale bakery. The woman offers fresh bread to a customer beside a clay oven; the immense ancient window remains above them."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T15:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  383,
+                  396
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  397,
+                  411
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  412,
+                  426
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.instagram.com/explore/tags/Worldbuilding"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArchitecture",
+                "indices": [
+                  427,
+                  447
+                ],
+                "text": "#FantasyArchitecture",
+                "url": "https://www.instagram.com/explore/tags/FantasyArchitecture"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          }
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad5d668e1ba3b5f47d524aa",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T15:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "The ancient builders left no instructions for a bakery.\n\nPeople in Roo enter Vanir ruins for many reasons: faith, study, treasure—and practical use.\n\nThis before-and-after imagines a craftswoman choosing something less grand than a throne room. An oven, a counter and a living made beneath a window built on a scale far beyond her own.\n\nSwipe from the empty shell to her finished bakery. Would you turn this space into a bakery or a workshop?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArchitecture",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/01-what-would-you-build.jpg",
+                  "metadata": {
+                    "altText": "A silver-blond Rooan craftswoman measures an empty stone bay beneath an enormous ancient window. Text asks what the viewer would build here and invites a swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/02-bread-not-buried-treasure.jpg",
+                  "metadata": {
+                    "altText": "The same stone bay has become a human-scale bakery. The woman offers fresh bread to a customer beside a clay oven; the immense ancient window remains above them."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T15:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  479,
+                  492
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  493,
+                  507
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#Worldbuilding",
+                "indices": [
+                  508,
+                  522
+                ],
+                "text": "#Worldbuilding",
+                "url": "https://www.facebook.com/hashtag/Worldbuilding"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArchitecture",
+                "indices": [
+                  523,
+                  543
+                ],
+                "text": "#FantasyArchitecture",
+                "url": "https://www.facebook.com/hashtag/FantasyArchitecture"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          }
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/01-what-would-you-build.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/carousel/02-bread-not-buried-treasure.jpg"
+      ]
     },
     {
       "slot": "20:00",
@@ -3045,13 +3374,221 @@
       },
       "posts": {
         "instagram": {
-          "status": "missing"
+          "id": "6ad5d665e1ba3b5f47d52404",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T18:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "The footsteps belonged to someone fixing a door.\n\nFireside Tales of Roo\n\nA young traveler had seen this doorway in dreams. When a stranger drew it, she burned the drawing rather than follow him. The innkeeper knew the place and walked there with her.\n\nFresh tracks led to a man holding a mallet.\n\n“My brother,” the innkeeper said. “That door sticks every winter.”\n\nAn ordinary storehouse. An ordinary repair. The traveler laughed—and finally stepped closer without being told to.\n\nBut why had she dreamed of a place she had never visited?\n\nFollow for tomorrow's answer.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/03-the-footprints-were-his.jpg",
+                  "metadata": {
+                    "altText": "The honey-blond traveler in a blue dress and red scarf laughs with relief beside the silver-braided innkeeper. An elderly carpenter with a mallet welcomes them at the pointed stone doorway; bootprints lead to his feet."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T18:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  630,
+                  643
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.instagram.com/explore/tags/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  644,
+                  658
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.instagram.com/explore/tags/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyStories",
+                "indices": [
+                  659,
+                  674
+                ],
+                "text": "#FantasyStories",
+                "url": "https://www.instagram.com/explore/tags/FantasyStories"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  675,
+                  686
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.instagram.com/explore/tags/FantasyArt"
+              }
+            ],
+            "link": null,
+            "firstComment": null,
+            "geolocation": null,
+            "shouldShareToFeed": true,
+            "isAiGenerated": true,
+            "stickerFields": null
+          }
         },
         "facebook": {
-          "status": "missing"
+          "id": "6ad5d66ee1ba3b5f47d52576",
+          "status": "scheduled",
+          "dueAt": "2026-10-19T18:00:00.000Z",
+          "error": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "The frightening trail ended at an ordinary repair.\n\nFireside Tales of Roo\n\nA traveler kept dreaming of a doorway. At an inn, a stranger drew that same doorway; she refused to follow his lead and burned the drawing. Instead, she trusted the innkeeper, who had grown up beside the place.\n\nOn their walk, fresh bootprints made her hesitate. They led straight to an older man with a mallet and a basket of tools.\n\n“My brother,” the innkeeper said. “That door sticks every winter.”\n\nThe building was a storehouse, not a prison or a palace. He had come to repair its door. The traveler laughed with relief and stepped closer of her own accord.\n\nOne question remained: why had she dreamed of a place she had never visited?\n\nFollow for the answer in tomorrow's tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/03-the-footprints-were-his.jpg",
+                  "metadata": {
+                    "altText": "The honey-blond traveler in a blue dress and red scarf laughs with relief beside the silver-braided innkeeper. An elderly carpenter with a mallet welcomes them at the pointed stone doorway; bootprints lead to his feet."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-19T18:00:00Z",
+            "saveToDraft": false
+          },
+          "metadata": {
+            "type": "post",
+            "annotations": [
+              {
+                "type": "hashtag",
+                "content": "#TheLandOfRoo",
+                "indices": [
+                  819,
+                  832
+                ],
+                "text": "#TheLandOfRoo",
+                "url": "https://www.facebook.com/hashtag/TheLandOfRoo"
+              },
+              {
+                "type": "hashtag",
+                "content": "#NordicFantasy",
+                "indices": [
+                  833,
+                  847
+                ],
+                "text": "#NordicFantasy",
+                "url": "https://www.facebook.com/hashtag/NordicFantasy"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyStories",
+                "indices": [
+                  848,
+                  863
+                ],
+                "text": "#FantasyStories",
+                "url": "https://www.facebook.com/hashtag/FantasyStories"
+              },
+              {
+                "type": "hashtag",
+                "content": "#FantasyArt",
+                "indices": [
+                  864,
+                  875
+                ],
+                "text": "#FantasyArt",
+                "url": "https://www.facebook.com/hashtag/FantasyArt"
+              }
+            ],
+            "title": null,
+            "firstComment": null,
+            "linkAttachment": null
+          }
         }
-      }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/e6eedbf9dd545c45ea17b0be80cda48d3283f596/assets/social/2026-10-19/03-the-footprints-were-his.jpg"
+      ]
     }
   ],
-  "nextSerialContinuity": "Pay off the promised answer tomorrow: why the traveler dreamed of an ordinary storehouse she believes she has never visited. Do not add another unrelated cliffhanger. Preserve honey-blond hair, thin side braids, blue dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter is innkeeper's brother, silver hair, gray coat/tan apron. This is a minor imagined side-story, not main-book plot."
+  "nextSerialContinuity": "Pay off the promised answer tomorrow: why the traveler dreamed of an ordinary storehouse she believes she has never visited. Do not add another unrelated cliffhanger. Preserve honey-blond hair, thin side braids, blue dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter is innkeeper's brother, silver hair, gray coat/tan apron. This is a minor imagined side-story, not main-book plot.",
+  "mediaCommit": "e6eedbf9dd545c45ea17b0be80cda48d3283f596",
+  "verifiedAt": "2026-10-19 08:36:32 UTC",
+  "verification": [
+    {
+      "slot": "11:00",
+      "channel": "instagram",
+      "id": "6ad5d64aea56886c4716110b",
+      "status": "scheduled",
+      "mediaCount": 1,
+      "dueAt": "2026-10-19T09:00:00.000Z"
+    },
+    {
+      "slot": "11:00",
+      "channel": "facebook",
+      "id": "6ad5d65c4f39bcabbcd18c9c",
+      "status": "scheduled",
+      "mediaCount": 1,
+      "dueAt": "2026-10-19T09:00:00.000Z"
+    },
+    {
+      "slot": "17:00",
+      "channel": "instagram",
+      "id": "6ad5d661e1ba3b5f47d52382",
+      "status": "scheduled",
+      "mediaCount": 2,
+      "dueAt": "2026-10-19T15:00:00.000Z"
+    },
+    {
+      "slot": "17:00",
+      "channel": "facebook",
+      "id": "6ad5d668e1ba3b5f47d524aa",
+      "status": "scheduled",
+      "mediaCount": 2,
+      "dueAt": "2026-10-19T15:00:00.000Z"
+    },
+    {
+      "slot": "20:00",
+      "channel": "instagram",
+      "id": "6ad5d665e1ba3b5f47d52404",
+      "status": "scheduled",
+      "mediaCount": 1,
+      "dueAt": "2026-10-19T18:00:00.000Z"
+    },
+    {
+      "slot": "20:00",
+      "channel": "facebook",
+      "id": "6ad5d66ee1ba3b5f47d52576",
+      "status": "scheduled",
+      "mediaCount": 1,
+      "dueAt": "2026-10-19T18:00:00.000Z"
+    }
+  ]
 }
