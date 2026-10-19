@@ -1,0 +1,3057 @@
+{
+  "date": "2026-10-19",
+  "timezone": "Europe/Stockholm",
+  "status": "media_ready_posts_missing",
+  "generationMode": "built-in image_gen",
+  "canon": {
+    "source": "The_Land_of_Roo_Canon_Bible(1).docx",
+    "version": "1",
+    "libraryFileId": "libfile_24d0a436828c8191ad647099c047ddca",
+    "review": "All 332 lines read. Public-safe minor imagined scenes only; no book plot reveals.",
+    "arven": "None depicted or discussed.",
+    "exclusions": "No prohibited reference or previously published media reused. Previous serial artwork referenced solely for character and doorway continuity; all final artworks newly generated."
+  },
+  "performance": {
+    "completeWindows": {
+      "last30": "2026-09-19 through 2026-10-18",
+      "last7": "2026-10-12 through 2026-10-18",
+      "matureFormatComparison": "2026-10-11 through 2026-10-17"
+    },
+    "metrics": {
+      "instagram_30d": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 75,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 31,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.76,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 2842,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 3,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 1927,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 72.99,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.22,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      "instagram_7d": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.37,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 1052,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 2,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 812,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 40.14,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.36,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      "facebook_30d": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 76,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 7,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.46,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 1510,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 15,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      "facebook_7d": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 634,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 0,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      }
+    },
+    "matureFormats": {
+      "facebook-carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 21,
+        "shares": 0,
+        "clicks": 0
+      },
+      "facebook-single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 20,
+        "shares": 0,
+        "clicks": 3
+      },
+      "instagram-single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 83,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 45
+      },
+      "instagram-carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 152,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 50
+      },
+      "facebook-reel": {
+        "posts": 7,
+        "reactions": 1,
+        "comments": 0,
+        "impressions": 432,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram-reel": {
+        "posts": 7,
+        "reactions": 1,
+        "comments": 0,
+        "views": 907,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 795
+      }
+    },
+    "availability": "Non-follower reach unavailable. Facebook post follows, saves, views and watch time unavailable, not assumed zero. Instagram clicks unavailable. Aggregate total reach is sum of post reach, not deduplicated audience.",
+    "analysis": "Across seven mature days IG Reels summed 795 reach versus 50 for carousels and 45 for singles (7 each). Reels had 2 saves; no format produced attributed follows or shares. FB Reels had 432 impressions versus carousel 21 and single 20. Keep the discovery vehicle, change creative hypothesis; do not claim audience growth. October 18 posts are under 24 hours old and excluded from creative judgments.",
+    "stopPattern": "Three comparable Oct15-17 serial cliffhanger posts produced 0 follows and IG reach 7/5/6; stop delaying the payoff with another unexplained ominous object. Today answers the footprints and identifies the doorway before one remaining question. Stop generic scenic/craft captions with no stakes or transformation.",
+    "hypothesis": "A legible personal cost, visible magical reversal within 5 seconds, and answer-first serial payoff may convert passive viewers. Carousel uses an explicit before/after practical adaptation (small save signal for human use of ancient structures), not a static scenery description. Yesterday's warmth/ingenuity posts remain too young to evaluate.",
+    "historicalStructuralClue": "Change, conflict, mystery and stakes; no copying the historical isolation caption.",
+    "postRecords": [
+      {
+        "id": "6ad482faae173d6e00f1d535",
+        "channel": "facebook",
+        "dueAt": "2026-10-18T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.975Z"
+      },
+      {
+        "id": "6ad482f7769b457934b397a3",
+        "channel": "instagram",
+        "dueAt": "2026-10-18T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 5,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 3
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.224Z"
+      },
+      {
+        "id": "6ad482f3769b457934b39749",
+        "channel": "facebook",
+        "dueAt": "2026-10-18T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.975Z"
+      },
+      {
+        "id": "6ad482f0938409f1d0c0d75a",
+        "channel": "instagram",
+        "dueAt": "2026-10-18T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad482ec6d56c60a7300b288",
+        "channel": "facebook",
+        "dueAt": "2026-10-18T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 215,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.975Z"
+      },
+      {
+        "id": "6ad482dd769b457934b395db",
+        "channel": "instagram",
+        "dueAt": "2026-10-18T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 71,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 58
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad331aaae173d6e00aa61b6",
+        "channel": "facebook",
+        "dueAt": "2026-10-17T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.975Z"
+      },
+      {
+        "id": "6ad331a6dd83363c4dc2f95d",
+        "channel": "instagram",
+        "dueAt": "2026-10-17T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 12,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad331b7ae173d6e00aa62bb",
+        "channel": "facebook",
+        "dueAt": "2026-10-17T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad331a1769b4579346b4e40",
+        "channel": "instagram",
+        "dueAt": "2026-10-17T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad3319c0b0d72757acac418",
+        "channel": "facebook",
+        "dueAt": "2026-10-17T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 67,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad33197dd83363c4dc2f765",
+        "channel": "instagram",
+        "dueAt": "2026-10-17T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 142,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 124
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad1df9de991a49db3d50a79",
+        "channel": "facebook",
+        "dueAt": "2026-10-16T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad1df874ed7d375a4506707",
+        "channel": "instagram",
+        "dueAt": "2026-10-16T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad1df92e991a49db3d507ba",
+        "channel": "facebook",
+        "dueAt": "2026-10-16T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad1df7ca82f34dbe151f2d7",
+        "channel": "instagram",
+        "dueAt": "2026-10-16T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad1df714ed7d375a450644c",
+        "channel": "facebook",
+        "dueAt": "2026-10-16T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 28,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad1df63ee2c696029c75df6",
+        "channel": "instagram",
+        "dueAt": "2026-10-16T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 1.38,
+          "views": 171,
+          "shares": 0,
+          "saves": 2,
+          "follows": 0,
+          "reach": 145
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.226Z"
+      },
+      {
+        "id": "6ad08e42de79014f82c6db1d",
+        "channel": "facebook",
+        "dueAt": "2026-10-15T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad08e3c4e8a140929bed6d9",
+        "channel": "instagram",
+        "dueAt": "2026-10-15T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ad08e35de79014f82c6da11",
+        "channel": "instagram",
+        "dueAt": "2026-10-15T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 29,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ad08e30de79014f82c6d8bd",
+        "channel": "facebook",
+        "dueAt": "2026-10-15T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6ad08e2a6295ecc932f5c94d",
+        "channel": "instagram",
+        "dueAt": "2026-10-15T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 89,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 80
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ad08e25675f058f0b3fd921",
+        "channel": "facebook",
+        "dueAt": "2026-10-15T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 33,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acf3ff2848c31c80967dd7d",
+        "channel": "facebook",
+        "dueAt": "2026-10-14T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acf3fdc1f3f10bcb7bba3be",
+        "channel": "instagram",
+        "dueAt": "2026-10-14T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 8,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acf3fd10d20fd1527882f31",
+        "channel": "facebook",
+        "dueAt": "2026-10-14T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acf3fc6f847f2ad9ecca3ef",
+        "channel": "instagram",
+        "dueAt": "2026-10-14T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 12,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acf3fe8848c31c80967db4a",
+        "channel": "facebook",
+        "dueAt": "2026-10-14T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 78,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acf3fbb1f3f10bcb7bb9e71",
+        "channel": "instagram",
+        "dueAt": "2026-10-14T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 109,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 86
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acdef08ca68ebbd369b57af",
+        "channel": "facebook",
+        "dueAt": "2026-10-13T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acdeefed31101ca4b54f38b",
+        "channel": "instagram",
+        "dueAt": "2026-10-13T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acdeefaca68ebbd369b56d9",
+        "channel": "facebook",
+        "dueAt": "2026-10-13T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acdeef7ca68ebbd369b569b",
+        "channel": "instagram",
+        "dueAt": "2026-10-13T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 27,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acdeef25540c90f0a83969b",
+        "channel": "facebook",
+        "dueAt": "2026-10-13T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 152,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acdeeef5167b5c45eb1c883",
+        "channel": "instagram",
+        "dueAt": "2026-10-13T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 130,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 110
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acc9c81a2941ce81768c8f9",
+        "channel": "instagram",
+        "dueAt": "2026-10-12T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 6,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acc9c7ec5fdc4c02d0e8b85",
+        "channel": "facebook",
+        "dueAt": "2026-10-12T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acc9c79712ba82086b2a089",
+        "channel": "instagram",
+        "dueAt": "2026-10-12T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acc9c76a2941ce81768c7fa",
+        "channel": "facebook",
+        "dueAt": "2026-10-12T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-19T03:04:29.976Z"
+      },
+      {
+        "id": "6acc9c725feb3462de98317c",
+        "channel": "facebook",
+        "dueAt": "2026-10-12T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 29,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-18T04:04:20.464Z"
+      },
+      {
+        "id": "6acc9c6e712ba82086b29f27",
+        "channel": "instagram",
+        "dueAt": "2026-10-12T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.83,
+          "views": 123,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 120
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acb48cfd9cab260a7ef8770",
+        "channel": "facebook",
+        "dueAt": "2026-10-11T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 37.5,
+          "impressions": 8,
+          "shares": 0,
+          "clicks": 3
+        },
+        "metricsUpdatedAt": "2026-10-18T04:04:20.464Z"
+      },
+      {
+        "id": "6acb48c9bba9419ccb2c978a",
+        "channel": "instagram",
+        "dueAt": "2026-10-11T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 10,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acb48c3f91f772d45bf653c",
+        "channel": "facebook",
+        "dueAt": "2026-10-11T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-18T04:04:20.464Z"
+      },
+      {
+        "id": "6acb48bcc4de2d2b1254d218",
+        "channel": "instagram",
+        "dueAt": "2026-10-11T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 27,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6acb48b6c4de2d2b1254d193",
+        "channel": "facebook",
+        "dueAt": "2026-10-11T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 2.22,
+          "impressions": 45,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-17T05:04:11.599Z"
+      },
+      {
+        "id": "6acb48b0ed92ed8fa5f80509",
+        "channel": "instagram",
+        "dueAt": "2026-10-11T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 143,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 130
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac9f804c4de2d2b121e3609",
+        "channel": "instagram",
+        "dueAt": "2026-10-10T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 23,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac9f7f6f91f772d4587cc78",
+        "channel": "facebook",
+        "dueAt": "2026-10-10T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-17T05:04:11.599Z"
+      },
+      {
+        "id": "6ac9f7fdb07d37ac9766fa7a",
+        "channel": "facebook",
+        "dueAt": "2026-10-10T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-17T05:04:11.600Z"
+      },
+      {
+        "id": "6ac9f7e1f91f772d4587c989",
+        "channel": "instagram",
+        "dueAt": "2026-10-10T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 27,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac9f7eff91f772d4587cb78",
+        "channel": "facebook",
+        "dueAt": "2026-10-10T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 37,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+      },
+      {
+        "id": "6ac9f7e8d9cab260a7b97c3e",
+        "channel": "instagram",
+        "dueAt": "2026-10-10T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.77,
+          "views": 146,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 130
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac8a7b593f9e5101ff2cce8",
+        "channel": "facebook",
+        "dueAt": "2026-10-09T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+      },
+      {
+        "id": "6ac8a7b19db755aaaace7bac",
+        "channel": "instagram",
+        "dueAt": "2026-10-09T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac8a7ae04f06b2e8f848a3c",
+        "channel": "facebook",
+        "dueAt": "2026-10-09T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 25,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 1
+        },
+        "metricsUpdatedAt": "2026-10-16T06:03:59.017Z"
+      },
+      {
+        "id": "6ac8a7ab93f9e5101ff2cbc5",
+        "channel": "instagram",
+        "dueAt": "2026-10-09T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 25,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac8a7a7987e694c3c4a559c",
+        "channel": "facebook",
+        "dueAt": "2026-10-09T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-15T07:03:49.070Z"
+      },
+      {
+        "id": "6ac8a7a493f9e5101ff2caad",
+        "channel": "instagram",
+        "dueAt": "2026-10-09T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 135,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 128
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.227Z"
+      },
+      {
+        "id": "6ac754f2d45e2f82629abff1",
+        "channel": "facebook",
+        "dueAt": "2026-10-08T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-15T07:03:49.070Z"
+      },
+      {
+        "id": "6ac754eefc3db6b912c7a3b0",
+        "channel": "instagram",
+        "dueAt": "2026-10-08T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac754e46bf3dfa8dcf1e533",
+        "channel": "facebook",
+        "dueAt": "2026-10-08T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-08T15:02:18.341Z"
+      },
+      {
+        "id": "6ac754e0fc3db6b912c7a1b3",
+        "channel": "instagram",
+        "dueAt": "2026-10-08T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 10,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 2
+        },
+        "metricsUpdatedAt": "2026-10-08T16:00:58.073Z"
+      },
+      {
+        "id": "6ac754f56bf3dfa8dcf1e94b",
+        "channel": "instagram",
+        "dueAt": "2026-10-08T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 1.33,
+          "views": 170,
+          "shares": 0,
+          "saves": 1,
+          "follows": 0,
+          "reach": 150
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac754e9c12914bfe5f54327",
+        "channel": "facebook",
+        "dueAt": "2026-10-08T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 252,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-14T08:03:40.630Z"
+      },
+      {
+        "id": "6ac6036580c60f5e63356e49",
+        "channel": "facebook",
+        "dueAt": "2026-10-07T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-14T08:03:40.630Z"
+      },
+      {
+        "id": "6ac60360fb1617e7a72f3525",
+        "channel": "instagram",
+        "dueAt": "2026-10-07T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac6035280c60f5e63356ba1",
+        "channel": "facebook",
+        "dueAt": "2026-10-07T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 1
+        },
+        "metricsUpdatedAt": "2026-10-14T08:03:40.630Z"
+      },
+      {
+        "id": "6ac6034ffb1617e7a72f2f1e",
+        "channel": "instagram",
+        "dueAt": "2026-10-07T15:00:00.000Z",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 22.22,
+          "views": 32,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac6035bfe1a05e1b351eda8",
+        "channel": "facebook",
+        "dueAt": "2026-10-07T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 0.85,
+          "impressions": 236,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-13T09:03:30.889Z"
+      },
+      {
+        "id": "6ac6034941e5366c749667c0",
+        "channel": "instagram",
+        "dueAt": "2026-10-07T09:00:00.000Z",
+        "format": "reel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 1.74,
+          "views": 126,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 115
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac4af56cb92344122da99ba",
+        "channel": "instagram",
+        "dueAt": "2026-10-06T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac4af50ff06d19cffdf9eb8",
+        "channel": "facebook",
+        "dueAt": "2026-10-06T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-13T09:03:30.889Z"
+      },
+      {
+        "id": "6ac4af4bcb92344122da9767",
+        "channel": "instagram",
+        "dueAt": "2026-10-06T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac4af47b8157b7e0ce4cda5",
+        "channel": "facebook",
+        "dueAt": "2026-10-06T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-12T10:03:20.586Z"
+      },
+      {
+        "id": "6ac4af42cb92344122da95e3",
+        "channel": "instagram",
+        "dueAt": "2026-10-06T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac4af3ec5fafee5b11952b5",
+        "channel": "facebook",
+        "dueAt": "2026-10-06T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-12T10:03:20.586Z"
+      },
+      {
+        "id": "6ac360a3fe1389e41358e888",
+        "channel": "instagram",
+        "dueAt": "2026-10-05T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac360a0ca1380ada84f3983",
+        "channel": "facebook",
+        "dueAt": "2026-10-05T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 71.43,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 5
+        },
+        "metricsUpdatedAt": "2026-10-12T10:03:20.586Z"
+      },
+      {
+        "id": "6ac3609cfe1389e41358e7b8",
+        "channel": "instagram",
+        "dueAt": "2026-10-05T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 11.11,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac3609669a169193a63c783",
+        "channel": "facebook",
+        "dueAt": "2026-10-05T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-11T11:03:09.686Z"
+      },
+      {
+        "id": "6ac36092d467abe8cfdf3c6c",
+        "channel": "instagram",
+        "dueAt": "2026-10-05T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac3608efe1389e41358e6e1",
+        "channel": "facebook",
+        "dueAt": "2026-10-05T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-11T11:03:09.686Z"
+      },
+      {
+        "id": "6ac20c42ad7fd83bc5175e4c",
+        "channel": "instagram",
+        "dueAt": "2026-10-04T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac20c3e7d53b827e0018051",
+        "channel": "facebook",
+        "dueAt": "2026-10-04T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-11T11:03:09.686Z"
+      },
+      {
+        "id": "6ac20c3aaa79e514b912c1c9",
+        "channel": "instagram",
+        "dueAt": "2026-10-04T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac20c36aa79e514b912c142",
+        "channel": "facebook",
+        "dueAt": "2026-10-04T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-10T12:02:59.451Z"
+      },
+      {
+        "id": "6ac20c325829d2489a0bbe69",
+        "channel": "instagram",
+        "dueAt": "2026-10-04T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac20c0baa79e514b912bb7c",
+        "channel": "facebook",
+        "dueAt": "2026-10-04T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-10T12:02:59.451Z"
+      },
+      {
+        "id": "6ac0bb63ca55406b4b28abfa",
+        "channel": "instagram",
+        "dueAt": "2026-10-03T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac0bb609fdc9f926e710c61",
+        "channel": "facebook",
+        "dueAt": "2026-10-03T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 13,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-10T12:02:59.451Z"
+      },
+      {
+        "id": "6ac0bb5c9fdc9f926e710bc8",
+        "channel": "instagram",
+        "dueAt": "2026-10-03T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.69,
+          "views": 35,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac0bb59713b7277a0b170b3",
+        "channel": "facebook",
+        "dueAt": "2026-10-03T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-09T13:02:50.897Z"
+      },
+      {
+        "id": "6ac0bb55713b7277a0b1705b",
+        "channel": "instagram",
+        "dueAt": "2026-10-03T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 20,
+          "views": 17,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6ac0bb51713b7277a0b17023",
+        "channel": "facebook",
+        "dueAt": "2026-10-03T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-09T13:02:50.897Z"
+      },
+      {
+        "id": "6abf6a30f7d5191f80b2d641",
+        "channel": "instagram",
+        "dueAt": "2026-10-02T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abf6a2c0075f78e30eadfc2",
+        "channel": "facebook",
+        "dueAt": "2026-10-02T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-09T13:02:50.897Z"
+      },
+      {
+        "id": "6abf6a27f7d5191f80b2d43c",
+        "channel": "instagram",
+        "dueAt": "2026-10-02T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 32,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abf6a2395c40fa79b18dec2",
+        "channel": "facebook",
+        "dueAt": "2026-10-02T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-08T14:02:40.918Z"
+      },
+      {
+        "id": "6abf6a1ed4210a2275d08237",
+        "channel": "instagram",
+        "dueAt": "2026-10-02T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abf6a19f7d5191f80b2d34b",
+        "channel": "facebook",
+        "dueAt": "2026-10-02T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-08T14:02:40.918Z"
+      },
+      {
+        "id": "6abe1766fa15f1606cc47fa0",
+        "channel": "instagram",
+        "dueAt": "2026-10-01T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 18.18,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abe17604d69554bf40b88a5",
+        "channel": "facebook",
+        "dueAt": "2026-10-01T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-08T14:02:40.918Z"
+      },
+      {
+        "id": "6abe1757bb0abb08f8d570ec",
+        "channel": "instagram",
+        "dueAt": "2026-10-01T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 19,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abe1752fa15f1606cc47c24",
+        "channel": "facebook",
+        "dueAt": "2026-10-01T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-07T15:02:32.159Z"
+      },
+      {
+        "id": "6abe174b457c6cadda39bf81",
+        "channel": "instagram",
+        "dueAt": "2026-10-01T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 25,
+          "views": 15,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abe17424d69554bf40b85cd",
+        "channel": "facebook",
+        "dueAt": "2026-10-01T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-07T15:02:32.159Z"
+      },
+      {
+        "id": "6abcc8750dab32f49b8e25ae",
+        "channel": "instagram",
+        "dueAt": "2026-09-30T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abcc86efb797a5e34c2a2bf",
+        "channel": "facebook",
+        "dueAt": "2026-09-30T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 5,
+          "impressions": 20,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-06T16:02:21.551Z"
+      },
+      {
+        "id": "6abcc867fb797a5e34c2a25f",
+        "channel": "instagram",
+        "dueAt": "2026-09-30T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abcc8610dab32f49b8e243c",
+        "channel": "facebook",
+        "dueAt": "2026-09-30T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 27.27,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 2
+        },
+        "metricsUpdatedAt": "2026-10-06T16:02:21.552Z"
+      },
+      {
+        "id": "6abcc85af839d3871a10562e",
+        "channel": "instagram",
+        "dueAt": "2026-09-30T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 22.22,
+          "views": 13,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abcc854fb797a5e34c29f6f",
+        "channel": "facebook",
+        "dueAt": "2026-09-30T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 10,
+          "impressions": 10,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-06T16:02:21.552Z"
+      },
+      {
+        "id": "6abb746493a81b612b630bb9",
+        "channel": "instagram",
+        "dueAt": "2026-09-29T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.228Z"
+      },
+      {
+        "id": "6abb745e85cca6b12983720e",
+        "channel": "facebook",
+        "dueAt": "2026-09-29T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-05T17:02:11.968Z"
+      },
+      {
+        "id": "6abb7457320ca548b4e167ca",
+        "channel": "instagram",
+        "dueAt": "2026-09-29T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 15,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6abb744f85cca6b129836ee9",
+        "channel": "facebook",
+        "dueAt": "2026-09-29T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-05T17:02:11.968Z"
+      },
+      {
+        "id": "6abb74487889d8281c30c172",
+        "channel": "instagram",
+        "dueAt": "2026-09-29T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 25,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6abb743f76fa1f54a59cbeeb",
+        "channel": "facebook",
+        "dueAt": "2026-09-29T09:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-05T17:02:11.968Z"
+      },
+      {
+        "id": "6aba3853cb4f6964962c9717",
+        "channel": "instagram",
+        "dueAt": "2026-09-28T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 25,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6aba384af45a6e534501b0e9",
+        "channel": "facebook",
+        "dueAt": "2026-09-28T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-04T18:01:58.152Z"
+      },
+      {
+        "id": "6aba384159f2ff98e462ba19",
+        "channel": "instagram",
+        "dueAt": "2026-09-28T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6aba3838f45a6e534501af81",
+        "channel": "facebook",
+        "dueAt": "2026-09-28T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-04T18:01:58.152Z"
+      },
+      {
+        "id": "6aba381059f2ff98e462b18b",
+        "channel": "instagram",
+        "dueAt": "2026-09-28T09:49:04.942Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "views": 20,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6aba3804012a589e32c6fc6f",
+        "channel": "facebook",
+        "dueAt": "2026-09-28T09:48:52.313Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 8,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-03T19:01:47.798Z"
+      },
+      {
+        "id": "6ab950b29c63a58441495108",
+        "channel": "instagram",
+        "dueAt": "2026-09-27T17:21:54.423Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab950b29c63a58441495107",
+        "channel": "facebook",
+        "dueAt": "2026-09-27T17:21:54.423Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 14,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-03T19:01:47.798Z"
+      },
+      {
+        "id": "6ab950928766a819675273cd",
+        "channel": "facebook",
+        "dueAt": "2026-09-27T17:21:22.781Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 1
+        },
+        "metricsUpdatedAt": "2026-10-03T19:01:47.798Z"
+      },
+      {
+        "id": "6ab950928766a819675273ce",
+        "channel": "instagram",
+        "dueAt": "2026-09-27T17:21:22.780Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab9506246be556950f20286",
+        "channel": "instagram",
+        "dueAt": "2026-09-27T17:20:34.377Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab9506246be556950f20285",
+        "channel": "facebook",
+        "dueAt": "2026-09-27T17:20:34.377Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-02T20:01:37.961Z"
+      },
+      {
+        "id": "6ab7bd69ccccb9429c2ccb6b",
+        "channel": "instagram",
+        "dueAt": "2026-09-26T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 30,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab7bd62ccccb9429c2ccaa7",
+        "channel": "facebook",
+        "dueAt": "2026-09-26T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-02T20:01:37.961Z"
+      },
+      {
+        "id": "6ab7bd5a9f89edbefe71a59a",
+        "channel": "facebook",
+        "dueAt": "2026-09-26T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 12,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-02T20:01:37.961Z"
+      },
+      {
+        "id": "6ab7bd51ccccb9429c2cc922",
+        "channel": "instagram",
+        "dueAt": "2026-09-26T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 39,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab7bd40ccccb9429c2cc764",
+        "channel": "instagram",
+        "dueAt": "2026-09-26T12:40:32.354Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 34,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab7bd2bccccb9429c2cc4ee",
+        "channel": "facebook",
+        "dueAt": "2026-09-26T12:40:11.221Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 11.11,
+          "impressions": 9,
+          "shares": 0,
+          "clicks": 1
+        },
+        "metricsUpdatedAt": "2026-10-01T21:01:30.379Z"
+      },
+      {
+        "id": "6ab69501484ed2befd6e4571",
+        "channel": "facebook",
+        "dueAt": "2026-09-25T19:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-01T21:01:30.379Z"
+      },
+      {
+        "id": "6ab694eeb891a26b49be7e88",
+        "channel": "instagram",
+        "dueAt": "2026-09-25T19:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 30,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab694f8484ed2befd6e4472",
+        "channel": "facebook",
+        "dueAt": "2026-09-25T17:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-10-01T21:01:30.379Z"
+      },
+      {
+        "id": "6ab694e4484ed2befd6e4305",
+        "channel": "instagram",
+        "dueAt": "2026-09-25T17:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.69,
+          "views": 34,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab694c4484ed2befd6e4058",
+        "channel": "facebook",
+        "dueAt": "2026-09-25T15:35:32.569Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 20,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 1
+        },
+        "metricsUpdatedAt": "2026-09-30T22:01:20.723Z"
+      },
+      {
+        "id": "6ab694b0ac096ee32ed413c1",
+        "channel": "instagram",
+        "dueAt": "2026-09-25T15:35:12.952Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 35,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab12dfdb94f10fadd558ebe",
+        "channel": "instagram",
+        "dueAt": "2026-09-21T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 38,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab12df885287676479be8e5",
+        "channel": "facebook",
+        "dueAt": "2026-09-21T18:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-09-30T22:01:20.723Z"
+      },
+      {
+        "id": "6ab12df285287676479be83e",
+        "channel": "instagram",
+        "dueAt": "2026-09-21T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 38,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab12decb94f10fadd558cfc",
+        "channel": "facebook",
+        "dueAt": "2026-09-21T15:00:00.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-09-30T22:01:20.723Z"
+      },
+      {
+        "id": "6ab12ddad6450341275ce778",
+        "channel": "instagram",
+        "dueAt": "2026-09-21T13:15:06.388Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 28,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        },
+        "metricsUpdatedAt": "2026-10-19T02:57:42.229Z"
+      },
+      {
+        "id": "6ab12dce0f1269adbdd726a5",
+        "channel": "facebook",
+        "dueAt": "2026-09-21T13:14:54.316Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-09-29T23:01:13.085Z"
+      },
+      {
+        "id": "6ab0fac2b4449363851dfab5",
+        "channel": "facebook",
+        "dueAt": "2026-09-21T09:35:59.000Z",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        },
+        "metricsUpdatedAt": "2026-09-29T23:01:13.086Z"
+      }
+    ]
+  },
+  "prompts": {
+    "reel1": "Use case: illustration-story. Create entirely original cinematic Nordic fantasy realism for The Land of Roo, portrait 9:16. Scene 1 of a tiny story about unstable Lie magic. At a rustic timber market counter in Roo, a tall pale human woman age 30, long straight auburn hair, dark green wool cloak over cream tunic, holds a small open leather purse containing a few silver coins close to herself. Opposite her is a tall pale human male itinerant sorcerer age 45, long dark brown wavy hair, clean-shaven, muted plum wool coat. He confidently offers a simple lustrous SOLID GOLD handleless drinking cup, palm-sized, on the counter. The woman looks suspiciously at this striking gold cup rather than being dazzled. Clearly show faces, the gold cup and the purse, medium two-person shot. No exchange has occurred. Warm reflected gold against cool overcast northern daylight, richly tactile wood and wool, restrained realistic colors, visually arresting at phone size. Timber booths blurred behind them, no additional people necessary. No text or symbols, no logos, no horns, no fantasy species, no Arven, no chains, no restraints, no book characters. Leave top 15% and bottom 17% unobstructed for later typography.",
+    "carousel1": "Use case: illustration-story. Create entirely original portrait 4:5 cinematic Nordic fantasy realism for The Land of Roo. FIRST frame of a matched before/after transformation. A tall pale human woman craftsperson age 40 with long straight silver-blond hair tied back, practical indigo wool tunic and tan work apron stands inside a very old EMPTY roofed stone bay in Roo, with a measuring cord in her hands and an eager calculating expression. She is large enough to see her face, full body at left middle foreground, the architectural bay fills center and right. A colossal rectangular Vanir stone window opening with a distinctive diagonal crack above its upper right corner, huge dark gray stone blocks, faint worn non-letter geometric carving, wall 5 meters high, simple sturdy floor. Window reveals vivid green ferns and northern forest. Empty bay has no oven or furniture yet. Single focal idea: enormous old stone shell waiting for human reuse. Warm light shaft through window illuminates empty space; no threatening gloom. Compose fixed camera so next image can show same bay converted into a tiny human bakery. No giant statues, no figures of gods, no runes or text, no logo, no Arven, no machinery activation. Leave top and bottom 10% clear for later headline.",
+    "serial": "Use case: illustration-story. Create entirely NEW original portrait 4:5 cinematic Nordic fantasy artwork for The Land of Roo. Image 1 reference ONLY identity/costumes of two human women; Image 2 reference ONLY the pointed stone doorway shape on the drawing, not composition. New scene: outside an ordinary old stone storehouse beside a timber cottage in snowy Roo daylight, the tall pointed stone arch doorway from the sketch now stands OPEN, small repaired wooden door swung inward; this is human-scale masonry, not giant ruins. Foreground young pale honey-blond woman with thin side braids, gray-green eyes, forest-blue embroidered dress, gray-brown fur mantle and DEEP RED SCARF is laughing with relief and lowering her guarded shoulders. Older pale silver-braided innkeeper in rust dress and brown cloak at her side smiles in recognition. Within the doorway an ordinary tall pale elderly carpenter with long silver hair tied back, dark gray wool coat and tan work apron holds a wooden mallet at his side, welcoming them with his other empty hand; a small basket of tools beside him. Fresh bootprints in snow lead up to his boots. Medium-wide three-person triangular composition, clear readable faces; doorway tall dark charcoal stone arch behind carpenter, warm ochre interior light, winter blue snow outside. Payoff: the ominous footprints belonged to a familiar carpenter, not a pursuer. No fourth person, no stranger from drawing, no drawing itself, no supernatural light, no text, no logos, no Arven, no collars or restraints. Entirely new camera location and action. Leave top 8% and bottom 9% for type.",
+    "carousel2": "Use case: illustration-story. Create second frame of an original 4:5 before/after carousel for The Land of Roo. Supplied reference is continuity guide for EXACT stone bay, camera, window, masonry crack, forest and HUMAN woman, not a reuse of unchanged image. Show this same space a season later transformed into a lively tiny human bakery. Same silver-blond pale tall woman in indigo tunic and tan work apron now smiles as she lifts a round browned loaf on a wooden baker's peel beside a modest human-built clay brick oven placed along left wall, chimney flue rising safely upward. Main center/right foreground a sturdy small timber counter with a handful of fresh round loaves, one tall pale Rooan male customer with long chestnut hair in gray wool handing coins for bread. Human scale is strikingly tiny against original colossal window and dark stone blocks. Oven, humans, and counter occupy LOWER half, preserve huge clear window in upper right, distinctive diagonal crack and geometric worn carving. Warm golden oven light and daylight forest-green contrast. One clear idea: ancient mystery now feeds a neighborhood. Authentic textures, cinematic realism, no modern technology, no text/logos, no Arven, no chains or restraints, no magical activation. Keep top and bottom 10% clear for typography. New human actions and bakery furnishings, same fixed camera for an effective before/after.",
+    "reel2": "Use case: illustration-story. Generate a new 9:16 cinematic scene for The Land of Roo. Supplied image is continuity reference for same two HUMAN people, counter, clothing, and drinking cup. Second distinct shot: TIGHT dramatic close shot of the male sorcerer's open hand holding the same handleless cup, cup now physically transforming from solid gold into plain brown wood, coherent smooth boundary between gold upper half and unmistakable dark wood grain lower half, not peeling paint, no flakes, no glitter or neon. Woman's auburn-haired face in upper left, she looks him directly in the eye with steady skeptical expression, her small leather coin purse still in her own other hand. Man's long brown-haired face in upper right now visibly strained and uncertain, brow tense and mouth no longer smiling. Plum wool coat and green cloak match exactly. The small cup large at center and sharply focused, context clear. Gold is a fragile magical Lie losing its hold when successfully challenged. No touching or violence. Natural overcast northern market light, rich dark wood texture, face and cup readable at phone size. No logos, no text, no Arven, no creatures. Keep top 15% and bottom 17% for later typography.",
+    "reel3": "Use case: illustration-story. Create entirely new 9:16 final scene of The Land of Roo tiny market story. Supplied reference is exact identity/costume/location reference for two HUMAN people. New camera three-quarter angle at counter: auburn-haired pale tall woman in dark green cloak over cream tunic has closed her own coin purse and confidently turns away smiling with relief, purse held secure in one hand at chest. Male pale tall sorcerer long dark brown hair clean shaven plum wool coat is behind the counter looking down ruefully at the SAME palm-sized handleless drinking cup now entirely ordinary brown WOOD with unmistakable wooden grain and NO gold remaining, holding it on his open palm above the counter at frame center. Medium shot, both faces and wooden cup clearly readable, woman's change from suspicion to assured decision is the payoff. No money exchanged, no new characters, no fantasy species, no Arven, no symbols, no text, no logos, no restraints. Cinematic Nordic fantasy realism, soft wintry daylight, cool mountains and timber market out of focus. Leave top 15% and bottom 17% for later typography."
+  },
+  "videoValidation": {
+    "ffprobe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt470bg",
+          "chroma_location": "center",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30/1",
+          "avg_frame_rate": "30/1",
+          "time_base": "1/15360",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 161280,
+          "duration": "10.500000",
+          "bit_rate": "923158",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "315",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 504000,
+          "duration": "10.500000",
+          "bit_rate": "96117",
+          "nb_frames": "494",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "assets/social/2026-10-19/01-the-gold-was-a-lie.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.500000",
+        "size": "1351040",
+        "bit_rate": "1029363",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf60.16.100"
+        }
+      }
+    },
+    "faststart": true,
+    "cutsSeconds": [
+      2,
+      5
+    ],
+    "distinctScenes": 3,
+    "audio": "Original quiet brown-noise ambience, locally synthesized. No third-party footage/audio.",
+    "visualQA": "All six final frame/images inspected at full rendering: readable type, unclipped faces/focal props. Story gold to wood and purse retained; carousel bay continuity; serial identities and scarf continuity."
+  },
+  "files": [
+    {
+      "path": "assets/social/2026-10-19/01-the-gold-was-a-lie.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67826a7919e3d539d902d065fba5a423a2ebcd2c",
+      "bytes": 1351040
+    },
+    {
+      "path": "assets/social/2026-10-19/reel/frame-01.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b937ebe523c48cb81e7263d26512999fe60f2ceb",
+      "bytes": 436044
+    },
+    {
+      "path": "assets/social/2026-10-19/reel/frame-02.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15a51a21a9dd83386b1b446bee4f273600791d5e",
+      "bytes": 469330
+    },
+    {
+      "path": "assets/social/2026-10-19/reel/frame-03.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7cfd03445ec0fe84402aa9be2c082928e18dbe7",
+      "bytes": 449648
+    },
+    {
+      "path": "assets/social/2026-10-19/carousel/01-what-would-you-build.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73bc7788e071a0f6f035d0481a49b14beb49a72d",
+      "bytes": 551706
+    },
+    {
+      "path": "assets/social/2026-10-19/carousel/02-bread-not-buried-treasure.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e7eb45181233173b19575cb4481cf2b70ff069a",
+      "bytes": 629084
+    },
+    {
+      "path": "assets/social/2026-10-19/03-the-footprints-were-his.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4f1fd46153377b2c19dc0218bb5ae261b5fd431",
+      "bytes": 662405
+    }
+  ],
+  "slots": [
+    {
+      "slot": "11:00",
+      "dueAt": "2026-10-19T09:00:00Z",
+      "format": "reel",
+      "title": "The Gold Was a Lie",
+      "files": [
+        "01-the-gold-was-a-lie.mp4"
+      ],
+      "fallbackFiles": [
+        "reel/frame-01.jpg",
+        "reel/frame-02.jpg",
+        "reel/frame-03.jpg"
+      ],
+      "captions": {
+        "instagram": "The gold was real—until his certainty broke.\n\nHe wanted her last coins for a golden cup. She questioned him instead. His conviction faltered; the gold became wood again. Her savings stayed hers.\n\nIn Roo, Lie magic can make the impossible real. It is unstable, and a successfully challenged lie can collapse.\n\nLook again: would you have paid before asking questions?\n\nAn imagined scene from The Land of Roo, an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #FantasyBooks",
+        "facebook": "A golden cup almost cost her every coin.\n\nIn this imagined Roo market scene, a sorcerer offers a beautiful cup for a traveler's remaining savings. She challenges his claim. His conviction falters—and the cup becomes wood again.\n\nThis is not merely an illusion. Roo's Lie magic can make something impossible function as reality, but sustaining it takes extraordinary conviction. A successfully challenged lie can collapse. Not every lie breaks this easily.\n\nWhat would you ask before handing over your savings?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #Worldbuilding"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    },
+    {
+      "slot": "17:00",
+      "dueAt": "2026-10-19T15:00:00Z",
+      "format": "carousel",
+      "title": "Bread, Not Buried Treasure",
+      "files": [
+        "carousel/01-what-would-you-build.jpg",
+        "carousel/02-bread-not-buried-treasure.jpg"
+      ],
+      "alt": [
+        "A silver-blond Rooan craftswoman measures an empty stone bay beneath an enormous ancient window. Text asks what the viewer would build here and invites a swipe.",
+        "The same stone bay has become a human-scale bakery. The woman offers fresh bread to a customer beside a clay oven; the immense ancient window remains above them."
+      ],
+      "captions": {
+        "instagram": "She found a ruin. She saw a livelihood.\n\nNo treasure chest. No throne. Just old stone, a sound roof and room for an oven.\n\nSwipe to see her answer.\n\nRooans sometimes put ancient Vanir ruins to practical use. This imagined bakery asks what happens when an overwhelming past becomes someone's ordinary working day.\n\nYour choice: bakery or workshop?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArchitecture",
+        "facebook": "The ancient builders left no instructions for a bakery.\n\nPeople in Roo enter Vanir ruins for many reasons: faith, study, treasure—and practical use.\n\nThis before-and-after imagines a craftswoman choosing something less grand than a throne room. An oven, a counter and a living made beneath a window built on a scale far beyond her own.\n\nSwipe from the empty shell to her finished bakery. Would you turn this space into a bakery or a workshop?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArchitecture"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    },
+    {
+      "slot": "20:00",
+      "dueAt": "2026-10-19T18:00:00Z",
+      "format": "single",
+      "title": "Fireside Tales — The Footprints Were His",
+      "files": [
+        "03-the-footprints-were-his.jpg"
+      ],
+      "alt": [
+        "The honey-blond traveler in a blue dress and red scarf laughs with relief beside the silver-braided innkeeper. An elderly carpenter with a mallet welcomes them at the pointed stone doorway; bootprints lead to his feet."
+      ],
+      "captions": {
+        "instagram": "The footsteps belonged to someone fixing a door.\n\nFireside Tales of Roo\n\nA young traveler had seen this doorway in dreams. When a stranger drew it, she burned the drawing rather than follow him. The innkeeper knew the place and walked there with her.\n\nFresh tracks led to a man holding a mallet.\n\n“My brother,” the innkeeper said. “That door sticks every winter.”\n\nAn ordinary storehouse. An ordinary repair. The traveler laughed—and finally stepped closer without being told to.\n\nBut why had she dreamed of a place she had never visited?\n\nFollow for tomorrow's answer.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+        "facebook": "The frightening trail ended at an ordinary repair.\n\nFireside Tales of Roo\n\nA traveler kept dreaming of a doorway. At an inn, a stranger drew that same doorway; she refused to follow his lead and burned the drawing. Instead, she trusted the innkeeper, who had grown up beside the place.\n\nOn their walk, fresh bootprints made her hesitate. They led straight to an older man with a mallet and a basket of tools.\n\n“My brother,” the innkeeper said. “That door sticks every winter.”\n\nThe building was a storehouse, not a prison or a palace. He had come to repair its door. The traveler laughed with relief and stepped closer of her own accord.\n\nOne question remained: why had she dreamed of a place she had never visited?\n\nFollow for the answer in tomorrow's tale.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt"
+      },
+      "posts": {
+        "instagram": {
+          "status": "missing"
+        },
+        "facebook": {
+          "status": "missing"
+        }
+      }
+    }
+  ],
+  "nextSerialContinuity": "Pay off the promised answer tomorrow: why the traveler dreamed of an ordinary storehouse she believes she has never visited. Do not add another unrelated cliffhanger. Preserve honey-blond hair, thin side braids, blue dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter is innkeeper's brother, silver hair, gray coat/tan apron. This is a minor imagined side-story, not main-book plot."
+}
