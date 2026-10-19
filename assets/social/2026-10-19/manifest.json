@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "Europe/Stockholm",
-  "status": "11_and_17_sent_both_20_scheduled_verified",
+  "status": "all_six_sent_verified",
   "generationMode": "built-in image_gen",
   "canon": {
     "source": "The_Land_of_Roo_Canon_Bible(1).docx",
@@ -3379,7 +3379,7 @@
       "posts": {
         "instagram": {
           "id": "6ad5d665e1ba3b5f47d52404",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-19T18:00:00.000Z",
           "error": null,
           "request": {
@@ -3458,11 +3458,11 @@
             "isAiGenerated": true,
             "stickerFields": null
           },
-          "sentAt": null
+          "sentAt": "2026-10-19T18:01:49.745Z"
         },
         "facebook": {
           "id": "6ad5d66ee1ba3b5f47d52576",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-19T18:00:00.000Z",
           "error": null,
           "request": {
@@ -3536,7 +3536,7 @@
             "firstComment": null,
             "linkAttachment": null
           },
-          "sentAt": null
+          "sentAt": "2026-10-19T18:01:32.559Z"
         }
       },
       "mediaUrls": [
@@ -3546,7 +3546,7 @@
   ],
   "nextSerialContinuity": "Pay off the promised answer tomorrow: why the traveler dreamed of an ordinary storehouse she believes she has never visited. Do not add another unrelated cliffhanger. Preserve honey-blond hair, thin side braids, blue dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter is innkeeper's brother, silver hair, gray coat/tan apron. This is a minor imagined side-story, not main-book plot.",
   "mediaCommit": "e6eedbf9dd545c45ea17b0be80cda48d3283f596",
-  "verifiedAt": "2026-10-19 15:17:05 UTC",
+  "verifiedAt": "2026-10-19 18:15:15 UTC",
   "verification": [
     {
       "slot": "11:00",
@@ -3588,18 +3588,18 @@
       "slot": "20:00",
       "channel": "instagram",
       "id": "6ad5d665e1ba3b5f47d52404",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-19T18:00:00.000Z",
-      "sentAt": null,
+      "sentAt": "2026-10-19T18:01:49.745Z",
       "mediaCount": 1
     },
     {
       "slot": "20:00",
       "channel": "facebook",
       "id": "6ad5d66ee1ba3b5f47d52576",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-19T18:00:00.000Z",
-      "sentAt": null,
+      "sentAt": "2026-10-19T18:01:32.559Z",
       "mediaCount": 1
     }
   ],
@@ -3720,6 +3720,66 @@
           "status": "scheduled",
           "dueAt": "2026-10-19T18:00:00.000Z",
           "sentAt": null,
+          "mediaCount": 1
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-10-19 18:15:15 UTC",
+      "result": "All three slots sent on both channels; no errors or duplicates; no retry needed",
+      "posts": [
+        {
+          "slot": "11:00",
+          "channel": "instagram",
+          "id": "6ad5d64aea56886c4716110b",
+          "status": "sent",
+          "dueAt": "2026-10-19T09:00:00.000Z",
+          "sentAt": "2026-10-19T09:01:24.515Z",
+          "mediaCount": 1
+        },
+        {
+          "slot": "11:00",
+          "channel": "facebook",
+          "id": "6ad5d65c4f39bcabbcd18c9c",
+          "status": "sent",
+          "dueAt": "2026-10-19T09:00:00.000Z",
+          "sentAt": "2026-10-19T09:00:19.877Z",
+          "mediaCount": 1
+        },
+        {
+          "slot": "17:00",
+          "channel": "instagram",
+          "id": "6ad5d661e1ba3b5f47d52382",
+          "status": "sent",
+          "dueAt": "2026-10-19T15:00:00.000Z",
+          "sentAt": "2026-10-19T15:01:31.550Z",
+          "mediaCount": 2
+        },
+        {
+          "slot": "17:00",
+          "channel": "facebook",
+          "id": "6ad5d668e1ba3b5f47d524aa",
+          "status": "sent",
+          "dueAt": "2026-10-19T15:00:00.000Z",
+          "sentAt": "2026-10-19T15:01:26.693Z",
+          "mediaCount": 2
+        },
+        {
+          "slot": "20:00",
+          "channel": "instagram",
+          "id": "6ad5d665e1ba3b5f47d52404",
+          "status": "sent",
+          "dueAt": "2026-10-19T18:00:00.000Z",
+          "sentAt": "2026-10-19T18:01:49.745Z",
+          "mediaCount": 1
+        },
+        {
+          "slot": "20:00",
+          "channel": "facebook",
+          "id": "6ad5d66ee1ba3b5f47d52576",
+          "status": "sent",
+          "dueAt": "2026-10-19T18:00:00.000Z",
+          "sentAt": "2026-10-19T18:01:32.559Z",
           "mediaCount": 1
         }
       ]
