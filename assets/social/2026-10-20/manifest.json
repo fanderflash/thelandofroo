@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "Europe/Stockholm",
-  "status": "morning_sent_afternoon_evening_scheduled",
+  "status": "morning_afternoon_sent_evening_scheduled",
   "generationMode": "built-in image_gen",
   "canon": {
     "review": "Current Canon Bible and established public visual canon reviewed. No future book events or secret explanations used. All people in new scenes are humans; no Arven depicted or discussed.",
@@ -13,7 +13,9 @@
     "exclusions": "No prohibited older material used. Yesterday's serial image used only for character/costume continuity, not republished or animated."
   },
   "typography": {
-    "decision": "Font comparison awaits Thomas's choice. No permanent new font choice applied. Reel keeps established bold sans-serif; carousel uses restrained serif lettering."
+    "decision": "Thomas selected Cormorant Garamond SemiBold (600) on 2026-10-20 at 17:01 Stockholm. Apply to newly created social media. Today's existing media preserved during recovery.",
+    "fontPath": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "approvedFontCommit": "f1fe15748a186183ef04adbb19af026c0f98ed22"
   },
   "performance": {
     "completeWindows": {
@@ -2927,7 +2929,7 @@
             "saveToDraft": false
           },
           "attempts": 1,
-          "verifiedAt": "2026-10-20T09:19:16Z",
+          "verifiedAt": "2026-10-20T15:10:51Z",
           "error": null,
           "sentAt": "2026-10-20T09:01:12.748Z"
         },
@@ -2960,7 +2962,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T09:19:16Z",
+          "verifiedAt": "2026-10-20T15:10:51Z",
           "sentAt": "2026-10-20T09:00:34.239Z"
         }
       },
@@ -2993,7 +2995,7 @@
       "posts": {
         "instagram": {
           "id": "6ad72706ec8e66c06201e3eb",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-20T15:00:00.000Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
@@ -3030,12 +3032,12 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T09:19:16Z",
-          "sentAt": null
+          "verifiedAt": "2026-10-20T15:10:51Z",
+          "sentAt": "2026-10-20T15:01:24.216Z"
         },
         "facebook": {
           "id": "6ad72709ec8e66c06201e509",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-20T15:00:00.000Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
@@ -3070,8 +3072,8 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T09:19:16Z",
-          "sentAt": null
+          "verifiedAt": "2026-10-20T15:10:51Z",
+          "sentAt": "2026-10-20T15:01:06.535Z"
         }
       },
       "mediaUrls": [
@@ -3126,7 +3128,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T09:19:16Z",
+          "verifiedAt": "2026-10-20T15:10:51Z",
           "sentAt": null
         },
         "facebook": {
@@ -3158,7 +3160,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T09:19:16Z",
+          "verifiedAt": "2026-10-20T15:10:51Z",
           "sentAt": null
         }
       },
@@ -3261,16 +3263,16 @@
         "slot": "17:00",
         "platform": "instagram",
         "id": "6ad72706ec8e66c06201e3eb",
-        "status": "scheduled",
-        "sentAt": null,
+        "status": "sent",
+        "sentAt": "2026-10-20T15:01:24.216Z",
         "verified": true
       },
       {
         "slot": "17:00",
         "platform": "facebook",
         "id": "6ad72709ec8e66c06201e509",
-        "status": "scheduled",
-        "sentAt": null,
+        "status": "sent",
+        "sentAt": "2026-10-20T15:01:06.535Z",
         "verified": true
       },
       {
@@ -3292,9 +3294,9 @@
     ],
     "dayPostCount": 6,
     "publicMedia": "All 7 original media URLs returned HTTP 200 with expected file sizes.",
-    "verifiedAt": "2026-10-20T09:19:16Z"
+    "verifiedAt": "2026-10-20T15:10:51Z"
   },
-  "updatedAt": "2026-10-20T09:19:16Z",
+  "updatedAt": "2026-10-20T15:10:51Z",
   "recoveryChecks": [
     {
       "checkedAt": "2026-10-20T09:19:16Z",
@@ -3333,6 +3335,66 @@
           "id": "6ad72709ec8e66c06201e509",
           "status": "scheduled",
           "sentAt": null,
+          "verified": true
+        },
+        {
+          "slot": "20:00",
+          "platform": "instagram",
+          "id": "6ad7270d9aa7670040a5e0cd",
+          "status": "scheduled",
+          "sentAt": null,
+          "verified": true
+        },
+        {
+          "slot": "20:00",
+          "platform": "facebook",
+          "id": "6ad72710c4a5f1eea4c7c09e",
+          "status": "scheduled",
+          "sentAt": null,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-10-20T15:10:51Z",
+      "passedSlots": [
+        "11:00",
+        "17:00"
+      ],
+      "result": "Both morning Reels and afternoon carousels sent; 20:00 correctly scheduled on both channels.",
+      "republished": 0,
+      "created": 0,
+      "checks": [
+        {
+          "slot": "11:00",
+          "platform": "instagram",
+          "id": "6ad726f28c1133338d55ddff",
+          "status": "sent",
+          "sentAt": "2026-10-20T09:01:12.748Z",
+          "verified": true
+        },
+        {
+          "slot": "11:00",
+          "platform": "facebook",
+          "id": "6ad72702cc45f42ffeb44d8b",
+          "status": "sent",
+          "sentAt": "2026-10-20T09:00:34.239Z",
+          "verified": true
+        },
+        {
+          "slot": "17:00",
+          "platform": "instagram",
+          "id": "6ad72706ec8e66c06201e3eb",
+          "status": "sent",
+          "sentAt": "2026-10-20T15:01:24.216Z",
+          "verified": true
+        },
+        {
+          "slot": "17:00",
+          "platform": "facebook",
+          "id": "6ad72709ec8e66c06201e509",
+          "status": "sent",
+          "sentAt": "2026-10-20T15:01:06.535Z",
           "verified": true
         },
         {
