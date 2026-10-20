@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "Europe/Stockholm",
-  "status": "morning_afternoon_sent_evening_scheduled",
+  "status": "all_six_sent",
   "generationMode": "built-in image_gen",
   "canon": {
     "review": "Current Canon Bible and established public visual canon reviewed. No future book events or secret explanations used. All people in new scenes are humans; no Arven depicted or discussed.",
@@ -2929,7 +2929,7 @@
             "saveToDraft": false
           },
           "attempts": 1,
-          "verifiedAt": "2026-10-20T15:10:51Z",
+          "verifiedAt": "2026-10-20T18:16:13Z",
           "error": null,
           "sentAt": "2026-10-20T09:01:12.748Z"
         },
@@ -2962,7 +2962,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T15:10:51Z",
+          "verifiedAt": "2026-10-20T18:16:13Z",
           "sentAt": "2026-10-20T09:00:34.239Z"
         }
       },
@@ -3032,7 +3032,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T15:10:51Z",
+          "verifiedAt": "2026-10-20T18:16:13Z",
           "sentAt": "2026-10-20T15:01:24.216Z"
         },
         "facebook": {
@@ -3072,7 +3072,7 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T15:10:51Z",
+          "verifiedAt": "2026-10-20T18:16:13Z",
           "sentAt": "2026-10-20T15:01:06.535Z"
         }
       },
@@ -3099,7 +3099,7 @@
       "posts": {
         "instagram": {
           "id": "6ad7270d9aa7670040a5e0cd",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-20T18:00:00.000Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
@@ -3128,12 +3128,12 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T15:10:51Z",
-          "sentAt": null
+          "verifiedAt": "2026-10-20T18:16:13Z",
+          "sentAt": "2026-10-20T18:01:14.181Z"
         },
         "facebook": {
           "id": "6ad72710c4a5f1eea4c7c09e",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-10-20T18:00:00.000Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
@@ -3160,8 +3160,8 @@
           },
           "attempts": 1,
           "error": null,
-          "verifiedAt": "2026-10-20T15:10:51Z",
-          "sentAt": null
+          "verifiedAt": "2026-10-20T18:16:13Z",
+          "sentAt": "2026-10-20T18:01:25.139Z"
         }
       },
       "mediaUrls": [
@@ -3279,24 +3279,25 @@
         "slot": "20:00",
         "platform": "instagram",
         "id": "6ad7270d9aa7670040a5e0cd",
-        "status": "scheduled",
-        "sentAt": null,
+        "status": "sent",
+        "sentAt": "2026-10-20T18:01:14.181Z",
         "verified": true
       },
       {
         "slot": "20:00",
         "platform": "facebook",
         "id": "6ad72710c4a5f1eea4c7c09e",
-        "status": "scheduled",
-        "sentAt": null,
+        "status": "sent",
+        "sentAt": "2026-10-20T18:01:25.139Z",
         "verified": true
       }
     ],
     "dayPostCount": 6,
     "publicMedia": "All 7 original media URLs returned HTTP 200 with expected file sizes.",
-    "verifiedAt": "2026-10-20T15:10:51Z"
+    "verifiedAt": "2026-10-20T18:16:13Z",
+    "allSixSent": true
   },
-  "updatedAt": "2026-10-20T15:10:51Z",
+  "updatedAt": "2026-10-20T18:16:13Z",
   "recoveryChecks": [
     {
       "checkedAt": "2026-10-20T09:19:16Z",
@@ -3411,6 +3412,67 @@
           "id": "6ad72710c4a5f1eea4c7c09e",
           "status": "scheduled",
           "sentAt": null,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "checkedAt": "2026-10-20T18:16:13Z",
+      "passedSlots": [
+        "11:00",
+        "17:00",
+        "20:00"
+      ],
+      "result": "All six intended platform posts sent. No errors or duplicates. No recovery publication required.",
+      "republished": 0,
+      "created": 0,
+      "checks": [
+        {
+          "slot": "11:00",
+          "platform": "instagram",
+          "id": "6ad726f28c1133338d55ddff",
+          "status": "sent",
+          "sentAt": "2026-10-20T09:01:12.748Z",
+          "verified": true
+        },
+        {
+          "slot": "11:00",
+          "platform": "facebook",
+          "id": "6ad72702cc45f42ffeb44d8b",
+          "status": "sent",
+          "sentAt": "2026-10-20T09:00:34.239Z",
+          "verified": true
+        },
+        {
+          "slot": "17:00",
+          "platform": "instagram",
+          "id": "6ad72706ec8e66c06201e3eb",
+          "status": "sent",
+          "sentAt": "2026-10-20T15:01:24.216Z",
+          "verified": true
+        },
+        {
+          "slot": "17:00",
+          "platform": "facebook",
+          "id": "6ad72709ec8e66c06201e509",
+          "status": "sent",
+          "sentAt": "2026-10-20T15:01:06.535Z",
+          "verified": true
+        },
+        {
+          "slot": "20:00",
+          "platform": "instagram",
+          "id": "6ad7270d9aa7670040a5e0cd",
+          "status": "sent",
+          "sentAt": "2026-10-20T18:01:14.181Z",
+          "verified": true
+        },
+        {
+          "slot": "20:00",
+          "platform": "facebook",
+          "id": "6ad72710c4a5f1eea4c7c09e",
+          "status": "sent",
+          "sentAt": "2026-10-20T18:01:25.139Z",
           "verified": true
         }
       ]
