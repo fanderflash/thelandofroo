@@ -1,0 +1,3006 @@
+{
+  "date": "2026-10-20",
+  "timezone": "Europe/Stockholm",
+  "status": "media_ready",
+  "generationMode": "built-in image_gen",
+  "canon": {
+    "review": "Current Canon Bible and established public visual canon reviewed. No future book events or secret explanations used. All people in new scenes are humans; no Arven depicted or discussed.",
+    "sources": [
+      "https://thelandofroo.com/lore/magic.html",
+      "https://thelandofroo.com/lore/varren-highward.html"
+    ],
+    "publicationAuthority": "Explicit user instruction to create and publish original canon-compatible daily social scenes.",
+    "exclusions": "No prohibited older material used. Yesterday's serial image used only for character/costume continuity, not republished or animated."
+  },
+  "typography": {
+    "decision": "Font comparison awaits Thomas's choice. No permanent new font choice applied. Reel keeps established bold sans-serif; carousel uses restrained serif lettering."
+  },
+  "performance": {
+    "completeWindows": {
+      "last30": "2026-09-20 through 2026-10-19",
+      "last7": "2026-10-13 through 2026-10-19",
+      "matureFormatComparison": "2026-10-12 through 2026-10-18"
+    },
+    "metrics": {
+      "instagram30": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 78,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 32,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.78,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 3055,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 3,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 2073,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 78.96,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.16,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-20T01:57:55.016Z"
+      },
+      "instagram7": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.61,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 1100,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 2,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 819,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 41.39,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.36,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-20T01:57:55.014Z"
+      },
+      "facebook30": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 79,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 7,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.46,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 1642,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 16,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-20T02:04:38.567Z"
+      },
+      "facebook7": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 21,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.27,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 733,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 1,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-10-20T02:04:38.567Z"
+      }
+    },
+    "matureFormats": {
+      "facebook-single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 1,
+        "impressions": 14,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram-single": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 104,
+        "shares": 1,
+        "saves": 0,
+        "follows": 0,
+        "reach": 50
+      },
+      "facebook-carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 20,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram-carousel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "views": 155,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 48
+      },
+      "facebook-reel": {
+        "posts": 7,
+        "reactions": 0,
+        "comments": 0,
+        "impressions": 602,
+        "shares": 0,
+        "clicks": 0
+      },
+      "instagram-reel": {
+        "posts": 7,
+        "reactions": 1,
+        "comments": 0,
+        "views": 862,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 742
+      }
+    },
+    "availability": "Non-follower reach unavailable. Facebook post follows, saves, views, watch time and reach unavailable, not treated as zero. Instagram clicks unavailable. Summed reach is not a deduplicated audience.",
+    "analysis": "Seven mature complete days: Instagram Reels 742 summed reach, carousel 48, single 50 (7 posts per format). Reels 2 saves, singles 1 share, no attributed follows in any format. Facebook Reels 602 impressions vs carousel 20 and singles 14. Overall IG seven complete days has 0 follows, 1 share, 2 saves, 1 comment. October 19 posts are under 24 hours old and excluded from creative judgments. Keep Reel discovery but change from scenic mystery to visible human action and delivery payoff. Serial provides promised explanation today instead of extending an unexplained threat.",
+    "stopPattern": "Stop generic scenic/nature carousels after Oct16-18 produced reach 7,5,5 and zero follows/shares/saves. Replace with a concrete near/far political reveal. Do not continue serial through another unexplained ominous object.",
+    "hypothesis": "An observable concealment/delivery sequence may retain new viewers; a crown-versus-authority reveal makes unfamiliar politics accessible; the serial answers the existing dream question with kindness before a specific next choice.",
+    "historicalStructuralClue": "Change, conflict, mystery and stakes, without copying the historical isolation post.",
+    "postRecords": [
+      {
+        "id": "6ad5d66ee1ba3b5f47d52576",
+        "channel": "facebook",
+        "date": "2026-10-19T18:00:00.000Z",
+        "hook": "The frightening trail ended at an ordinary repair.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad5d665e1ba3b5f47d52404",
+        "channel": "instagram",
+        "date": "2026-10-19T18:00:00.000Z",
+        "hook": "The footsteps belonged to someone fixing a door.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 6,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ad5d668e1ba3b5f47d524aa",
+        "channel": "facebook",
+        "date": "2026-10-19T15:00:00.000Z",
+        "hook": "The ancient builders left no instructions for a bakery.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 20,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ad5d661e1ba3b5f47d52382",
+        "channel": "instagram",
+        "date": "2026-10-19T15:00:00.000Z",
+        "hook": "She found a ruin. She saw a livelihood.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 1,
+          "engagementRate": 16.67,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ad5d65c4f39bcabbcd18c9c",
+        "channel": "facebook",
+        "date": "2026-10-19T09:00:00.000Z",
+        "hook": "A golden cup almost cost her every coin.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 121,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad5d64aea56886c4716110b",
+        "channel": "instagram",
+        "date": "2026-10-19T09:00:00.000Z",
+        "hook": "The gold was real—until his certainty broke.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.93,
+          "views": 118,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 107
+        }
+      },
+      {
+        "id": "6ad482faae173d6e00f1d535",
+        "channel": "facebook",
+        "date": "2026-10-18T18:00:00.000Z",
+        "hook": "This time, she chose who walked beside her.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad482f7769b457934b397a3",
+        "channel": "instagram",
+        "date": "2026-10-18T18:00:00.000Z",
+        "hook": "She chose company, not another command.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 9,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ad482f3769b457934b39749",
+        "channel": "facebook",
+        "date": "2026-10-18T15:00:00.000Z",
+        "hook": "One basket was never going to be enough.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad482f0938409f1d0c0d75a",
+        "channel": "instagram",
+        "date": "2026-10-18T15:00:00.000Z",
+        "hook": "She brought the wrong basket.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6ad482ec6d56c60a7300b288",
+        "channel": "facebook",
+        "date": "2026-10-18T09:00:00.000Z",
+        "hook": "Her best cloak became the way home.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 215,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad482dd769b457934b395db",
+        "channel": "instagram",
+        "date": "2026-10-18T09:00:00.000Z",
+        "hook": "She cut up her best cloak.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 90,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 75
+        }
+      },
+      {
+        "id": "6ad331aaae173d6e00aa61b6",
+        "channel": "facebook",
+        "date": "2026-10-17T18:00:00.000Z",
+        "hook": "She slept. The doorway never came.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad331a6dd83363c4dc2f95d",
+        "channel": "instagram",
+        "date": "2026-10-17T18:00:00.000Z",
+        "hook": "She slept. The doorway never came.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ad331b7ae173d6e00aa62bb",
+        "channel": "facebook",
+        "date": "2026-10-17T15:00:00.000Z",
+        "hook": "He brought almost nothing home.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad331a1769b4579346b4e40",
+        "channel": "instagram",
+        "date": "2026-10-17T15:00:00.000Z",
+        "hook": "He brought almost nothing home.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 19,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6ad3319c0b0d72757acac418",
+        "channel": "facebook",
+        "date": "2026-10-17T09:00:00.000Z",
+        "hook": "Her magic needed something the cold hadn't killed.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 67,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad33197dd83363c4dc2f765",
+        "channel": "instagram",
+        "date": "2026-10-17T09:00:00.000Z",
+        "hook": "Her magic needed something the cold hadn't killed.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 143,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 125
+        }
+      },
+      {
+        "id": "6ad1df9de991a49db3d50a79",
+        "channel": "facebook",
+        "date": "2026-10-16T18:00:00.000Z",
+        "hook": "Burning the drawing was the easy part.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad1df874ed7d375a4506707",
+        "channel": "instagram",
+        "date": "2026-10-16T18:00:00.000Z",
+        "hook": "She refused to follow the stranger's drawing.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "views": 16,
+          "shares": 1,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ad1df92e991a49db3d507ba",
+        "channel": "facebook",
+        "date": "2026-10-16T15:00:00.000Z",
+        "hook": "A whole hiding place in a patch of moss.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad1df7ca82f34dbe151f2d7",
+        "channel": "instagram",
+        "date": "2026-10-16T15:00:00.000Z",
+        "hook": "That is moss. Not a tree.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 25,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ad1df714ed7d375a450644c",
+        "channel": "facebook",
+        "date": "2026-10-16T09:00:00.000Z",
+        "hook": "What if your whole city was someone else's ruin?",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 28,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad1df63ee2c696029c75df6",
+        "channel": "instagram",
+        "date": "2026-10-16T09:00:00.000Z",
+        "hook": "A home to you. A ruin to history.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 1.38,
+          "views": 174,
+          "shares": 0,
+          "saves": 2,
+          "follows": 0,
+          "reach": 145
+        }
+      },
+      {
+        "id": "6ad08e42de79014f82c6db1d",
+        "channel": "facebook",
+        "date": "2026-10-15T18:00:00.000Z",
+        "hook": "The stranger knew a dream she never shared.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad08e3c4e8a140929bed6d9",
+        "channel": "instagram",
+        "date": "2026-10-15T18:00:00.000Z",
+        "hook": "He drew the dream she never told.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ad08e35de79014f82c6da11",
+        "channel": "instagram",
+        "date": "2026-10-15T15:00:00.000Z",
+        "hook": "Blood does not always make a king.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 30,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ad08e30de79014f82c6d8bd",
+        "channel": "facebook",
+        "date": "2026-10-15T15:00:00.000Z",
+        "hook": "A crown needs more than blood.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ad08e2a6295ecc932f5c94d",
+        "channel": "instagram",
+        "date": "2026-10-15T09:00:00.000Z",
+        "hook": "Their gods cannot answer.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 90,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 81
+        }
+      },
+      {
+        "id": "6ad08e25675f058f0b3fd921",
+        "channel": "facebook",
+        "date": "2026-10-15T09:00:00.000Z",
+        "hook": "Their gods cannot answer.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 33,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acf3ff2848c31c80967dd7d",
+        "channel": "facebook",
+        "date": "2026-10-14T18:00:00.000Z",
+        "hook": "The stairs were never made for humans.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acf3fdc1f3f10bcb7bba3be",
+        "channel": "instagram",
+        "date": "2026-10-14T18:00:00.000Z",
+        "hook": "One step reaches his waist.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 10,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6acf3fd10d20fd1527882f31",
+        "channel": "facebook",
+        "date": "2026-10-14T15:00:00.000Z",
+        "hook": "A sick child. Two helpers. One decision.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acf3fc6f847f2ad9ecca3ef",
+        "channel": "instagram",
+        "date": "2026-10-14T15:00:00.000Z",
+        "hook": "The fever cannot wait.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 13,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6acf3fe8848c31c80967db4a",
+        "channel": "facebook",
+        "date": "2026-10-14T09:00:00.000Z",
+        "hook": "They had prayed inside a machine for generations.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 78,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acf3fbb1f3f10bcb7bb9e71",
+        "channel": "instagram",
+        "date": "2026-10-14T09:00:00.000Z",
+        "hook": "The temple was a machine.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 110,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 86
+        }
+      },
+      {
+        "id": "6acdef08ca68ebbd369b57af",
+        "channel": "facebook",
+        "date": "2026-10-13T18:00:00.000Z",
+        "hook": "She kept one light for a son lost at sea.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 1,
+          "engagementRate": 33.33,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acdeefed31101ca4b54f38b",
+        "channel": "instagram",
+        "date": "2026-10-13T18:00:00.000Z",
+        "hook": "Her last candle was almost gone.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 19,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        }
+      },
+      {
+        "id": "6acdeefaca68ebbd369b56d9",
+        "channel": "facebook",
+        "date": "2026-10-13T15:00:00.000Z",
+        "hook": "The first ship brought grain—and a decision.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acdeef7ca68ebbd369b569b",
+        "channel": "instagram",
+        "date": "2026-10-13T15:00:00.000Z",
+        "hook": "Her grandmother feared every sail.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 28,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6acdeef25540c90f0a83969b",
+        "channel": "facebook",
+        "date": "2026-10-13T09:00:00.000Z",
+        "hook": "A blessing became a threat in seconds.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 152,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acdeeef5167b5c45eb1c883",
+        "channel": "instagram",
+        "date": "2026-10-13T09:00:00.000Z",
+        "hook": "Thor is no hero here.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 131,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 110
+        }
+      },
+      {
+        "id": "6acc9c81a2941ce81768c8f9",
+        "channel": "instagram",
+        "date": "2026-10-12T18:00:00.000Z",
+        "hook": "They shared their last loaf.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6acc9c7ec5fdc4c02d0e8b85",
+        "channel": "facebook",
+        "date": "2026-10-12T18:00:00.000Z",
+        "hook": "They gave a stranger their last loaf.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acc9c79712ba82086b2a089",
+        "channel": "instagram",
+        "date": "2026-10-12T15:00:00.000Z",
+        "hook": "He wanted their warning bell.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 24,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        }
+      },
+      {
+        "id": "6acc9c76a2941ce81768c7fa",
+        "channel": "facebook",
+        "date": "2026-10-12T15:00:00.000Z",
+        "hook": "A merchant offered enough silver to buy their bell.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acc9c725feb3462de98317c",
+        "channel": "facebook",
+        "date": "2026-10-12T09:00:00.000Z",
+        "hook": "Roo has no moon.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 29,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acc9c6e712ba82086b29f27",
+        "channel": "instagram",
+        "date": "2026-10-12T09:00:00.000Z",
+        "hook": "Roo has no moon.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.83,
+          "views": 124,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 120
+        }
+      },
+      {
+        "id": "6acb48cfd9cab260a7ef8770",
+        "channel": "facebook",
+        "date": "2026-10-11T18:00:00.000Z",
+        "hook": "The hand moved while he slept.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 37.5,
+          "impressions": 8,
+          "shares": 0,
+          "clicks": 3
+        }
+      },
+      {
+        "id": "6acb48c9bba9419ccb2c978a",
+        "channel": "instagram",
+        "date": "2026-10-11T18:00:00.000Z",
+        "hook": "The hand moved while he slept.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 12,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6acb48c3f91f772d45bf653c",
+        "channel": "facebook",
+        "date": "2026-10-11T15:00:00.000Z",
+        "hook": "Footprints ended at solid stone.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acb48bcc4de2d2b1254d218",
+        "channel": "instagram",
+        "date": "2026-10-11T15:00:00.000Z",
+        "hook": "Footprints ended at solid stone.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 28,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6acb48b6c4de2d2b1254d193",
+        "channel": "facebook",
+        "date": "2026-10-11T09:00:00.000Z",
+        "hook": "The road ended here.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 2.22,
+          "impressions": 45,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6acb48b0ed92ed8fa5f80509",
+        "channel": "instagram",
+        "date": "2026-10-11T09:00:00.000Z",
+        "hook": "The road ended here.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 144,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 130
+        }
+      },
+      {
+        "id": "6ac9f804c4de2d2b121e3609",
+        "channel": "instagram",
+        "date": "2026-10-10T18:00:00.000Z",
+        "hook": "The reflection stood up first.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 24,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac9f7f6f91f772d4587cc78",
+        "channel": "facebook",
+        "date": "2026-10-10T18:00:00.000Z",
+        "hook": "The reflection stood up first.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac9f7fdb07d37ac9766fa7a",
+        "channel": "facebook",
+        "date": "2026-10-10T15:00:00.000Z",
+        "hook": "One iron bar. Two claims.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac9f7e1f91f772d4587c989",
+        "channel": "instagram",
+        "date": "2026-10-10T15:00:00.000Z",
+        "hook": "One iron bar. Two claims.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 28,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ac9f7eff91f772d4587cb78",
+        "channel": "facebook",
+        "date": "2026-10-10T09:00:00.000Z",
+        "hook": "Three boats. One flame.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 37,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac9f7e8d9cab260a7b97c3e",
+        "channel": "instagram",
+        "date": "2026-10-10T09:00:00.000Z",
+        "hook": "Three boats. One flame.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.77,
+          "views": 146,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 130
+        }
+      },
+      {
+        "id": "6ac8a7b593f9e5101ff2cce8",
+        "channel": "facebook",
+        "date": "2026-10-09T18:00:00.000Z",
+        "hook": "The storm uncovered a door with no hinges.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac8a7b19db755aaaace7bac",
+        "channel": "instagram",
+        "date": "2026-10-09T18:00:00.000Z",
+        "hook": "The door had no hinges.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ac8a7ae04f06b2e8f848a3c",
+        "channel": "facebook",
+        "date": "2026-10-09T15:00:00.000Z",
+        "hook": "The river will allow one last crossing.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 25,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ac8a7ab93f9e5101ff2cbc5",
+        "channel": "instagram",
+        "date": "2026-10-09T15:00:00.000Z",
+        "hook": "The river will allow one crossing.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 25,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac8a7a7987e694c3c4a559c",
+        "channel": "facebook",
+        "date": "2026-10-09T09:00:00.000Z",
+        "hook": "The sea gave an ancient road back.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac8a7a493f9e5101ff2caad",
+        "channel": "instagram",
+        "date": "2026-10-09T09:00:00.000Z",
+        "hook": "The sea gave the road back.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 135,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 128
+        }
+      },
+      {
+        "id": "6ac754f2d45e2f82629abff1",
+        "channel": "facebook",
+        "date": "2026-10-08T18:00:00.000Z",
+        "hook": "The tax collector wants next spring.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac754eefc3db6b912c7a3b0",
+        "channel": "instagram",
+        "date": "2026-10-08T18:00:00.000Z",
+        "hook": "The tax collector wants next spring.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac754e46bf3dfa8dcf1e533",
+        "channel": "facebook",
+        "date": "2026-10-08T15:00:00.000Z",
+        "hook": "She spent everything on one free dawn.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac754e0fc3db6b912c7a1b3",
+        "channel": "instagram",
+        "date": "2026-10-08T15:00:00.000Z",
+        "hook": "She spent everything on one free dawn.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 10,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 2
+        }
+      },
+      {
+        "id": "6ac754f56bf3dfa8dcf1e94b",
+        "channel": "instagram",
+        "date": "2026-10-08T09:00:00.000Z",
+        "hook": "The forest returned her alive.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 1.33,
+          "views": 170,
+          "shares": 0,
+          "saves": 1,
+          "follows": 0,
+          "reach": 150
+        }
+      },
+      {
+        "id": "6ac754e9c12914bfe5f54327",
+        "channel": "facebook",
+        "date": "2026-10-08T09:00:00.000Z",
+        "hook": "The forest returned a child alive.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 252,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac6036580c60f5e63356e49",
+        "channel": "facebook",
+        "date": "2026-10-07T18:00:00.000Z",
+        "hook": "The dead wheel moved.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac60360fb1617e7a72f3525",
+        "channel": "instagram",
+        "date": "2026-10-07T18:00:00.000Z",
+        "hook": "The dead wheel moved.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ac6035280c60f5e63356ba1",
+        "channel": "facebook",
+        "date": "2026-10-07T15:00:00.000Z",
+        "hook": "The ruin looked empty.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ac6034ffb1617e7a72f2f1e",
+        "channel": "instagram",
+        "date": "2026-10-07T15:00:00.000Z",
+        "hook": "The ruin looked empty.",
+        "format": "carousel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 22.22,
+          "views": 32,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ac6035bfe1a05e1b351eda8",
+        "channel": "facebook",
+        "date": "2026-10-07T09:00:00.000Z",
+        "hook": "Roo wasn't alone anymore.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 0.85,
+          "impressions": 236,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac6034941e5366c749667c0",
+        "channel": "instagram",
+        "date": "2026-10-07T09:00:00.000Z",
+        "hook": "Roo wasn't alone anymore.",
+        "format": "reel",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 1.74,
+          "views": 126,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 115
+        }
+      },
+      {
+        "id": "6ac4af56cb92344122da99ba",
+        "channel": "instagram",
+        "date": "2026-10-06T18:00:00.000Z",
+        "hook": "Would you sleep beneath something built for a god?",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac4af50ff06d19cffdf9eb8",
+        "channel": "facebook",
+        "date": "2026-10-06T18:00:00.000Z",
+        "hook": "Would you sleep beneath something built for a god?",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac4af4bcb92344122da9767",
+        "channel": "instagram",
+        "date": "2026-10-06T15:00:00.000Z",
+        "hook": "Barrel work after rain.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac4af47b8157b7e0ce4cda5",
+        "channel": "facebook",
+        "date": "2026-10-06T15:00:00.000Z",
+        "hook": "Barrel work after rain.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac4af42cb92344122da95e3",
+        "channel": "instagram",
+        "date": "2026-10-06T09:00:00.000Z",
+        "hook": "Where the forest grows larger.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac4af3ec5fafee5b11952b5",
+        "channel": "facebook",
+        "date": "2026-10-06T09:00:00.000Z",
+        "hook": "Where the forest grows larger.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac360a3fe1389e41358e888",
+        "channel": "instagram",
+        "date": "2026-10-05T18:00:00.000Z",
+        "hook": "A path across the old stair.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ac360a0ca1380ada84f3983",
+        "channel": "facebook",
+        "date": "2026-10-05T18:00:00.000Z",
+        "hook": "A path across the old stair.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 71.43,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 5
+        }
+      },
+      {
+        "id": "6ac3609cfe1389e41358e7b8",
+        "channel": "instagram",
+        "date": "2026-10-05T15:00:00.000Z",
+        "hook": "Barley under cover.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 11.11,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ac3609669a169193a63c783",
+        "channel": "facebook",
+        "date": "2026-10-05T15:00:00.000Z",
+        "hook": "Barley under cover.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac36092d467abe8cfdf3c6c",
+        "channel": "instagram",
+        "date": "2026-10-05T09:00:00.000Z",
+        "hook": "Morning at the Husby crossing.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ac3608efe1389e41358e6e1",
+        "channel": "facebook",
+        "date": "2026-10-05T09:00:00.000Z",
+        "hook": "Morning at the Husby crossing.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac20c42ad7fd83bc5175e4c",
+        "channel": "instagram",
+        "date": "2026-10-04T18:00:00.000Z",
+        "hook": "Evening prayer in Roo.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac20c3e7d53b827e0018051",
+        "channel": "facebook",
+        "date": "2026-10-04T18:00:00.000Z",
+        "hook": "Evening prayer in Roo.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac20c3aaa79e514b912c1c9",
+        "channel": "instagram",
+        "date": "2026-10-04T15:00:00.000Z",
+        "hook": "Wool work by the hearth.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac20c36aa79e514b912c142",
+        "channel": "facebook",
+        "date": "2026-10-04T15:00:00.000Z",
+        "hook": "Wool work by the hearth.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac20c325829d2489a0bbe69",
+        "channel": "instagram",
+        "date": "2026-10-04T09:00:00.000Z",
+        "hook": "Devil’s Ravine in sleet.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        }
+      },
+      {
+        "id": "6ac20c0baa79e514b912bb7c",
+        "channel": "facebook",
+        "date": "2026-10-04T09:00:00.000Z",
+        "hook": "Devil’s Ravine in sleet.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac0bb63ca55406b4b28abfa",
+        "channel": "instagram",
+        "date": "2026-10-03T18:00:00.000Z",
+        "hook": "A way through the marsh.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ac0bb609fdc9f926e710c61",
+        "channel": "facebook",
+        "date": "2026-10-03T18:00:00.000Z",
+        "hook": "A way through the marsh.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 13,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac0bb5c9fdc9f926e710bc8",
+        "channel": "instagram",
+        "date": "2026-10-03T15:00:00.000Z",
+        "hook": "Boatbuilding by the river.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.69,
+          "views": 35,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        }
+      },
+      {
+        "id": "6ac0bb59713b7277a0b170b3",
+        "channel": "facebook",
+        "date": "2026-10-03T15:00:00.000Z",
+        "hook": "Boatbuilding by the river.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ac0bb55713b7277a0b1705b",
+        "channel": "instagram",
+        "date": "2026-10-03T09:00:00.000Z",
+        "hook": "First snow on Blue Ridge Mountain.",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 20,
+          "views": 17,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        }
+      },
+      {
+        "id": "6ac0bb51713b7277a0b17023",
+        "channel": "facebook",
+        "date": "2026-10-03T09:00:00.000Z",
+        "hook": "First snow on Blue Ridge Mountain.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abf6a30f7d5191f80b2d641",
+        "channel": "instagram",
+        "date": "2026-10-02T18:00:00.000Z",
+        "hook": "At the threshold of something older.",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        }
+      },
+      {
+        "id": "6abf6a2c0075f78e30eadfc2",
+        "channel": "facebook",
+        "date": "2026-10-02T18:00:00.000Z",
+        "hook": "At the threshold of something older.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abf6a27f7d5191f80b2d43c",
+        "channel": "instagram",
+        "date": "2026-10-02T15:00:00.000Z",
+        "hook": "Work beside the river.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 32,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        }
+      },
+      {
+        "id": "6abf6a2395c40fa79b18dec2",
+        "channel": "facebook",
+        "date": "2026-10-02T15:00:00.000Z",
+        "hook": "Work beside the river.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abf6a1ed4210a2275d08237",
+        "channel": "instagram",
+        "date": "2026-10-02T09:00:00.000Z",
+        "hook": "Morning on Freyr’s Road.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        }
+      },
+      {
+        "id": "6abf6a19f7d5191f80b2d34b",
+        "channel": "facebook",
+        "date": "2026-10-02T09:00:00.000Z",
+        "hook": "Morning on Freyr’s Road.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abe1766fa15f1606cc47fa0",
+        "channel": "instagram",
+        "date": "2026-10-01T18:00:00.000Z",
+        "hook": "The Tidal Gate rises where two cold seas meet. To Rooan sailors it is an ancient Vanir work, immense and still beyond human understanding. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #VanirRuins #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 18.18,
+          "views": 22,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        }
+      },
+      {
+        "id": "6abe17604d69554bf40b88a5",
+        "channel": "facebook",
+        "date": "2026-10-01T18:00:00.000Z",
+        "hook": "The Tidal Gate rises where two cold seas meet. To Rooan sailors it is an ancient Vanir work, immense and still beyond human understanding. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #VanirRuins #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abe1757bb0abb08f8d570ec",
+        "channel": "instagram",
+        "date": "2026-10-01T15:00:00.000Z",
+        "hook": "Before the first hard frost, work gathers around the hall: roof shingles secured, firewood stacked and food put by. Concept art — a visual exploration of daily life in Roo, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 12.5,
+          "views": 19,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6abe1752fa15f1606cc47c24",
+        "channel": "facebook",
+        "date": "2026-10-01T15:00:00.000Z",
+        "hook": "Before the first hard frost, work gathers around the hall: roof shingles secured, firewood stacked and food put by. Concept art — a visual exploration of daily life in Roo, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abe174b457c6cadda39bf81",
+        "channel": "instagram",
+        "date": "2026-10-01T09:00:00.000Z",
+        "hook": "A boulder beside a forest path. Up close it is lichen, roots and fractured stone. From farther down the trail, a sleeping troll seems to emerge — or perhaps the forest is only playing with the eye. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #HiddenBeings #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 25,
+          "views": 15,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6abe17424d69554bf40b85cd",
+        "channel": "facebook",
+        "date": "2026-10-01T09:00:00.000Z",
+        "hook": "A boulder beside a forest path. Up close it is lichen, roots and fractured stone. From farther down the trail, a sleeping troll seems to emerge — or perhaps the forest is only playing with the eye. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #HiddenBeings #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abcc8750dab32f49b8e25ae",
+        "channel": "instagram",
+        "date": "2026-09-30T18:00:00.000Z",
+        "hook": "From within Highward, later streets and walls hide the scale beneath them. From far away, the ancient foundation becomes impossible to miss. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #DarkFantasy #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6abcc86efb797a5e34c2a2bf",
+        "channel": "facebook",
+        "date": "2026-09-30T18:00:00.000Z",
+        "hook": "From within Highward, later streets and walls hide the scale beneath them. From far away, the ancient foundation becomes impossible to miss. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #DarkFantasy #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 5,
+          "impressions": 20,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abcc867fb797a5e34c2a25f",
+        "channel": "instagram",
+        "date": "2026-09-30T15:00:00.000Z",
+        "hook": "The Wind Wheel has slipped from its ancient alignment. Rooan priests and scholars can study the mechanism, but its purpose remains beyond their understanding. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #Worldbuilding #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6abcc8610dab32f49b8e243c",
+        "channel": "facebook",
+        "date": "2026-09-30T15:00:00.000Z",
+        "hook": "The Wind Wheel has slipped from its ancient alignment. Rooan priests and scholars can study the mechanism, but its purpose remains beyond their understanding. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #Worldbuilding #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 27.27,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 2
+        }
+      },
+      {
+        "id": "6abcc85af839d3871a10562e",
+        "channel": "instagram",
+        "date": "2026-09-30T09:00:00.000Z",
+        "hook": "Market morning beneath Upperhall. Timber halls climb the fjord while traders, farmers and craftsmen gather below in the cold light. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 22.22,
+          "views": 13,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6abcc854fb797a5e34c29f6f",
+        "channel": "facebook",
+        "date": "2026-09-30T09:00:00.000Z",
+        "hook": "Market morning beneath Upperhall. Timber halls climb the fjord while traders, farmers and craftsmen gather below in the cold light. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 10,
+          "impressions": 10,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abb746493a81b612b630bb9",
+        "channel": "instagram",
+        "date": "2026-09-29T18:00:00.000Z",
+        "hook": "Along a forest path in Vanaheim, a moss-covered boulder may look ordinary up close. Step farther away, and the stone seems to sleep. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #DarkFantasy #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6abb745e85cca6b12983720e",
+        "channel": "facebook",
+        "date": "2026-09-29T18:00:00.000Z",
+        "hook": "Along a forest path in Vanaheim, a moss-covered boulder may look ordinary up close. Step farther away, and the stone seems to sleep. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #DarkFantasy #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 6,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abb7457320ca548b4e167ca",
+        "channel": "instagram",
+        "date": "2026-09-29T15:00:00.000Z",
+        "hook": "At dusk, Rooans approach a temple beside stone far older than the sanctuary around it. Faith can name the ancient world, but it cannot fully explain it. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #Worldbuilding #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 15,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6abb744f85cca6b129836ee9",
+        "channel": "facebook",
+        "date": "2026-09-29T15:00:00.000Z",
+        "hook": "At dusk, Rooans approach a temple beside stone far older than the sanctuary around it. Faith can name the ancient world, but it cannot fully explain it. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #Worldbuilding #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 7,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6abb74487889d8281c30c172",
+        "channel": "instagram",
+        "date": "2026-09-29T09:00:00.000Z",
+        "hook": "First fire at Hammerhill. Timber halls and working forges gather around Vanir stone built on a scale no human would choose. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 25,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        }
+      },
+      {
+        "id": "6abb743f76fa1f54a59cbeeb",
+        "channel": "facebook",
+        "date": "2026-09-29T09:00:00.000Z",
+        "hook": "First fire at Hammerhill. Timber halls and working forges gather around Vanir stone built on a scale no human would choose. Concept art — a visual exploration, not a final canonical depiction. #TheLandOfRoo #FantasyWorld #ConceptArt",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6aba3853cb4f6964962c9717",
+        "channel": "instagram",
+        "date": "2026-09-28T18:00:00.000Z",
+        "hook": "When Roo Has No Moon.",
+        "format": "single",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 25,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6aba384af45a6e534501b0e9",
+        "channel": "facebook",
+        "date": "2026-09-28T18:00:00.000Z",
+        "hook": "When Roo Has No Moon.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6aba384159f2ff98e462ba19",
+        "channel": "instagram",
+        "date": "2026-09-28T15:00:00.000Z",
+        "hook": "The Road Through the Dales.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 21,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 10
+        }
+      },
+      {
+        "id": "6aba3838f45a6e534501af81",
+        "channel": "facebook",
+        "date": "2026-09-28T15:00:00.000Z",
+        "hook": "The Road Through the Dales.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6aba381059f2ff98e462b18b",
+        "channel": "instagram",
+        "date": "2026-09-28T09:49:04.942Z",
+        "hook": "Morning at Triport.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "views": 20,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 11
+        }
+      },
+      {
+        "id": "6aba3804012a589e32c6fc6f",
+        "channel": "facebook",
+        "date": "2026-09-28T09:48:52.313Z",
+        "hook": "Morning at Triport.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 8,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab950b29c63a58441495108",
+        "channel": "instagram",
+        "date": "2026-09-27T17:21:54.423Z",
+        "hook": "THE COUNCIL AT HAMMERHILL",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 8
+        }
+      },
+      {
+        "id": "6ab950b29c63a58441495107",
+        "channel": "facebook",
+        "date": "2026-09-27T17:21:54.423Z",
+        "hook": "THE COUNCIL AT HAMMERHILL",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 14,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab950928766a819675273cd",
+        "channel": "facebook",
+        "date": "2026-09-27T17:21:22.781Z",
+        "hook": "A SHRINE BENEATH THE VANIR GATE",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 9.09,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ab950928766a819675273ce",
+        "channel": "instagram",
+        "date": "2026-09-27T17:21:22.780Z",
+        "hook": "A SHRINE BENEATH THE VANIR GATE",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 9
+        }
+      },
+      {
+        "id": "6ab9506246be556950f20286",
+        "channel": "instagram",
+        "date": "2026-09-27T17:20:34.377Z",
+        "hook": "THUNDER GATE",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 14,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ab9506246be556950f20285",
+        "channel": "facebook",
+        "date": "2026-09-27T17:20:34.377Z",
+        "hook": "THUNDER GATE",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab7bd69ccccb9429c2ccb6b",
+        "channel": "instagram",
+        "date": "2026-09-26T18:00:00.000Z",
+        "hook": "Blue hour on Goths Island",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 30,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        }
+      },
+      {
+        "id": "6ab7bd62ccccb9429c2ccaa7",
+        "channel": "facebook",
+        "date": "2026-09-26T18:00:00.000Z",
+        "hook": "Blue hour on Goths Island",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab7bd5a9f89edbefe71a59a",
+        "channel": "facebook",
+        "date": "2026-09-26T15:00:00.000Z",
+        "hook": "The Dales after rain",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 12,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab7bd51ccccb9429c2cc922",
+        "channel": "instagram",
+        "date": "2026-09-26T15:00:00.000Z",
+        "hook": "The Dales after rain",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 39,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        }
+      },
+      {
+        "id": "6ab7bd40ccccb9429c2cc764",
+        "channel": "instagram",
+        "date": "2026-09-26T12:40:32.354Z",
+        "hook": "Thunder Gate",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 34,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        }
+      },
+      {
+        "id": "6ab7bd2bccccb9429c2cc4ee",
+        "channel": "facebook",
+        "date": "2026-09-26T12:40:11.221Z",
+        "hook": "Thunder Gate",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 11.11,
+          "impressions": 9,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ab69501484ed2befd6e4571",
+        "channel": "facebook",
+        "date": "2026-09-25T19:00:00.000Z",
+        "hook": "At Hammerhill, every decision is made beneath ruins built on a scale no human could have imagined.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab694eeb891a26b49be7e88",
+        "channel": "instagram",
+        "date": "2026-09-25T19:00:00.000Z",
+        "hook": "At Hammerhill, every decision is made beneath ruins built on a scale no human could have imagined.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 30,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        }
+      },
+      {
+        "id": "6ab694f8484ed2befd6e4472",
+        "channel": "facebook",
+        "date": "2026-09-25T17:00:00.000Z",
+        "hook": "In the Dales, the mountain gives iron only to those willing to take it from the fire.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab694e4484ed2befd6e4305",
+        "channel": "instagram",
+        "date": "2026-09-25T17:00:00.000Z",
+        "hook": "In the Dales, the mountain gives iron only to those willing to take it from the fire.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.69,
+          "views": 34,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        }
+      },
+      {
+        "id": "6ab694c4484ed2befd6e4058",
+        "channel": "facebook",
+        "date": "2026-09-25T15:35:32.569Z",
+        "hook": "Far beyond any shore, the Tidal Gate stands between two seas.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 20,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ab694b0ac096ee32ed413c1",
+        "channel": "instagram",
+        "date": "2026-09-25T15:35:12.952Z",
+        "hook": "Far beyond any shore, the Tidal Gate stands between two seas.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 35,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        }
+      },
+      {
+        "id": "6ab12dfdb94f10fadd558ebe",
+        "channel": "instagram",
+        "date": "2026-09-21T18:00:00.000Z",
+        "hook": "When evening settles over the forests of Roo, even a small stream can sound like a road leading somewhere unseen.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 38,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 13
+        }
+      },
+      {
+        "id": "6ab12df885287676479be8e5",
+        "channel": "facebook",
+        "date": "2026-09-21T18:00:00.000Z",
+        "hook": "When evening settles over the forests of Roo, even a small stream can sound like a road leading somewhere unseen.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 4,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab12df285287676479be83e",
+        "channel": "instagram",
+        "date": "2026-09-21T15:00:00.000Z",
+        "hook": "The coast of Roo is shaped by wind, cold water and weather that can change before the light reaches the next cliff.",
+        "format": "single",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 7.14,
+          "views": 38,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 14
+        }
+      },
+      {
+        "id": "6ab12decb94f10fadd558cfc",
+        "channel": "facebook",
+        "date": "2026-09-21T15:00:00.000Z",
+        "hook": "The coast of Roo is shaped by wind, cold water and weather that can change before the light reaches the next cliff.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab12ddad6450341275ce778",
+        "channel": "instagram",
+        "date": "2026-09-21T13:15:06.388Z",
+        "hook": "Morning mist moves through the valleys of Roo, softening the forests and turning the distant mountains into shadows.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 28,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 12
+        }
+      },
+      {
+        "id": "6ab12dce0f1269adbdd726a5",
+        "channel": "facebook",
+        "date": "2026-09-21T13:14:54.316Z",
+        "hook": "Morning mist moves through the valleys of Roo, softening the forests and turning the distant mountains into shadows.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ab0fac2b4449363851dfab5",
+        "channel": "facebook",
+        "date": "2026-09-21T09:35:59.000Z",
+        "hook": "The world is yours, and you are the beginning of your story.",
+        "format": "single",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      }
+    ]
+  },
+  "prompts": {
+    "reel1": "Use case: illustration-story. Entirely new premium cinematic Nordic fantasy artwork for The Land of Roo. Portrait 9:16, 1080x1920 intended. Tiny story scene 1: a tall fair-skinned adult Rooan messenger, long wavy sandy hair tied back, slate blue wool coat, dark brown cloak, a folded sealed parchment letter secured in his hand, is approaching a small timber bridge checkpoint on foot. Medium close foreground messenger face tense, letter obvious at chest. A tall fair-skinned guard with long dark hair in practical dark wool and leather stands beyond, looking directly toward the approaching messenger; small human timber gate and huge vivid northern ferns, wet weathered timber, gray-blue daylight. Single clear focal relationship, no crowds. The messenger is a rare user of Silence magic, ordinary human not named book character. No spell effect yet. No armor spectacle, no magic runes, no modern items, no logos, no text, no Arven of any kind, no restraints. Leave top 15% and bottom 16% visually quiet for later video hook. Realistic skin, wool and leather, restrained painterly photographic finish.",
+    "carousel1": "Use case: illustration-story. Entirely original vertical 4:5 cinematic Nordic fantasy editorial illustration for The Land of Roo. Frame 1 of a near/far reveal about Varren's political hierarchy; a conceptual imagined court, not a named historical event. Tight framing on one ordinary plain bronze royal crown resting on the armrest of a human-scale timber throne, beside a seated regional human king's hand and burgundy wool sleeve, face out of frame. The crown and hand feel valuable and vulnerable; no gems, no fantasy spikes, no identifiable royal heraldry. Subdued medieval English/French influence, authentic worn oak and wool, daylight and amber reflected light, northern cinematic textures. Camera tight so room and any other throne are not visible yet. At top in LARGE restrained clean legible warm white serif lettering exact words: 'HE KEEPS HIS CROWN'. At bottom smaller exact 'But who gets the final say? Swipe →'. No other text, no logo, no symbols, no Arven, no chains, no magic. Main crown occupies middle third, strong phone-sized silhouette. Next frame will reveal this little throne below a larger empty imperial seat.",
+    "serial": "Use case: illustration-story. Generate a wholly NEW 4:5 cinematic Nordic fantasy scene for The Land of Roo, not a retouch or reused composition. Supplied image is reference ONLY for identities, clothes and pointed arch doorway. New camera is INSIDE the ordinary storehouse, looking out through that pointed stone doorway in daylight. Young fair-skinned honey-blond human woman with thin side braids, gray-green eyes, forest-blue embroidered dress, gray-brown fur mantle and red scarf stands center foreground facing camera. Her eyes are bright with recognition and relief, her left hand pressed to her heart. Older fair-skinned human innkeeper with silver braid, rust dress and brown cloak stands beside her, gently offering her a simple pale ceramic cup with a small chip on rim. This offering is what the young woman recognizes from a dream. At the open doorway in background the elderly silver-haired human carpenter in gray coat and tan apron works on the ordinary wooden door with a small mallet. Winter blue daylight outside, warm neutral shelves and sacks inside, readable faces and cup. Emotional payoff: she understands her frightening dream had shown an ordinary moment of kindness ahead of time. No apparition or double exposure, no glow, no supernatural symbols, no ghosts, no words, no logos, no Arven, no slavery or restraints. No new characters. Leave upper 8% quiet; beautiful self-contained key art about recognition rather than fear.",
+    "reel2": "Use case: illustration-story. Create entirely new portrait 9:16 second scene for The Land of Roo. Reference image ONLY for exact messenger and guard identity, costume, timber checkpoint and northern setting. New sideways medium shot at checkpoint: sandy-haired human messenger in slate-blue coat and dark-brown cloak walks VERY CLOSE beside guard in the deep natural shadow cast by timber gate; he holds same folded parchment with red wax seal. His full opaque body is visible to viewer, but the dark-haired guard looks straight beyond him, searching empty brightly lit road. Messenger's expression deeply focused, one hand steady at his side, no grand spell gesture. Visual metaphor for Silence magic suppressing notice: subtle deepened natural shadows around messenger, no transparent person, no smoke, no runes, no glowing neon. Audience can spot him, guard does not. Clearly show messenger moving from outside to inside gateway. Cinematic believable wet oak, cold slate light, real human faces. No other people, no Arven, no text/logos or restraints. Leave top 15% and bottom16% for captions.",
+    "reel3": "Use case: illustration-story. Entirely new portrait 9:16 final story scene for The Land of Roo. Reference only exact identity and costume of sandy-haired tall fair human messenger, blue coat and dark brown cloak, and red-sealed folded parchment. New location beyond timber checkpoint: at humble timber cottage door in northern village, messenger passes that letter into the open hands of a tall fair elderly human woman with long silver hair and plain rust wool dress. Both have obvious relief; letter midway between hands at center, their faces readable. The guard and checkpoint are visible SMALL and out of focus far behind along road. Tiny story payoff: he passed unnoticed and delivered the message. No harm, no robbery, no battle. Warm cottage daylight contrasted with slate-blue northern outside. Medium two-person intimate shot, authentic cinematic painterly realism. No magic glow, no invisibility, no text/logos, no Arven or restraints. Leave top15% bottom16% clear for video copy.",
+    "carousel2": "Use case: illustration-story. Generate original 4:5 second frame of near/far reveal carousel for The Land of Roo. Reference is exact near throne, crown, burgundy sleeve and lighting continuity, NOT edit target. Pull camera FAR BACK and around behind the same seated regional human ruler, seen from rear three-quarter so no identifiable face. His little oak throne, crown resting on armrest and burgundy wool robe are foreground lower left. They are one of several modest human-sized seats turned toward a SINGLE larger EMPTY imperial throne on a short central stone dais in middle distance. The imperial chair is only slightly larger human scale, not Vanir giant scale. Clear composition makes hierarchy obvious: he has a crown but answers upward. Hall with restrained medieval English/French materials and worn timber, daylight, no ornate glitter, no flags, no established heraldry, no named king portraits. This is a conceptual imagined visualization of empire, not a canonical court plan. Large exact warm white serif headline at top: 'AN EMPEROR STANDS ABOVE HIM'. Smaller exact text at bottom: 'A crown. But not the final word.' Match typography style of reference. No Arven, no chains, no kneeling captives, no text beyond specified."
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "dueAt": "2026-10-20T09:00:00Z",
+      "format": "reel",
+      "title": "The Guard Looked Past Him",
+      "files": [
+        "01-the-guard-looked-past-him.mp4"
+      ],
+      "fallbackFiles": [
+        "reel/01-at-the-checkpoint.jpg",
+        "reel/02-unnoticed.jpg",
+        "reel/03-letter-delivered.jpg"
+      ],
+      "captions": {
+        "instagram": "The guard looked straight past him.\n\nOne messenger. One letter that needs to reach home. He steps close enough to touch the guard—and passes unnoticed.\n\nIn Roo, Silence magic can suppress notice and conceal a presence. The messenger stays visible to us so you can follow his crossing.\n\nLook again: when did you spot him?\n\nAn imagined scene from The Land of Roo, an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #FantasyStories",
+        "facebook": "He crossed the bridge without being noticed.\n\nA messenger needs one letter to reach home. A guarded crossing stands between him and its recipient. In this imagined scene, he uses Silence magic to pass close beside the guard; a moment later, the letter is in the right hands.\n\nSilence is one of Roo's six forms of magic. It concerns concealment, shadows, stealth and suppression. We can still see the messenger in these images—the guard's failure to notice him is the point.\n\nWhich scene made the trick clear to you?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #Worldbuilding"
+      },
+      "posts": {}
+    },
+    {
+      "slot": "17:00",
+      "dueAt": "2026-10-20T15:00:00Z",
+      "format": "carousel",
+      "title": "A Crown Without the Final Word",
+      "files": [
+        "carousel/01-he-keeps-his-crown.jpg",
+        "carousel/02-an-emperor-above-him.jpg"
+      ],
+      "alt": [
+        "Close view of a regional ruler's hand and bronze crown on a small oak throne. Text: He keeps his crown. But who gets the final say? Swipe.",
+        "Wider conceptual court view reveals the same modest throne facing a raised empty imperial seat. Text: An emperor stands above him. A crown. But not the final word."
+      ],
+      "captions": {
+        "instagram": "He keeps the crown. Someone else stands above him.\n\nSwipe to see the ruler above the ruler.\n\nSouth of Roo, Varren has conquered neighboring kingdoms. Their kings can remain kings, with their realms' identities intact—but ultimate allegiance belongs to the emperor.\n\nThe crown survives. The final authority has moved.\n\nWould you call that independence? Yes or no?\n\nAn imagined illustration of Varren's hierarchy. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding",
+        "facebook": "A crown can survive the loss of independence.\n\nIn Varren, a conquered kingdom can retain its king and much of its own identity. That does not put its ruler at the top: Emperor Sartaris Orivorn stands above the kings of the conquered realms.\n\nSwipe from the close view to the wider one. These imagined court images illustrate that relationship; they are not a map of an established palace.\n\nFor the people living there, familiar symbols of authority can remain even while ultimate power sits elsewhere.\n\nWould you call such a king independent—yes or no?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding"
+      },
+      "posts": {}
+    },
+    {
+      "slot": "20:00",
+      "dueAt": "2026-10-20T18:00:00Z",
+      "format": "single",
+      "title": "Fireside Tales — Her Dream Was Kindness",
+      "files": [
+        "03-her-dream-was-kindness.jpg"
+      ],
+      "alt": [
+        "Inside the pointed-arch storehouse, the honey-blond traveler in blue and a red scarf recognizes a chipped cup offered by the silver-braided innkeeper. She smiles with her hand to her heart as the carpenter repairs the door behind them."
+      ],
+      "captions": {
+        "instagram": "Her frightening dream had shown a kindness.\n\nFireside Tales of Roo\n\nA traveler had dreamed of a doorway she had never visited. She reached it with an innkeeper she trusted—and found an ordinary storehouse.\n\nInside, the innkeeper offered a chipped cup. The traveler knew the chip. She knew the turn of the woman's hand. This was the moment she had seen in her sleep.\n\nA glimpse ahead, through Dream magic. Fear had made the doorway feel like a threat; the moment itself was a welcome.\n\nShe took the cup. Her shoulders finally relaxed.\n\nWould she seek another vision, now that she knew what one could mean?\n\nFollow for her choice tomorrow.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic",
+        "facebook": "She had dreamed ahead to an ordinary kindness.\n\nFireside Tales of Roo\n\nA young traveler feared a doorway that kept appearing in her dreams. With the help of an innkeeper, she found it: the entrance to a storehouse where the innkeeper's brother was repairing a door.\n\nThen came the detail that answered her question. Inside, the innkeeper offered a pale cup with a chipped rim. The traveler recognized the cup and the exact movement of her hand from the dream.\n\nShe had glimpsed this moment before it happened. In Roo, Dream magic can reach beyond ordinary time; a frightening vision does not always mean a frightening event.\n\nShe accepted the cup and smiled. The doorway had led to a welcome.\n\nNow she faced a new choice: would she deliberately seek another vision?\n\nFollow tomorrow to see what she decides.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic"
+      },
+      "posts": {}
+    }
+  ],
+  "nextSerialContinuity": "Deliver the traveler's decision tomorrow about deliberately seeking another vision. The doorway mystery is answered: her Dream vision glimpsed the innkeeper offering the chipped cup before it happened. Do not undo that payoff or introduce a new unexplained object. Preserve honey-blond thin braids, gray-green eyes, blue embroidered dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter gray coat/tan apron, her brother. Minor imagined social story, not main-book plot.",
+  "videoPlan": {
+    "durationSeconds": 12,
+    "scenes": 3,
+    "cuts": 2,
+    "hookFromFirstFrame": "The guard looked straight past him.",
+    "sceneDurationSeconds": 4,
+    "audio": "Silent AAC track",
+    "sceneOrder": [
+      "Approach checkpoint",
+      "Pass guard using Silence magic",
+      "Deliver sealed letter"
+    ]
+  },
+  "fileVerification": [
+    {
+      "file": "01-the-guard-looked-past-him.mp4",
+      "bytes": 1213584,
+      "sha256": "2859b7651eb99e948fc12351e540b5f603698788d947bf3e899e6f6d4448616c"
+    },
+    {
+      "file": "03-her-dream-was-kindness.jpg",
+      "bytes": 543973,
+      "sha256": "34f21d9e245aef335151d7f92f4f3fd3c602a0f5296245260711ac992e1f0725"
+    },
+    {
+      "file": "carousel/01-he-keeps-his-crown.jpg",
+      "bytes": 370838,
+      "sha256": "98ad7abf2e1d26f0afa14e1b7ab476abd0903f046f2602dcc29295da561e0c85"
+    },
+    {
+      "file": "carousel/02-an-emperor-above-him.jpg",
+      "bytes": 440497,
+      "sha256": "c3e9bfa8324ef9884f05d974924ca1257e50539d038df1421e8157cfb500d6c8"
+    },
+    {
+      "file": "reel/01-at-the-checkpoint.jpg",
+      "bytes": 497995,
+      "sha256": "12878115468925c66081828f2dcb1b55d873f7e08ee24ee4c17d9503c8753b3f"
+    },
+    {
+      "file": "reel/02-unnoticed.jpg",
+      "bytes": 521632,
+      "sha256": "dda52b1701c6541e9e3eb4a568311ec631177549214814ea65e973a01e78eaa7"
+    },
+    {
+      "file": "reel/03-letter-delivered.jpg",
+      "bytes": 559286,
+      "sha256": "cdc59668ddd027f5d243629b1f66bac614350194d11d8257675d809b6997f42b"
+    }
+  ],
+  "videoValidation": {
+    "duration": 12,
+    "frames": 360,
+    "width": 1080,
+    "height": 1920,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "fps": 30,
+    "audio": "aac",
+    "audioChannels": 2,
+    "audioSampleRate": 48000,
+    "faststart": true,
+    "scenes": 3,
+    "cuts": 2,
+    "visualReview": "Passed: three distinct original scenes, first-frame hook, legible captions.",
+    "ffprobe": "Passed"
+  }
+}
