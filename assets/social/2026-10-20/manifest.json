@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "Europe/Stockholm",
-  "status": "media_ready",
+  "status": "all_six_scheduled",
   "generationMode": "built-in image_gen",
   "canon": {
     "review": "Current Canon Bible and established public visual canon reviewed. No future book events or secret explanations used. All people in new scenes are humans; no Arven depicted or discussed.",
@@ -2896,7 +2896,80 @@
         "instagram": "The guard looked straight past him.\n\nOne messenger. One letter that needs to reach home. He steps close enough to touch the guard—and passes unnoticed.\n\nIn Roo, Silence magic can suppress notice and conceal a presence. The messenger stays visible to us so you can follow his crossing.\n\nLook again: when did you spot him?\n\nAn imagined scene from The Land of Roo, an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #FantasyStories",
         "facebook": "He crossed the bridge without being noticed.\n\nA messenger needs one letter to reach home. A guarded crossing stands between him and its recipient. In this imagined scene, he uses Silence magic to pass close beside the guard; a moment later, the letter is in the right hands.\n\nSilence is one of Roo's six forms of magic. It concerns concealment, shadows, stealth and suppression. We can still see the messenger in these images—the guard's failure to notice him is the point.\n\nWhich scene made the trick clear to you?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #Worldbuilding"
       },
-      "posts": {}
+      "posts": {
+        "instagram": {
+          "id": "6ad726f28c1133338d55ddff",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T09:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "The guard looked straight past him.\n\nOne messenger. One letter that needs to reach home. He steps close enough to touch the guard—and passes unnoticed.\n\nIn Roo, Silence magic can suppress notice and conceal a presence. The messenger stays visible to us so you can follow his crossing.\n\nLook again: when did you spot him?\n\nAn imagined scene from The Land of Roo, an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #FantasyStories",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/01-the-guard-looked-past-him.mp4",
+                  "metadata": {
+                    "title": "The Guard Looked Past Him"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "reel",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T09:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "verifiedAt": "2026-10-20T08:33:07Z",
+          "error": null
+        },
+        "facebook": {
+          "id": "6ad72702cc45f42ffeb44d8b",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T09:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "He crossed the bridge without being noticed.\n\nA messenger needs one letter to reach home. A guarded crossing stands between him and its recipient. In this imagined scene, he uses Silence magic to pass close beside the guard; a moment later, the letter is in the right hands.\n\nSilence is one of Roo's six forms of magic. It concerns concealment, shadows, stealth and suppression. We can still see the messenger in these images—the guard's failure to notice him is the point.\n\nWhich scene made the trick clear to you?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\n#TheLandOfRoo #NordicFantasy #MagicSystem #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/01-the-guard-looked-past-him.mp4",
+                  "metadata": {
+                    "title": "The Guard Looked Past Him"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "reel"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T09:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "error": null,
+          "verifiedAt": "2026-10-20T08:33:07Z"
+        }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/01-the-guard-looked-past-him.mp4"
+      ],
+      "fallbackUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/reel/01-at-the-checkpoint.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/reel/02-unnoticed.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/reel/03-letter-delivered.jpg"
+      ]
     },
     {
       "slot": "17:00",
@@ -2915,7 +2988,92 @@
         "instagram": "He keeps the crown. Someone else stands above him.\n\nSwipe to see the ruler above the ruler.\n\nSouth of Roo, Varren has conquered neighboring kingdoms. Their kings can remain kings, with their realms' identities intact—but ultimate allegiance belongs to the emperor.\n\nThe crown survives. The final authority has moved.\n\nWould you call that independence? Yes or no?\n\nAn imagined illustration of Varren's hierarchy. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding",
         "facebook": "A crown can survive the loss of independence.\n\nIn Varren, a conquered kingdom can retain its king and much of its own identity. That does not put its ruler at the top: Emperor Sartaris Orivorn stands above the kings of the conquered realms.\n\nSwipe from the close view to the wider one. These imagined court images illustrate that relationship; they are not a map of an established palace.\n\nFor the people living there, familiar symbols of authority can remain even while ultimate power sits elsewhere.\n\nWould you call such a king independent—yes or no?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding"
       },
-      "posts": {}
+      "posts": {
+        "instagram": {
+          "id": "6ad72706ec8e66c06201e3eb",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T15:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "He keeps the crown. Someone else stands above him.\n\nSwipe to see the ruler above the ruler.\n\nSouth of Roo, Varren has conquered neighboring kingdoms. Their kings can remain kings, with their realms' identities intact—but ultimate allegiance belongs to the emperor.\n\nThe crown survives. The final authority has moved.\n\nWould you call that independence? Yes or no?\n\nAn imagined illustration of Varren's hierarchy. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/01-he-keeps-his-crown.jpg",
+                  "metadata": {
+                    "altText": "Close view of a regional ruler's hand and bronze crown on a small oak throne. Text: He keeps his crown. But who gets the final say? Swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/02-an-emperor-above-him.jpg",
+                  "metadata": {
+                    "altText": "Wider conceptual court view reveals the same modest throne facing a raised empty imperial seat. Text: An emperor stands above him. A crown. But not the final word."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T15:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "error": null,
+          "verifiedAt": "2026-10-20T08:33:07Z"
+        },
+        "facebook": {
+          "id": "6ad72709ec8e66c06201e509",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T15:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "A crown can survive the loss of independence.\n\nIn Varren, a conquered kingdom can retain its king and much of its own identity. That does not put its ruler at the top: Emperor Sartaris Orivorn stands above the kings of the conquered realms.\n\nSwipe from the close view to the wider one. These imagined court images illustrate that relationship; they are not a map of an established palace.\n\nFor the people living there, familiar symbols of authority can remain even while ultimate power sits elsewhere.\n\nWould you call such a king independent—yes or no?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyPolitics #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/01-he-keeps-his-crown.jpg",
+                  "metadata": {
+                    "altText": "Close view of a regional ruler's hand and bronze crown on a small oak throne. Text: He keeps his crown. But who gets the final say? Swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/02-an-emperor-above-him.jpg",
+                  "metadata": {
+                    "altText": "Wider conceptual court view reveals the same modest throne facing a raised empty imperial seat. Text: An emperor stands above him. A crown. But not the final word."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T15:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "error": null,
+          "verifiedAt": "2026-10-20T08:33:07Z"
+        }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/01-he-keeps-his-crown.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/carousel/02-an-emperor-above-him.jpg"
+      ]
     },
     {
       "slot": "20:00",
@@ -2932,7 +3090,75 @@
         "instagram": "Her frightening dream had shown a kindness.\n\nFireside Tales of Roo\n\nA traveler had dreamed of a doorway she had never visited. She reached it with an innkeeper she trusted—and found an ordinary storehouse.\n\nInside, the innkeeper offered a chipped cup. The traveler knew the chip. She knew the turn of the woman's hand. This was the moment she had seen in her sleep.\n\nA glimpse ahead, through Dream magic. Fear had made the doorway feel like a threat; the moment itself was a welcome.\n\nShe took the cup. Her shoulders finally relaxed.\n\nWould she seek another vision, now that she knew what one could mean?\n\nFollow for her choice tomorrow.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic",
         "facebook": "She had dreamed ahead to an ordinary kindness.\n\nFireside Tales of Roo\n\nA young traveler feared a doorway that kept appearing in her dreams. With the help of an innkeeper, she found it: the entrance to a storehouse where the innkeeper's brother was repairing a door.\n\nThen came the detail that answered her question. Inside, the innkeeper offered a pale cup with a chipped rim. The traveler recognized the cup and the exact movement of her hand from the dream.\n\nShe had glimpsed this moment before it happened. In Roo, Dream magic can reach beyond ordinary time; a frightening vision does not always mean a frightening event.\n\nShe accepted the cup and smiled. The doorway had led to a welcome.\n\nNow she faced a new choice: would she deliberately seek another vision?\n\nFollow tomorrow to see what she decides.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic"
       },
-      "posts": {}
+      "posts": {
+        "instagram": {
+          "id": "6ad7270d9aa7670040a5e0cd",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T18:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "text": "Her frightening dream had shown a kindness.\n\nFireside Tales of Roo\n\nA traveler had dreamed of a doorway she had never visited. She reached it with an innkeeper she trusted—and found an ordinary storehouse.\n\nInside, the innkeeper offered a chipped cup. The traveler knew the chip. She knew the turn of the woman's hand. This was the moment she had seen in her sleep.\n\nA glimpse ahead, through Dream magic. Fear had made the doorway feel like a threat; the moment itself was a welcome.\n\nShe took the cup. Her shoulders finally relaxed.\n\nWould she seek another vision, now that she knew what one could mean?\n\nFollow for her choice tomorrow.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/03-her-dream-was-kindness.jpg",
+                  "metadata": {
+                    "altText": "Inside the pointed-arch storehouse, the honey-blond traveler in blue and a red scarf recognizes a chipped cup offered by the silver-braided innkeeper. She smiles with her hand to her heart as the carpenter repairs the door behind them."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T18:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "error": null,
+          "verifiedAt": "2026-10-20T08:33:07Z"
+        },
+        "facebook": {
+          "id": "6ad72710c4a5f1eea4c7c09e",
+          "status": "scheduled",
+          "dueAt": "2026-10-20T18:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "text": "She had dreamed ahead to an ordinary kindness.\n\nFireside Tales of Roo\n\nA young traveler feared a doorway that kept appearing in her dreams. With the help of an innkeeper, she found it: the entrance to a storehouse where the innkeeper's brother was repairing a door.\n\nThen came the detail that answered her question. Inside, the innkeeper offered a pale cup with a chipped rim. The traveler recognized the cup and the exact movement of her hand from the dream.\n\nShe had glimpsed this moment before it happened. In Roo, Dream magic can reach beyond ordinary time; a frightening vision does not always mean a frightening event.\n\nShe accepted the cup and smiled. The doorway had led to a welcome.\n\nNow she faced a new choice: would she deliberately seek another vision?\n\nFollow tomorrow to see what she decides.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #DreamMagic",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/03-her-dream-was-kindness.jpg",
+                  "metadata": {
+                    "altText": "Inside the pointed-arch storehouse, the honey-blond traveler in blue and a red scarf recognizes a chipped cup offered by the silver-braided innkeeper. She smiles with her hand to her heart as the carpenter repairs the door behind them."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            },
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-10-20T18:00:00Z",
+            "saveToDraft": false
+          },
+          "attempts": 1,
+          "error": null,
+          "verifiedAt": "2026-10-20T08:33:07Z"
+        }
+      },
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/03-her-dream-was-kindness.jpg"
+      ]
     }
   ],
   "nextSerialContinuity": "Deliver the traveler's decision tomorrow about deliberately seeking another vision. The doorway mystery is answered: her Dream vision glimpsed the innkeeper offering the chipped cup before it happened. Do not undo that payoff or introduce a new unexplained object. Preserve honey-blond thin braids, gray-green eyes, blue embroidered dress, fur mantle and red scarf; older innkeeper silver braid/rust dress/brown cloak; carpenter gray coat/tan apron, her brother. Minor imagined social story, not main-book plot.",
@@ -3002,5 +3228,59 @@
     "cuts": 2,
     "visualReview": "Passed: three distinct original scenes, first-frame hook, legible captions.",
     "ffprobe": "Passed"
-  }
+  },
+  "mediaCommit": "149e8d961f0d769721d609c45b1bbdaf24bc53c7",
+  "publicBase": "https://raw.githubusercontent.com/fanderflash/thelandofroo/149e8d961f0d769721d609c45b1bbdaf24bc53c7/assets/social/2026-10-20/",
+  "verification": {
+    "allSix": true,
+    "duplicates": false,
+    "checks": [
+      {
+        "slot": "11:00",
+        "platform": "instagram",
+        "id": "6ad726f28c1133338d55ddff",
+        "status": "scheduled",
+        "verified": true
+      },
+      {
+        "slot": "11:00",
+        "platform": "facebook",
+        "id": "6ad72702cc45f42ffeb44d8b",
+        "status": "scheduled",
+        "verified": true
+      },
+      {
+        "slot": "17:00",
+        "platform": "instagram",
+        "id": "6ad72706ec8e66c06201e3eb",
+        "status": "scheduled",
+        "verified": true
+      },
+      {
+        "slot": "17:00",
+        "platform": "facebook",
+        "id": "6ad72709ec8e66c06201e509",
+        "status": "scheduled",
+        "verified": true
+      },
+      {
+        "slot": "20:00",
+        "platform": "instagram",
+        "id": "6ad7270d9aa7670040a5e0cd",
+        "status": "scheduled",
+        "verified": true
+      },
+      {
+        "slot": "20:00",
+        "platform": "facebook",
+        "id": "6ad72710c4a5f1eea4c7c09e",
+        "status": "scheduled",
+        "verified": true
+      }
+    ],
+    "dayPostCount": 6,
+    "publicMedia": "All 7 original media URLs returned HTTP 200 with expected file sizes.",
+    "verifiedAt": "2026-10-20T08:33:07Z"
+  },
+  "updatedAt": "2026-10-20T08:33:07Z"
 }
