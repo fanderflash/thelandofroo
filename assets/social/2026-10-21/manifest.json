@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-21",
+  "timezone": "Europe/Stockholm",
+  "performance_review": {
+    "metrics_updated_at": "2026-10-21T01:04:50.266Z",
+    "last_30_complete_days": {"posts": 163, "reactions": 39, "comments": 3, "shares": 1, "engagement_rate_percent": 1.61},
+    "last_7_complete_days": {"posts": 42, "reactions": 1, "comments": 2, "shares": 1, "engagement_rate_percent": 0.5},
+    "mature_pattern": "Instagram Reels led discovery reach: 2026-10-16 ruin Reel reached 145 and earned 2 saves; 2026-10-17 magic Reel reached 125; 2026-10-18 cloak Reel reached 75. Comparable carousels and serial stills stayed mostly below 10 reach and produced no follows.",
+    "decision": "Keep the required format mix but stop repeating quiet scenic or purely atmospheric hooks. Every piece today presents a visible human decision, concrete cost and immediate consequence. Posts younger than 24 hours were excluded from creative judgment."
+  },
+  "canon_review": {
+    "source": "The Land of Roo Canon Bible, Library version 1, read 2026-10-21",
+    "reel": "Uses locked canon that Roo was isolated by dangerous seas for nearly 2,000 years and is reconnecting with the wider world; the harbor worker and unnamed settlement are open-canon social framing.",
+    "carousel": "Unnamed Rooan village and flood repair choice are open canon and do not alter locked events.",
+    "serial": "Uses locked waist-high human scale of ancient Vanir steps; the unnamed courier and shadow are an imagined side-story.",
+    "arwen": "No Arwen are depicted or discussed.",
+    "exclusions": "No prohibited legacy asset, sleeping-troll test, rejected troll video, third-party footage, logo or heraldry was used."
+  },
+  "typography": {
+    "font": "Cormorant Garamond SemiBold",
+    "weight": 600,
+    "file": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "method": "Real font applied after artwork generation with high-contrast phone-safe overlays."
+  },
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "A Sail Where None Belonged",
+      "media": "assets/social/2026-10-21/01-a-sail-where-none-belonged.mp4",
+      "validation": {"duration_seconds": 12, "width": 1080, "height": 1920, "video_codec": "h264", "pixel_format": "yuv420p", "fps": 30, "audio_codec": "aac", "faststart": true, "bytes": 3243065},
+      "instagram_caption": "A foreign sail entered a forgotten fjord.\n\nRoo spent nearly two millennia cut off by seas no ordinary ship could cross. Then the water calmed—and one morning, a harbor worker saw a vessel built on a scale her village had never known.\n\nShe rang the bell. The market stopped. Nobody knew whether the strangers brought trade, questions or danger.\n\nWould you ring the bell—or wait? Send this to a fantasy reader who would want to see what steps ashore.\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding #FantasyArt",
+      "facebook_caption": "The bell rang before anyone knew why.\n\nFor generations, the people of this Rooan fjord had known only local boats. Roo had spent nearly two thousand years isolated by violent seas. Then a harbor worker saw an unfamiliar sail emerge from the fog—and a ship large enough to change every assumption her village lived by.\n\nShe sounded the bell. Work stopped. The vessel carried no answer they could read from shore.\n\nWould you prepare a welcome, close the harbor, or send one small boat to meet it?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story and share this with a fantasy reader.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding #FantasyArt"
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "One Winter, Two Repairs",
+      "media": ["assets/social/2026-10-21/carousel/01-one-winter-two-repairs.jpg", "assets/social/2026-10-21/carousel/02-bridge-or-mill.jpg"],
+      "instagram_caption": "Six beams. Two lives hanging on them.\n\nThe flood left this Rooan village enough timber for one repair. Rebuild the bridge and a feverish child can reach medicine before snow closes the road. Repair the mill and every household can grind its winter grain.\n\nSwipe, then choose in two words: bridge or mill?\n\nAn imagined village dilemma. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "facebook_caption": "They have timber for only one repair.\n\nAn autumn flood broke both the bridge to the market road and the village mill. If the carpenter rebuilds the bridge, a sick child can be carried to medicine. If she repairs the mill, the village can grind the grain that must feed everyone through winter. Waiting may cost both.\n\nWhich gets the six beams: the bridge or the mill—and why?\n\nAn imagined village dilemma. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt"
+    },
+    {
+      "slot": "20:00",
+      "format": "single_image",
+      "series": "Would You Survive Roo?",
+      "title": "Call Out or Hide?",
+      "media": "assets/social/2026-10-21/03-call-out-or-hide.jpg",
+      "instagram_caption": "The storm chose the ruin for him.\n\nWould You Survive Roo?\n\nThe courier's road vanished under snow, so he climbed the ancient steps—each one nearly to his waist—and found a dry recess before nightfall. Shelter meant survival.\n\nThen another shadow crossed the stair above him.\n\nCall out—or hide? Follow for tomorrow's consequence.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt",
+      "facebook_caption": "He found shelter. Someone found him.\n\nWould You Survive Roo?\n\nA snowstorm erased the courier's road before dusk. His only refuge was an ancient ruin built on a scale no human needed: every stair rose nearly to his waist. He climbed anyway and reached a dry recess with enough oil to keep his lantern burning.\n\nThat choice saved him from the storm. Then a second shadow moved across the step above.\n\nWould you call out, extinguish the lantern, or keep climbing? Follow for tomorrow's consequence.\n\nAn imagined side-story. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyStories #FantasyArt"
+    }
+  ]
+}
