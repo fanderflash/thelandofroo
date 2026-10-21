@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "timezone": "Europe/Stockholm",
   "media_commit": "c869fe8f64e69bf8f12ab53663113070100279d3",
-  "verified_at": "2026-10-21T08:34:30Z",
+  "verified_at": "2026-10-21T09:17:49Z",
   "slots": [
     {
       "slot": "11:00",
@@ -10,11 +10,13 @@
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/01-a-sail-where-none-belonged.mp4",
       "instagram": {
         "id": "6ad878db7f2a5e272ec7a33f",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T09:00:53.298Z"
       },
       "facebook": {
         "id": "6ad878df7f2a5e272ec7a3cb",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T09:00:18.821Z"
       }
     },
     {
