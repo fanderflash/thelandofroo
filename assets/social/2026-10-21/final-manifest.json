@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "timezone": "Europe/Stockholm",
   "media_commit": "c869fe8f64e69bf8f12ab53663113070100279d3",
-  "verified_at": "2026-10-21T15:19:39Z",
+  "verified_at": "2026-10-21T18:13:58Z",
   "slots": [
     {
       "slot": "11:00",
@@ -43,12 +43,15 @@
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/03-call-out-or-hide.jpg",
       "instagram": {
         "id": "6ad878ec7143aca6ab046bd3",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T18:01:50.037Z"
       },
       "facebook": {
         "id": "6ad878f0d109f3f66b86c846",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T18:01:35.823Z"
       }
     }
-  ]
+  ],
+  "complete": true
 }
