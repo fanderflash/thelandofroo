@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "c869fe8f64e69bf8f12ab53663113070100279d3",
+  "verified_at": "2026-10-21T08:34:30Z",
+  "slots": [
+    {
+      "slot": "11:00",
+      "subject": "A Sail Where None Belonged",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/01-a-sail-where-none-belonged.mp4",
+      "instagram": {
+        "id": "6ad878db7f2a5e272ec7a33f",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ad878df7f2a5e272ec7a3cb",
+        "status": "scheduled"
+      }
+    },
+    {
+      "slot": "17:00",
+      "subject": "One Winter, Two Repairs",
+      "assets": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/carousel/01-one-winter-two-repairs.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/carousel/02-bridge-or-mill.jpg"
+      ],
+      "instagram": {
+        "id": "6ad878e37143aca6ab046a5e",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ad878e8d0cc3336f1143858",
+        "status": "scheduled"
+      }
+    },
+    {
+      "slot": "20:00",
+      "subject": "Would You Survive Roo? — Call Out or Hide?",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/c869fe8f64e69bf8f12ab53663113070100279d3/assets/social/2026-10-21/03-call-out-or-hide.jpg",
+      "instagram": {
+        "id": "6ad878ec7143aca6ab046bd3",
+        "status": "scheduled"
+      },
+      "facebook": {
+        "id": "6ad878f0d109f3f66b86c846",
+        "status": "scheduled"
+      }
+    }
+  ]
+}
