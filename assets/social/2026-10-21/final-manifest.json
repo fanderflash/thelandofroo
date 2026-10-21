@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "timezone": "Europe/Stockholm",
   "media_commit": "c869fe8f64e69bf8f12ab53663113070100279d3",
-  "verified_at": "2026-10-21T09:17:49Z",
+  "verified_at": "2026-10-21T15:19:39Z",
   "slots": [
     {
       "slot": "11:00",
@@ -28,11 +28,13 @@
       ],
       "instagram": {
         "id": "6ad878e37143aca6ab046a5e",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T15:02:39.052Z"
       },
       "facebook": {
         "id": "6ad878e8d0cc3336f1143858",
-        "status": "scheduled"
+        "status": "sent",
+        "sentAt": "2026-10-21T15:01:38.874Z"
       }
     },
     {
