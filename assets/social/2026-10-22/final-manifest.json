@@ -3,7 +3,7 @@
   "timezone": "Europe/Stockholm",
   "media_commit": "a8e51a4d00fe200a50389b94c00fb3b815240332",
   "created_at": "2026-10-22T08:25:21Z",
-  "verified_at": "2026-10-22T15:17:45Z",
+  "verified_at": "2026-10-22T18:16:22Z",
   "complete": false,
   "typography": {
     "family": "Cormorant Garamond",
@@ -92,6 +92,18 @@
             "id": "6ada2918bf6d801ac6f434fb",
             "status": "error",
             "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+          },
+          "evening_recovery": {
+            "first_attempt": {
+              "id": "6ada52e9399af6f1f72c9a36",
+              "status": "error",
+              "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+            },
+            "retry": {
+              "id": "6ada52f6ad1fc1b5527d7ab6",
+              "status": "error",
+              "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+            }
           }
         },
         "recovery_state": "missing_for_next_run"
@@ -118,8 +130,8 @@
       "subject": "Both Maps Cannot Be Right",
       "format": "single_image",
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/03-both-maps-cannot-be-right.jpg",
-      "instagram": {"id": "6ad9c86968fbd2404aab8e69", "status": "scheduled"},
-      "facebook": {"id": "6ad9c871d26c2ef1687f8225", "status": "scheduled"}
+      "instagram": {"id": "6ad9c86968fbd2404aab8e69", "status": "sent", "sentAt": "2026-10-22T18:01:41.125Z"},
+      "facebook": {"id": "6ad9c871d26c2ef1687f8225", "status": "sent", "sentAt": "2026-10-22T18:01:36.292Z"}
     }
   ]
 }
