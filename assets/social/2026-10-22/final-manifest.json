@@ -3,6 +3,7 @@
   "timezone": "Europe/Stockholm",
   "media_commit": "a8e51a4d00fe200a50389b94c00fb3b815240332",
   "created_at": "2026-10-22T08:25:21Z",
+  "verified_at": "2026-10-22T09:21:18Z",
   "complete": false,
   "typography": {
     "family": "Cormorant Garamond",
@@ -66,8 +67,23 @@
       "subject": "The Sea Rose at Midnight",
       "format": "reel",
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/01-the-sea-rose-at-midnight.mp4",
-      "instagram": {"id": "6ad9c85368fbd2404aab8863", "status": "scheduled"},
-      "facebook": {"id": "6ad9c84b18298e8b2a28688e", "status": "scheduled"}
+      "instagram": {
+        "id": "6ad9c85368fbd2404aab8863",
+        "status": "error",
+        "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
+        "retry": {
+          "id": "6ad9d57881158a0b17940bcb",
+          "mode": "shareNow",
+          "status": "error",
+          "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
+        },
+        "recovery_state": "missing_for_next_run"
+      },
+      "facebook": {
+        "id": "6ad9c84b18298e8b2a28688e",
+        "status": "sent",
+        "sentAt": "2026-10-22T09:00:17.536Z"
+      }
     },
     {
       "slot": "17:00",
