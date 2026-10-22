@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "a8e51a4d00fe200a50389b94c00fb3b815240332",
+  "created_at": "2026-10-22T08:25:21Z",
+  "complete": false,
+  "typography": {
+    "family": "Cormorant Garamond",
+    "style": "SemiBold",
+    "weight": 600,
+    "method": "Typeset locally from the approved TTF after artwork generation"
+  },
+  "performance_context": {
+    "last_30_complete_days": {
+      "posts": 162,
+      "reactions": 41,
+      "comments": 3,
+      "shares": 1,
+      "engagement_rate_percent": 1.65
+    },
+    "last_7_complete_days": {
+      "posts": 42,
+      "reactions": 4,
+      "comments": 2,
+      "shares": 1,
+      "engagement_rate_percent": 0.81
+    },
+    "mature_winner": {
+      "post_id": "6ad726f28c1133338d55ddff",
+      "format": "Instagram Reel",
+      "subject": "A messenger passes a guard using Silence magic",
+      "reach": 129,
+      "views": 143,
+      "watch_time_minutes": 5.25,
+      "average_watch_time_seconds": 2.44
+    },
+    "creative_hypothesis": "Keep the concrete event-and-consequence structure that is earning Reel discovery reach; apply sharper two-sided contrast and serial stakes to the lower-reach carousel and single-image formats."
+  },
+  "generation": {
+    "tool": "imagegen",
+    "mode": "text_to_image",
+    "prompts": {
+      "reel_frame_1": "Create one original cinematic fantasy illustration for The Land of Roo, portrait 9:16, no text, no lettering, no logos, no watermark. This is frame 1 of a three-frame historical sequence and must match later frames in style and characters. Scene: a northern coastal fishing hamlet roughly two thousand years ago at midnight. A young human fisher woman with dark braided hair, weathered teal wool tunic, brown cloak and simple leather belt stands ankle-deep beside a timber jetty, looking up in alarm at an unnaturally empty black sky where the moon should be. Behind her, one elderly fisherman pulls a rope and a small clinker-built wooden boat bucks as seawater begins to surge over the pier. Strong human scale, one clear focal subject, legible at phone size, cold blue-black night with warm lantern rim light, grounded Nordic material culture, wet wood and stone, cinematic painterly realism, high contrast, emotionally tense. No nonhuman characters, no Arven, no fantasy armor, no modern objects, no visible words, no runes.",
+      "reel_frame_2": "Create one original cinematic fantasy illustration for The Land of Roo, portrait 9:16, no text, no lettering, no logos, no watermark. This is frame 2 of a three-frame historical sequence. Match frame 1: grounded painterly cinematic realism, same dark-braided young human fisher woman in a weathered teal wool tunic and brown cloak, same northern coastal hamlet at a moonless midnight. Show the human consequence: she carries a small sleeping child uphill on a narrow wet stone path while a silver-haired elderly fisherman helps another villager; below them seawater pours through the timber market lane, floating baskets and extinguishing lanterns. The woman looks back in shock. Strong vertical movement from flooded harbor below to safety above, one clear focal pair, phone-size legibility, cold blue-black storm tones with sparse warm lantern light, historical Nordic material culture, dramatic but not gory. No nonhuman characters, no Arven, no fantasy armor, no modern objects, no visible words, no runes.",
+      "reel_frame_3": "Create one original cinematic fantasy illustration for The Land of Roo, portrait 9:16, no text, no lettering, no logos, no watermark. This is frame 3 and final reveal of a historical three-frame sequence. Match the same characters and grounded painterly cinematic realism: at cold grey dawn after the moonless flood, the same dark-braided young human fisher woman in weathered teal wool and brown cloak stands on a high sea cliff with the small child under her cloak and the same silver-haired elderly fisherman beside her. Far below, violent white seas have swallowed part of the timber hamlet. Across the stormy strait stands an immense ancient Vanir stone sea-gate or lock, colossal and weathered, dwarfing human works; no readable inscriptions, no magical glow. The woman watches the empty sky and sea, grief and resolve, one clear visual reveal, human scale obvious, high contrast, phone-size legibility, dramatic Nordic coast, restrained colors. No nonhuman characters, no Arven, no modern objects, no visible words or symbols.",
+      "carousel_frame_1": "Create one original fantasy illustration for The Land of Roo, portrait 4:5, no text, no lettering, no logo, no watermark. Frame 1 of a coherent two-image carousel titled conceptually \"Same Ruin, Two Truths.\" Inside a colossal weathered Vanir stone chamber with waist-high ancient steps and a huge broken stone console, show two human visitors approaching from behind at readable scale. Left: a Rooan Vanir priestess, middle-aged, dark wool dress under an off-white ceremonial mantle with subtle blue edging, carrying a small bowl of meadow flowers, no invented holy symbol. Right: a rare foreign Drianor scholar, adult man in practical dark burgundy and brown travel robes, carrying parchment, charcoal and a satchel, no logo or sigil. Both look toward the same massive ancient mechanism, but keep distance between them. One clear focal ruin, strong depth, cool daylight from a roof crack, grounded Nordic fantasy, painterly cinematic realism, high contrast and legible at phone size, no magical glow, no generic ornate fantasy palace. No Arven, no nonhuman people, no runes or readable marks.",
+      "carousel_frame_2": "Create one original fantasy illustration for The Land of Roo, portrait 4:5, no text, no lettering, no logo, no watermark. Frame 2 of the same coherent carousel, matching the two human visitors and colossal Vanir chamber from frame 1. Closer side view at the same broken ancient stone console: the middle-aged Rooan Vanir priestess in dark wool and an off-white mantle with subtle blue edging gently places meadow flowers in a shallow weathered recess as if at a sacred place. Beside but not obstructing her, the foreign Drianor scholar in dark burgundy-brown travel robes kneels to sketch the console's interlocking stone-and-metal mechanism on blank parchment with charcoal. Their faces show mutual uncertainty, not hostility. The object must plausibly look both altar-like and machine-like. Clear human scale, cool shaft of daylight, phone-size legibility, cinematic painterly realism, restrained Nordic palette, high contrast. No symbols, no readable writing, no magical glow, no Arven or nonhuman people.",
+      "serial_image": "Create one original fantasy illustration for The Land of Roo, portrait 4:5, no text, no lettering, no logo, no watermark. A strong single serial-story image continuing a courier's storm shelter from the previous night. Inside a colossal ancient Vanir stair recess used as shelter, two human couriers face each other over two unfolded parchment route maps laid on a broad stone step. The first is a weary young man in a soaked dark green wool coat, practical cloak and boots, his brass lantern beside him; the second is an alert adult woman courier in a weathered rust-red cloak, dark braided hair and a leather message satchel, holding another lantern. Their fingers point in opposite directions on the maps; no readable map text or symbols. Rain lashes the giant steps outside, but the shelter is warm. Emotional payoff: relief that the shadow was another traveler, immediately replaced by unease because both routes cannot be right. One clear focal interaction, visible human scale against waist-high ancient steps, cinematic painterly realism, Nordic grounded fantasy, high contrast, legible at phone size. No Arven, no nonhuman figures, no weapons as focus, no magical glow, no readable writing."
+    }
+  },
+  "video_validation": {
+    "duration_seconds": 12,
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "faststart": true,
+    "size_bytes": 3257622
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "subject": "The Sea Rose at Midnight",
+      "format": "reel",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/01-the-sea-rose-at-midnight.mp4",
+      "instagram": {"id": "6ad9c85368fbd2404aab8863", "status": "scheduled"},
+      "facebook": {"id": "6ad9c84b18298e8b2a28688e", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "subject": "Same Ruin, Two Truths",
+      "format": "carousel",
+      "assets": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/carousel/01-same-ruin-two-truths.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/carousel/02-temple-or-machine.jpg"
+      ],
+      "instagram": {"id": "6ad9c85bd26c2ef1687f7b9a", "status": "scheduled"},
+      "facebook": {"id": "6ad9c86218298e8b2a287a4f", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "subject": "Both Maps Cannot Be Right",
+      "format": "single_image",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/a8e51a4d00fe200a50389b94c00fb3b815240332/assets/social/2026-10-22/03-both-maps-cannot-be-right.jpg",
+      "instagram": {"id": "6ad9c86968fbd2404aab8e69", "status": "scheduled"},
+      "facebook": {"id": "6ad9c871d26c2ef1687f8225", "status": "scheduled"}
+    }
+  ]
+}
