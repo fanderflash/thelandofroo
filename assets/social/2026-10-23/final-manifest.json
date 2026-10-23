@@ -2,7 +2,7 @@
   "date": "2026-10-23",
   "timezone": "Europe/Stockholm",
   "media_commit": "72caa35faad9fbbbb14777ebfa3eaf4007066771",
-  "verified_at": "2026-10-23T08:27:34Z",
+  "verified_at": "2026-10-23T09:21:06Z",
   "all_scheduled": true,
   "complete": false,
   "typography": {
@@ -95,8 +95,8 @@
       "subject": "Who Fed the Fire?",
       "format": "reel",
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/01-who-fed-the-fire.mp4",
-      "instagram": {"id": "6adb1a6205fef8cb0a2fb4ee", "status": "scheduled"},
-      "facebook": {"id": "6adb1a66c4349d575b9cb810", "status": "scheduled"}
+      "instagram": {"id": "6adb1a6205fef8cb0a2fb4ee", "status": "sent", "sent_at": "2026-10-23T09:00:45.711Z"},
+      "facebook": {"id": "6adb1a66c4349d575b9cb810", "status": "sent", "sent_at": "2026-10-23T09:00:39.452Z"}
     },
     {
       "slot": "17:00",
@@ -131,6 +131,16 @@
     "retry": {
       "id": "6adb17350b4dd2dd0c0ba0fd",
       "status": "error"
+    },
+    "recovery_run_2026-10-23T09:20Z": {
+      "first_attempt": {
+        "id": "6adb26ecd8e05f97fb0b20d7",
+        "status": "error"
+      },
+      "retry": {
+        "id": "6adb26fab548d29b74048d25",
+        "status": "error"
+      }
     },
     "exact_error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
     "recovery_state": "missing_for_next_run"
