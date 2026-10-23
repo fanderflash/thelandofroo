@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-23",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "72caa35faad9fbbbb14777ebfa3eaf4007066771",
+  "verified_at": "2026-10-23T08:27:34Z",
+  "all_scheduled": true,
+  "complete": false,
+  "typography": {
+    "family": "Cormorant Garamond",
+    "style": "SemiBold",
+    "weight": 600,
+    "method": "Typeset locally from the approved TTF after artwork generation"
+  },
+  "performance_context": {
+    "last_30_complete_days": {
+      "instagram": {
+        "posts": 83,
+        "reach": 2324,
+        "views": 3336,
+        "reactions": 35,
+        "comments": 2,
+        "shares": 1,
+        "saves": 4,
+        "follows": 0,
+        "watch_time_minutes": 92.03,
+        "average_watch_time_seconds": 3.15
+      },
+      "facebook": {
+        "posts": 83,
+        "impressions": 1639,
+        "reactions": 7,
+        "comments": 1,
+        "shares": 0,
+        "clicks": 16
+      }
+    },
+    "last_7_complete_days": {
+      "instagram": {
+        "posts": 20,
+        "reach": 785,
+        "views": 1027,
+        "reactions": 5,
+        "comments": 2,
+        "shares": 1,
+        "saves": 3,
+        "follows": 0,
+        "watch_time_minutes": 35.8,
+        "average_watch_time_seconds": 2.97
+      },
+      "facebook": {
+        "posts": 20,
+        "impressions": 467,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "clicks": 1
+      }
+    },
+    "mature_winner": {
+      "instagram_post_id": "6ac754f56bf3dfa8dcf1e94b",
+      "hook": "The forest returned her alive.",
+      "format": "reel",
+      "reach": 150,
+      "views": 170,
+      "saves": 1,
+      "average_watch_time_seconds": 3.74,
+      "pattern": "A concrete impossible event rescues a vulnerable person and ends with an unresolved explanation."
+    },
+    "mature_loser_pattern": {
+      "format": "single images and carousels",
+      "examples": [
+        {"post_id": "6ac754e0fc3db6b912c7a1b3", "reach": 2, "follows": 0},
+        {"post_id": "6ad482f0938409f1d0c0d75a", "reach": 5, "follows": 0},
+        {"post_id": "6ad878ec7143aca6ab046bd3", "reach": 5, "follows": 0}
+      ],
+      "finding": "Three or more comparable static posts produced no follows and almost no reach."
+    },
+    "creative_hypothesis": "Change the static-content hypothesis from atmosphere and world explanation to immediate human decisions with visible consequences. Keep the Reel's proven rescue-plus-mystery structure without repeating its artwork or story."
+  },
+  "video_validation": {
+    "duration_seconds": 12,
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "faststart": true,
+    "size_bytes": 2627742
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "subject": "Who Fed the Fire?",
+      "format": "reel",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/01-who-fed-the-fire.mp4",
+      "instagram": {"id": "6adb1a6205fef8cb0a2fb4ee", "status": "scheduled"},
+      "facebook": {"id": "6adb1a66c4349d575b9cb810", "status": "scheduled"}
+    },
+    {
+      "slot": "17:00",
+      "subject": "One Rope. Two Ships.",
+      "format": "carousel",
+      "assets": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/carousel/01-one-rope-two-ships.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/carousel/02-who-gets-it.jpg"
+      ],
+      "instagram": {"id": "6adb1a6a2baa602d023f56a9", "status": "scheduled"},
+      "facebook": {"id": "6adb1a6dc4349d575b9cb990", "status": "scheduled"}
+    },
+    {
+      "slot": "20:00",
+      "subject": "Someone Turned the Sign",
+      "series": "Would You Survive Roo?",
+      "episode": 2,
+      "format": "single_image",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/03-someone-turned-the-sign.jpg",
+      "instagram": {"id": "6adb1a7205fef8cb0a2fb7aa", "status": "scheduled"},
+      "facebook": {"id": "6adb1a752baa602d023f5841", "status": "scheduled"}
+    }
+  ],
+  "previous_day_recovery": {
+    "subject": "The Sea Rose at Midnight",
+    "channel": "Instagram thelandofroo",
+    "format": "carousel fallback",
+    "first_attempt": {
+      "id": "6adb17291e4eba0473765df7",
+      "status": "error"
+    },
+    "retry": {
+      "id": "6adb17350b4dd2dd0c0ba0fd",
+      "status": "error"
+    },
+    "exact_error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
+    "recovery_state": "missing_for_next_run"
+  }
+}
