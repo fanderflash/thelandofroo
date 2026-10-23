@@ -2,9 +2,9 @@
   "date": "2026-10-23",
   "timezone": "Europe/Stockholm",
   "media_commit": "72caa35faad9fbbbb14777ebfa3eaf4007066771",
-  "verified_at": "2026-10-23T15:14:16Z",
+  "verified_at": "2026-10-23T18:15:50Z",
   "all_scheduled": true,
-  "complete": false,
+  "complete": true,
   "typography": {
     "family": "Cormorant Garamond",
     "style": "SemiBold",
@@ -69,9 +69,21 @@
     "mature_loser_pattern": {
       "format": "single images and carousels",
       "examples": [
-        {"post_id": "6ac754e0fc3db6b912c7a1b3", "reach": 2, "follows": 0},
-        {"post_id": "6ad482f0938409f1d0c0d75a", "reach": 5, "follows": 0},
-        {"post_id": "6ad878ec7143aca6ab046bd3", "reach": 5, "follows": 0}
+        {
+          "post_id": "6ac754e0fc3db6b912c7a1b3",
+          "reach": 2,
+          "follows": 0
+        },
+        {
+          "post_id": "6ad482f0938409f1d0c0d75a",
+          "reach": 5,
+          "follows": 0
+        },
+        {
+          "post_id": "6ad878ec7143aca6ab046bd3",
+          "reach": 5,
+          "follows": 0
+        }
       ],
       "finding": "Three or more comparable static posts produced no follows and almost no reach."
     },
@@ -95,8 +107,16 @@
       "subject": "Who Fed the Fire?",
       "format": "reel",
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/01-who-fed-the-fire.mp4",
-      "instagram": {"id": "6adb1a6205fef8cb0a2fb4ee", "status": "sent", "sent_at": "2026-10-23T09:00:45.711Z"},
-      "facebook": {"id": "6adb1a66c4349d575b9cb810", "status": "sent", "sent_at": "2026-10-23T09:00:39.452Z"}
+      "instagram": {
+        "id": "6adb1a6205fef8cb0a2fb4ee",
+        "status": "sent",
+        "sent_at": "2026-10-23T09:00:45.711Z"
+      },
+      "facebook": {
+        "id": "6adb1a66c4349d575b9cb810",
+        "status": "sent",
+        "sent_at": "2026-10-23T09:00:39.452Z"
+      }
     },
     {
       "slot": "17:00",
@@ -106,8 +126,16 @@
         "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/carousel/01-one-rope-two-ships.jpg",
         "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/carousel/02-who-gets-it.jpg"
       ],
-      "instagram": {"id": "6adb1a6a2baa602d023f56a9", "status": "sent", "sent_at": "2026-10-23T15:02:11.242Z"},
-      "facebook": {"id": "6adb1a6dc4349d575b9cb990", "status": "sent", "sent_at": "2026-10-23T15:01:26.138Z"}
+      "instagram": {
+        "id": "6adb1a6a2baa602d023f56a9",
+        "status": "sent",
+        "sent_at": "2026-10-23T15:02:11.242Z"
+      },
+      "facebook": {
+        "id": "6adb1a6dc4349d575b9cb990",
+        "status": "sent",
+        "sent_at": "2026-10-23T15:01:26.138Z"
+      }
     },
     {
       "slot": "20:00",
@@ -116,8 +144,16 @@
       "episode": 2,
       "format": "single_image",
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/72caa35faad9fbbbb14777ebfa3eaf4007066771/assets/social/2026-10-23/03-someone-turned-the-sign.jpg",
-      "instagram": {"id": "6adb1a7205fef8cb0a2fb7aa", "status": "scheduled"},
-      "facebook": {"id": "6adb1a752baa602d023f5841", "status": "scheduled"}
+      "instagram": {
+        "id": "6adb1a7205fef8cb0a2fb7aa",
+        "status": "sent",
+        "sent_at": "2026-10-23T18:02:02.045Z"
+      },
+      "facebook": {
+        "id": "6adb1a752baa602d023f5841",
+        "status": "sent",
+        "sent_at": "2026-10-23T18:01:39.615Z"
+      }
     }
   ],
   "previous_day_recovery": {
@@ -153,6 +189,16 @@
       }
     },
     "exact_error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
-    "recovery_state": "missing_for_next_run"
+    "recovery_state": "missing_for_next_run",
+    "recovery_run_2026-10-23T18:15Z": {
+      "first_attempt": {
+        "id": "6adba42f8b3d437ddc7dfcdf",
+        "status": "error"
+      },
+      "retry": {
+        "id": "6adba43a9acae620d8110dc8",
+        "status": "error"
+      }
+    }
   }
 }
