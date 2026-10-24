@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-24",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "98f7da89877958f03ecd287621850ed02988dab4",
+  "created_at": "2026-10-24T08:30:00Z",
+  "verified_at": "2026-10-24T08:31:40Z",
+  "complete": false,
+  "all_slots_scheduled": true,
+  "typography": {
+    "family": "Cormorant Garamond",
+    "style": "SemiBold",
+    "weight": 600,
+    "font_path": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "method": "Typeset locally from the approved TTF after original artwork generation"
+  },
+  "performance_context": {
+    "last_30_complete_days": {
+      "range": "2026-09-24/2026-10-23",
+      "instagram": {
+        "posts": 86,
+        "reactions": 35,
+        "comments": 2,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "reach": 2503,
+        "views": 3570,
+        "watch_time_minutes": 100.47,
+        "average_watch_time_seconds": 3.14,
+        "engagement_rate_percent": 1.72
+      },
+      "facebook": {
+        "posts": 86,
+        "reactions": 7,
+        "comments": 1,
+        "shares": 0,
+        "clicks": 16,
+        "impressions": 1644,
+        "engagement_rate_percent": 1.46
+      }
+    },
+    "last_7_complete_days": {
+      "range": "2026-10-17/2026-10-23",
+      "instagram": {
+        "posts": 20,
+        "reactions": 4,
+        "comments": 2,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 804,
+        "views": 1043,
+        "watch_time_minutes": 34.57,
+        "average_watch_time_seconds": 2.84,
+        "engagement_rate_percent": 1.0
+      },
+      "facebook": {
+        "posts": 20,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "clicks": 1,
+        "impressions": 438,
+        "engagement_rate_percent": 0.23
+      }
+    },
+    "mature_winners": [
+      {
+        "post_id": "6ac754f56bf3dfa8dcf1e94b",
+        "format": "Instagram Reel",
+        "hook": "The forest returned her alive.",
+        "reach": 150,
+        "views": 170,
+        "saves": 1,
+        "average_watch_time_seconds": 3.74
+      },
+      {
+        "post_id": "6ad1df63ee2c696029c75df6",
+        "format": "Instagram Reel",
+        "hook": "A home to you. A ruin to history.",
+        "reach": 147,
+        "views": 177,
+        "saves": 2,
+        "average_watch_time_seconds": 3.87
+      }
+    ],
+    "finding": "Reels built around rescue, irreversible physical change, and an unanswered cause produced most non-follower reach. Recent static choices and scenic descriptions repeatedly reached only 4-9 people and produced no follows.",
+    "creative_hypothesis": "Keep concrete danger and physical transformation in the Reel; replace abstract moral choices with a visible domestic mystery in the carousel; continue the established courier story with an immediate consequence."
+  },
+  "video_validation": {
+    "duration_seconds": 12.8,
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 1,
+    "faststart": true,
+    "size_bytes": 4472617
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "subject": "The Gate Moved Alone",
+      "format": "reel",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/98f7da89877958f03ecd287621850ed02988dab4/assets/social/2026-10-24/reel/the-gate-moved-alone.mp4",
+      "instagram": {
+        "id": "6adc6cadbd33ce99c3125bf2",
+        "status": "scheduled",
+        "due_at": "2026-10-24T09:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adc6cb03d5b27036b746f6a",
+        "status": "scheduled",
+        "due_at": "2026-10-24T09:00:00.000Z"
+      }
+    },
+    {
+      "slot": "17:00",
+      "subject": "The Door Was Still Locked",
+      "format": "carousel",
+      "assets": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/98f7da89877958f03ecd287621850ed02988dab4/assets/social/2026-10-24/carousel/01-locked-door.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/98f7da89877958f03ecd287621850ed02988dab4/assets/social/2026-10-24/carousel/02-payment.jpg"
+      ],
+      "instagram": {
+        "id": "6adc6cb36887a2efc1a7ded5",
+        "status": "scheduled",
+        "due_at": "2026-10-24T15:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adc6cb66887a2efc1a7df6c",
+        "status": "scheduled",
+        "due_at": "2026-10-24T15:00:00.000Z"
+      }
+    },
+    {
+      "slot": "20:00",
+      "subject": "The Footprints Arrived First",
+      "series": "Would You Survive Roo?",
+      "episode": 3,
+      "format": "single_image",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/98f7da89877958f03ecd287621850ed02988dab4/assets/social/2026-10-24/serial/the-footprints-arrived-first.jpg",
+      "instagram": {
+        "id": "6adc6cb98b3d437ddcab5fdd",
+        "status": "scheduled",
+        "due_at": "2026-10-24T18:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adc6cbcbd33ce99c31261fe",
+        "status": "scheduled",
+        "due_at": "2026-10-24T18:00:00.000Z"
+      }
+    }
+  ],
+  "recovery": {
+    "source_date": "2026-10-22",
+    "subject": "The Sea Rose at Midnight",
+    "channel": "instagram",
+    "media": "three-frame carousel fallback",
+    "first_attempt": {
+      "id": "6adc6cd96887a2efc1a7edea",
+      "status": "error",
+      "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+    },
+    "immediate_retry": {
+      "id": "6adc6ce43d5b27036b747f6f",
+      "status": "error",
+      "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+    },
+    "state": "missing_for_next_recovery_run"
+  }
+}
