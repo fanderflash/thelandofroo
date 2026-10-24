@@ -3,8 +3,8 @@
   "timezone": "Europe/Stockholm",
   "media_commit": "98f7da89877958f03ecd287621850ed02988dab4",
   "created_at": "2026-10-24T08:30:00Z",
-  "verified_at": "2026-10-24T15:16:00Z",
-  "complete": false,
+  "verified_at": "2026-10-24T18:16:22Z",
+  "complete": true,
   "all_slots_scheduled": true,
   "typography": {
     "family": "Cormorant Garamond",
@@ -153,13 +153,15 @@
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/98f7da89877958f03ecd287621850ed02988dab4/assets/social/2026-10-24/serial/the-footprints-arrived-first.jpg",
       "instagram": {
         "id": "6adc6cb98b3d437ddcab5fdd",
-        "status": "scheduled",
-        "due_at": "2026-10-24T18:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-24T18:00:00.000Z",
+        "sent_at": "2026-10-24T18:01:15.760Z"
       },
       "facebook": {
         "id": "6adc6cbcbd33ce99c31261fe",
-        "status": "scheduled",
-        "due_at": "2026-10-24T18:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-24T18:00:00.000Z",
+        "sent_at": "2026-10-24T18:01:05.933Z"
       }
     }
   ],
@@ -180,9 +182,9 @@
     },
     "state": "missing_for_next_recovery_run",
     "latest_recovery": {
-      "attempted_at": "2026-10-24T09:13:40Z",
       "id": "6adc6ce43d5b27036b747f6f",
       "status": "error",
+      "attempted_at": "2026-10-24T18:16:10.101Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
     },
     "recovery_17_15": {
@@ -198,6 +200,21 @@
         "attempted_at": "2026-10-24T15:15:40.933Z",
         "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
       }
+    },
+    "recovery_20_15": {
+      "first_attempt": {
+        "id": "6adc6ce43d5b27036b747f6f",
+        "status": "error",
+        "attempted_at": "2026-10-24T18:15:46.543Z",
+        "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+      },
+      "immediate_retry": {
+        "id": "6adc6ce43d5b27036b747f6f",
+        "status": "error",
+        "attempted_at": "2026-10-24T18:16:10.101Z",
+        "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+      }
     }
-  }
+  },
+  "all_today_published": true
 }
