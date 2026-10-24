@@ -3,7 +3,7 @@
   "timezone": "Europe/Stockholm",
   "media_commit": "98f7da89877958f03ecd287621850ed02988dab4",
   "created_at": "2026-10-24T08:30:00Z",
-  "verified_at": "2026-10-24T09:15:30Z",
+  "verified_at": "2026-10-24T15:16:00Z",
   "complete": false,
   "all_slots_scheduled": true,
   "typography": {
@@ -135,13 +135,13 @@
       ],
       "instagram": {
         "id": "6adc6cb36887a2efc1a7ded5",
-        "status": "scheduled",
-        "due_at": "2026-10-24T15:00:00.000Z"
+        "status": "sent",
+        "sent_at": "2026-10-24T15:01:30.281Z"
       },
       "facebook": {
         "id": "6adc6cb66887a2efc1a7df6c",
-        "status": "scheduled",
-        "due_at": "2026-10-24T15:00:00.000Z"
+        "status": "sent",
+        "sent_at": "2026-10-24T15:01:05.411Z"
       }
     },
     {
@@ -184,6 +184,20 @@
       "id": "6adc6ce43d5b27036b747f6f",
       "status": "error",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+    },
+    "recovery_17_15": {
+      "first_attempt": {
+        "id": "6adc6ce43d5b27036b747f6f",
+        "status": "error",
+        "attempted_at": "2026-10-24T15:15:10.408Z",
+        "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+      },
+      "immediate_retry": {
+        "id": "6adc6ce43d5b27036b747f6f",
+        "status": "error",
+        "attempted_at": "2026-10-24T15:15:40.933Z",
+        "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+      }
     }
   }
 }
