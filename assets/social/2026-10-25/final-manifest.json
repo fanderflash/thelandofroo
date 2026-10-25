@@ -3,7 +3,7 @@
   "timezone": "Europe/Stockholm",
   "media_commit": "fb5ecc7ac1a457a946379d0907c6dff348f3691d",
   "created_at": "2026-10-25T09:30:00Z",
-  "verified_at": "2026-10-25T10:16:00Z",
+  "verified_at": "2026-10-25T16:16:30Z",
   "complete": false,
   "all_slots_scheduled": true,
   "typography": {
@@ -109,8 +109,8 @@
         "format": "carousel",
         "status": "error",
         "mode": "shareNow",
-        "attempted_at": "2026-10-25T10:14:58.414Z",
-        "immediate_retry_at": "2026-10-25T10:15:09.467Z",
+        "recovery_run_at": "2026-10-25T16:14:13.394Z",
+        "immediate_retry_at": "2026-10-25T16:14:48.834Z",
         "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
         "state": "missing_for_next_recovery_run"
       }
@@ -125,13 +125,17 @@
       ],
       "instagram": {
         "id": "6addcbadbd33ce99c36494ce",
-        "status": "scheduled",
-        "due_at": "2026-10-25T16:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-25T16:00:00.000Z",
+        "sent_at": "2026-10-25T16:01:48.824Z",
+        "external_link": "https://www.instagram.com/p/De7FqYvlJXJ/"
       },
       "facebook": {
         "id": "6addcbb40b5343d070c4a248",
-        "status": "scheduled",
-        "due_at": "2026-10-25T16:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-25T16:00:00.000Z",
+        "sent_at": "2026-10-25T16:01:02.520Z",
+        "external_link": "https://www.facebook.com/122100493701477973/posts/122120870445477973"
       }
     },
     {
@@ -158,16 +162,15 @@
     "subject": "The Sea Rose at Midnight",
     "channel": "instagram",
     "media": "three-frame carousel fallback",
-    "attempt": {
-      "id": "6adc6ce43d5b27036b747f6f",
+    "post_id": "6adc6ce43d5b27036b747f6f",
+    "latest_attempt": {
       "status": "error",
-      "attempted_at": "2026-10-25T09:28:59.056Z",
+      "attempted_at": "2026-10-25T16:15:26.232Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
     },
-    "immediate_retry": {
-      "id": "6adc6ce43d5b27036b747f6f",
+    "latest_immediate_retry": {
       "status": "error",
-      "attempted_at": "2026-10-25T09:29:30.502Z",
+      "attempted_at": "2026-10-25T16:16:08.004Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
     },
     "state": "missing_for_next_recovery_run"
@@ -179,13 +182,13 @@
     "original_reel": {
       "id": "6addcb963d5b27036bc59cfc",
       "status": "error",
-      "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
-      "immediate_retry_status": "error"
+      "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
     },
     "fallback_carousel": {
       "id": "6addd6a23d5b27036bc8a209",
       "status": "error",
-      "attempts": 2,
+      "latest_attempt_at": "2026-10-25T16:14:13.394Z",
+      "latest_immediate_retry_at": "2026-10-25T16:14:48.834Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
     },
     "state": "missing_for_next_recovery_run"
