@@ -2,7 +2,7 @@
   "date": "2026-10-26",
   "timezone": "Europe/Stockholm",
   "media_commit": "83d967cfb6a73daa48d185b692b156441426ddc9",
-  "verified_at": "2026-10-26T10:20:00Z",
+  "verified_at": "2026-10-26T10:21:30Z",
   "all_slots_scheduled": true,
   "complete": false,
   "performance": {
@@ -92,10 +92,19 @@
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/reel/only-one-boat-returned.mp4",
       "instagram": {
         "id": "6adf1ef20f7767cbe7c69606",
-        "status": "sending",
+        "status": "sent",
         "due_at": "2026-10-26T10:00:00.000Z",
         "mode": "shareNow",
-        "recovery_attempt_at": "2026-10-26T10:19:08.162Z"
+        "recovery_attempt_at": "2026-10-26T10:19:08.162Z",
+        "format": "fallback_carousel",
+        "sent_at": "2026-10-26T10:21:24.776Z",
+        "external_link": "https://www.instagram.com/p/De9Di7xoADO/",
+        "video_error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
+        "fallback_assets": [
+          "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/reel/01-only-one-boat-returned.jpg",
+          "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/reel/02-a-rope-led-back.jpg",
+          "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/reel/03-who-held-the-other-end.jpg"
+        ]
       },
       "facebook": {
         "id": "6adf1ef60f7767cbe7c696dc",
