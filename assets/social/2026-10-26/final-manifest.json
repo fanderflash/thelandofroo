@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Europe/Stockholm",
+  "media_commit": "83d967cfb6a73daa48d185b692b156441426ddc9",
+  "verified_at": "2026-10-26T09:38:00Z",
+  "all_slots_scheduled": true,
+  "complete": false,
+  "performance": {
+    "complete_30_days": {
+      "instagram": {
+        "posts": 88,
+        "reactions": 33,
+        "comments": 2,
+        "engagement_rate_percent": 1.64,
+        "views": 3546,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "reach": 2496,
+        "watch_time_minutes": 101.61,
+        "average_watch_seconds": 3.16
+      },
+      "facebook": {
+        "posts": 87,
+        "reactions": 7,
+        "comments": 1,
+        "engagement_rate_percent": 1.4,
+        "impressions": 1644,
+        "shares": 0,
+        "clicks": 15
+      }
+    },
+    "complete_7_days": {
+      "instagram": {
+        "posts": 19,
+        "reactions": 4,
+        "comments": 2,
+        "engagement_rate_percent": 1.31,
+        "views": 815,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "reach": 610,
+        "watch_time_minutes": 25.66,
+        "average_watch_seconds": 2.85
+      },
+      "facebook": {
+        "posts": 18,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagement_rate_percent": 0.63,
+        "impressions": 158,
+        "clicks": 1
+      }
+    },
+    "finding": "Follower growth remained zero. Recent puzzle stills produced little reach, so today's hypothesis shifts to concrete human loss and betrayal with visible stakes."
+  },
+  "typography": {
+    "font": "Cormorant Garamond SemiBold",
+    "weight": 600,
+    "source": "assets/social/fonts/CormorantGaramond-SemiBold.ttf"
+  },
+  "validation": {
+    "reel": {
+      "duration_seconds": 12.4,
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "fps": 30,
+      "audio_codec": "aac",
+      "audio_sample_rate": 48000,
+      "faststart": true
+    },
+    "carousel": {
+      "frames": 3,
+      "width": 1080,
+      "height": 1350
+    },
+    "serial": {
+      "frames": 1,
+      "width": 1080,
+      "height": 1350
+    }
+  },
+  "slots": [
+    {
+      "local_time": "11:00",
+      "title": "Only One Boat Returned",
+      "format": "reel",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/reel/only-one-boat-returned.mp4",
+      "instagram": {
+        "id": "6adf1ef20f7767cbe7c69606",
+        "status": "scheduled",
+        "due_at": "2026-10-26T10:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adf1ef60f7767cbe7c696dc",
+        "status": "scheduled",
+        "due_at": "2026-10-26T10:00:00.000Z"
+      }
+    },
+    {
+      "local_time": "17:00",
+      "title": "The Medicine Never Left the Wagon",
+      "format": "carousel",
+      "assets": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/carousel/01-the-medicine-was-gone.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/carousel/02-look-under-the-wagon.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/carousel/03-who-hid-it.jpg"
+      ],
+      "instagram": {
+        "id": "6adf1efb78f6291673ba6968",
+        "status": "scheduled",
+        "due_at": "2026-10-26T16:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adf1efffce97d27e5108b65",
+        "status": "scheduled",
+        "due_at": "2026-10-26T16:00:00.000Z"
+      }
+    },
+    {
+      "local_time": "20:00",
+      "title": "The Bell Had No Clapper",
+      "format": "single_image",
+      "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/serial/the-bell-had-no-clapper.jpg",
+      "instagram": {
+        "id": "6adf1f09865e1471ed5a1514",
+        "status": "scheduled",
+        "due_at": "2026-10-26T19:00:00.000Z"
+      },
+      "facebook": {
+        "id": "6adf1f10fce97d27e5108f71",
+        "status": "scheduled",
+        "due_at": "2026-10-26T19:00:00.000Z"
+      }
+    }
+  ],
+  "recovery": [
+    {
+      "title": "The Mountain Knocked Back",
+      "channel": "Instagram",
+      "post_id": "6addd6a23d5b27036bc8a209",
+      "status": "error",
+      "attempts_this_run": 2,
+      "latest_attempt_at": "2026-10-26T09:37:25.564Z",
+      "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
+      "state": "missing_for_next_recovery_run"
+    },
+    {
+      "title": "The Sea Rose While Everyone Slept",
+      "channel": "Instagram",
+      "post_id": "6adc6ce43d5b27036b747f6f",
+      "status": "error",
+      "attempts_this_run": 2,
+      "latest_attempt_at": "2026-10-26T09:37:32.102Z",
+      "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
+      "state": "missing_for_next_recovery_run"
+    }
+  ]
+}
