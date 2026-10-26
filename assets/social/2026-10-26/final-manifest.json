@@ -2,9 +2,9 @@
   "date": "2026-10-26",
   "timezone": "Europe/Stockholm",
   "media_commit": "83d967cfb6a73daa48d185b692b156441426ddc9",
-  "verified_at": "2026-10-26T16:13:10Z",
+  "verified_at": "2026-10-26T19:17:15Z",
   "all_slots_scheduled": true,
-  "complete": false,
+  "complete": true,
   "performance": {
     "complete_30_days": {
       "instagram": {
@@ -142,13 +142,15 @@
       "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/83d967cfb6a73daa48d185b692b156441426ddc9/assets/social/2026-10-26/serial/the-bell-had-no-clapper.jpg",
       "instagram": {
         "id": "6adf1f09865e1471ed5a1514",
-        "status": "scheduled",
-        "due_at": "2026-10-26T19:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-26T19:00:00.000Z",
+        "sent_at": "2026-10-26T19:01:50.097Z"
       },
       "facebook": {
         "id": "6adf1f10fce97d27e5108f71",
-        "status": "scheduled",
-        "due_at": "2026-10-26T19:00:00.000Z"
+        "status": "sent",
+        "due_at": "2026-10-26T19:00:00.000Z",
+        "sent_at": "2026-10-26T19:01:48.291Z"
       }
     }
   ],
@@ -159,10 +161,10 @@
       "post_id": "6addd6a23d5b27036bc8a209",
       "status": "error",
       "attempts_this_run": 2,
-      "latest_attempt_at": "2026-10-26T16:12:46.746Z",
+      "latest_attempt_at": "2026-10-26T19:16:50.576Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
       "state": "missing_for_next_recovery_run",
-      "attempts_today": 6
+      "attempts_today": 8
     },
     {
       "title": "The Sea Rose While Everyone Slept",
@@ -170,10 +172,12 @@
       "post_id": "6adc6ce43d5b27036b747f6f",
       "status": "error",
       "attempts_this_run": 2,
-      "latest_attempt_at": "2026-10-26T16:13:01.948Z",
+      "latest_attempt_at": "2026-10-26T19:17:08.810Z",
       "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post.",
       "state": "missing_for_next_recovery_run",
-      "attempts_today": 6
+      "attempts_today": 8
     }
-  ]
+  ],
+  "successful_platform_posts": 6,
+  "expected_platform_posts": 6
 }
