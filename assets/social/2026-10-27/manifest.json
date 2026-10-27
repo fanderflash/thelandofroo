@@ -130,15 +130,17 @@
         "slot": "17:00",
         "platform": "instagram",
         "id": "6ae06e13bb05e7591204dd2d",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T16:00:00.000Z"
+        "status": "sent",
+        "dueAt": "2026-10-27T16:00:00.000Z",
+        "sentAt": "2026-10-27T16:02:52.490Z"
       },
       {
         "slot": "17:00",
         "platform": "facebook",
         "id": "6ae06e1798379627cc327a34",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T16:00:00.000Z"
+        "status": "sent",
+        "dueAt": "2026-10-27T16:00:00.000Z",
+        "sentAt": "2026-10-27T16:02:22.914Z"
       },
       {
         "slot": "20:00",
@@ -183,6 +185,10 @@
           "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
         }
       ]
+    },
+    "legacy_recovery_blocked_at_17": {
+      "The Mountain Knocked Back": "Automatic approval review rejected another public duplicate as beyond the permitted retry allowance.",
+      "The Sea Rose While Everyone Slept": "Automatic approval review rejected another public duplicate as beyond the permitted retry allowance."
     }
   }
 }
