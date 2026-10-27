@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Europe/Stockholm",
+  "strategy": {
+    "recent_winner": "Instagram Reel: No one was home—but the fire was warm. (2026-10-23; 191 views, 171 reach, 1 save, 3.19s average watch time)",
+    "seven_day_summary": {
+      "instagram": {"posts": 18, "views": 705, "reach": 505, "reactions": 3, "saves": 2, "shares": 0, "comments": 0, "follows": 0, "watch_time_minutes": 21.02, "average_watch_seconds": 2.96},
+      "facebook": {"posts": 17, "impressions": 31, "reactions": 0, "comments": 0, "shares": 0, "clicks": 0}
+    },
+    "thirty_day_summary": {
+      "instagram": {"posts": 87, "views": 3476, "reach": 2471, "reactions": 32, "comments": 2, "shares": 1, "saves": 5, "follows": 0, "watch_time_minutes": 101.61, "average_watch_seconds": 3.16},
+      "facebook": {"posts": 86, "impressions": 1616, "reactions": 7, "comments": 1, "shares": 0, "clicks": 14}
+    },
+    "creative_hypothesis": "Repeat the recent winner's audience need—concrete human evidence, contradiction and an unresolved absence—through new scenes; replace low-response scenic/object puzzles with a domestic mystery, a direct A/B survival choice, and a serial episode that delivers yesterday's promised reveal."
+  },
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "subject": "The cradle was still rocking",
+      "video": "reel/the-cradle-was-still-rocking.mp4",
+      "fallback_carousel": ["reel/01-the-cradle-was-still-rocking.jpg", "reel/02-the-footprints-led-out.jpg", "reel/03-then-they-just-stopped.jpg"],
+      "validation": {"duration_seconds": 12.1, "width": 1080, "height": 1920, "fps": 30, "video_codec": "h264", "profile": "High", "level": "4.1", "pixel_format": "yuv420p", "audio_codec": "aac", "audio_channels": 2, "sample_rate": 48000, "faststart": true},
+      "captions": {
+        "instagram": "The cradle was still rocking.\n\nThe fire was warm. The bowl still steamed. Small footprints crossed the floor—and stopped before the frozen stream.\n\nLook at the final frame: where would you search first?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow for the next mystery.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding #FantasyArt",
+        "facebook": "The cradle was still rocking.\n\nA woman returned to a warm hearth, a steaming bowl and an empty cradle. Small wet footprints led outside, then ended in untouched snow before the frozen stream.\n\nWhere would you search first—the water, the woods or back inside the house?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding"
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "subject": "Which road gets you home?",
+      "images": ["carousel/01-which-road-gets-you-home.jpg", "carousel/02-a-the-flooded-bridge.jpg", "carousel/03-b-the-forest-detour.jpg"],
+      "captions": {
+        "instagram": "Two roads. Neither feels safe.\n\nA: the broken bridge, with home in sight.\nB: the longer forest path, where someone else's footprints turned back.\n\nSwipe, then choose in one word: bridge or forest?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+        "facebook": "Two roads. Neither feels safe.\n\nThe flooded bridge is breaking apart, but the village is visible on the other side. The forest detour looks intact, yet fresh footprints on the trail suddenly turn and hurry back.\n\nWhich risk would you take: bridge or forest?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding"
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "single_image",
+      "series": "Would You Survive Roo?",
+      "episode": 6,
+      "subject": "The second bell was below",
+      "image": "serial/the-second-bell-was-below.jpg",
+      "captions": {
+        "instagram": "The second bell was below.\n\nWould You Survive Roo? — Part 6\n\nThe couriers opened the hatch and found a smaller bell tied to a rope descending into darkness. Someone below had been ringing it—while fresh prints crossed the snowy floor behind them.\n\nFollow the rope or chase the footprints? Follow for Part 7.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+        "facebook": "The second bell was below.\n\nWould You Survive Roo? — Part 6\n\nYesterday the great bell rang without a clapper. Today the couriers opened the hatch beneath it and found a smaller handbell tied to a rope that vanished underground. Then they noticed fresh wet footprints crossing the floor behind them.\n\nWould you follow the rope into the dark or chase the unseen visitor? Follow for Part 7.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt"
+      }
+    }
+  ],
+  "buffer": {"facebook_channel_id": "6aaa9283ea19ca0bde5839d5", "instagram_channel_id": "6aaa90f5ea19ca0bde582f0e", "posts": []}
+}
