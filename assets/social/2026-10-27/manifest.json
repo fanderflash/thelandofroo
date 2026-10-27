@@ -114,15 +114,17 @@
         "slot": "11:00",
         "platform": "instagram",
         "id": "6ae06dfd98379627cc326fd9",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T10:00:00.000Z"
+        "status": "error",
+        "dueAt": "2026-10-27T10:00:00.000Z",
+        "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
       },
       {
         "slot": "11:00",
         "platform": "facebook",
         "id": "6ae06e01158d7a72af9153b9",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T10:00:00.000Z"
+        "status": "sent",
+        "dueAt": "2026-10-27T10:00:00.000Z",
+        "sentAt": "2026-10-27T10:00:35.583Z"
       },
       {
         "slot": "17:00",
@@ -152,6 +154,35 @@
         "status": "scheduled",
         "dueAt": "2026-10-27T19:00:00.000Z"
       }
-    ]
+    ],
+    "recovery": {
+      "instagram_11_reel_retry": {
+        "id": "6ae078f4e3a1beb2ea015307",
+        "status": "error",
+        "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
+      },
+      "instagram_11_fallback_carousel": {
+        "id": "6ae0793e38034660d2965bc8",
+        "status": "sent",
+        "sentAt": "2026-10-27T10:13:47.931Z",
+        "externalLink": "https://www.instagram.com/p/De_neKkkdm0/"
+      },
+      "legacy_missing": [
+        {
+          "subject": "The Mountain Knocked Back",
+          "platform": "instagram",
+          "attemptId": "6ae07988227c7f64b78b5700",
+          "status": "error",
+          "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+        },
+        {
+          "subject": "The Sea Rose While Everyone Slept",
+          "platform": "instagram",
+          "attemptId": "6ae079aff8fdca14fefbe06e",
+          "status": "error",
+          "error": "This post failed due to a recent Meta outage affecting Facebook, Instagram, and Threads. The outage has since been resolved. Please retry your post."
+        }
+      ]
+    }
   }
 }
