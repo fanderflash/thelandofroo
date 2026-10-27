@@ -146,15 +146,17 @@
         "slot": "20:00",
         "platform": "instagram",
         "id": "6ae06e2898379627cc327e41",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T19:00:00.000Z"
+        "status": "sent",
+        "dueAt": "2026-10-27T19:00:00.000Z",
+        "sentAt": "2026-10-27T19:02:06.333Z"
       },
       {
         "slot": "20:00",
         "platform": "facebook",
         "id": "6ae06e2c59280f1cf44ae6b5",
-        "status": "scheduled",
-        "dueAt": "2026-10-27T19:00:00.000Z"
+        "status": "sent",
+        "dueAt": "2026-10-27T19:00:00.000Z",
+        "sentAt": "2026-10-27T19:01:37.738Z"
       }
     ],
     "recovery": {
@@ -189,6 +191,16 @@
     "legacy_recovery_blocked_at_17": {
       "The Mountain Knocked Back": "Automatic approval review rejected another public duplicate as beyond the permitted retry allowance.",
       "The Sea Rose While Everyone Slept": "Automatic approval review rejected another public duplicate as beyond the permitted retry allowance."
+    },
+    "final_status": {
+      "pieces_delivered": 3,
+      "successful_platform_deliveries": 6,
+      "duplicate_successes": 0,
+      "instagram_11_delivery": "fallback_carousel",
+      "legacy_missing": [
+        "The Mountain Knocked Back — Instagram",
+        "The Sea Rose While Everyone Slept — Instagram"
+      ]
     }
   }
 }
