@@ -127,13 +127,15 @@
       "buffer": {
         "instagram": {
           "id": "6ae1acbfbcf19c26c5cc352a",
-          "status": "scheduled",
-          "action": "replaced noncompliant pre-existing scenic draft in place"
+          "status": "sent",
+          "action": "replaced noncompliant pre-existing scenic draft in place",
+          "sentAt": "2026-10-28T19:01:55.379Z"
         },
         "facebook": {
           "id": "6ae1acbc45e232dcee574ab9",
-          "status": "scheduled",
-          "action": "replaced noncompliant pre-existing scenic draft in place"
+          "status": "sent",
+          "action": "replaced noncompliant pre-existing scenic draft in place",
+          "sentAt": "2026-10-28T19:01:31.695Z"
         }
       }
     }
@@ -147,5 +149,11 @@
     "carousel": "Someone Changed the Map sent successfully on Instagram and Facebook.",
     "serial_20_00": "The Message Was Already Below remains scheduled correctly on both channels.",
     "duplicates_created": false
+  },
+  "recovery_20_15": {
+    "serial": "The Message Was Already Below sent successfully on Instagram and Facebook.",
+    "final_day_result": "All three content pieces reached both channels. Facebook received the 11:00 Reel; Instagram received the preserved three-scene fallback carousel after two video failures. The 17:00 carousel and 20:00 serial image were sent on both channels.",
+    "successful_platform_deliveries": 6,
+    "duplicate_successful_posts": 0
   }
 }
