@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "timezone": "Europe/Stockholm",
+  "creative_hypothesis": "Replace object-led mystery with person-led moral decisions and immediate human consequences; preserve the evening serial payoff.",
+  "performance_snapshot": {
+    "complete_days_7": {
+      "range": "2026-10-21 to 2026-10-27",
+      "instagram": {"posts": 18, "views": 553, "reach": 376, "reactions": 3, "comments": 0, "shares": 0, "saves": 2, "follows": 0, "watch_time_minutes": 15.68, "avg_watch_seconds": 3.22},
+      "facebook": {"posts": 17, "impressions": 28, "reactions": 0, "comments": 0, "shares": 0, "clicks": 0}
+    },
+    "complete_days_30": {
+      "range": "2026-09-28 to 2026-10-27",
+      "instagram": {"posts": 87, "views": 3457, "reach": 2462, "reactions": 33, "comments": 2, "shares": 1, "saves": 5, "follows": 0, "watch_time_minutes": 101.61, "avg_watch_seconds": 3.16},
+      "facebook": {"posts": 86, "impressions": 1589, "reactions": 7, "comments": 1, "shares": 0, "clicks": 13}
+    },
+    "decision": "After seven complete days the format mix still produced zero follows. The Oct 23 Reel opened with conflict and human mystery and reached 171 accounts, but no theme converted to follows. Test a concrete moral dilemma and a human sabotage consequence instead of another scenic or object-only mystery."
+  },
+  "github_commit": "3837a2ca85ea1857630a3bf4bae6216657974064",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "One Seat Was Missing",
+      "asset": "assets/social/2026-10-28/reel/one-seat-was-missing.mp4",
+      "validation": {"duration_seconds": 11, "width": 1080, "height": 1920, "fps": 30, "video_codec": "h264", "pixel_format": "yuv420p", "audio_codec": "aac", "faststart": true},
+      "buffer": {
+        "instagram": {"id": "6ae1c0f591b138e3084c9304", "status": "scheduled"},
+        "facebook": {"id": "6ae1c0ef26cf140c4c82d161", "status": "scheduled"}
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "Someone Changed the Map",
+      "assets": ["assets/social/2026-10-28/carousel/frame-1-final.jpg", "assets/social/2026-10-28/carousel/frame-2-final.jpg", "assets/social/2026-10-28/carousel/frame-3-final.jpg"],
+      "buffer": {
+        "instagram": {"id": "6ae1c10826cf140c4c82e96e", "status": "scheduled"},
+        "facebook": {"id": "6ae1c1002d290d34867d9dd7", "status": "scheduled"}
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "serial_image",
+      "series": "Would You Survive Roo?",
+      "part": 7,
+      "title": "The Message Was Already Below",
+      "asset": "assets/social/2026-10-28/serial/part-7-final.jpg",
+      "buffer": {
+        "instagram": {"id": "6ae1acbfbcf19c26c5cc352a", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"},
+        "facebook": {"id": "6ae1acbc45e232dcee574ab9", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"}
+      }
+    }
+  ]
+}
