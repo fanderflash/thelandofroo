@@ -5,13 +5,49 @@
   "performance_snapshot": {
     "complete_days_7": {
       "range": "2026-10-21 to 2026-10-27",
-      "instagram": {"posts": 18, "views": 553, "reach": 376, "reactions": 3, "comments": 0, "shares": 0, "saves": 2, "follows": 0, "watch_time_minutes": 15.68, "avg_watch_seconds": 3.22},
-      "facebook": {"posts": 17, "impressions": 28, "reactions": 0, "comments": 0, "shares": 0, "clicks": 0}
+      "instagram": {
+        "posts": 18,
+        "views": 553,
+        "reach": 376,
+        "reactions": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 2,
+        "follows": 0,
+        "watch_time_minutes": 15.68,
+        "avg_watch_seconds": 3.22
+      },
+      "facebook": {
+        "posts": 17,
+        "impressions": 28,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "clicks": 0
+      }
     },
     "complete_days_30": {
       "range": "2026-09-28 to 2026-10-27",
-      "instagram": {"posts": 87, "views": 3457, "reach": 2462, "reactions": 33, "comments": 2, "shares": 1, "saves": 5, "follows": 0, "watch_time_minutes": 101.61, "avg_watch_seconds": 3.16},
-      "facebook": {"posts": 86, "impressions": 1589, "reactions": 7, "comments": 1, "shares": 0, "clicks": 13}
+      "instagram": {
+        "posts": 87,
+        "views": 3457,
+        "reach": 2462,
+        "reactions": 33,
+        "comments": 2,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "watch_time_minutes": 101.61,
+        "avg_watch_seconds": 3.16
+      },
+      "facebook": {
+        "posts": 86,
+        "impressions": 1589,
+        "reactions": 7,
+        "comments": 1,
+        "shares": 0,
+        "clicks": 13
+      }
     },
     "decision": "After seven complete days the format mix still produced zero follows. The Oct 23 Reel opened with conflict and human mystery and reached 171 accounts, but no theme converted to follows. Test a concrete moral dilemma and a human sabotage consequence instead of another scenic or object-only mystery."
   },
@@ -22,20 +58,61 @@
       "format": "reel",
       "title": "One Seat Was Missing",
       "asset": "assets/social/2026-10-28/reel/one-seat-was-missing.mp4",
-      "validation": {"duration_seconds": 11, "width": 1080, "height": 1920, "fps": 30, "video_codec": "h264", "pixel_format": "yuv420p", "audio_codec": "aac", "faststart": true},
+      "validation": {
+        "duration_seconds": 11,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "faststart": true
+      },
       "buffer": {
-        "instagram": {"id": "6ae1c0f591b138e3084c9304", "status": "scheduled"},
-        "facebook": {"id": "6ae1c0ef26cf140c4c82d161", "status": "scheduled"}
+        "instagram": {
+          "scheduled_video": {
+            "id": "6ae1c0f591b138e3084c9304",
+            "status": "error",
+            "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
+          },
+          "video_retry": {
+            "id": "6ae1ca435719a3c4c810512b",
+            "status": "error",
+            "error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications."
+          },
+          "fallback_carousel": {
+            "id": "6ae1caf25719a3c4c8108444",
+            "status": "sent",
+            "sentAt": "2026-10-28T10:14:38.093Z",
+            "externalLink": "https://www.instagram.com/p/DfCMXJXlPbd/",
+            "asset_commit": "c8554db5cd2acf46ff75c33fe363f53d70eb043b"
+          }
+        },
+        "facebook": {
+          "id": "6ae1c0ef26cf140c4c82d161",
+          "status": "sent",
+          "sentAt": "2026-10-28T10:00:29.539Z"
+        }
       }
     },
     {
       "slot": "17:00",
       "format": "carousel",
       "title": "Someone Changed the Map",
-      "assets": ["assets/social/2026-10-28/carousel/frame-1-final.jpg", "assets/social/2026-10-28/carousel/frame-2-final.jpg", "assets/social/2026-10-28/carousel/frame-3-final.jpg"],
+      "assets": [
+        "assets/social/2026-10-28/carousel/frame-1-final.jpg",
+        "assets/social/2026-10-28/carousel/frame-2-final.jpg",
+        "assets/social/2026-10-28/carousel/frame-3-final.jpg"
+      ],
       "buffer": {
-        "instagram": {"id": "6ae1c10826cf140c4c82e96e", "status": "scheduled"},
-        "facebook": {"id": "6ae1c1002d290d34867d9dd7", "status": "scheduled"}
+        "instagram": {
+          "id": "6ae1c10826cf140c4c82e96e",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae1c1002d290d34867d9dd7",
+          "status": "scheduled"
+        }
       }
     },
     {
@@ -46,9 +123,22 @@
       "title": "The Message Was Already Below",
       "asset": "assets/social/2026-10-28/serial/part-7-final.jpg",
       "buffer": {
-        "instagram": {"id": "6ae1acbfbcf19c26c5cc352a", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"},
-        "facebook": {"id": "6ae1acbc45e232dcee574ab9", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"}
+        "instagram": {
+          "id": "6ae1acbfbcf19c26c5cc352a",
+          "status": "scheduled",
+          "action": "replaced noncompliant pre-existing scenic draft in place"
+        },
+        "facebook": {
+          "id": "6ae1acbc45e232dcee574ab9",
+          "status": "scheduled",
+          "action": "replaced noncompliant pre-existing scenic draft in place"
+        }
       }
     }
-  ]
+  ],
+  "recovery_11_15": {
+    "facebook": "Reel sent successfully.",
+    "instagram": "Scheduled Reel and one immediate same-media retry failed with the same media specification error. The preserved three-scene carousel fallback was uploaded and sent successfully.",
+    "final_status": "Both channels delivered; Instagram used carousel fallback; no duplicate successful posts."
+  }
 }
