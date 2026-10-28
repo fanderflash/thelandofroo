@@ -107,11 +107,13 @@
       "buffer": {
         "instagram": {
           "id": "6ae1c10826cf140c4c82e96e",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-28T16:03:00.150Z"
         },
         "facebook": {
           "id": "6ae1c1002d290d34867d9dd7",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-28T16:01:39.272Z"
         }
       }
     },
@@ -140,5 +142,10 @@
     "facebook": "Reel sent successfully.",
     "instagram": "Scheduled Reel and one immediate same-media retry failed with the same media specification error. The preserved three-scene carousel fallback was uploaded and sent successfully.",
     "final_status": "Both channels delivered; Instagram used carousel fallback; no duplicate successful posts."
+  },
+  "recovery_17_15": {
+    "carousel": "Someone Changed the Map sent successfully on Instagram and Facebook.",
+    "serial_20_00": "The Message Was Already Below remains scheduled correctly on both channels.",
+    "duplicates_created": false
   }
 }
