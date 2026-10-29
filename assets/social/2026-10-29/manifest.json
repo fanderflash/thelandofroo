@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-29",
+  "timezone": "Europe/Stockholm",
+  "creative_hypothesis": "Run a second comparable person-led day, replacing scenic mystery with recognition, betrayal and winter-supply consequences while giving the evening serial a concrete rescue payoff.",
+  "performance_snapshot": {
+    "complete_days_7": {
+      "range": "2026-10-21 to 2026-10-27",
+      "instagram": {"posts": 19, "views": 577, "reach": 385, "reactions": 4, "comments": 0, "shares": 0, "saves": 2, "follows": 0, "watch_time_minutes": 15.68, "average_watch_seconds": 3.22, "updated_at": "2026-10-28T16:59:23.021Z"},
+      "facebook": {"posts": 17, "impressions": 43, "reactions": 0, "comments": 0, "shares": 0, "clicks": 0, "updated_at": "2026-10-28T17:06:09.298Z"}
+    },
+    "complete_days_30": {
+      "range": "2026-09-28 to 2026-10-27",
+      "source": "Most recent recorded complete-window snapshot; Buffer rejected a fresh 30-day aggregate query with INVALID_ARGUMENT.",
+      "instagram": {"posts": 87, "views": 3457, "reach": 2462, "reactions": 33, "comments": 2, "shares": 1, "saves": 5, "follows": 0, "watch_time_minutes": 101.61, "average_watch_seconds": 3.16},
+      "facebook": {"posts": 86, "impressions": 1589, "reactions": 7, "comments": 1, "shares": 0, "clicks": 13}
+    },
+    "decision": "Do not judge the 2026-10-28 person-led test before 24 hours. Continue it for a second comparable day. Avoid scenic-only and object-only posts because seven usable days still show no follows, comments or shares."
+  },
+  "github_commit": "1e43ed2681ec26ef4c6fe3ed3e5ff40ed331eae0",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "title": "The Guard Knew the Raider",
+      "asset": "assets/social/2026-10-29/reel/the-guard-knew-the-raider.mp4",
+      "fallback_assets": ["assets/social/2026-10-29/reel/scene-1-final.jpg", "assets/social/2026-10-29/reel/scene-2-final.jpg", "assets/social/2026-10-29/reel/scene-3-final.jpg"],
+      "validation": {"duration_seconds": 11, "width": 1080, "height": 1920, "fps": 30, "video_codec": "h264", "pixel_format": "yuv420p", "audio_codec": "aac", "faststart": true, "size_bytes": 3430259},
+      "buffer": {"instagram": {"id": "6ae310ecb57391c673557ac2", "status": "scheduled"}, "facebook": {"id": "6ae310f267af076823b3941a", "status": "scheduled"}}
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "title": "The Empty Wagon Sank",
+      "assets": ["assets/social/2026-10-29/carousel/frame-1-final.jpg", "assets/social/2026-10-29/carousel/frame-2-final.jpg", "assets/social/2026-10-29/carousel/frame-3-final.jpg"],
+      "buffer": {"instagram": {"id": "6ae310f8aab4be69b3128dd3", "status": "scheduled"}, "facebook": {"id": "6ae3110c99d205530795f705", "status": "scheduled"}}
+    },
+    {
+      "slot": "20:00",
+      "format": "serial_image",
+      "series": "Would You Survive Roo?",
+      "part": 8,
+      "title": "The Missing Messenger Was Alive",
+      "asset": "assets/social/2026-10-29/serial/part-8-final.jpg",
+      "buffer": {
+        "instagram": {"id": "6ae2ff6f2467e67f12891636", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"},
+        "facebook": {"id": "6ae2ff6ab8abb6631d16bc81", "status": "scheduled", "action": "replaced noncompliant pre-existing scenic draft in place"}
+      }
+    }
+  ]
+}
