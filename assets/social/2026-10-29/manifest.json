@@ -116,11 +116,15 @@
       "buffer": {
         "instagram": {
           "id": "6ae310f8aab4be69b3128dd3",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-29T16:03:58.863Z",
+          "externalLink": "https://www.instagram.com/p/DfFZEO2lW-J/"
         },
         "facebook": {
           "id": "6ae3110c99d205530795f705",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-29T16:02:05.736Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122121956451477973"
         }
       }
     },
@@ -152,6 +156,15 @@
     "instagram_retry_status": "error",
     "instagram_fallback_status": "sent",
     "future_slots": "scheduled on both channels",
+    "duplicates_created": false
+  },
+  "recovery_17_15": {
+    "reconciled_at": "2026-10-29T17:16:32+01:00",
+    "instagram_17_status": "sent",
+    "facebook_17_status": "sent",
+    "instagram_20_status": "scheduled",
+    "facebook_20_status": "scheduled",
+    "retries_needed": false,
     "duplicates_created": false
   }
 }
