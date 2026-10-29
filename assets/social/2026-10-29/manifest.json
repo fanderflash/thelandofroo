@@ -138,13 +138,17 @@
       "buffer": {
         "instagram": {
           "id": "6ae2ff6f2467e67f12891636",
-          "status": "scheduled",
-          "action": "replaced noncompliant pre-existing scenic draft in place"
+          "status": "sent",
+          "action": "replaced noncompliant pre-existing scenic draft in place",
+          "sentAt": "2026-10-29T19:02:24.690Z",
+          "externalLink": "https://www.instagram.com/p/DfFtkBtIEIJ/"
         },
         "facebook": {
           "id": "6ae2ff6ab8abb6631d16bc81",
-          "status": "scheduled",
-          "action": "replaced noncompliant pre-existing scenic draft in place"
+          "status": "sent",
+          "action": "replaced noncompliant pre-existing scenic draft in place",
+          "sentAt": "2026-10-29T19:01:39.483Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122121990987477973"
         }
       }
     }
@@ -166,5 +170,21 @@
     "facebook_20_status": "scheduled",
     "retries_needed": false,
     "duplicates_created": false
+  },
+  "recovery_20_15": {
+    "reconciled_at": "2026-10-29T20:13:18+01:00",
+    "instagram_20_status": "sent",
+    "facebook_20_status": "sent",
+    "retries_needed": false,
+    "duplicates_created": false
+  },
+  "final_status": {
+    "intended_content_pieces": 3,
+    "successful_platform_deliveries": 6,
+    "instagram_11_delivery": "fallback carousel sent after original Reel and one retry failed",
+    "facebook_11_delivery": "Reel sent",
+    "slot_17": "sent on both channels",
+    "slot_20": "sent on both channels",
+    "duplicate_successes": 0
   }
 }
