@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Europe/Stockholm",
+  "hypothesis": {
+    "decision": "Shift from repeated human-evidence mystery to unmistakable Roo spectacle plus useful, saveable architecture worldbuilding.",
+    "basis": {
+      "last_7_complete_days": {
+        "range": "2026-10-23 through 2026-10-29",
+        "instagram": {
+          "posts": 19,
+          "views": 419,
+          "reach": 260,
+          "reactions": 2,
+          "comments": 0,
+          "shares": 0,
+          "saves": 1,
+          "follows": 0,
+          "watch_minutes": 9.05,
+          "average_watch_seconds": 3.19
+        },
+        "facebook": {
+          "posts": 17,
+          "impressions": 37,
+          "reactions": 0,
+          "comments": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      "last_30_complete_days": {
+        "range": "2026-10-01 through 2026-10-29",
+        "instagram": {
+          "posts": 84,
+          "views": 3386,
+          "reach": 2417,
+          "reactions": 29,
+          "comments": 2,
+          "shares": 1,
+          "saves": 5,
+          "follows": 0,
+          "watch_minutes": 101.8,
+          "average_watch_seconds": 3.16
+        },
+        "facebook": {
+          "posts": 82,
+          "impressions": 1535,
+          "reactions": 4,
+          "comments": 1,
+          "shares": 0,
+          "clicks": 11
+        }
+      },
+      "strongest_recent_pattern": "The Oct 23 abandoned-home Reel combined immediate contradiction, human stakes and a reveal: 191 views, 171 reach and 1 save.",
+      "stopped_pattern": "Three or more comparable evidence-choice posts produced no follows and almost no reach."
+    }
+  },
+  "media_commit": "555cb226ee0350c3073b7c2835164985e2066174",
+  "font": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "original discovery Reel",
+      "title": "The Road Stood Up",
+      "media": "assets/social/2026-10-30/reel/the-road-stood-up.mp4",
+      "validation": {
+        "duration_seconds": 12.01,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "H.264",
+        "pixel_format": "yuv420p",
+        "fps": 30,
+        "audio_codec": "AAC",
+        "audio_sample_rate": 48000,
+        "faststart": true,
+        "bytes": 639458
+      },
+      "buffer": {
+        "instagram": {
+          "id": "6ae4632436e83ed16369c58f",
+          "status": "sent",
+          "sentAt": "2026-10-30T09:29:02.670Z",
+          "shareMode": "shareNow"
+        },
+        "facebook": {
+          "id": "6ae4633736e83ed16369c901",
+          "status": "sent",
+          "sentAt": "2026-10-30T09:28:31.014Z",
+          "shareMode": "shareNow"
+        }
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "three-image reveal carousel",
+      "title": "Why Roo Roofs Wear Scales",
+      "media": [
+        "assets/social/2026-10-30/carousel/frame-1-final.jpg",
+        "assets/social/2026-10-30/carousel/frame-2-final.jpg",
+        "assets/social/2026-10-30/carousel/frame-3-final.jpg"
+      ],
+      "dueAt": "2026-10-30T16:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae46346ceb12661efd9e5f8",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae4634dceb12661efd9e7e0",
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "serial story image",
+      "series": "Would You Survive Roo?",
+      "episode": 9,
+      "title": "One Seal Was False",
+      "media": "assets/social/2026-10-30/serial/part-9-final.jpg",
+      "dueAt": "2026-10-30T19:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae44f6a36e83ed16363cd6b",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        },
+        "facebook": {
+          "id": "6ae44f65d518fcaf80a507b2",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        }
+      }
+    }
+  ],
+  "reconciliation": {
+    "intended_content_pieces": 3,
+    "platform_deliveries": 6,
+    "sent": 2,
+    "scheduled": 4,
+    "errors": 0,
+    "retries_needed": 0,
+    "duplicates_created": 0,
+    "excluded_media_used": false,
+    "arven_depicted": false
+  }
+}
