@@ -127,13 +127,17 @@
       "buffer": {
         "instagram": {
           "id": "6ae44f6a36e83ed16363cd6b",
-          "status": "scheduled",
-          "action": "replaced pre-existing scenic post in place"
+          "status": "sent",
+          "action": "replaced pre-existing scenic post in place",
+          "sentAt": "2026-10-30T19:01:43.453Z",
+          "externalLink": "https://www.instagram.com/p/DfISSB5IHDq/"
         },
         "facebook": {
           "id": "6ae44f65d518fcaf80a507b2",
-          "status": "scheduled",
-          "action": "replaced pre-existing scenic post in place"
+          "status": "sent",
+          "action": "replaced pre-existing scenic post in place",
+          "sentAt": "2026-10-30T19:01:20.404Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122122271535477973"
         }
       }
     }
@@ -141,8 +145,8 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 4,
-    "scheduled": 2,
+    "sent": 6,
+    "scheduled": 0,
     "errors": 0,
     "retries_needed": 0,
     "duplicates_created": 0,
@@ -168,5 +172,20 @@
     "facebook_20_status": "scheduled",
     "retries_needed": false,
     "duplicates_created": false
+  },
+  "recovery_20_15": {
+    "reconciled_at": "2026-10-30T20:18:52+01:00",
+    "instagram_20_status": "sent",
+    "facebook_20_status": "sent",
+    "retries_needed": false,
+    "duplicates_created": false
+  },
+  "final_status": {
+    "intended_content_pieces": 3,
+    "successful_platform_deliveries": 6,
+    "slot_11": "sent on both channels as Reel",
+    "slot_17": "sent on both channels as carousel",
+    "slot_20": "sent on both channels as serial image",
+    "duplicate_successes": 0
   }
 }
