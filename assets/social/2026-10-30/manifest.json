@@ -79,13 +79,15 @@
           "id": "6ae4632436e83ed16369c58f",
           "status": "sent",
           "sentAt": "2026-10-30T09:29:02.670Z",
-          "shareMode": "shareNow"
+          "shareMode": "shareNow",
+          "externalLink": "https://www.instagram.com/reel/DfHQpzxFb4o/"
         },
         "facebook": {
           "id": "6ae4633736e83ed16369c901",
           "status": "sent",
           "sentAt": "2026-10-30T09:28:31.014Z",
-          "shareMode": "shareNow"
+          "shareMode": "shareNow",
+          "externalLink": "https://www.facebook.com/reel/2522861348190817/"
         }
       }
     },
@@ -142,5 +144,16 @@
     "duplicates_created": 0,
     "excluded_media_used": false,
     "arven_depicted": false
+  },
+  "recovery_11_15": {
+    "reconciled_at": "2026-10-30T11:18:40+01:00",
+    "instagram_11_status": "sent",
+    "facebook_11_status": "sent",
+    "instagram_17_status": "scheduled",
+    "facebook_17_status": "scheduled",
+    "instagram_20_status": "scheduled",
+    "facebook_20_status": "scheduled",
+    "retries_needed": false,
+    "duplicates_created": false
   }
 }
