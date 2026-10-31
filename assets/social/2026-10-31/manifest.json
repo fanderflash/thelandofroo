@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Europe/Stockholm",
+  "performance_review": {
+    "last_7_complete_days": {
+      "range": "2026-10-24 through 2026-10-30",
+      "instagram": {
+        "posts": 19,
+        "views": 316,
+        "reach": 175,
+        "reactions": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "watch_minutes": 2.66,
+        "average_watch_seconds": 1.77
+      },
+      "facebook": {
+        "posts": 17,
+        "impressions": 37,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "clicks": 3
+      }
+    },
+    "last_30_complete_days": {
+      "range": "2026-10-01 through 2026-10-30",
+      "instagram": {
+        "posts": 87,
+        "views": 3513,
+        "reach": 2515,
+        "reactions": 29,
+        "comments": 2,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "watch_minutes": 104.46,
+        "average_watch_seconds": 3.07
+      },
+      "facebook": {
+        "posts": 85,
+        "impressions": 1544,
+        "reactions": 4,
+        "comments": 1,
+        "shares": 0,
+        "clicks": 14
+      }
+    },
+    "finding": "The seven-day format test produced no follows, shares, saves or comments. Repeated object-led mystery and liar-choice hooks remained at 3–8 Instagram reach per post. Facebook's best recent post reached only 9 impressions.",
+    "decision": "End the repeated whodunit/evidence hypothesis. Test three stranger-readable needs instead: impossible visual transformation, useful Roo engineering, and a clean Vanir spectacle with one focal mystery."
+  },
+  "media_commit": "e6952c6cc0934162e1914191dcef9197d17eb9bb",
+  "font": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "original discovery Reel",
+      "title": "The Water Ran Uphill",
+      "media": "assets/social/2026-10-31/reel/the-water-ran-uphill.mp4",
+      "fallback": [
+        "assets/social/2026-10-31/reel/scene-1-final.jpg",
+        "assets/social/2026-10-31/reel/scene-2-final.jpg",
+        "assets/social/2026-10-31/reel/scene-3-final.jpg",
+        "assets/social/2026-10-31/reel/scene-4-final.jpg"
+      ],
+      "validation": {
+        "duration_seconds": 12.309,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "H.264",
+        "pixel_format": "yuv420p",
+        "fps": 30,
+        "audio_codec": "AAC",
+        "sample_rate": 48000,
+        "faststart": true,
+        "bytes": 611121
+      },
+      "dueAt": "2026-10-31T10:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae5b36dceb491e585e9fd6d",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae5b371ceb491e585e9fe17",
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "three-image reveal carousel",
+      "title": "A Bridge Built to Break",
+      "media": [
+        "assets/social/2026-10-31/carousel/frame-1-final.jpg",
+        "assets/social/2026-10-31/carousel/frame-2-final.jpg",
+        "assets/social/2026-10-31/carousel/frame-3-final.jpg"
+      ],
+      "dueAt": "2026-10-31T16:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae5b375406ab8a018ac8786",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae5b37cceb491e585ea0065",
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "serial story image",
+      "series": "Secrets of the Vanir",
+      "title": "The Shadow Opened First",
+      "media": "assets/social/2026-10-31/serial/the-shadow-opened-first.jpg",
+      "dueAt": "2026-10-31T19:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae5a06aa114574349923c52",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        },
+        "facebook": {
+          "id": "6ae5a063eaa24d6f9a61c279",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        }
+      }
+    }
+  ],
+  "reconciliation": {
+    "intended_content_pieces": 3,
+    "platform_deliveries": 6,
+    "sent": 0,
+    "scheduled": 6,
+    "errors": 0,
+    "retries_needed": 0,
+    "duplicates_created": 0,
+    "excluded_media_used": false,
+    "arven_depicted": false
+  }
+}
