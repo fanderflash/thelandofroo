@@ -128,12 +128,16 @@
       "buffer": {
         "instagram": {
           "id": "6ae5a06aa114574349923c52",
-          "status": "scheduled",
+          "status": "sent",
+          "sentAt": "2026-10-31T19:01:12.475Z",
+          "externalLink": "https://www.instagram.com/p/DfK3BIKHLyH/",
           "action": "replaced pre-existing scenic post in place"
         },
         "facebook": {
           "id": "6ae5a063eaa24d6f9a61c279",
-          "status": "scheduled",
+          "status": "sent",
+          "sentAt": "2026-10-31T19:01:08.591Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122122522707477973",
           "action": "replaced pre-existing scenic post in place"
         }
       }
@@ -142,8 +146,8 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 4,
-    "scheduled": 2,
+    "sent": 6,
+    "scheduled": 0,
     "errors": 0,
     "retries_needed": 0,
     "duplicates_created": 0,
@@ -167,6 +171,14 @@
     "facebook_17_status": "sent",
     "instagram_20_status": "scheduled",
     "facebook_20_status": "scheduled",
+    "retries_needed": false,
+    "duplicates_created": false
+  },
+  "recovery_20_15": {
+    "reconciled_at": "2026-10-31T20:19:39+01:00",
+    "instagram_20_status": "sent",
+    "facebook_20_status": "sent",
+    "all_three_pieces_delivered_to_both_channels": true,
     "retries_needed": false,
     "duplicates_created": false
   }
