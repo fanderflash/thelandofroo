@@ -106,11 +106,15 @@
       "buffer": {
         "instagram": {
           "id": "6ae5b375406ab8a018ac8786",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-31T16:01:46.452Z",
+          "externalLink": "https://www.instagram.com/p/DfKieCXEdJR/"
         },
         "facebook": {
           "id": "6ae5b37cceb491e585ea0065",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-10-31T16:01:04.907Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122122488849477973"
         }
       }
     },
@@ -138,8 +142,8 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 2,
-    "scheduled": 4,
+    "sent": 4,
+    "scheduled": 2,
     "errors": 0,
     "retries_needed": 0,
     "duplicates_created": 0,
@@ -152,6 +156,15 @@
     "facebook_11_status": "sent",
     "instagram_17_status": "scheduled",
     "facebook_17_status": "scheduled",
+    "instagram_20_status": "scheduled",
+    "facebook_20_status": "scheduled",
+    "retries_needed": false,
+    "duplicates_created": false
+  },
+  "recovery_17_15": {
+    "reconciled_at": "2026-10-31T17:18:15+01:00",
+    "instagram_17_status": "sent",
+    "facebook_17_status": "sent",
     "instagram_20_status": "scheduled",
     "facebook_20_status": "scheduled",
     "retries_needed": false,
