@@ -105,12 +105,19 @@
       "dueAt": "2026-11-01T10:00:00.000Z",
       "buffer": {
         "instagram": {
-          "id": "6ae706151ee172cd6deb6728",
-          "status": "scheduled"
+          "id": "6ae711ba37c1acd2a0faa5f4",
+          "status": "sending",
+          "mode": "shareNow",
+          "original_post_id": "6ae706151ee172cd6deb6728",
+          "original_status": "error",
+          "original_error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
+          "retry_attempts": 1
         },
         "facebook": {
           "id": "6ae7061e37c1acd2a0f767ab",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-11-01T10:00:14.882Z",
+          "externalLink": "https://www.facebook.com/reel/975477861790420/"
         }
       }
     },
@@ -159,12 +166,30 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 0,
-    "scheduled": 6,
-    "errors": 0,
-    "retries_needed": 0,
+    "sent": 1,
+    "sending": 1,
+    "scheduled": 4,
+    "errors": 1,
+    "retries_needed": 1,
+    "retries_completed": 1,
+    "retry_failures": 0,
     "duplicates_created": 0,
     "excluded_media_used": false,
     "arwen_depicted": false
+  },
+  "recovery_11_15": {
+    "reconciled_at": "2026-11-01T11:17:30+01:00",
+    "instagram_11_status": "sending",
+    "instagram_11_post_id": "6ae711ba37c1acd2a0faa5f4",
+    "instagram_original_status": "error",
+    "instagram_retry_attempts": 1,
+    "facebook_11_status": "sent",
+    "facebook_11_post_id": "6ae7061e37c1acd2a0f767ab",
+    "instagram_17_status": "scheduled",
+    "facebook_17_status": "scheduled",
+    "instagram_20_status": "scheduled",
+    "facebook_20_status": "scheduled",
+    "retry_failed": false,
+    "duplicates_created": false
   }
 }
