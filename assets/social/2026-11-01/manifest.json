@@ -162,13 +162,17 @@
       "buffer": {
         "instagram": {
           "id": "6ae6f29ef0984eef3353c38b",
-          "status": "scheduled",
-          "action": "replaced pre-existing scenic post in place"
+          "status": "sent",
+          "action": "replaced pre-existing scenic post in place",
+          "sentAt": "2026-11-01T19:01:03.100Z",
+          "externalLink": "https://www.instagram.com/p/DfNby0toz6-/"
         },
         "facebook": {
           "id": "6ae6f290cf3a3112f3e777e0",
-          "status": "scheduled",
-          "action": "replaced pre-existing scenic post in place"
+          "status": "sent",
+          "action": "replaced pre-existing scenic post in place",
+          "sentAt": "2026-11-01T19:01:10.030Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122122810803477973"
         }
       }
     }
@@ -176,16 +180,18 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 4,
+    "sent": 6,
     "sending": 0,
-    "scheduled": 2,
+    "scheduled": 0,
     "current_errors": 0,
     "historical_errors": 2,
     "video_retries_completed": 1,
     "fallback_recoveries_started": 1,
     "duplicates_created": 0,
     "excluded_media_used": false,
-    "arwen_depicted": false
+    "arwen_depicted": false,
+    "final_status": "all six platform deliveries sent",
+    "completed_at": "2026-11-01T20:16:23+01:00"
   },
   "recovery_11_15": {
     "reconciled_at": "2026-11-01T11:17:30+01:00",
@@ -216,5 +222,17 @@
     "duplicates_created": false,
     "instagram_11_fallback_sentAt": "2026-11-01T16:17:21.009Z",
     "instagram_11_fallback_externalLink": "https://www.instagram.com/p/DfNJDSlEVK9/"
+  },
+  "recovery_20_15": {
+    "reconciled_at": "2026-11-01T20:16:23+01:00",
+    "instagram_11_status": "sent via four-image carousel fallback",
+    "facebook_11_status": "sent as Reel",
+    "instagram_17_status": "sent",
+    "facebook_17_status": "sent",
+    "instagram_20_status": "sent",
+    "facebook_20_status": "sent",
+    "retries_needed_for_20": false,
+    "duplicates_created": false,
+    "final_platform_deliveries_sent": 6
   }
 }
