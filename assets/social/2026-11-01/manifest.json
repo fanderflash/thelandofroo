@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Europe/Stockholm",
+  "performance_review": {
+    "last_7_complete_days": {
+      "range": "2026-10-25 through 2026-10-31",
+      "instagram": {
+        "posts": 19,
+        "views": 466,
+        "reach": 326,
+        "reactions": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "watch_minutes": 8.39,
+        "average_watch_seconds": 2.02
+      },
+      "facebook": {
+        "posts": 18,
+        "impressions": 62,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "clicks": 3
+      }
+    },
+    "last_30_complete_days": {
+      "range": "2026-10-02 through 2026-10-31",
+      "instagram": {
+        "posts": 87,
+        "views": 3651,
+        "reach": 2654,
+        "reactions": 24,
+        "comments": 2,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "watch_minutes": 101.02,
+        "average_watch_seconds": 2.82
+      },
+      "facebook": {
+        "posts": 85,
+        "impressions": 1553,
+        "reactions": 4,
+        "comments": 1,
+        "shares": 0,
+        "clicks": 14
+      }
+    },
+    "winners": {
+      "instagram": [
+        {
+          "title": "The Water Ran Uphill",
+          "format": "Reel",
+          "reach": 144,
+          "views": 159,
+          "average_watch_seconds": 2.34
+        },
+        {
+          "title": "The Road Stood Up",
+          "format": "Reel",
+          "reach": 98,
+          "views": 107,
+          "average_watch_seconds": 1.71
+        }
+      ],
+      "facebook": [
+        {
+          "title": "The Water Ran Uphill",
+          "format": "Reel",
+          "impressions": 25
+        }
+      ]
+    },
+    "finding": "Immediate impossible visual transformations in original Reels now outperform recent carousels and serial images by more than an order of magnitude on Instagram. The seven-day window still produced zero follows, shares, saves or comments, so reach has improved without conversion.",
+    "decision": "Continue the transformation-first Reel hypothesis with clearer human danger and a final visual refuge. Keep the carousel practical and saveable, and use one self-contained Vanir mystery at night."
+  },
+  "media_commit": "bf8f268bb1d7cb37cab14597c9b2bd4ca8cd2d9a",
+  "font": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "original discovery Reel",
+      "title": "The Snow Refused to Fall",
+      "media": "assets/social/2026-11-01/reel/the-snow-refused-to-fall.mp4",
+      "fallback": [
+        "assets/social/2026-11-01/reel/scene-1-final.jpg",
+        "assets/social/2026-11-01/reel/scene-2-final.jpg",
+        "assets/social/2026-11-01/reel/scene-3-final.jpg",
+        "assets/social/2026-11-01/reel/scene-4-final.jpg"
+      ],
+      "validation": {
+        "duration_seconds": 12.416,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "H.264",
+        "pixel_format": "yuv420p",
+        "fps": 30,
+        "audio_codec": "AAC",
+        "sample_rate": 48000,
+        "faststart": true,
+        "bytes": 3261007
+      },
+      "dueAt": "2026-11-01T10:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae706151ee172cd6deb6728",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae7061e37c1acd2a0f767ab",
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "slot": "17:00",
+      "format": "three-image choice and reveal carousel",
+      "title": "Which Granary Survives the Thaw?",
+      "media": [
+        "assets/social/2026-11-01/carousel/frame-1-final.jpg",
+        "assets/social/2026-11-01/carousel/frame-2-final.jpg",
+        "assets/social/2026-11-01/carousel/frame-3-final.jpg"
+      ],
+      "dueAt": "2026-11-01T16:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae7062837c1acd2a0f76924",
+          "status": "scheduled"
+        },
+        "facebook": {
+          "id": "6ae70634cf3a3112f3ec393d",
+          "status": "scheduled"
+        }
+      }
+    },
+    {
+      "slot": "20:00",
+      "format": "serial story image",
+      "series": "Secrets of the Vanir",
+      "title": "The Stars Were Below Them",
+      "media": "assets/social/2026-11-01/serial/the-stars-were-below-them.jpg",
+      "dueAt": "2026-11-01T19:00:00.000Z",
+      "buffer": {
+        "instagram": {
+          "id": "6ae6f29ef0984eef3353c38b",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        },
+        "facebook": {
+          "id": "6ae6f290cf3a3112f3e777e0",
+          "status": "scheduled",
+          "action": "replaced pre-existing scenic post in place"
+        }
+      }
+    }
+  ],
+  "reconciliation": {
+    "intended_content_pieces": 3,
+    "platform_deliveries": 6,
+    "sent": 0,
+    "scheduled": 6,
+    "errors": 0,
+    "retries_needed": 0,
+    "duplicates_created": 0,
+    "excluded_media_used": false,
+    "arwen_depicted": false
+  }
+}
