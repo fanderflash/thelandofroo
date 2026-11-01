@@ -81,7 +81,7 @@
   "pieces": [
     {
       "slot": "11:00",
-      "format": "original discovery Reel",
+      "format": "original discovery Reel with Instagram carousel fallback",
       "title": "The Snow Refused to Fall",
       "media": "assets/social/2026-11-01/reel/the-snow-refused-to-fall.mp4",
       "fallback": [
@@ -105,13 +105,17 @@
       "dueAt": "2026-11-01T10:00:00.000Z",
       "buffer": {
         "instagram": {
-          "id": "6ae711ba37c1acd2a0faa5f4",
+          "id": "6ae765f2dbb50f7b82e0e25a",
           "status": "sending",
           "mode": "shareNow",
+          "delivered_format": "four-image carousel fallback",
           "original_post_id": "6ae706151ee172cd6deb6728",
           "original_status": "error",
-          "original_error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
-          "retry_attempts": 1
+          "video_retry_post_id": "6ae711ba37c1acd2a0faa5f4",
+          "video_retry_status": "error",
+          "video_error": "It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.",
+          "video_retry_attempts": 1,
+          "fallback_attempts": 1
         },
         "facebook": {
           "id": "6ae7061e37c1acd2a0f767ab",
@@ -134,11 +138,15 @@
       "buffer": {
         "instagram": {
           "id": "6ae7062837c1acd2a0f76924",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-11-01T16:01:35.897Z",
+          "externalLink": "https://www.instagram.com/p/DfNHNAFHFVy/"
         },
         "facebook": {
           "id": "6ae70634cf3a3112f3ec393d",
-          "status": "scheduled"
+          "status": "sent",
+          "sentAt": "2026-11-01T16:00:46.567Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122122778091477973"
         }
       }
     },
@@ -166,20 +174,20 @@
   "reconciliation": {
     "intended_content_pieces": 3,
     "platform_deliveries": 6,
-    "sent": 1,
+    "sent": 3,
     "sending": 1,
-    "scheduled": 4,
-    "errors": 1,
-    "retries_needed": 1,
-    "retries_completed": 1,
-    "retry_failures": 0,
+    "scheduled": 2,
+    "current_errors": 0,
+    "historical_errors": 2,
+    "video_retries_completed": 1,
+    "fallback_recoveries_started": 1,
     "duplicates_created": 0,
     "excluded_media_used": false,
     "arwen_depicted": false
   },
   "recovery_11_15": {
     "reconciled_at": "2026-11-01T11:17:30+01:00",
-    "instagram_11_status": "sending",
+    "instagram_11_status": "error_after_retry",
     "instagram_11_post_id": "6ae711ba37c1acd2a0faa5f4",
     "instagram_original_status": "error",
     "instagram_retry_attempts": 1,
@@ -189,7 +197,20 @@
     "facebook_17_status": "scheduled",
     "instagram_20_status": "scheduled",
     "facebook_20_status": "scheduled",
-    "retry_failed": false,
+    "retry_failed": true,
+    "duplicates_created": false
+  },
+  "recovery_17_15": {
+    "reconciled_at": "2026-11-01T17:16:50+01:00",
+    "instagram_11_fallback_status": "sending",
+    "instagram_11_fallback_post_id": "6ae765f2dbb50f7b82e0e25a",
+    "instagram_11_fallback_format": "four-image carousel",
+    "facebook_11_status": "sent",
+    "instagram_17_status": "sent",
+    "facebook_17_status": "sent",
+    "instagram_20_status": "scheduled",
+    "facebook_20_status": "scheduled",
+    "fallback_trigger": "Instagram Reel and one exact video retry both failed media processing",
     "duplicates_created": false
   }
 }
