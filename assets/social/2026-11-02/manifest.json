@@ -156,28 +156,32 @@
     }
   ],
   "finalReconciliation": {
-    "checkedAt": "2026-11-02T09:42:00Z",
+    "checkedAt": "2026-11-02T10:17:49Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
     "posts": {
       "ig_1100": {
         "id": "6ae85ab6ca68b566b62f2538",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-02T10:00:00.000Z",
         "channel": "instagram",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4",
+        "sentAt": "2026-11-02T10:01:19.352Z",
+        "externalLink": "https://www.instagram.com/reel/DfPCvS1idkg/"
       },
       "fb_1100": {
         "id": "6ae85abadd7a4869734f75a0",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-02T10:00:00.000Z",
         "channel": "facebook",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4",
+        "sentAt": "2026-11-02T10:00:37.659Z",
+        "externalLink": "https://www.facebook.com/reel/1171938452006738/"
       },
       "ig_1700": {
         "id": "6ae85abdca68b566b62f283b",
@@ -216,5 +220,38 @@
         "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg"
       }
     }
-  }
+  },
+  "recoveryChecks": [
+    {
+      "checkedAt": "2026-11-02T10:17:49Z",
+      "localTime": "2026-11-02T11:17:49+01:00",
+      "passedSlot": "11:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6ae85ab6ca68b566b62f2538",
+        "status": "sent",
+        "sentAt": "2026-11-02T10:01:19.352Z",
+        "externalLink": "https://www.instagram.com/reel/DfPCvS1idkg/"
+      },
+      "facebook": {
+        "postId": "6ae85abadd7a4869734f75a0",
+        "status": "sent",
+        "sentAt": "2026-11-02T10:00:37.659Z",
+        "externalLink": "https://www.facebook.com/reel/1171938452006738/"
+      },
+      "futureSlots": {
+        "17:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        },
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0
+    }
+  ]
 }
