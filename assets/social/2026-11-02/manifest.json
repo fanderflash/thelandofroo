@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "timezone": "Europe/Stockholm",
+  "organizationId": "6aaa903bbd40e692d59df47f",
+  "channels": {
+    "instagram": {
+      "id": "6aaa90f5ea19ca0bde582f0e",
+      "name": "thelandofroo"
+    },
+    "facebook": {
+      "id": "6aaa9283ea19ca0bde5839d5",
+      "name": "The Land of Roo"
+    }
+  },
+  "morningReconciliation": {
+    "checkedAt": "2026-11-02T09:25:00Z",
+    "window": {
+      "start": "2026-11-01T23:00:00Z",
+      "end": "2026-11-02T22:59:59Z"
+    },
+    "existingPosts": [],
+    "result": "All three slots were empty on both channels; six posts required."
+  },
+  "performanceReview": {
+    "note": "Metrics can lag by up to about 24 hours; posts younger than 24 hours were excluded from creative judgment.",
+    "sevenCompleteDays": {
+      "range": "2026-10-26/2026-11-01",
+      "instagram": {
+        "postCount": 19,
+        "reactions": 1,
+        "comments": 0,
+        "engagementRatePercent": 0.28,
+        "views": 500,
+        "shares": 0,
+        "saves": 0,
+        "follows": 0,
+        "reach": 359,
+        "totalWatchTimeMinutes": 10.46,
+        "averageWatchTimeSeconds": 2.17,
+        "metricsUpdatedAt": "2026-11-01T16:04:00Z"
+      },
+      "facebook": {
+        "postCount": 19,
+        "reactions": 0,
+        "comments": 0,
+        "engagementRatePercent": 3.57,
+        "impressions": 84,
+        "shares": 0,
+        "clicks": 3
+      }
+    },
+    "thirtyCompleteDays": {
+      "range": "2026-10-03/2026-11-01",
+      "instagram": {
+        "postCount": 86,
+        "reactions": 21,
+        "comments": 2,
+        "engagementRatePercent": 1.09,
+        "views": 3642,
+        "shares": 1,
+        "saves": 5,
+        "follows": 0,
+        "reach": 2664,
+        "totalWatchTimeMinutes": 112.26,
+        "averageWatchTimeSeconds": 3.05
+      },
+      "facebook": {
+        "postCount": 85,
+        "reactions": 4,
+        "comments": 1,
+        "engagementRatePercent": 1.22,
+        "impressions": 1563,
+        "shares": 0,
+        "clicks": 14
+      }
+    },
+    "findings": [
+      "Impossible physical transformation remains the clearest reach pattern: The Water Ran Uphill reached 144 accounts and The Road Stood Up reached 98.",
+      "The last seven complete days produced no follows, shares, saves, or comments on Instagram, so scenic description alone was not repeated.",
+      "Today tests the same audience need—impossible ancient machinery—with clearer human danger, a fast first-second hook, and a question-led payoff.",
+      "The other two formats test a practical interpretive choice and a count-the-detail mystery to invite comments and repeat viewing."
+    ]
+  },
+  "canonSources": [
+    "llms.txt",
+    "lore/what-roo-looks-like.html",
+    "lore/tidal-gate.html",
+    "lore/faith-in-roo.html",
+    "lore/hidden-beings.html",
+    "lore/reading-the-ruins.html"
+  ],
+  "compliance": {
+    "arvenDepicted": false,
+    "excludedLegacyMediaUsed": false,
+    "thirdPartyMediaUsed": false,
+    "logosPresent": false,
+    "futurePlotRevealed": false,
+    "standardOverlayFont": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "fontWeight": 600,
+    "overlayMethod": "Typeset locally after artwork generation using the repository font file."
+  },
+  "mediaCommit": "34ae82641e38f38c16cc9bf48552fc208a93c159",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "original discovery reel",
+      "title": "The Sea Door Was Closing",
+      "hypothesis": "Change, danger, mystery, and an impossible mechanical reveal will improve non-follower reach and completion.",
+      "mediaUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4",
+      "validation": {
+        "durationSeconds": 12.15,
+        "width": 1080,
+        "height": 1920,
+        "videoCodec": "h264",
+        "pixelFormat": "yuv420p",
+        "frameRate": 30,
+        "audioCodec": "aac",
+        "audioSampleRate": 48000,
+        "faststart": true,
+        "sizeBytes": 6923293
+      },
+      "instagramPostId": "6ae85ab6ca68b566b62f2538",
+      "facebookPostId": "6ae85abadd7a4869734f75a0"
+    },
+    {
+      "slot": "17:00",
+      "format": "three-image reveal or choice carousel",
+      "title": "Temple, Vault, or Fort?",
+      "hypothesis": "One canon place with three human interpretations creates a low-friction comment choice and stronger saves than a scenic still.",
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-2.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-3.jpg"
+      ],
+      "dimensions": {
+        "width": 1080,
+        "height": 1350
+      },
+      "instagramPostId": "6ae85abdca68b566b62f283b",
+      "facebookPostId": "6ae85ac455a230dd71a1d04c"
+    },
+    {
+      "slot": "20:00",
+      "format": "serial story image",
+      "series": "Would You Survive Roo?",
+      "title": "One More Shadow",
+      "hypothesis": "A count-the-detail domestic mystery gives a self-contained payoff and a reason to inspect, comment, and return.",
+      "mediaUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg",
+      "dimensions": {
+        "width": 1080,
+        "height": 1350
+      },
+      "instagramPostId": "6ae85ac13847393f5f4530f9",
+      "facebookPostId": "6ae85ac75e62d9a270fbd3b0"
+    }
+  ],
+  "finalReconciliation": {
+    "checkedAt": "2026-11-02T09:42:00Z",
+    "expectedPlatformPosts": 6,
+    "foundPlatformPosts": 6,
+    "errors": 0,
+    "posts": {
+      "ig_1100": {
+        "id": "6ae85ab6ca68b566b62f2538",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T10:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4"
+      },
+      "fb_1100": {
+        "id": "6ae85abadd7a4869734f75a0",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T10:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/reel/the-sea-door-was-closing.mp4"
+      },
+      "ig_1700": {
+        "id": "6ae85abdca68b566b62f283b",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T16:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg"
+      },
+      "fb_1700": {
+        "id": "6ae85ac455a230dd71a1d04c",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T16:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg"
+      },
+      "ig_2000": {
+        "id": "6ae85ac13847393f5f4530f9",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T19:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg"
+      },
+      "fb_2000": {
+        "id": "6ae85ac75e62d9a270fbd3b0",
+        "status": "scheduled",
+        "dueAt": "2026-11-02T19:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg"
+      }
+    }
+  }
+}
