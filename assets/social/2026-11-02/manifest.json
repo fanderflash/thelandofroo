@@ -156,7 +156,7 @@
     }
   ],
   "finalReconciliation": {
-    "checkedAt": "2026-11-02T10:17:49Z",
+    "checkedAt": "2026-11-02T16:20:55.241Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
@@ -185,21 +185,23 @@
       },
       "ig_1700": {
         "id": "6ae85abdca68b566b62f283b",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-02T16:00:00.000Z",
         "channel": "instagram",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg",
+        "sentAt": "2026-11-02T16:02:24.670Z"
       },
       "fb_1700": {
         "id": "6ae85ac455a230dd71a1d04c",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-02T16:00:00.000Z",
         "channel": "facebook",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/carousel/ruin-choice-1.jpg",
+        "sentAt": "2026-11-02T16:02:14.689Z"
       },
       "ig_2000": {
         "id": "6ae85ac13847393f5f4530f9",
@@ -208,7 +210,8 @@
         "channel": "instagram",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg",
+        "sentAt": null
       },
       "fb_2000": {
         "id": "6ae85ac75e62d9a270fbd3b0",
@@ -217,7 +220,8 @@
         "channel": "facebook",
         "error": null,
         "retried": false,
-        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg"
+        "asset": "https://raw.githubusercontent.com/fanderflash/thelandofroo/34ae82641e38f38c16cc9bf48552fc208a93c159/assets/social/2026-11-02/serial/one-more-shadow.jpg",
+        "sentAt": null
       }
     }
   },
@@ -245,6 +249,30 @@
           "instagram": "scheduled",
           "facebook": "scheduled"
         },
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0
+    },
+    {
+      "checkedAt": "2026-11-02T16:20:55.241Z",
+      "passedSlot": "17:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6ae85abdca68b566b62f283b",
+        "status": "sent",
+        "sentAt": "2026-11-02T16:02:24.670Z"
+      },
+      "facebook": {
+        "postId": "6ae85ac455a230dd71a1d04c",
+        "status": "sent",
+        "sentAt": "2026-11-02T16:02:14.689Z"
+      },
+      "futureSlots": {
         "20:00": {
           "instagram": "scheduled",
           "facebook": "scheduled"
