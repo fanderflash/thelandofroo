@@ -793,7 +793,7 @@
       "platforms": {
         "instagram": {
           "postId": "6ae996982f050cf24296f2d9",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T19:00:00.000Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
@@ -820,11 +820,12 @@
             }
           },
           "retried": false,
-          "sentAt": null
+          "sentAt": "2026-11-03T19:02:12.613Z",
+          "externalLink": "https://www.instagram.com/p/DfSle8FGvXf/"
         },
         "facebook": {
           "postId": "6ae996938f43d9613fdb7265",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T19:00:00.000Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
@@ -849,7 +850,8 @@
             }
           },
           "retried": false,
-          "sentAt": null
+          "sentAt": "2026-11-03T19:01:25.404Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122123394753477973"
         }
       },
       "instagramPostId": "6ae996982f050cf24296f2d9",
@@ -857,13 +859,13 @@
     }
   ],
   "finalReconciliation": {
-    "checkedAt": "2026-11-03T16:16:52Z",
+    "checkedAt": "2026-11-03T19:20:11Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
     "duplicatesFound": 0,
     "allScheduled": false,
-    "allDelivered": false,
+    "allDelivered": true,
     "posts": {
       "in_1100": {
         "id": "6ae9aa2bb0e17c0fb571460d",
@@ -963,7 +965,7 @@
       },
       "in_2000": {
         "id": "6ae996982f050cf24296f2d9",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T19:00:00.000Z",
         "channel": "instagram",
         "error": null,
@@ -978,11 +980,12 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-03T19:02:12.613Z",
+        "externalLink": "https://www.instagram.com/p/DfSle8FGvXf/"
       },
       "fa_2000": {
         "id": "6ae996938f43d9613fdb7265",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T19:00:00.000Z",
         "channel": "facebook",
         "error": null,
@@ -997,12 +1000,13 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-03T19:01:25.404Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123394753477973"
       }
     },
     "passedSlotsDelivered": true,
-    "scheduledCount": 2,
-    "sentCount": 4
+    "scheduledCount": 0,
+    "sentCount": 6
   },
   "recoveryInstructions": "At 11:15, 17:15 and 20:15 Europe/Stockholm list both channels first. For each passed slot, accept sent/sending; do not duplicate correctly scheduled future slots. Republish only missing/error using unchanged request assets and metadata with mode shareNow, omitting dueAt, one immediate retry on failure. Preserve IDs and update this manifest. Never recreate media or use excluded media.",
   "recoveryChecks": [
@@ -1066,6 +1070,38 @@
           "facebook": "scheduled"
         }
       },
+      "duplicatesFound": 0,
+      "errorsFound": 0,
+      "mediaRecreated": false
+    },
+    {
+      "checkedAt": "2026-11-03T19:20:11Z",
+      "passedSlot": "20:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6ae996982f050cf24296f2d9",
+        "status": "sent",
+        "sentAt": "2026-11-03T19:02:12.613Z",
+        "externalLink": "https://www.instagram.com/p/DfSle8FGvXf/"
+      },
+      "facebook": {
+        "postId": "6ae996938f43d9613fdb7265",
+        "status": "sent",
+        "sentAt": "2026-11-03T19:01:25.404Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123394753477973"
+      },
+      "earlierSlots": {
+        "11:00": {
+          "instagram": "sent",
+          "facebook": "sent"
+        },
+        "17:00": {
+          "instagram": "sent",
+          "facebook": "sent"
+        }
+      },
+      "futureSlots": {},
       "duplicatesFound": 0,
       "errorsFound": 0,
       "mediaRecreated": false
