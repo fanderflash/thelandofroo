@@ -698,7 +698,7 @@
       "platforms": {
         "instagram": {
           "postId": "6ae9aa33749426a5a468d611",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T16:00:00.000Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
@@ -733,11 +733,12 @@
             }
           },
           "retried": false,
-          "sentAt": null
+          "sentAt": "2026-11-03T16:02:51.057Z",
+          "externalLink": "https://www.instagram.com/p/DfSQ-uMG3Un/"
         },
         "facebook": {
           "postId": "6ae9aa3888eaa32c1641825f",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T16:00:00.000Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
@@ -770,7 +771,8 @@
             }
           },
           "retried": false,
-          "sentAt": null
+          "sentAt": "2026-11-03T16:02:19.286Z",
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122123367201477973"
         }
       },
       "instagramPostId": "6ae9aa33749426a5a468d611",
@@ -855,7 +857,7 @@
     }
   ],
   "finalReconciliation": {
-    "checkedAt": "2026-11-03T10:17:51Z",
+    "checkedAt": "2026-11-03T16:16:52Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
@@ -905,7 +907,7 @@
       },
       "in_1700": {
         "id": "6ae9aa33749426a5a468d611",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T16:00:00.000Z",
         "channel": "instagram",
         "error": null,
@@ -928,11 +930,12 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-03T16:02:51.057Z",
+        "externalLink": "https://www.instagram.com/p/DfSQ-uMG3Un/"
       },
       "fa_1700": {
         "id": "6ae9aa3888eaa32c1641825f",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T16:00:00.000Z",
         "channel": "facebook",
         "error": null,
@@ -955,7 +958,8 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-03T16:02:19.286Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123367201477973"
       },
       "in_2000": {
         "id": "6ae996982f050cf24296f2d9",
@@ -997,8 +1001,8 @@
       }
     },
     "passedSlotsDelivered": true,
-    "scheduledCount": 4,
-    "sentCount": 2
+    "scheduledCount": 2,
+    "sentCount": 4
   },
   "recoveryInstructions": "At 11:15, 17:15 and 20:15 Europe/Stockholm list both channels first. For each passed slot, accept sent/sending; do not duplicate correctly scheduled future slots. Republish only missing/error using unchanged request assets and metadata with mode shareNow, omitting dueAt, one immediate retry on failure. Preserve IDs and update this manifest. Never recreate media or use excluded media.",
   "recoveryChecks": [
@@ -1024,6 +1028,39 @@
           "instagram": "scheduled",
           "facebook": "scheduled"
         },
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0,
+      "mediaRecreated": false
+    },
+    {
+      "checkedAt": "2026-11-03T16:16:52Z",
+      "passedSlot": "17:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6ae9aa33749426a5a468d611",
+        "status": "sent",
+        "sentAt": "2026-11-03T16:02:51.057Z",
+        "externalLink": "https://www.instagram.com/p/DfSQ-uMG3Un/"
+      },
+      "facebook": {
+        "postId": "6ae9aa3888eaa32c1641825f",
+        "status": "sent",
+        "sentAt": "2026-11-03T16:02:19.286Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123367201477973"
+      },
+      "earlierSlots": {
+        "11:00": {
+          "instagram": "sent",
+          "facebook": "sent"
+        }
+      },
+      "futureSlots": {
         "20:00": {
           "instagram": "scheduled",
           "facebook": "scheduled"
