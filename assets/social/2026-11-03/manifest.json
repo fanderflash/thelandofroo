@@ -618,7 +618,7 @@
       "platforms": {
         "instagram": {
           "postId": "6ae9aa2bb0e17c0fb571460d",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T10:00:00.000Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
@@ -644,11 +644,13 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": "2026-11-03T10:00:47.642Z",
+          "externalLink": "https://www.instagram.com/reel/DfRngWSm4F8/"
         },
         "facebook": {
           "postId": "6ae9aa2f5d9f5a9a758632b7",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-03T10:00:00.000Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
@@ -672,7 +674,9 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": "2026-11-03T10:00:23.787Z",
+          "externalLink": "https://www.facebook.com/reel/1505496804801945/"
         }
       },
       "instagramPostId": "6ae9aa2bb0e17c0fb571460d",
@@ -728,7 +732,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": null
         },
         "facebook": {
           "postId": "6ae9aa3888eaa32c1641825f",
@@ -764,7 +769,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": null
         }
       },
       "instagramPostId": "6ae9aa33749426a5a468d611",
@@ -811,7 +817,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": null
         },
         "facebook": {
           "postId": "6ae996938f43d9613fdb7265",
@@ -839,7 +846,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "sentAt": null
         }
       },
       "instagramPostId": "6ae996982f050cf24296f2d9",
@@ -847,17 +855,17 @@
     }
   ],
   "finalReconciliation": {
-    "checkedAt": "2026-11-03T09:32:55Z",
+    "checkedAt": "2026-11-03T10:17:51Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
     "duplicatesFound": 0,
-    "allScheduled": true,
+    "allScheduled": false,
     "allDelivered": false,
     "posts": {
       "in_1100": {
         "id": "6ae9aa2bb0e17c0fb571460d",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T10:00:00.000Z",
         "channel": "instagram",
         "error": null,
@@ -871,11 +879,13 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": "2026-11-03T10:00:47.642Z",
+        "externalLink": "https://www.instagram.com/reel/DfRngWSm4F8/"
       },
       "fa_1100": {
         "id": "6ae9aa2f5d9f5a9a758632b7",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-03T10:00:00.000Z",
         "channel": "facebook",
         "error": null,
@@ -889,7 +899,9 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": "2026-11-03T10:00:23.787Z",
+        "externalLink": "https://www.facebook.com/reel/1505496804801945/"
       },
       "in_1700": {
         "id": "6ae9aa33749426a5a468d611",
@@ -915,7 +927,8 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": null
       },
       "fa_1700": {
         "id": "6ae9aa3888eaa32c1641825f",
@@ -941,7 +954,8 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": null
       },
       "in_2000": {
         "id": "6ae996982f050cf24296f2d9",
@@ -959,7 +973,8 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": null
       },
       "fa_2000": {
         "id": "6ae996938f43d9613fdb7265",
@@ -977,10 +992,46 @@
               }
             }
           }
-        ]
+        ],
+        "sentAt": null
       }
-    }
+    },
+    "passedSlotsDelivered": true,
+    "scheduledCount": 4,
+    "sentCount": 2
   },
   "recoveryInstructions": "At 11:15, 17:15 and 20:15 Europe/Stockholm list both channels first. For each passed slot, accept sent/sending; do not duplicate correctly scheduled future slots. Republish only missing/error using unchanged request assets and metadata with mode shareNow, omitting dueAt, one immediate retry on failure. Preserve IDs and update this manifest. Never recreate media or use excluded media.",
-  "recoveryChecks": []
+  "recoveryChecks": [
+    {
+      "checkedAt": "2026-11-03T10:17:51Z",
+      "passedSlot": "11:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6ae9aa2bb0e17c0fb571460d",
+        "status": "sent",
+        "sentAt": "2026-11-03T10:00:47.642Z",
+        "externalLink": "https://www.instagram.com/reel/DfRngWSm4F8/"
+      },
+      "facebook": {
+        "postId": "6ae9aa2f5d9f5a9a758632b7",
+        "status": "sent",
+        "sentAt": "2026-11-03T10:00:23.787Z",
+        "externalLink": "https://www.facebook.com/reel/1505496804801945/"
+      },
+      "futureSlots": {
+        "17:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        },
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0,
+      "mediaRecreated": false
+    }
+  ]
 }
