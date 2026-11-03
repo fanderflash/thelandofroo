@@ -1,0 +1,986 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-03",
+  "timezone": "Europe/Stockholm",
+  "organizationId": "6aaa903bbd40e692d59df47f",
+  "channels": {
+    "instagram": {
+      "id": "6aaa90f5ea19ca0bde582f0e",
+      "name": "thelandofroo"
+    },
+    "facebook": {
+      "id": "6aaa9283ea19ca0bde5839d5",
+      "name": "The Land of Roo"
+    }
+  },
+  "morningReconciliation": {
+    "checkedAt": "2026-11-03T09:19:58Z",
+    "existingPosts": [
+      "6ae996982f050cf24296f2d9",
+      "6ae996938f43d9613fdb7265"
+    ],
+    "result": "20:00 already scheduled on both channels; retained original asset and times, adapted captions to serial format. Created only missing 11:00 and 17:00 pieces."
+  },
+  "performanceReview": {
+    "thirtyCompleteDays": {
+      "range": "2026-10-04/2026-11-02",
+      "instagram": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 87,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 20,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 2,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 3765,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 5,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 2795,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 119.92,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 3.05,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-11-02T16:23:44.757Z"
+      },
+      "facebook": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 85,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 4,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 1,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 1.23,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 1550,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 14,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-11-02T19:02:57.995Z"
+      }
+    },
+    "sevenCompleteDays": {
+      "range": "2026-10-27/2026-11-02",
+      "instagram": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 20,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 4,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0.79,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 657,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 504,
+            "unit": "count"
+          },
+          {
+            "type": "totalTimeWatched",
+            "name": "Watch Time (min)",
+            "description": "Total time watched in minutes",
+            "value": 18.12,
+            "unit": "count"
+          },
+          {
+            "type": "averageTimeWatched",
+            "name": "Avg. Watch Time (sec)",
+            "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+            "value": 2.49,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-11-02T16:23:44.757Z"
+      },
+      "facebook": {
+        "metrics": [
+          {
+            "type": "postCount",
+            "name": "Posts",
+            "description": "Number of posts published",
+            "value": 20,
+            "unit": "count"
+          },
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "The number of likes/reactions your post received.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 3.37,
+            "unit": "percentage"
+          },
+          {
+            "type": "impressions",
+            "name": "Impressions",
+            "description": "How many times your post was shown on screen. This can include multiple views by the same person. Useful for spotting how often your content gets surfaced.",
+            "value": 89,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "clicks",
+            "name": "Clicks",
+            "description": "How many times people clicked on your post or link. Shows when your content drives action beyond the channel it's on.",
+            "value": 3,
+            "unit": "count"
+          }
+        ],
+        "metricsUpdatedAt": "2026-11-02T19:02:57.995Z"
+      }
+    },
+    "eligibleFormatComparison": {
+      "instagram_single": {
+        "posts": 6,
+        "reach": 28,
+        "views": 46,
+        "follows": 0,
+        "saves": 0,
+        "shares": 0,
+        "comments": 0,
+        "watchSeconds": []
+      },
+      "facebook_single": {
+        "posts": 6,
+        "impressions": 13,
+        "shares": 0,
+        "comments": 0
+      },
+      "instagram_carousel": {
+        "posts": 10,
+        "reach": 52,
+        "views": 133,
+        "follows": 0,
+        "saves": 0,
+        "shares": 0,
+        "comments": 0,
+        "watchSeconds": []
+      },
+      "facebook_carousel": {
+        "posts": 6,
+        "impressions": 12,
+        "shares": 0,
+        "comments": 0
+      },
+      "facebook_reel": {
+        "posts": 6,
+        "impressions": 64,
+        "shares": 0,
+        "comments": 0
+      },
+      "instagram_reel": {
+        "posts": 2,
+        "reach": 275,
+        "views": 302,
+        "follows": 0,
+        "saves": 0,
+        "shares": 0,
+        "comments": 0,
+        "watchSeconds": [
+          2.63,
+          1.71
+        ]
+      }
+    },
+    "method": "Aggregate windows include complete calendar days. Creative judgment excludes posts younger than 24 hours at 2026-11-03T09:19:58Z. Format comparison covers eligible October 27-November 1 posts. Non-follower reach and Facebook follows unavailable; absent metrics are not measured zeros. No causal attribution from this small sample.",
+    "decision": "Instagram eligible Reels average 137.5 reach versus 5.2 carousel and 4.67 single; Facebook Reel impressions average 10.67 versus 2 carousel and 2.17 single. No measured Instagram follows. Change hypothesis to recognisable human stakes, clear scale contrast and ordinary household choices, with November 2 single-scene zoom direction; do not extend unexplained physical oddities merely to fill slots.",
+    "retiredPattern": "Standalone supernatural riddle images with no grounded stakes: three comparable low-reach posts, no measured follows.",
+    "retiredExamples": [
+      {
+        "id": "6ae6f29ef0984eef3353c38b",
+        "hook": "The stars were below them.",
+        "metrics": [
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 6,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 4,
+            "unit": "count"
+          }
+        ]
+      },
+      {
+        "id": "6ae5a06aa114574349923c52",
+        "hook": "The shadow opened first.",
+        "metrics": [
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 7,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 5,
+            "unit": "count"
+          }
+        ]
+      },
+      {
+        "id": "6ae44f6a36e83ed16363cd6b",
+        "hook": "One seal was false.",
+        "metrics": [
+          {
+            "type": "reactions",
+            "name": "Reactions",
+            "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "comments",
+            "name": "Comments",
+            "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "engagementRate",
+            "name": "Eng. Rate",
+            "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+            "value": 0,
+            "unit": "percentage"
+          },
+          {
+            "type": "views",
+            "name": "Views",
+            "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+            "value": 7,
+            "unit": "count"
+          },
+          {
+            "type": "shares",
+            "name": "Shares",
+            "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "saves",
+            "name": "Saves",
+            "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "follows",
+            "name": "Follows",
+            "description": "The number of new followers you gained from this post. Helps you see which content turns viewers into followers.",
+            "value": 0,
+            "unit": "count"
+          },
+          {
+            "type": "reach",
+            "name": "Reach",
+            "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+            "value": 4,
+            "unit": "count"
+          }
+        ]
+      }
+    ],
+    "baseline": "Historical nearly-two-thousand-years post supplied by Thomas is a structural clue (change/conflict/mystery/stakes), not reused text or artwork."
+  },
+  "canonSources": [
+    "llms.txt",
+    "lore/triport.html",
+    "lore/what-roo-looks-like.html",
+    "lore/vanir-ruins.html",
+    "lore/moonless-sky.html"
+  ],
+  "compliance": {
+    "currentCanonChecked": true,
+    "publicFactualGrounding": "Triport coastal gateway; Varren fleet has unusually large ships; northern human timber settlements; monumental ancient Vanir stone remains. Dockside and household situations are illustrative social concepts, not new canonical events.",
+    "publicationAuthorization": "Explicit user authorization for new canon-compatible social artwork and publication.",
+    "arvenDepicted": false,
+    "excludedLegacyMediaUsed": false,
+    "thirdPartyMediaUsed": false,
+    "logosPresent": false,
+    "futurePlotRevealed": false,
+    "standardOverlayFont": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "fontWeight": 600,
+    "overlayMethod": "Typeset locally using actual approved font after image generation; text anchored in screen space in Reel.",
+    "reelDirectionVersion": "2026-11-02 single scene with slow zoom and gentle text fade"
+  },
+  "mediaCommit": "bfdfa737f4287ece49cbbec0735a52d0e5a564a1",
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "original discovery reel",
+      "title": "The Visitors Brought Bigger Ships",
+      "mediaUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors.mp4",
+      "sourceImages": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors-source.jpg"
+      ],
+      "validation": {
+        "decodedFrames": 420,
+        "durationSeconds": 14,
+        "width": 1080,
+        "height": 1920,
+        "videoCodec": "h264",
+        "pixelFormat": "yuv420p",
+        "frameRate": 30,
+        "audioCodec": "aac",
+        "audioSampleRate": 48000,
+        "sizeBytes": 4546207,
+        "faststart": true,
+        "zoomPercent": 9,
+        "hookFadeStartSeconds": 0.2,
+        "hookFullyVisibleSeconds": 1.75,
+        "questionFadeStartSeconds": 7,
+        "questionFullyVisibleSeconds": 8.5,
+        "maximumAdjacentFrameMeanPixelChange": 1.2985061407089233,
+        "meanAdjacentFramePixelChange": 0.4068819582462311,
+        "firstSecondMotionMeanChange": 0.12154938280582428,
+        "middleSecondMotionMeanChange": 0.5505088567733765,
+        "lastSecondMotionMeanChange": 0.11444815248250961,
+        "reviewMethod": "Decoded all 420 encoded frames; temporal difference checked across the artwork region for jumps; encoded beginning, fade, middle, question and ending sampled visually at phone size. No audio generation; silent AAC track."
+      },
+      "hypothesis": "Scale contrast and an ordinary person's response to change, paired with a restrained single-scene zoom, will improve retention and follow conversion.",
+      "fallback": {
+        "format": "single image",
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors-source.jpg",
+              "metadata": {
+                "altText": "A Rooan fisherman looks from a small fishing boat toward an enormous visiting Varren ship in Triport harbor."
+              }
+            }
+          }
+        ]
+      },
+      "platforms": {
+        "instagram": {
+          "postId": "6ae9aa2bb0e17c0fb571460d",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T10:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T10:00:00Z",
+            "text": "Their harbor suddenly felt very small.\n\nVarren’s enormous ships have reached Roo. Imagine watching from a fishing boat: new trading partners, and a power you cannot match.\n\nWould you welcome them or keep your distance?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors.mp4",
+                  "metadata": {
+                    "title": "The Visitors Brought Bigger Ships"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "reel",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6ae9aa2f5d9f5a9a758632b7",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T10:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T10:00:00Z",
+            "text": "What changes when the visitors dwarf your boats?\n\nTriport is Roo’s gateway to renewed contact by sea. The visiting fleet from Varren brings unusually large ships—and the possibility of diplomacy and trade.\n\nThis imagined dockside moment asks what that arrival might feel like to someone whose livelihood fits in a small fishing boat. Would you see an opportunity or a reason to be cautious?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #Worldbuilding",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors.mp4",
+                  "metadata": {
+                    "title": "The Visitors Brought Bigger Ships"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "reel"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "instagramPostId": "6ae9aa2bb0e17c0fb571460d",
+      "facebookPostId": "6ae9aa2f5d9f5a9a758632b7"
+    },
+    {
+      "slot": "17:00",
+      "format": "two-image choice carousel",
+      "title": "Boots or Grain?",
+      "mediaUrls": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-1.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-2.jpg"
+      ],
+      "dimensions": {
+        "width": 1080,
+        "height": 1350
+      },
+      "hypothesis": "Recognisable household stakes, consistent character and a concrete two-word choice will prompt swipes and meaningful responses.",
+      "platforms": {
+        "instagram": {
+          "postId": "6ae9aa33749426a5a468d611",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T16:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T16:00:00Z",
+            "text": "Warm feet, or food on the table?\n\nSwipe to see what else is waiting on the counter.\n\nAn imagined everyday choice in Roo: replace the worn boots, or bring grain home and make the old pair last a little longer.\n\nWhich comes first—boots or grain?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-1.jpg",
+                  "metadata": {
+                    "altText": "An auburn-haired Rooan woman considers new leather boots at a timber market stall, with her worn boots and a few coins visible. Text: She needs new boots. Swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-2.jpg",
+                  "metadata": {
+                    "altText": "The same Rooan woman considers a sack of grain beside the new boots at the same market counter. Text: Her family needs grain. Boots or grain?"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6ae9aa3888eaa32c1641825f",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T16:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T16:00:00Z",
+            "text": "Which need would you put first?\n\nBeyond Roo’s ancient ruins and visiting fleets, someone still has to decide what to bring home from the market.\n\nThese two concept images imagine one household’s difficult purchase: sturdy boots for the days ahead, or grain for the family. Swipe to see both sides of the counter.\n\nWhat would you choose first—boots or grain?\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-1.jpg",
+                  "metadata": {
+                    "altText": "An auburn-haired Rooan woman considers new leather boots at a timber market stall, with her worn boots and a few coins visible. Text: She needs new boots. Swipe."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-2.jpg",
+                  "metadata": {
+                    "altText": "The same Rooan woman considers a sack of grain beside the new boots at the same market counter. Text: Her family needs grain. Boots or grain?"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "instagramPostId": "6ae9aa33749426a5a468d611",
+      "facebookPostId": "6ae9aa3888eaa32c1641825f"
+    },
+    {
+      "slot": "20:00",
+      "format": "serial story image",
+      "series": "Would You Survive Roo?",
+      "title": "The Safest Crossing",
+      "mediaUrl": "https://raw.githubusercontent.com/fanderflash/thelandofroo/dde2a008da88fd6e873e3a59384ee6aa76b04b77/assets/social/2026-11-03/01-river-terrace.jpg",
+      "dimensions": {
+        "width": 900,
+        "height": 1125
+      },
+      "preservedExistingMedia": true,
+      "hypothesis": "A practical survival dilemma replaces a generic scenic description. It is explicitly imagined, without new ancient mechanisms or lore.",
+      "platforms": {
+        "instagram": {
+          "postId": "6ae996982f050cf24296f2d9",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T19:00:00.000Z",
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T19:00:00.000Z",
+            "text": "The safest crossing can be no crossing.\n\nWould You Survive Roo?\n\nImagine reaching this river mouth in the rain. The boat is still tied up: you can stay on shore. Across the water, an ancient doorway offers the promise of shelter—but reaching it means taking the boat out.\n\nWould you wait by the landing or try for the doorway? Follow for tomorrow’s survival choice.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/dde2a008da88fd6e873e3a59384ee6aa76b04b77/assets/social/2026-11-03/01-river-terrace.jpg",
+                  "metadata": {
+                    "altText": "A rain-darkened northern river mouth with a small fishing platform, boat, tiny traveler, and a monumental weathered stone doorway across the water."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6ae996938f43d9613fdb7265",
+          "status": "scheduled",
+          "dueAt": "2026-11-03T19:00:00.000Z",
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-03T19:00:00.000Z",
+            "text": "A doorway is not always an invitation.\n\nWould You Survive Roo?\n\nImagine arriving here cold and soaked. A boat waits at the landing, and a monumental doorway overlooks the far bank. For now, the tied boat gives you a small victory: you still have the choice to stay ashore.\n\nWould you wait beside the landing or risk the crossing for possible shelter? Which would you choose—and why?\n\nFollow for tomorrow’s survival choice. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/dde2a008da88fd6e873e3a59384ee6aa76b04b77/assets/social/2026-11-03/01-river-terrace.jpg",
+                  "metadata": {
+                    "altText": "A rain-darkened northern river mouth with a small fishing platform, boat, tiny traveler, and a monumental weathered stone doorway across the water."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "instagramPostId": "6ae996982f050cf24296f2d9",
+      "facebookPostId": "6ae996938f43d9613fdb7265"
+    }
+  ],
+  "finalReconciliation": {
+    "checkedAt": "2026-11-03T09:32:55Z",
+    "expectedPlatformPosts": 6,
+    "foundPlatformPosts": 6,
+    "errors": 0,
+    "duplicatesFound": 0,
+    "allScheduled": true,
+    "allDelivered": false,
+    "posts": {
+      "in_1100": {
+        "id": "6ae9aa2bb0e17c0fb571460d",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T10:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors.mp4",
+              "metadata": {
+                "title": "The Visitors Brought Bigger Ships"
+              }
+            }
+          }
+        ]
+      },
+      "fa_1100": {
+        "id": "6ae9aa2f5d9f5a9a758632b7",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T10:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/reel/visitors.mp4",
+              "metadata": {
+                "title": "The Visitors Brought Bigger Ships"
+              }
+            }
+          }
+        ]
+      },
+      "in_1700": {
+        "id": "6ae9aa33749426a5a468d611",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T16:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-1.jpg",
+              "metadata": {
+                "altText": "An auburn-haired Rooan woman considers new leather boots at a timber market stall, with her worn boots and a few coins visible. Text: She needs new boots. Swipe."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-2.jpg",
+              "metadata": {
+                "altText": "The same Rooan woman considers a sack of grain beside the new boots at the same market counter. Text: Her family needs grain. Boots or grain?"
+              }
+            }
+          }
+        ]
+      },
+      "fa_1700": {
+        "id": "6ae9aa3888eaa32c1641825f",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T16:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-1.jpg",
+              "metadata": {
+                "altText": "An auburn-haired Rooan woman considers new leather boots at a timber market stall, with her worn boots and a few coins visible. Text: She needs new boots. Swipe."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/bfdfa737f4287ece49cbbec0735a52d0e5a564a1/assets/social/2026-11-03/carousel/boots-or-grain-2.jpg",
+              "metadata": {
+                "altText": "The same Rooan woman considers a sack of grain beside the new boots at the same market counter. Text: Her family needs grain. Boots or grain?"
+              }
+            }
+          }
+        ]
+      },
+      "in_2000": {
+        "id": "6ae996982f050cf24296f2d9",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T19:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/dde2a008da88fd6e873e3a59384ee6aa76b04b77/assets/social/2026-11-03/01-river-terrace.jpg",
+              "metadata": {
+                "altText": "A rain-darkened northern river mouth with a small fishing platform, boat, tiny traveler, and a monumental weathered stone doorway across the water."
+              }
+            }
+          }
+        ]
+      },
+      "fa_2000": {
+        "id": "6ae996938f43d9613fdb7265",
+        "status": "scheduled",
+        "dueAt": "2026-11-03T19:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "retried": false,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/dde2a008da88fd6e873e3a59384ee6aa76b04b77/assets/social/2026-11-03/01-river-terrace.jpg",
+              "metadata": {
+                "altText": "A rain-darkened northern river mouth with a small fishing platform, boat, tiny traveler, and a monumental weathered stone doorway across the water."
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "recoveryInstructions": "At 11:15, 17:15 and 20:15 Europe/Stockholm list both channels first. For each passed slot, accept sent/sending; do not duplicate correctly scheduled future slots. Republish only missing/error using unchanged request assets and metadata with mode shareNow, omitting dueAt, one immediate retry on failure. Preserve IDs and update this manifest. Never recreate media or use excluded media.",
+  "recoveryChecks": []
+}
