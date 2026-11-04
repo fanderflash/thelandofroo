@@ -928,9 +928,9 @@
       "platforms": {
         "instagram": {
           "postId": "6aeafc090eea02ace32a51fc",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-04T16:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-11-04T16:02:29.675Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
             "schedulingType": "automatic",
@@ -963,13 +963,14 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "externalLink": "https://www.instagram.com/p/DfU1uofoCDT/"
         },
         "facebook": {
           "postId": "6aeafc0e961fae078ac5c319",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-04T16:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-11-04T16:01:47.696Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
             "schedulingType": "automatic",
@@ -1000,7 +1001,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "externalLink": "https://www.facebook.com/122100493701477973/posts/122123648409477973"
         }
       },
       "instagramPostId": "6aeafc090eea02ace32a51fc",
@@ -1115,19 +1117,52 @@
       "duplicatesFound": 0,
       "errorsFound": 0,
       "mediaRecreated": false
+    },
+    {
+      "checkedAt": "2026-11-04T16:11:51Z",
+      "passedSlot": "17:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6aeafc090eea02ace32a51fc",
+        "status": "sent",
+        "sentAt": "2026-11-04T16:02:29.675Z",
+        "externalLink": "https://www.instagram.com/p/DfU1uofoCDT/"
+      },
+      "facebook": {
+        "postId": "6aeafc0e961fae078ac5c319",
+        "status": "sent",
+        "sentAt": "2026-11-04T16:01:47.696Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123648409477973"
+      },
+      "earlierSlots": {
+        "11:00": {
+          "instagram": "sent",
+          "facebook": "sent"
+        }
+      },
+      "futureSlots": {
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0,
+      "mediaRecreated": false
     }
   ],
   "mediaCommit": "693211b82d6459da9f9ad393dfdc559060dfe9ba",
   "finalReconciliation": {
-    "checkedAt": "2026-11-04T10:16:05Z",
+    "checkedAt": "2026-11-04T16:11:51Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
     "duplicatesFound": 0,
     "allScheduled": false,
     "allDelivered": false,
-    "scheduledCount": 4,
-    "sentCount": 2,
+    "scheduledCount": 2,
+    "sentCount": 4,
     "posts": {
       "fa_1100": {
         "id": "6aeafc059e12e98b309be579",
@@ -1169,7 +1204,7 @@
       },
       "fa_1700": {
         "id": "6aeafc0e961fae078ac5c319",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-04T16:00:00.000Z",
         "channel": "facebook",
         "error": null,
@@ -1191,11 +1226,12 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-04T16:01:47.696Z",
+        "externalLink": "https://www.facebook.com/122100493701477973/posts/122123648409477973"
       },
       "in_1700": {
         "id": "6aeafc090eea02ace32a51fc",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-04T16:00:00.000Z",
         "channel": "instagram",
         "error": null,
@@ -1217,7 +1253,8 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-04T16:02:29.675Z",
+        "externalLink": "https://www.instagram.com/p/DfU1uofoCDT/"
       },
       "in_2000": {
         "id": "6aeae7a4c63bd995bd1d4849",
