@@ -1,0 +1,90 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "fps": 30,
+    "audio": "aac",
+    "audioContent": "silent stereo AAC; no third-party audio",
+    "duration": 14,
+    "framesDecoded": 420,
+    "faststart": true,
+    "bytes": 4400937
+  },
+  "motion": {
+    "sourceScenes": 1,
+    "zoomPercent": 9,
+    "curve": "smoothstep, continuous fractional crop toward helping grip",
+    "cuts": 0,
+    "decodedAdjacentFrameDifferenceMax": 1.3505580425262451,
+    "decodedDifferenceFirst30Mean": 0.12957102060317993,
+    "decodedDifferenceMiddle30Mean": 0.5030167698860168,
+    "decodedDifferenceLast30Mean": 0.10188674926757812,
+    "scope": "continuous decoded-frame temporal checks plus visual review of selected encoded frames; not real-time playback"
+  },
+  "typography": {
+    "family": "Cormorant Garamond",
+    "weight": 600,
+    "fontFile": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "hook": "These stairs weren't built for us.",
+    "hookWords": 6,
+    "fadeStartSeconds": 0.2,
+    "fullyReadableSeconds": 1.75,
+    "anchoredToScreen": true,
+    "finalQuestionFade": [
+      7,
+      8.5
+    ],
+    "finalQuestionY": 1470
+  },
+  "carousel": {
+    "frames": 2,
+    "width": 1080,
+    "height": 1350,
+    "order": "torn cloak, repaired cloak"
+  },
+  "files": {
+    "17-cloak-02.jpg": {
+      "bytes": 536490,
+      "sha256": "887c6080d1bc452c80a148bc1181496e9774be80b0c66e85e7a5aaae7a055cdd"
+    },
+    "17-cloak-after-source.jpg": {
+      "bytes": 798732,
+      "sha256": "0cc5637d0c137d786bac50f5f3fcaa3b2a1b8fa8bc01555c15c4c72ff760d4e4"
+    },
+    "17-cloak-01.jpg": {
+      "bytes": 564308,
+      "sha256": "937d36b6a239e42ee0182645f2d16378265ab6a69e305973719349da4cce108f"
+    },
+    "11-giant-step-source.jpg": {
+      "bytes": 988246,
+      "sha256": "bd51d24bcb747c272c79011f7bbe195bff4c0065ae4e69e3be227c7f5561ed8d"
+    },
+    "11-giant-step-reel.mp4": {
+      "bytes": 4400937,
+      "sha256": "9b13f1ab6dc4c36d91b4d8abebf22527935ba562ae415e680cb4add4d30c13f4"
+    },
+    "17-cloak-before-source.jpg": {
+      "bytes": 869374,
+      "sha256": "353790111577c25a16b24873164027f664d55adfb9aec8de35ba25e99a1b0ac0"
+    }
+  },
+  "visualReview": {
+    "passed": true,
+    "checks": [
+      "Original human appearance and public-safe scene checked against current canon",
+      "Faces and helping grip retained throughout crop",
+      "Hook readable by 1.77 seconds on encoded frame",
+      "Final question above lower interface area, held until ending",
+      "Matched character, clothing and room in two carousel frames",
+      "No excluded source assets, logos, third-party footage or Arwen depictions"
+    ]
+  },
+  "networkLimits": {
+    "instagramBytes": 300000000,
+    "facebookBytes": 1000000000,
+    "source": "https://support.buffer.com/articles/troubleshooting-video-uploads-in-buffer-LK0CldlFNB",
+    "checkedDate": "2026-11-04"
+  }
+}

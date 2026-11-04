@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-04",
+  "timezone": "Europe/Stockholm",
+  "captions": {
+    "reel": {
+      "instagram": "These stairs weren't built for us.\n\nIn Roo, one ancient step can reach a person's waist. People believe the ruins belonged to the Vanir. Getting inside can start with a very human thing: a helping hand.\n\nWho would you bring? Send this to your exploring companion.\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+      "facebook": "Imagine needing help up a single stair.\n\nAcross Roo, ancient ruins dwarf the people who enter them. A step can rise nearly to a person's waist; Rooans believe these places were built by the Vanir. This imagined moment begins with the practical problem that leaves behind: how do two travelers get inside together?\n\nWho would you trust to take your hand?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story, from everyday lives to the mysteries of the ancient world.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt"
+    },
+    "carousel": {
+      "instagram": "A torn cloak still has miles left.\n\nSwipe to see what a patch can save. In this imagined moment in Roo, the old wool is sound; one torn shoulder doesn't have to end its travels.\n\nWhat have you kept by repairing it? A few words will do.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+      "facebook": "Would you give this old cloak another journey?\n\nTwo frames, one small recovery in Roo. The first shows a torn shoulder; the second shows the same cloak made useful again. A visible patch might look imperfect, but it means its owner can keep wearing something familiar when the cold returns.\n\nWhat is one thing you've kept by repairing it?\n\nAn imagined everyday scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding"
+    },
+    "evening": {
+      "instagram": "The smoke means someone stayed.\n\nWould You Survive Roo? — The light on the heath\n\nFor a traveler on this exposed path, a lit window changes everything. There is a fire here. The next ridge can wait.\n\nBut whose welcome is waiting at the door?\n\nFollow for tomorrow's glimpse of life in Roo.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+      "facebook": "One lit window changes the whole journey.\n\nWould You Survive Roo? — The light on the heath\n\nImagine reaching this cottage after hours on Roo's open highlands. Smoke rises from the chimney, and a warm window breaks the grey. For the first time in miles, the traveler has somewhere to stop.\n\nThe shelter is real enough to see. The welcome is still unknown. What would you say when someone opened the door?\n\nFollow for tomorrow's glimpse of life in Roo.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt"
+    }
+  },
+  "slots": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "files": [
+        "11-giant-step-reel.mp4"
+      ],
+      "sourceFiles": [
+        "11-giant-step-source.jpg"
+      ]
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "files": [
+        "17-cloak-01.jpg",
+        "17-cloak-02.jpg"
+      ],
+      "sourceFiles": [
+        "17-cloak-before-source.jpg",
+        "17-cloak-after-source.jpg"
+      ]
+    },
+    {
+      "slot": "20:00",
+      "format": "single",
+      "existingPostIds": [
+        "6aeae7a4c63bd995bd1d4849",
+        "6aeae79a2b43f8ba7d7a928b"
+      ],
+      "preserveMedia": true
+    }
+  ],
+  "prompts": {
+    "reel": "Use case: stylized-concept. Create a NEW original cinematic painted concept art for The Land of Roo, vertical 9:16. Nordic fantasy grounded in practical weathered materials, rich northern moss and natural light; painterly realism, striking readable human gesture, not a generic fantasy poster. Scene: TWO ordinary adult Rooan human travelers, light skinned, long natural hair, dressed in unadorned wool and linen and practical leather shoes. One adult woman standing safely atop a broad ancient stone step reaches down and clasps the forearm of an adult man climbing up from the lower landing. Their mutual helping grip is the focal point, clear and anatomically plausible. The stone step rises nearly to the standing man's waist (about 85 cm), truly oversized ancient Vanir stairs continuing uphill behind them; three or four broad enormous stone treads, weathered clean monumental shapes with rich green moss only at edges. A modest cloth bundle lies safely on the upper landing, not on a person's back. Cinematic low side view: lower traveler occupies center-right lower middle, helper upper-left middle; joined hands around center. Strong warm side light isolates the pair against cool huge slate stone, a narrow visible northern forest beyond, no castle. Faces essential body parts well within central80% with safe margins for later9%zoom. Top24% atmospheric dark stone and unobtrusive shadow, reserved empty for later typography, lower12% calm stone. A scene of solidarity in a world too large for humans. No lettering, no symbols or runes, no logos, no moon, no weapons, no magical glow, no gods shown, no Arven/Arwen characters, no slavery, chains, collars, bondage, prisoners, no giant living beings. Image only, no border, exceptionally detailed expressive human scale.",
+    "carousel1": "Use case: stylized-concept. Create NEW original painted cinematic concept art for The Land of Roo, vertical4:5 first frame of a two-image before/after social story. Intimate Nordic human everyday life, warm amber hearth light against cool daylight, tactile painted realism. Main focal point: a substantial dark forest-green wool travel cloak spread over a plain wooden worktable, a long jagged tear at its shoulder clearly visible near center, exposing tabletop. An ordinary adult Rooan human woman, light skin with subtle freckles, long loosely braided dark auburn hair, wearing simple unadorned rust-brown wool dress and cream linen cuffs, sits behind the table, looking down thoughtfully. Her two natural hands gently hold apart the two edges of the tear, empty hands, plausible fingers. Face in upper-middle with clear expression, hands and rip in central region, cloak occupies lowerhalf. A small folded square patch of warm ochre wool and wooden spool of ochre thread lie on tabletop right of the tear. Humble practical timber room, faint hearth glow background left, small overcast window background right; no scenic vista. Frame her head and torso and tabletop at medium-close distance, uncluttered composition with top16% dark timber wall free for later typography, bottom15% green wool free for later short line. Natural colors, rich texture, no ornamented fantasy clichés. No text, no letters, no logos, no symbols, no modern objects, no Arwen/Arven, no slavery or collars. Do not show needle held between fingers. Her expression conveys that this cloak matters, not fashion. This is public-safe hypothetical social scene, no named character.",
+    "carousel2": "Use case: precise-object-edit. Edit the provided first frame into the SECOND frame of the same original two-image before/after social story for The Land of Roo. Preserve the same exact adult human woman's face, auburn braid, rust-brown dress, cream cuffs, timber room, fire on left, small window on right, same medium-close4:5 camera and same green wool cloak and lighting. Time has passed only enough to repair the cloak. Replace the open jagged tear with the warm ochre wool patch now carefully stitched across the damaged shoulder, clearly covering the entire opening with a neat seam all around. Make the patch a little longer to span the tear correctly. Her empty hands rest flat either side of the patch gently smoothing the cloak, no needles, no sewing-in-progress. Her expression is quietly relieved with subtle smile while looking down at the restored cloak. Keep believable five-finger anatomy, no duplicated hands. The loose folded ochre patch previously on the table is now gone because it is sewn on; retain wooden thread spool on the right. Preserve top16% dark wall and bottom15% green wool negative space for typography added separately. The repair should be the unmistakable central visual reveal at phone size. No lettering, logos, symbols, moon, modern items, new characters, magic, Arven/Arwen, slavery. Full single4:5 image, no panels."
+  }
+}
