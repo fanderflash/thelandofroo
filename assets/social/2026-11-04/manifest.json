@@ -1,0 +1,1230 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-04",
+  "timezone": "Europe/Stockholm",
+  "organizationId": "6aaa903bbd40e692d59df47f",
+  "channels": {
+    "instagram": {
+      "id": "6aaa90f5ea19ca0bde582f0e",
+      "name": "thelandofroo"
+    },
+    "facebook": {
+      "id": "6aaa9283ea19ca0bde5839d5",
+      "name": "The Land of Roo"
+    }
+  },
+  "morningReconciliation": {
+    "checkedAt": "2026-11-04T09:17:43Z",
+    "existingPosts": [
+      "6aeae7a4c63bd995bd1d4849",
+      "6aeae79a2b43f8ba7d7a928b"
+    ],
+    "result": "20:00 already scheduled on both channels; original asset and time retained. Captions adapted to established survival series. Create only missing 11:00 and 17:00 pieces."
+  },
+  "performanceReview": {
+    "thirtyCompleteDays": {
+      "range": "2026-10-05/2026-11-03",
+      "instagram": {
+        "metrics": {
+          "postCount": 87,
+          "reactions": 22,
+          "comments": 2,
+          "engagementRate": 1.03,
+          "views": 3886,
+          "shares": 1,
+          "saves": 5,
+          "follows": 0,
+          "reach": 2915,
+          "totalTimeWatched": 128.18,
+          "averageTimeWatched": 3.08
+        },
+        "metricsUpdatedAt": "2026-11-03T16:24:12.313Z"
+      },
+      "facebook": {
+        "metrics": {
+          "postCount": 85,
+          "reactions": 4,
+          "comments": 1,
+          "engagementRate": 1.24,
+          "impressions": 1537,
+          "shares": 0,
+          "clicks": 14
+        },
+        "metricsUpdatedAt": "2026-11-03T19:02:27.068Z"
+      }
+    },
+    "sevenCompleteDays": {
+      "range": "2026-10-28/2026-11-03",
+      "instagram": {
+        "metrics": {
+          "postCount": 20,
+          "reactions": 6,
+          "comments": 0,
+          "engagementRate": 0.95,
+          "views": 803,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 634,
+          "totalTimeWatched": 26.39,
+          "averageTimeWatched": 2.77
+        },
+        "metricsUpdatedAt": "2026-11-03T16:24:12.308Z"
+      },
+      "facebook": {
+        "metrics": {
+          "postCount": 20,
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 3.9,
+          "impressions": 77,
+          "shares": 0,
+          "clicks": 3
+        },
+        "metricsUpdatedAt": "2026-11-03T19:02:27.068Z"
+      }
+    },
+    "eligibleFormatComparison": {
+      "facebook_single": {
+        "posts": 6,
+        "totals": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 9,
+          "shares": 0,
+          "clicks": 0
+        },
+        "availableCounts": {
+          "reactions": 6,
+          "comments": 6,
+          "engagementRate": 6,
+          "impressions": 6,
+          "shares": 6,
+          "clicks": 6
+        },
+        "watchSeconds": []
+      },
+      "facebook_carousel": {
+        "posts": 6,
+        "totals": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 11,
+          "shares": 0,
+          "clicks": 1
+        },
+        "availableCounts": {
+          "reactions": 6,
+          "comments": 6,
+          "engagementRate": 6,
+          "impressions": 6,
+          "shares": 6,
+          "clicks": 6
+        },
+        "watchSeconds": []
+      },
+      "instagram_single": {
+        "posts": 6,
+        "totals": {
+          "reactions": 0,
+          "comments": 0,
+          "views": 51,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 29
+        },
+        "availableCounts": {
+          "reactions": 6,
+          "comments": 6,
+          "engagementRate": 6,
+          "views": 6,
+          "shares": 6,
+          "saves": 6,
+          "follows": 6,
+          "reach": 6
+        },
+        "watchSeconds": []
+      },
+      "instagram_carousel": {
+        "posts": 9,
+        "totals": {
+          "reactions": 2,
+          "comments": 0,
+          "views": 113,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 46
+        },
+        "availableCounts": {
+          "reactions": 9,
+          "comments": 9,
+          "engagementRate": 9,
+          "views": 9,
+          "shares": 9,
+          "saves": 9,
+          "follows": 9,
+          "reach": 9
+        },
+        "watchSeconds": []
+      },
+      "facebook_reel": {
+        "posts": 6,
+        "totals": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 57,
+          "shares": 0,
+          "clicks": 2
+        },
+        "availableCounts": {
+          "reactions": 6,
+          "comments": 6,
+          "engagementRate": 6,
+          "impressions": 6,
+          "shares": 6,
+          "clicks": 6
+        },
+        "watchSeconds": []
+      },
+      "instagram_reel": {
+        "posts": 3,
+        "totals": {
+          "reactions": 2,
+          "comments": 0,
+          "views": 509,
+          "shares": 0,
+          "saves": 0,
+          "totalTimeWatched": 20.499999999999996,
+          "reach": 452
+        },
+        "availableCounts": {
+          "reactions": 3,
+          "comments": 3,
+          "engagementRate": 3,
+          "views": 3,
+          "shares": 3,
+          "saves": 3,
+          "totalTimeWatched": 3,
+          "averageTimeWatched": 3,
+          "reach": 3
+        },
+        "watchSeconds": [
+          3.44,
+          2.63,
+          1.71
+        ]
+      }
+    },
+    "eligiblePosts": [
+      {
+        "id": "6ae85ac75e62d9a270fbd3b0",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-11-02T19:00:00.000Z",
+        "hook": "The house had one more shadow.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae85ac455a230dd71a1d04c",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-11-02T16:00:00.000Z",
+        "hook": "One ruin. Three possible truths.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae85ac13847393f5f4530f9",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-11-02T19:00:00.000Z",
+        "hook": "The house had one more shadow.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 12,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6ae85abdca68b566b62f283b",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-11-02T16:00:00.000Z",
+        "hook": "One ruin. Three possible truths.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 5,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae85abadd7a4869734f75a0",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-11-02T10:00:00.000Z",
+        "hook": "The sea door was closing.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae85ab6ca68b566b62f2538",
+        "service": "instagram",
+        "format": "reel",
+        "dueAt": "2026-11-02T10:00:00.000Z",
+        "hook": "The sea door was closing.",
+        "metrics": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 1.13,
+          "views": 207,
+          "shares": 0,
+          "saves": 0,
+          "totalTimeWatched": 10.03,
+          "averageTimeWatched": 3.44,
+          "reach": 177
+        }
+      },
+      {
+        "id": "6ae765f2dbb50f7b82e0e25a",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-11-01T16:16:50.259Z",
+        "hook": "The snow refused to fall.",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 25,
+          "views": 6,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae70634cf3a3112f3ec393d",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-11-01T16:00:00.000Z",
+        "hook": "Which granary survives the thaw?",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae7062837c1acd2a0f76924",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-11-01T16:00:00.000Z",
+        "hook": "Which granary survives the thaw?",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 7,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae7061e37c1acd2a0f767ab",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-11-01T10:00:00.000Z",
+        "hook": "The snow refused to fall.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae6f29ef0984eef3353c38b",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-11-01T19:00:00.000Z",
+        "hook": "The stars were below them.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 6,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae6f290cf3a3112f3e777e0",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-11-01T19:00:00.000Z",
+        "hook": "The stars were below them.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae5b37cceb491e585ea0065",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-10-31T16:00:00.000Z",
+        "hook": "A bridge built to break.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae5b375406ab8a018ac8786",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-31T16:00:00.000Z",
+        "hook": "A bridge built to break.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ae5b371ceb491e585e9fe17",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-10-31T10:00:00.000Z",
+        "hook": "The water ran uphill.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 48,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae5b36dceb491e585e9fd6d",
+        "service": "instagram",
+        "format": "reel",
+        "dueAt": "2026-10-31T10:00:00.000Z",
+        "hook": "The water ran uphill.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 195,
+          "shares": 0,
+          "saves": 0,
+          "totalTimeWatched": 7.66,
+          "averageTimeWatched": 2.63,
+          "reach": 177
+        }
+      },
+      {
+        "id": "6ae5a06aa114574349923c52",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-10-31T19:00:00.000Z",
+        "hook": "The shadow opened first.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 7,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6ae5a063eaa24d6f9a61c279",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-10-31T19:00:00.000Z",
+        "hook": "The shadow opened first.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae4634dceb12661efd9e7e0",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-10-30T16:00:00.000Z",
+        "hook": "Why Roo roofs wear scales.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae46346ceb12661efd9e5f8",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-30T16:00:00.000Z",
+        "hook": "Why Roo roofs wear scales.",
+        "metrics": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 16.67,
+          "views": 18,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ae4633736e83ed16369c901",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-10-30T09:28:23.800Z",
+        "hook": "The road stood up beneath them.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 100,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 2
+        }
+      },
+      {
+        "id": "6ae4632436e83ed16369c58f",
+        "service": "instagram",
+        "format": "reel",
+        "dueAt": "2026-10-30T09:28:04.337Z",
+        "hook": "The road stood up beneath them.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 107,
+          "shares": 0,
+          "saves": 0,
+          "totalTimeWatched": 2.81,
+          "averageTimeWatched": 1.71,
+          "reach": 98
+        }
+      },
+      {
+        "id": "6ae44f6a36e83ed16363cd6b",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-10-30T19:00:00.000Z",
+        "hook": "One seal was false.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 7,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae44f65d518fcaf80a507b2",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-10-30T19:00:00.000Z",
+        "hook": "One seal was false.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae31de31db2603c2d976f16",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-29T10:20:20.180Z",
+        "hook": "The guard knew the masked raider.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 11,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae3110c99d205530795f705",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-10-29T16:00:00.000Z",
+        "hook": "The empty wagon sank.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 20,
+          "impressions": 5,
+          "shares": 0,
+          "clicks": 1
+        }
+      },
+      {
+        "id": "6ae310f8aab4be69b3128dd3",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-29T16:00:00.000Z",
+        "hook": "The empty wagon sank.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 12,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 5
+        }
+      },
+      {
+        "id": "6ae310f267af076823b3941a",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-10-29T10:00:00.000Z",
+        "hook": "The guard knew the masked raider.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae2ff6f2467e67f12891636",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-10-29T19:00:00.000Z",
+        "hook": "The missing messenger was alive.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 6,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 4
+        }
+      },
+      {
+        "id": "6ae2ff6ab8abb6631d16bc81",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-10-29T19:00:00.000Z",
+        "hook": "The missing messenger was alive.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 2,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae1caf25719a3c4c8108444",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-28T10:14:10.151Z",
+        "hook": "One seat was missing.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 16,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ae1c10826cf140c4c82e96e",
+        "service": "instagram",
+        "format": "carousel",
+        "dueAt": "2026-10-28T16:00:00.000Z",
+        "hook": "Someone changed the map.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 20,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 6
+        }
+      },
+      {
+        "id": "6ae1c1002d290d34867d9dd7",
+        "service": "facebook",
+        "format": "carousel",
+        "dueAt": "2026-10-28T16:00:00.000Z",
+        "hook": "Someone changed the map.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 1,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae1c0ef26cf140c4c82d161",
+        "service": "facebook",
+        "format": "reel",
+        "dueAt": "2026-10-28T10:00:00.000Z",
+        "hook": "One seat was missing.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0
+        }
+      },
+      {
+        "id": "6ae1acbfbcf19c26c5cc352a",
+        "service": "instagram",
+        "format": "single",
+        "dueAt": "2026-10-28T19:00:00.000Z",
+        "hook": "The message was already below.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "views": 13,
+          "shares": 0,
+          "saves": 0,
+          "follows": 0,
+          "reach": 7
+        }
+      },
+      {
+        "id": "6ae1acbc45e232dcee574ab9",
+        "service": "facebook",
+        "format": "single",
+        "dueAt": "2026-10-28T19:00:00.000Z",
+        "hook": "The message was already below.",
+        "metrics": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0,
+          "impressions": 3,
+          "shares": 0,
+          "clicks": 0
+        }
+      }
+    ],
+    "method": "Calendar aggregates cover 30 and 7 complete Stockholm days. Per-post creative judgment excludes anything under 24 hours old at 2026-11-04T09:17:43Z; eligible comparison is October 28-November 2. All pages read. No non-follower reach or Facebook follows available; individual IG Reel follows not returned. Missing metrics are unavailable, not zeros. No causal claims from small samples. November 3 new slow-zoom treatment and human-stakes hypothesis are too young for judgment.",
+    "decision": "Eligible Instagram Reels averaged 150.67 reach versus 5.11 for carousels and 4.83 for singles. Facebook Reel impressions averaged 9.5 versus 1.83 for carousels and 1.5 for singles. Aggregate Instagram reported zero follows for both windows, so reach alone is not growth success. Continue the newly changed human-stakes hypothesis with a visible helping gesture, ancient scale contrast, and an emotionally complete repair reveal. Do not copy yesterday's ships or boots/grain. Retain smooth single-scene zoom direction.",
+    "retiredPattern": "Unexplained supernatural riddle singles without grounded human stakes: The shadow opened first (Oct31 reach5), The stars were below them (Nov1 reach4), The house had one more shadow (Nov2 reach5), each zero reported follows. Do not repeat this pattern.",
+    "structuralClue": "Use change, conflict, mystery and stakes from the historical isolation post as structure only. Today: monumental stairs versus human bodies, help resolves the immediate obstacle; damaged cloak versus needed warmth, visible repair resolves the immediate loss.",
+    "testContinuity": "Continue existing format test without resetting its start or counting recovery runs as daily creative runs. Seven-day comparison has already triggered the November 3 creative hypothesis change; its results are not mature yet."
+  },
+  "canonSources": [
+    "Current Canon Bible checked November 4",
+    "llms.txt",
+    "lore/vanir-ruins.html",
+    "lore/what-roo-looks-like.html"
+  ],
+  "compliance": {
+    "currentCanonChecked": true,
+    "publicFactualGrounding": "Ancient Vanir ruins have steps that can reach a human waist. Rooans are ordinary tall humans, often long-haired, in a northern landscape with practical timber buildings. Helping travelers and cloak repair are illustrative social scenes, not named plot events or new major lore.",
+    "arvenDepicted": false,
+    "excludedLegacyMediaUsed": false,
+    "thirdPartyMediaUsed": false,
+    "logosPresent": false,
+    "futurePlotRevealed": false,
+    "standardOverlayFont": "assets/social/fonts/CormorantGaramond-SemiBold.ttf",
+    "fontWeight": 600,
+    "overlayMethod": "Actual font typeset locally after original art generation; screen-anchored overlays on Reel.",
+    "reelDirectionVersion": "2026-11-02",
+    "eveningMediaPreserved": true
+  },
+  "automation": {
+    "id": "6ab7b95ee90c8191a0a4c4926fc3209c",
+    "isEnabled": true,
+    "runTimesLocal": [
+      "10:15",
+      "11:15",
+      "17:15",
+      "20:15"
+    ],
+    "changed": false
+  },
+  "pieces": [
+    {
+      "slot": "11:00",
+      "format": "reel",
+      "subject": "These stairs weren't built for us",
+      "media": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-reel.mp4"
+      ],
+      "sourceImages": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-source.jpg"
+      ],
+      "platforms": {
+        "instagram": {
+          "postId": "6aeafc009e12e98b309be4a3",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T10:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T10:00:00Z",
+            "text": "These stairs weren't built for us.\n\nIn Roo, one ancient step can reach a person's waist. People believe the ruins belonged to the Vanir. Getting inside can start with a very human thing: a helping hand.\n\nWho would you bring? Send this to your exploring companion.\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-reel.mp4",
+                  "metadata": {
+                    "title": "These stairs weren't built for us"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "reel",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6aeafc059e12e98b309be579",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T10:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T10:00:00Z",
+            "text": "Imagine needing help up a single stair.\n\nAcross Roo, ancient ruins dwarf the people who enter them. A step can rise nearly to a person's waist; Rooans believe these places were built by the Vanir. This imagined moment begins with the practical problem that leaves behind: how do two travelers get inside together?\n\nWho would you trust to take your hand?\n\nThe Land of Roo is an original Nordic fantasy world being created by Thomas Robbjens. Follow the continuing story, from everyday lives to the mysteries of the ancient world.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #Worldbuilding #FantasyArt",
+            "assets": [
+              {
+                "video": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-reel.mp4",
+                  "metadata": {
+                    "title": "These stairs weren't built for us"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "reel"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "instagramPostId": "6aeafc009e12e98b309be4a3",
+      "facebookPostId": "6aeafc059e12e98b309be579"
+    },
+    {
+      "slot": "17:00",
+      "format": "carousel",
+      "subject": "A torn cloak still has miles left",
+      "media": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-01.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-02.jpg"
+      ],
+      "sourceImages": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-before-source.jpg",
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-after-source.jpg"
+      ],
+      "platforms": {
+        "instagram": {
+          "postId": "6aeafc090eea02ace32a51fc",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T16:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T16:00:00Z",
+            "text": "A torn cloak still has miles left.\n\nSwipe to see what a patch can save. In this imagined moment in Roo, the old wool is sound; one torn shoulder doesn't have to end its travels.\n\nWhat have you kept by repairing it? A few words will do.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-01.jpg",
+                  "metadata": {
+                    "altText": "A Rooan woman examines a torn green wool cloak beside an ochre patch and thread. Text: Would you throw it away? Swipe to see what she saved."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-02.jpg",
+                  "metadata": {
+                    "altText": "The same woman smiles over the same cloak, now repaired with an ochre patch. Text: One patch. Another journey. What have you kept by repairing it?"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6aeafc0e961fae078ac5c319",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T16:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T16:00:00Z",
+            "text": "Would you give this old cloak another journey?\n\nTwo frames, one small recovery in Roo. The first shows a torn shoulder; the second shows the same cloak made useful again. A visible patch might look imperfect, but it means its owner can keep wearing something familiar when the cold returns.\n\nWhat is one thing you've kept by repairing it?\n\nAn imagined everyday scene. Concept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyArt #Worldbuilding",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-01.jpg",
+                  "metadata": {
+                    "altText": "A Rooan woman examines a torn green wool cloak beside an ochre patch and thread. Text: Would you throw it away? Swipe to see what she saved."
+                  }
+                }
+              },
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-02.jpg",
+                  "metadata": {
+                    "altText": "The same woman smiles over the same cloak, now repaired with an ochre patch. Text: One patch. Another journey. What have you kept by repairing it?"
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "instagramPostId": "6aeafc090eea02ace32a51fc",
+      "facebookPostId": "6aeafc0e961fae078ac5c319"
+    },
+    {
+      "slot": "20:00",
+      "format": "single",
+      "subject": "Would You Survive Roo? — The light on the heath",
+      "media": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png"
+      ],
+      "sourceImages": [
+        "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png"
+      ],
+      "platforms": {
+        "instagram": {
+          "postId": "6aeae7a4c63bd995bd1d4849",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T19:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa90f5ea19ca0bde582f0e",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T19:00:00Z",
+            "text": "The smoke means someone stayed.\n\nWould You Survive Roo? — The light on the heath\n\nFor a traveler on this exposed path, a lit window changes everything. There is a fire here. The next ridge can wait.\n\nBut whose welcome is waiting at the door?\n\nFollow for tomorrow's glimpse of life in Roo.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png",
+                  "metadata": {
+                    "altText": "A lone traveler on a wet highland path passes a small turf-roofed timber cottage, its window lit and chimney smoking beneath storm clouds."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "instagram": {
+                "type": "post",
+                "shouldShareToFeed": true,
+                "isAiGenerated": true
+              }
+            }
+          },
+          "retried": false
+        },
+        "facebook": {
+          "postId": "6aeae79a2b43f8ba7d7a928b",
+          "status": "scheduled",
+          "dueAt": "2026-11-04T19:00:00.000Z",
+          "sentAt": null,
+          "request": {
+            "channelId": "6aaa9283ea19ca0bde5839d5",
+            "schedulingType": "automatic",
+            "mode": "customScheduled",
+            "dueAt": "2026-11-04T19:00:00Z",
+            "text": "One lit window changes the whole journey.\n\nWould You Survive Roo? — The light on the heath\n\nImagine reaching this cottage after hours on Roo's open highlands. Smoke rises from the chimney, and a warm window breaks the grey. For the first time in miles, the traveler has somewhere to stop.\n\nThe shelter is real enough to see. The welcome is still unknown. What would you say when someone opened the door?\n\nFollow for tomorrow's glimpse of life in Roo.\n\nConcept art from The Land of Roo.\n\n#TheLandOfRoo #NordicFantasy #FantasyBooks #FantasyArt",
+            "assets": [
+              {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png",
+                  "metadata": {
+                    "altText": "A lone traveler on a wet highland path passes a small turf-roofed timber cottage, its window lit and chimney smoking beneath storm clouds."
+                  }
+                }
+              }
+            ],
+            "metadata": {
+              "facebook": {
+                "type": "post"
+              }
+            }
+          },
+          "retried": false
+        }
+      },
+      "preservedExistingMedia": true,
+      "instagramPostId": "6aeae7a4c63bd995bd1d4849",
+      "facebookPostId": "6aeae79a2b43f8ba7d7a928b"
+    }
+  ],
+  "recoveryInstructions": "At each recovery run list both fixed channel IDs first, including sent, sending, scheduled, error. Match channel, slot, media URL and caption subject. Passed slot sent/sending is complete; future correctly scheduled posts are preserved. Missing/error: reuse unchanged intended media with mode shareNow and omit dueAt; future missing slots use customScheduled and ISO dueAt. Every Buffer error gets one immediate retry with identical media and asset shape, preserve successful IDs. If retry fails keep missing status and send Thomas one concise Swedish error message. No replacement art or excluded assets. Never disable automation.",
+  "recoveryChecks": [],
+  "mediaCommit": "693211b82d6459da9f9ad393dfdc559060dfe9ba",
+  "finalReconciliation": {
+    "checkedAt": "2026-11-04T09:34:22Z",
+    "expectedPlatformPosts": 6,
+    "foundPlatformPosts": 6,
+    "errors": 0,
+    "duplicatesFound": 0,
+    "allScheduled": true,
+    "allDelivered": false,
+    "scheduledCount": 6,
+    "sentCount": 0,
+    "posts": {
+      "fa_1100": {
+        "id": "6aeafc059e12e98b309be579",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T10:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-reel.mp4",
+              "metadata": {
+                "title": "These stairs weren't built for us"
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      },
+      "in_1100": {
+        "id": "6aeafc009e12e98b309be4a3",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T10:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "assets": [
+          {
+            "video": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/11-giant-step-reel.mp4",
+              "metadata": {
+                "title": "These stairs weren't built for us"
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      },
+      "fa_1700": {
+        "id": "6aeafc0e961fae078ac5c319",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T16:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-01.jpg",
+              "metadata": {
+                "altText": "A Rooan woman examines a torn green wool cloak beside an ochre patch and thread. Text: Would you throw it away? Swipe to see what she saved."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-02.jpg",
+              "metadata": {
+                "altText": "The same woman smiles over the same cloak, now repaired with an ochre patch. Text: One patch. Another journey. What have you kept by repairing it?"
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      },
+      "in_1700": {
+        "id": "6aeafc090eea02ace32a51fc",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T16:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-01.jpg",
+              "metadata": {
+                "altText": "A Rooan woman examines a torn green wool cloak beside an ochre patch and thread. Text: Would you throw it away? Swipe to see what she saved."
+              }
+            }
+          },
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/17-cloak-02.jpg",
+              "metadata": {
+                "altText": "The same woman smiles over the same cloak, now repaired with an ochre patch. Text: One patch. Another journey. What have you kept by repairing it?"
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      },
+      "in_2000": {
+        "id": "6aeae7a4c63bd995bd1d4849",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T19:00:00.000Z",
+        "channel": "instagram",
+        "error": null,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png",
+              "metadata": {
+                "altText": "A lone traveler on a wet highland path passes a small turf-roofed timber cottage, its window lit and chimney smoking beneath storm clouds."
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      },
+      "fa_2000": {
+        "id": "6aeae79a2b43f8ba7d7a928b",
+        "status": "scheduled",
+        "dueAt": "2026-11-04T19:00:00.000Z",
+        "channel": "facebook",
+        "error": null,
+        "assets": [
+          {
+            "image": {
+              "url": "https://raw.githubusercontent.com/fanderflash/thelandofroo/9eb1f2e84d14382b2eef280b1fbc0afee3ee298d/assets/social/2026-11-04/01-highland-heath.png",
+              "metadata": {
+                "altText": "A lone traveler on a wet highland path passes a small turf-roofed timber cottage, its window lit and chimney smoking beneath storm clouds."
+              }
+            }
+          }
+        ],
+        "sentAt": null
+      }
+    }
+  },
+  "validation": {
+    "report": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/publication-validation.json",
+    "videoBytes": 4400937,
+    "publicMediaFetchVerified": true,
+    "localAndPublicHashesMatch": true
+  }
+}
