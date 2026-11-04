@@ -849,9 +849,9 @@
       "platforms": {
         "instagram": {
           "postId": "6aeafc009e12e98b309be4a3",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-04T10:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-11-04T10:00:39.688Z",
           "request": {
             "channelId": "6aaa90f5ea19ca0bde582f0e",
             "schedulingType": "automatic",
@@ -876,13 +876,14 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "externalLink": "https://www.instagram.com/reel/DfUMSt0FFYG/"
         },
         "facebook": {
           "postId": "6aeafc059e12e98b309be579",
-          "status": "scheduled",
+          "status": "sent",
           "dueAt": "2026-11-04T10:00:00.000Z",
-          "sentAt": null,
+          "sentAt": "2026-11-04T10:00:17.123Z",
           "request": {
             "channelId": "6aaa9283ea19ca0bde5839d5",
             "schedulingType": "automatic",
@@ -905,7 +906,8 @@
               }
             }
           },
-          "retried": false
+          "retried": false,
+          "externalLink": "https://www.facebook.com/reel/1669231448228561/"
         }
       },
       "instagramPostId": "6aeafc009e12e98b309be4a3",
@@ -1082,22 +1084,54 @@
     }
   ],
   "recoveryInstructions": "At each recovery run list both fixed channel IDs first, including sent, sending, scheduled, error. Match channel, slot, media URL and caption subject. Passed slot sent/sending is complete; future correctly scheduled posts are preserved. Missing/error: reuse unchanged intended media with mode shareNow and omit dueAt; future missing slots use customScheduled and ISO dueAt. Every Buffer error gets one immediate retry with identical media and asset shape, preserve successful IDs. If retry fails keep missing status and send Thomas one concise Swedish error message. No replacement art or excluded assets. Never disable automation.",
-  "recoveryChecks": [],
+  "recoveryChecks": [
+    {
+      "checkedAt": "2026-11-04T10:16:05Z",
+      "passedSlot": "11:00",
+      "outcome": "delivered",
+      "retryRequired": false,
+      "instagram": {
+        "postId": "6aeafc009e12e98b309be4a3",
+        "status": "sent",
+        "sentAt": "2026-11-04T10:00:39.688Z",
+        "externalLink": "https://www.instagram.com/reel/DfUMSt0FFYG/"
+      },
+      "facebook": {
+        "postId": "6aeafc059e12e98b309be579",
+        "status": "sent",
+        "sentAt": "2026-11-04T10:00:17.123Z",
+        "externalLink": "https://www.facebook.com/reel/1669231448228561/"
+      },
+      "futureSlots": {
+        "17:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        },
+        "20:00": {
+          "instagram": "scheduled",
+          "facebook": "scheduled"
+        }
+      },
+      "duplicatesFound": 0,
+      "errorsFound": 0,
+      "mediaRecreated": false
+    }
+  ],
   "mediaCommit": "693211b82d6459da9f9ad393dfdc559060dfe9ba",
   "finalReconciliation": {
-    "checkedAt": "2026-11-04T09:34:22Z",
+    "checkedAt": "2026-11-04T10:16:05Z",
     "expectedPlatformPosts": 6,
     "foundPlatformPosts": 6,
     "errors": 0,
     "duplicatesFound": 0,
-    "allScheduled": true,
+    "allScheduled": false,
     "allDelivered": false,
-    "scheduledCount": 6,
-    "sentCount": 0,
+    "scheduledCount": 4,
+    "sentCount": 2,
     "posts": {
       "fa_1100": {
         "id": "6aeafc059e12e98b309be579",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-04T10:00:00.000Z",
         "channel": "facebook",
         "error": null,
@@ -1111,11 +1145,12 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-04T10:00:17.123Z",
+        "externalLink": "https://www.facebook.com/reel/1669231448228561/"
       },
       "in_1100": {
         "id": "6aeafc009e12e98b309be4a3",
-        "status": "scheduled",
+        "status": "sent",
         "dueAt": "2026-11-04T10:00:00.000Z",
         "channel": "instagram",
         "error": null,
@@ -1129,7 +1164,8 @@
             }
           }
         ],
-        "sentAt": null
+        "sentAt": "2026-11-04T10:00:39.688Z",
+        "externalLink": "https://www.instagram.com/reel/DfUMSt0FFYG/"
       },
       "fa_1700": {
         "id": "6aeafc0e961fae078ac5c319",
@@ -1219,7 +1255,8 @@
         ],
         "sentAt": null
       }
-    }
+    },
+    "passedSlotsDelivered": true
   },
   "validation": {
     "report": "https://raw.githubusercontent.com/fanderflash/thelandofroo/693211b82d6459da9f9ad393dfdc559060dfe9ba/assets/social/2026-11-04/publication-validation.json",
